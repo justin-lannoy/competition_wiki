@@ -25,7 +25,7 @@ pipeline (`scripts/refresh_sec_filings.py`) and the wiki's Competitor Watch view
 | acima | Acima | Upbound Group | UPBD | lto | | Brand of Upbound Group (also Rent-A-Center) |
 | affirm | Affirm Holdings | Affirm Holdings | AFRM | bnpl | | |
 | koalafi | Koalafi | Koalafi (private) | private | pos-financing | | Privately held |
-| healthcare-finance-direct | HFD (Healthcare Finance Direct) | Healthcare Finance Direct (private) | private | medical-financing | "Healthcare Finance Direct" | Patient / elective-medical financing |
+| healthcare-finance-direct | HFD (Healthcare Finance Direct) | Healthcare Finance Direct (private) | private | medical-financing | "Healthcare Finance Direct" | Patient / elective-medical financing; minimal news-outlet coverage — use PR feed |
 | progressive-leasing | Progressive Leasing | PROG Holdings | PRG | lto | | |
 | easypay-finance | EasyPay Finance | EasyPay Finance (private) | private | lto | "EasyPay Finance" OR "Duvera Billing" | Retail installment / lease-to-own |
 | klarna | Klarna Group | Klarna Group | KLAR | bnpl | | Foreign filer (20-F / 6-K) |
