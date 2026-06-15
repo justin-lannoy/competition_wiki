@@ -1,0 +1,20 @@
+# Python dependencies for the managed-accounts wiki pipeline.
+#   pip install -r requirements.txt
+#
+# Verified against a clean-machine import (no other third-party modules are
+# imported anywhere under scripts/ or build_wiki.py).
+#
+# Used by:
+#   anthropic  -> scripts/refresh_briefing.py, refresh_industry_reports.py
+#                 (web-search research calls; imported lazily at call time)
+#   openpyxl   -> scripts/_lib.py, seed_*.py
+#                 (Partners_By_SAE / Opportunities_All .xlsx parsing; lazy)
+#
+# Stdlib-only — need nothing from this file:
+#   build_wiki.py                  (markdown -> pages/wiki.html)
+#   scripts/dedup_events_report.py (duplicate-event report + --apply)
+#
+# The Flask proxy is deployed separately and pins its own deps in
+# claude-proxy/requirements.txt (flask, flask-cors, requests).
+anthropic>=0.40
+openpyxl>=3.1

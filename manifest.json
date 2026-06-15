@@ -1,0 +1,19 @@
+{
+  "$schema": "https://docs.posit.co/connect/manifest-schema.json",
+  "version": 1,
+  "metadata": {
+    "appmode": "static",
+    "primary_document": "pages/wiki.html",
+    "content_category": "site",
+    "title": "Managed Accounts — Daily Events Briefing",
+    "description": "Snap Finance managed-accounts wiki — daily partner/competitor intelligence briefing for senior leadership."
+  },
+  "files": {
+    "index.html": {
+      "checksum": "bee26643350261050adbc32c8ff82d9f"
+    },
+    "pages/wiki.html": {
+      "checksum": "af472aef839c6bbf92a33400867c68d9"
+    }
+  }
+}
