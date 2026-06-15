@@ -1,0 +1,1128 @@
+<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2024-01-31" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:KPLT="http://katapult.com/20251103">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_032_KPLT_katapult.com_20251103 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04F_20251103_20251103 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_050_edei%2D%2DCurrentFiscalYearEndDate_12/31 -->
+<!-- Field: Set; Name: xdx; ID: xdx_05E_edei%2D%2DEntityCentralIndexKey_0001785424 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000004" name="dei:CurrentFiscalYearEndDate">--12-31</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000005" name="dei:EntityCentralIndexKey">0001785424</ix:nonNumeric>
+  <ix:nonNumeric contextRef="From2025-11-032025-11-03_custom_CommonStockParValue0.0001PerShareMember" id="xdx2ixbrl0025" name="dei:SecurityExchangeName">NASDAQ</ix:nonNumeric>
+  <ix:nonNumeric contextRef="From2025-11-032025-11-03_custom_RedeemableWarrantsMember" id="xdx2ixbrl0028" name="dei:SecurityExchangeName">NASDAQ</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="kplt-20251103.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2025-11-03">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001785424</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2025-11-03</xbrli:startDate>
+        <xbrli:endDate>2025-11-03</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2025-11-032025-11-03_custom_CommonStockParValue0.0001PerShareMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001785424</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">KPLT:CommonStockParValue0.0001PerShareMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2025-11-03</xbrli:startDate>
+        <xbrli:endDate>2025-11-03</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2025-11-032025-11-03_custom_RedeemableWarrantsMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001785424</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">KPLT:RedeemableWarrantsMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2025-11-03</xbrli:startDate>
+        <xbrli:endDate>2025-11-03</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin: 0">&#160;</p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b>FORM <span id="xdx_90A_edei--DocumentType_c20251103__20251103_zv9EoDNSWUrb"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000010" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b>Pursuant to Section 13 or 15(d) of</b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b>the Securities Exchange Act of 1934</b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b>Date of Report (Date of earliest event
+reported): <span id="xdx_904_edei--DocumentPeriodEndDate_c20251103__20251103_z6G3wNAB1YHl"><ix:nonNumeric contextRef="AsOf2025-11-03" format="ixt:datemonthdayyearen" id="Fact000011" name="dei:DocumentPeriodEndDate">November 3, 2025</ix:nonNumeric></span></b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center">&#160;</p>
+
+<p style="border-bottom: Black 1pt solid; font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><b><span id="xdx_900_edei--EntityRegistrantName_c20251103__20251103_zO3em21QtTu6"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000012" name="dei:EntityRegistrantName">KATAPULT HOLDINGS, INC.</ix:nonNumeric></span></b></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt"><b>(Exact
+name of registrant as specified in its charter) </b></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="border-bottom: Black 1pt solid; font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="text-decoration: none; font-size: 11pt"><b><span id="xdx_906_edei--EntityIncorporationStateCountryCode_c20251103__20251103_zBjmDUU7kyci"><ix:nonNumeric contextRef="AsOf2025-11-03" format="ixt-sec:stateprovnameen" id="Fact000013" name="dei:EntityIncorporationStateCountryCode">Delaware</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt"><b>(State
+or other jurisdiction of incorporation)</b></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; width: 50%; font-size: 12pt; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span style="text-decoration: none"><span id="xdx_909_edei--EntityFileNumber_c20251103__20251103_zGyg4u5G02c"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000014" name="dei:EntityFileNumber">001-39116</ix:nonNumeric></span></span></b></span></td>
+    <td style="border-bottom: Black 1pt solid; width: 50%; font-size: 12pt; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span style="text-decoration: none"><span id="xdx_905_edei--EntityTaxIdentificationNumber_c20251103__20251103_zmkTKXILHFHk"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000015" name="dei:EntityTaxIdentificationNumber">84-2704291</ix:nonNumeric></span></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="font-size: 12pt; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b>(Commission
+    File Number)</b></span></td>
+    <td style="font-size: 12pt; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b>(IRS
+    Employer Identification No.)</b></span></td></tr>
+  </table>
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; width: 50%; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span style="text-decoration: none"><span id="xdx_901_edei--EntityAddressAddressLine1_c20251103__20251103_zNdUAMdLmDAd"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000016" name="dei:EntityAddressAddressLine1">5360
+    Legacy Drive</ix:nonNumeric></span>, <span id="xdx_905_edei--EntityAddressAddressLine2_c20251103__20251103_zAbfTEj5Le3b"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000017" name="dei:EntityAddressAddressLine2">Building</ix:nonNumeric></span> 2 <span id="xdx_906_edei--EntityAddressCityOrTown_c20251103__20251103_zjPtZflq7fob"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000018" name="dei:EntityAddressCityOrTown">Plano</ix:nonNumeric></span>, <span id="xdx_90C_edei--EntityAddressStateOrProvince_c20251103__20251103_zHABzqGFSv79"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000019" name="dei:EntityAddressStateOrProvince">TX</ix:nonNumeric></span></span></b></span></td>
+    <td style="border-bottom: Black 1pt solid; width: 50%; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span style="text-decoration: none">&#160;<span id="xdx_905_edei--EntityAddressPostalZipCode_c20251103__20251103_zSf3sN0InS8f"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000020" name="dei:EntityAddressPostalZipCode">75024</ix:nonNumeric></span></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b>(Address
+    of principal executive offices) </b></span></td>
+    <td style="layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b>(Zip
+    Code)</b></span></td></tr>
+  </table>
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt"><b>Registrant's
+telephone number, including area code: (<span id="xdx_907_edei--CityAreaCode_c20251103__20251103_zOFyTEr3hyZf"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000021" name="dei:CityAreaCode">833</ix:nonNumeric></span>) <span id="xdx_905_edei--LocalPhoneNumber_c20251103__20251103_z55swzGDoFXd"><ix:nonNumeric contextRef="AsOf2025-11-03" id="Fact000022" name="dei:LocalPhoneNumber">528-2785</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="border-bottom: Black 1pt solid; font: 11pt Times New Roman, Times, Serif; margin: 0pt 0in 0pt 0; text-align: center"><span style="font-size: 11pt"><b>Not
+Applicable</b></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt"><b>(Former
+name or former address, if changed since last report)</b></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt"><b>Securities
+registered pursuant to Section 12(b) of the Act:</b></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0.6in 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border: Black 1pt solid; width: 33%; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b>Title
+    of each class</b></span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 34%; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b>Trading
+    Symbol(s)</b></span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; width: 33%; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b>Name
+    of each exchange on which registered</b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_906_edei--Security12bTitle_c20251103__20251103__us-gaap--StatementClassOfStockAxis__custom--CommonStockParValue0.0001PerShareMember_zL31qHJ5eNa8"><ix:nonNumeric contextRef="From2025-11-032025-11-03_custom_CommonStockParValue0.0001PerShareMember" id="Fact000023" name="dei:Security12bTitle">Common
+    Stock, par value $0.0001 per share</ix:nonNumeric></span></b></span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_90F_edei--TradingSymbol_c20251103__20251103__us-gaap--StatementClassOfStockAxis__custom--CommonStockParValue0.0001PerShareMember_zZDxtlqGkxVc"><ix:nonNumeric contextRef="From2025-11-032025-11-03_custom_CommonStockParValue0.0001PerShareMember" id="Fact000024" name="dei:TradingSymbol">KPLT</ix:nonNumeric></span></b></span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_90A_edei--SecurityExchangeName_dxL_c20251103__20251103__us-gaap--StatementClassOfStockAxis__custom--CommonStockParValue0.0001PerShareMember_zm5LCp2pH7sg" title="::XDX::NASDAQ"><span style="-sec-ix-hidden: xdx2ixbrl0025">The
+    Nasdaq Stock Market LLC</span></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_903_edei--Security12bTitle_c20251103__20251103__us-gaap--StatementClassOfStockAxis__custom--RedeemableWarrantsMember_zjDQE5alUh67"><ix:nonNumeric contextRef="From2025-11-032025-11-03_custom_RedeemableWarrantsMember" id="Fact000026" name="dei:Security12bTitle">Redeemable
+    Warrants</ix:nonNumeric></span></b></span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_90B_edei--TradingSymbol_c20251103__20251103__us-gaap--StatementClassOfStockAxis__custom--RedeemableWarrantsMember_zLgUhMRd8FWj"><ix:nonNumeric contextRef="From2025-11-032025-11-03_custom_RedeemableWarrantsMember" id="Fact000027" name="dei:TradingSymbol">KPLTW</ix:nonNumeric></span></b></span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; layout-grid-mode: line; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_909_edei--SecurityExchangeName_dxL_c20251103__20251103__us-gaap--StatementClassOfStockAxis__custom--RedeemableWarrantsMember_zJT6dPWP0MYc" title="::XDX::NASDAQ"><span style="-sec-ix-hidden: xdx2ixbrl0028">The
+    Nasdaq Stock Market LLC</span></span></b></span></td></tr>
+  </table>
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-size: 10pt"><span id="xdx_906_edei--WrittenCommunications_c20251103__20251103_zS0r8kTaZnO2"><ix:nonNumeric contextRef="AsOf2025-11-03" format="ixt:booleanfalse" id="Fact000029" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span></span></td><td><span style="font-size: 10pt">Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425)</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-size: 10pt"><span id="xdx_905_edei--SolicitingMaterial_c20251103__20251103_zEbf3zUVstw2"><ix:nonNumeric contextRef="AsOf2025-11-03" format="ixt:booleantrue" id="Fact000030" name="dei:SolicitingMaterial">&#9746;</ix:nonNumeric></span></span></td><td><span style="font-size: 10pt">Soliciting material pursuant to
+Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-size: 10pt"><span id="xdx_905_edei--PreCommencementTenderOffer_c20251103__20251103_z22hWiTtVBj4"><ix:nonNumeric contextRef="AsOf2025-11-03" format="ixt:booleanfalse" id="Fact000031" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td><span style="font-size: 10pt">Pre-commencement communication
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 13.5pt; text-indent: -13.5pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-size: 10pt"><span id="xdx_908_edei--PreCommencementIssuerTenderOffer_c20251103__20251103_zDynLc6RpOe7"><ix:nonNumeric contextRef="AsOf2025-11-03" format="ixt:booleanfalse" id="Fact000032" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td><span style="font-size: 10pt">Pre-commencement communication
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 13.5pt; text-indent: -13.5pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR &#167;230.405) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR &#167;240.12b-2).</span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Emerging growth company <span style="font-family: Times New Roman, Times, Serif"><span id="xdx_903_edei--EntityEmergingGrowthCompany_c20251103__20251103_zIE2kIIMjwkh"><ix:nonNumeric contextRef="AsOf2025-11-03" format="ixt:booleanfalse" id="Fact000033" name="dei:EntityEmergingGrowthCompany">&#9744;</ix:nonNumeric></span></span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. <span style="font-family: Times New Roman, Times, Serif">&#9744;</span></p>
+
+<p style="font: 11pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0in"/><td style="width: 0.75in; text-align: left"><span style="font-size: 10pt"><b>Item 1.01</b></span></td><td><span style="font-size: 10pt"><b>Entry into a Material Definitive
+Agreement.</b></span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">As described in
+greater detail below, on November 3, 2025, Katapult Holdings, Inc., a Delaware corporation (the &#8220;Company&#8221;), entered into
+the following agreements and closed the transactions contemplated thereunder:</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Series A Investment Agreement (as defined below) pursuant to which the Company
+issued and sold to HHCF Series 21 Sub, LLC, a Delaware limited liability company and subsidiary of Hawthorn Horizon Credit Fund, LLC (the
+&#8220;Purchaser&#8221;), an aggregate of 35,000 shares of a newly created series of the Company&#8217;s preferred stock, par value $0.0001
+per share, designated as &#8220;Series A Convertible Preferred Stock&#8221; (the &#8220;Series A Convertible Preferred Stock&#8221;) at
+a purchase price of $1,000 per share, resulting in total gross proceeds to the Company of $35.0 million (the &#8220;Series A Issuance&#8221;)
+and has used the net proceeds from the Series A Issuance to repay in full the Company&#8217;s term loan and for certain other agreed purposes.
+The initial conversion price of the Series A Convertible Preferred Stock is $12.32 and if the Purchaser were to convert all of its shares
+of Series A Convertible Preferred Stock to Company&#8217;s common stock, par value $0.0001 per share (the &#8220;Common Stock&#8221;),
+the Purchaser would beneficially own an aggregate of 2,840,910 shares of Common Stock representing approximately 28.3% of the issued and
+outstanding Common Stock, subject to the Ownership Limitation (as defined below).</span></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Series B Investment Agreement (as defined below) pursuant to which the Company
+has issued and sold to the Purchaser an aggregate of 30,000 shares of a newly created series of the Company&#8217;s preferred stock, par
+value $0.0001 per share, designated as &#8220;Series B Convertible Preferred Stock&#8221; (the &#8220;Series B Convertible Preferred Stock&#8221;
+and together with the Series A Convertible Preferred Stock, the &#8220;Preferred Stock&#8221;) at a purchase price of $1,000 per share,
+resulting in total gross proceeds to the Company of $30.0 million (the &#8220;Series B Issuance&#8221;, and together with the Series A
+Issuance, the &#8220;Preferred Stock Issuances&#8221;) and has used or agreed to use the net proceeds from the Series B Issuance to partially
+prepay the Company&#8217;s revolving loan, pay transaction expenses and for general corporate purposes subject to the prior approval of
+the Company&#8217;s Board of Directors (the &#8220;Board&#8221;). The initial conversion price of the Series B Convertible Preferred Stock
+is $11.39 and if the Purchaser were to convert all of its shares of Series B Convertible Preferred Stock to Common Stock, the Purchaser
+would beneficially own an aggregate of 2,633,890 shares of Common Stock representing 26.2% of the issued and outstanding Common Stock,
+subject to the Ownership Limitation. If the Purchaser were to convert all of its shares of Series A Convertible Preferred Stock and Series
+B Convertible Preferred Stock to Common Stock, the Purchaser would beneficially own an aggregate of 5,474,800 shares of Common Stock representing
+54.5% of the issued and outstanding Common Stock, subject to the Ownership Limitation.</span></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol; font-size: 10pt">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Registration
+                                            Rights Agreements (as defined below) pursuant to which the Company granted to the Purchaser
+                                            certain customary demand, &#8220;piggy-back&#8221; and shelf registration rights with respect
+                                            to shares of Common Stock to be received by the Purchaser upon conversion of its Preferred
+                                            Stock, subject to certain customary thresholds and conditions. Under the terms of the Registration
+                                            Rights Agreements, the Company has agreed to file a registration statement covering the resale
+                                            of the shares of Common Stock issuable upon conversion of the Preferred Stock within 45 days
+                                            following the closing of the Preferred Stock Issuances.</span></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol; font-size: 10pt">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">As
+                                            described in greater detail below, on November 2, 2025, the Company, Katapult SPV-1 LLC and
+                                            Katapult Group, Inc., entered into that certain Limited Waiver and First Amendment to the
+                                            Loan Agreement (as defined below) pursuant to which (1) the lenders under the Loan Agreement
+                                            waived the Company&#8217;s existing default arising from the Company&#8217;s failure to achieve
+                                            required thresholds for Minimum Trailing Three-Month Originations for the periods ended August
+                                            31, 2025, September 30, 2025, and October 31, 2025, and (2) the Loan Agreement was amended
+                                            to (i) adjust thresholds under the Minimum Three-Month Originations financial covenant for
+                                            certain periods ending on and after November 30, 2025, (ii) increase the threshold under
+                                            the Minimum Liquidity financial covenant for certain future periods, and (iii) reduce the
+                                            advance rate under our revolving loan.</span></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The Preferred Stock
+has been validly issued and delivered to the Purchaser and is convertible to Common Stock at the option of the Purchaser. Under Nasdaq
+rules, the convertibility of the Preferred Stock to Common Stock is subject to the Ownership Limitation (as defined below) until the
+Company obtains the Requisite Stockholder Approval (as defined below). The Company will hold a shareholder meeting to obtain approval
+to remove the Ownership Limitation as promptly as practicable but no later than February 27, 2026. Certain stockholders of the Company
+delivered support agreements requiring such stockholders to vote in favor of removing the Ownership Limitation and, as a result, permit
+all of the outstanding shares of Preferred Stock to be convertible to Common Stock at the Purchaser&#8217;s option at any time.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt"></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the Preferred Stock Issuances,
+upon the recommendation of the Nominating and Corporate Governance Committee of the Company, the Board of Directors appointed (by filling
+a vacancy) each of Philip Key Bartow III and Jeffrey Rubin to serve as Class I directors and Derek Medlin to serve as a Class III Director,
+effective as of the closing of the Preferred Stock Issuance, and Daniel Easley to serve as a Class III director, effective immediately
+following the receipt of the Requisite Stockholder Approval.</p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b>Limited Waiver and First Amendment
+to Loan and Security Agreement</b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Effective on November 3, 2025,
+the Company entered into the Limited Waiver and First Amendment (&#8220;Limited Waiver and First Amendment&#8221;) to its Amended and
+Restated Loan and Security Agreement, dated as of June 12, 2025 (as amended, amended and restated, supplemented, revised, or otherwise
+modified from time to time, including pursuant to that certain Limited Waiver dated September 15, 2025 (the &#8220;First Limited Waiver&#8221;),
+that certain Limited Waiver dated September 29, 2025 (the &#8220;Second Limited Waiver), that certain Limited Waiver dated October 13,
+2025 (the &#8220;Third Limited Waiver&#8221;), that certain Limited Waiver dated October 20, 2025 (the &#8220;Fourth Limited Waiver&#8221;),
+that certain Limited Waiver dated October 27, 2025 (the &#8220;Fifth Limited Waiver&#8221;), and that certain Limited Waiver dated as
+of October 29, 2025 (the &#8220;Sixth Limited Waiver&#8221;), the &#8220;Loan Agreement&#8221;), by and among Katapult SPV-1 LLC, Katapult
+Group, Inc., the Company (each a &#8220;Credit Party&#8221; and, together, the &#8220;Credit Parties&#8221;), Midtown Madison Management
+LLC, as administrative payment and collateral agent and lender, and the lenders party thereto (the &#8220;Lenders&#8221;).</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The Limited
+Waiver and First Amendment, among other things, permanently waives any default arising from Credit Parties&#8217; failure to
+maintain Minimum Trialing Three-Month Originations as of the last business day of (x) the calendar month ended August 31, 2025, (y)
+the calendar month ended September 30, 2025, and (z) the calendar month ended October 31, 2025 as required by the Loan Agreement and
+amends the Loan Agreement to, among other things:</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Symbol; font-size: 10pt">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Reflect
+the repayment in full in cash of the Company&#8217;s senior secured term loan with the proceeds of the sale of the Series A Convertible
+Preferred Stock Shares to the Purchaser;</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Symbol; font-size: 10pt">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Adjust
+thresholds under the Minimum Three-Month Originations financial covenant for certain periods ending on and after November 30, 2025;</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Symbol; font-size: 10pt">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Increase
+the threshold under the Minimum Liquidity financial covenant for periods beginning on or after the effectiveness of the Limited Waiver
+and First Amendment; and</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Symbol; font-size: 10pt">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Reduce
+the advance rate under our revolving loan from 99% to 90%.</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The foregoing description
+of the Limited Waiver and First Amendment to the Loan Agreement does not purport to be complete and is subject to and qualified in its
+entirety by reference to the full text of the Limited Waiver and First Amendment, which is attached as Exhibit 10.1 to this Current Report
+on Form 8-K and is incorporated herein by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b>Private Placements</b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Investment Agreements</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">On November 3, 2025,
+the Company entered into (a) a Series A investment agreement (the &#8220;Series A Investment Agreement&#8221;) with the Purchaser, pursuant
+to which the Company issued and sold to the Purchaser an aggregate of 35,000 shares of Series A Convertible Preferred Stock at a purchase
+price of $1,000 per share, resulting in total gross proceeds to the Company of $35.0 million, and (b) a Series B investment agreement
+(the &#8220;Series B Investment Agreement&#8221;, and together with the Series A Investment Agreement, the &#8220;Investment Agreements&#8221;)
+with the Purchaser, pursuant to which the Company issued and sold to the Purchaser an aggregate of 30,000 shares of Series B Convertible
+Preferred Stock at a purchase price of $1,000 per share, resulting in total gross proceeds to the Company of $30.0 million. The Company
+received aggregate gross proceeds from the Preferred Stock Issuance of $65.0 million. The transaction simultaneously signed and closed
+on November 3, 2025 (the &#8220;Initial Issue Date&#8221;).</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The number of shares
+of Common Stock deliverable upon conversion, redemption or repurchase of the Series A Convertible Preferred Stock and Series B Convertible
+Preferred Stock will be limited as required by applicable Nasdaq listing rules, until the Company has obtained the Requisite Stockholder
+Approval. However, assuming the Purchaser were permitted to fully convert these shares to Common Stock on the date hereof, the Purchaser
+would beneficially own 5,474,800 shares of Common Shares in the Company, representing 54.5% of the issued and outstanding Common Stock.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The net proceeds
+of the Series A Convertible Preferred Stock will be used to, among other things, repay in full the term loans outstanding as of November
+3, 2025 under the Loan Agreement.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The net proceeds
+of the Series B Convertible Preferred Stock will be used to, among other things, partially repay the revolving loan outstanding as of
+November 3, 2025 under the Loan Agreement and for other general corporate purposes as approved by the Board of Directors.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Ranking</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The Series A Convertible
+Preferred Stock will rank senior to the Common Stock with respect to dividends and distributions on liquidation, winding-up and dissolution
+as described in the Certificate of Designations, which was filed by the Company with the Secretary of State of the State of Delaware
+and became effective on the Initial Issue Date (the &#8220;Series A Certificate of Designations&#8221;). The Series B Convertible Preferred
+Stock will rank senior to the Series A Convertible Preferred Stock and the Common Stock with respect to dividends and distributions on
+liquidation, winding-up and dissolution as described in the Certificate of Designations, which was filed by the Company with the Secretary
+of State of the State of Delaware and became effective on the Initial Issue Date (the &#8220;Series B Certificate of Designations&#8221;,
+and together with the Series A Certificate of Designations, the &#8220;Certificate of Designations&#8221;).</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Dividends</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Holders of shares of Preferred Stock will be entitled
+to a regular dividend (each, a &#8220;Dividend&#8221;), which will be payable (1) weekly, for the period beginning on, and including,
+November 3, 2025 and ending on, but excluding, the date the Requisite Stockholder Approval is obtained, and (2) quarterly, beginning
+on, and including, the date the Requisite Stockholder Approval is obtained. The Dividends accrue at an annual rate of (a) 18% per annum
+for the period beginning on, and including, the Initial Issue Date and ending on, but excluding, the later of (i) the date of the meeting
+at which the Company&#8217;s stockholders vote for the Requisite Stockholder Approval is approved and (ii) the date of the Company&#8217;s
+2026 annual meeting of stockholders and (b) 12% per annum beginning on, and including, the later of (i) the date of the meeting at which
+the Company&#8217;s stockholders vote for the Requisite Stockholder Approval is approved and (ii) the date of the Company&#8217;s 2026
+annual meeting of stockholders. If the Requisite Stockholder Approval is not obtained on or before the earlier of (a) the date of the
+Company&#8217;s first annual or special meeting of stockholders following the Initial Issue Date and (b) February 27, 2026, then the
+Dividend rate will be increased by one percent (1%) during the period from, and including, such deadline to, but excluding, the date
+when the Requisite Stockholder Approval is first obtained, if at all. For any week or quarter, as the case may be, in which the Company
+elects not to pay a Dividend in cash with respect to a share of Preferred Stock, such Dividend will become part of the liquidation preference
+of such share, as set forth in the Certificate of Designations. In addition, no dividend or other distribution on the Common Stock will
+be declared or paid on the Common Stock unless, at the time of such declaration and payment, an equivalent dividend or distribution is
+declared and paid on the Preferred Stock. Holders of Preferred Stock are also entitled to participate in and receive any dividends declared
+or paid on the Common Stock on an as-converted basis, and no dividends may be paid to holders of Common Stock unless full participating
+dividends are concurrently paid to holders of Preferred Stock.</p>
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Liquidation Preference</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Upon a liquidation,
+dissolution or winding up of the Company, subject to the rights of any of the Company&#8217;s creditors or holders of shares of Series
+B Convertible Preferred Stock, each holder of Series A Convertible Preferred Stock will be entitled to receive, with respect to each
+share of then-outstanding Series A Convertible Preferred Stock, out of the assets of the Company available for distribution to its stockholders
+an amount in cash equal to (i) $1,000 per share of Series A Convertible Preferred Stock, plus (ii) accrued but unpaid dividends that
+have accumulated on such shares.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Upon a liquidation,
+dissolution or winding up of the Company, subject to the rights of any of the Company&#8217;s creditors, each holder of Series B Convertible
+Preferred Stock will be entitled to receive, with respect to each share of then-outstanding Series B Convertible Preferred Stock, out
+of the assets of the Company available for distribution to its stockholders an amount in cash equal to (i) $1,000 per share of Series
+B Convertible Preferred Stock, plus (ii) accrued but unpaid dividends that have accumulated on such shares.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Conversion Rights and Mandatory Conversion</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Each holder of Preferred Stock will have the right,
+at its option, to convert its Preferred Stock, in whole or in part, into fully paid and non-assessable shares of Common Stock. The initial
+conversion rate of the Series A Convertible Preferred Stock is set at 81.16883 shares of Common Stock, based on an implied initial conversion
+price of $12.32 per share of Common Stock. The initial conversion rate of the Series B Convertible Preferred Stock is set at 87.79631
+shares of Common Stock, based on an implied initial conversion price of $11.39 per share of Common Stock. The conversion rate is subject
+to customary anti-dilution adjustments, including in the event of any stock split, stock dividend, recapitalization or similar events.
+The conversion rate is also subject to adjustment for certain dilutive offerings occurring during the first nine months following the
+Initial Issue Date, with any such adjustment prior to the receipt of the Requisite Stockholder Approval being limited by a cap based on
+the closing price for the Common Stock on October 31, 2025 of $11.39.</p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Subject to certain
+conditions described below, the Company may, at its option, after the second anniversary of the Initial Issue Date require conversion
+of all (but not less than all) of the outstanding shares of Preferred Stock to Common Stock if, for at least 20 trading days during the
+30 consecutive trading days immediately preceding the date the Company notifies holders of the Preferred Stock of the election to convert,
+the closing sale price of the Common Stock is at least 115% of the conversion price. The Company will not exercise its right to mandatorily
+convert all outstanding shares of Preferred Stock unless (i) certain liquidity conditions with regard to the shares of Common Stock to
+be issued upon such conversion are satisfied, and (ii) either (1) the Requisite Stockholder Approval has been obtained or (2) the Company
+has previously held one or more meetings of its stockholders for purposes of obtaining the Requisite Stockholder Approval.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 6 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Pursuant to the
+terms of the Certificate of Designations, unless and until approval of the Company&#8217;s stockholders is obtained as contemplated by
+Nasdaq listing rules (the &#8220;Requisite Stockholder Approval&#8221;), no holder of Preferred Stock may convert shares of Preferred
+Stock through either an optional or a mandatory conversion into shares of Common Stock if and to the extent that such conversion would
+result in the holder beneficially owning in excess of 19.99% of the aggregate number of votes entitled to be cast generally at a meeting
+of the Company&#8217;s stockholders held for the election of directors by all outstanding shares of Common Stock as of immediately prior
+to the closing of the Preferred Stock Issuances (regardless of class) (such limitation, the &#8220;Ownership Limitation&#8221;).</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Voting and Consent Rights</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Holders of the Series A Convertible Preferred Stock
+generally are entitled to vote with the holders of the shares Common Stock on all matters submitted for a vote of holders of shares of
+Common Stock (voting together with the holders of shares of Common Stock as one class) on an as-converted basis (assuming the conversion
+price is never adjusted below $11.39). Except as set forth in the immediately succeeding sentence, holders of Series B Convertible Preferred
+Stock have no voting rights. Certain matters will require the approval of the holders of a majority of the outstanding Series A Convertible
+Preferred Stock and Series B Convertible Preferred Stock, voting as separate classes, including (1) amendments, modifications or repeal
+of any provision of the Company&#8217;s certificate of incorporation to create, or to increase the authorized numbers of shares of any
+class or series of senior or parity equity securities or any security convertible into, or exchangeable or exercisable for, shares of
+senior or parity equity securities, (2) amendments, modifications or repeal of any provision of the Company&#8217;s certificate of incorporation
+that would adversely affect the rights, preferences or voting powers of the Series A Convertible Preferred Stock or the Series B Convertible
+Preferred Stock, as the case may be, (3) to increase or decrease the number of authorized shares of Series A Convertible Preferred Stock
+or Series B Convertible Preferred Stock, as the case may be, or issue additional shares of Series A Convertible Preferred Stock or Series
+B Convertible Preferred Stock, as the case may be, and (4) certain business combinations and binding or statutory share exchanges or reclassification
+involving the Series A Convertible Preferred Stock or the Series B Convertible Preferred Stock, as the case may be, unless such events
+do not adversely affect the rights, preferences or voting powers of the Series A Convertible Preferred Stock or the Series B Convertible
+Preferred Stock, as the case may be.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Repurchase Rights</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt"></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">If the Company undergoes a Change of Control (as
+defined in the Certificate of Designations), each holder of Preferred Stock may require the Company to repurchase all or a portion of
+its then-outstanding shares of Preferred Stock at a price equal to (1) if the Change of Control occurs prior to the first anniversary
+of the Initial Issue Date, 100%, or (2) if the Change of Control occurs after  the first anniversary of the Initial Issue Date, 150%,
+of the then-current liquidation preference per share of Preferred Stock plus accumulated and unpaid dividends. The Company may elect to
+pay the repurchase price in cash, shares or Common Stock (or other securities) or any combination thereof, except that the Company may
+not elect to deliver shares of Common Stock (or other securities) if certain liquidity conditions with regard to such shares would not
+be satisfied or the Ownership Limitation would not be satisfied.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;<span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 7 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><i>Transfer Restrictions</i></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Until the earlier
+of (x) twelve (12) months following the closing of the Preferred Stock Issuance, and (y) the occurrence of a transaction resulting in
+a Fundamental Change of Control (as defined in the Certificate of Designations), the Purchaser is restricted from transferring the Preferred
+Stock and the shares of Common Stock underlying the Preferred Stock, subject to certain specified exceptions set forth in the Investment
+Agreements. Subject to certain conditions, these restrictions do not prohibit any lien on any share of Preferred Stock or of any share
+of Common Stock issued in conversion thereof, or any exercise of remedies with respect to any such liens pursuant to one or more credit
+facilities of the Purchaser or any back leverage financing.<span style="font-family: Times New Roman, Times, Serif">&#160;</span></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The foregoing descriptions
+of the Series A Investment Agreement, the Series A Certificate of Designations, the Series B Investment Agreement and the Series B Certificate
+of Designations do not purport to be complete, and are subject to and qualified in their entirety by reference to the full text of the
+Series A Investment Agreement, the Series A Certificate of Designations, the Series B Investment Agreement and the Series B Certificate
+of Designations, which are attached as Exhibits 10.2, 3.1, 10.3 and 3.2, respectively, to this Current Report on Form 8-K, and are
+incorporated herein by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b><i>Registration Rights Agreement</i></b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">On the Initial Issue
+Date, the Company entered into a Series A registration rights agreement (the &#8220;Series A Registration Rights Agreement) and a Series
+B registration rights agreement (the &#8220;Series B Registration Rights Agreement&#8221;, and together with the Series A Registration
+Rights Agreement, the &#8220;Registration Rights Agreements&#8221;) with the Purchaser, pursuant to which the Company granted certain
+demand, &#8220;piggy-back&#8221; and shelf registration rights with respect to shares of Common Stock to be received by the Purchaser
+upon conversion of its Preferred Stock. The Company agreed to pay certain expenses of the Purchaser incurred in connection with the exercise
+of their rights under the Registration Rights Agreements and indemnify them for certain securities law matters in connection with any
+registration statement(s) filed pursuant thereto. Under the terms of the Registration Rights Agreements, the Company has agreed to file
+a registration statement covering the resale of the shares of Common Stock issuable upon conversion of the Preferred Stock within 45
+days following the closing of the Preferred Stock Issuances.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The foregoing descriptions
+of the Series A Registration Rights Agreement and the Series B Registration Rights Agreement do not purport to be complete, and are subject
+to and qualified in their entirety by reference to the full text of the Series A Registration Rights Agreement and the Series B Registration
+Rights Agreement, which are attached as Exhibits 10.4 and 10.5, respectively, to this Current Report on Form 8-K, and are incorporated
+herein by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 8 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b><i>Director Nomination Agreement</i></b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">On the Initial Issue
+Date, the Company entered into a director nomination agreement (the &#8220;Director Nomination Agreement&#8221;) with the Purchaser.
+Pursuant to the Director Nomination Agreement, the Purchaser is permitted to nominate up to three persons for nomination for election
+to the Board of Directors, two of whom shall be a Class I Director and one of whom shall be a Class III director, provided that that
+(1) prior to the receipt of the Requisite Stockholder Approval, the Purchaser only has the right to nominate two such nominees, and (2)
+two of the Purchaser&#8217;s nominees must qualify as independent under all applicable listing standards, not be affiliated with the
+Purchaser, or have any agreement, arrangement or understanding with the Purchaser regarding such person&#8217;s service as a director
+of the Company. The Purchaser&#8217;s right to nominate three persons for nomination for election to the Board of Directors terminates
+upon such time as the Purchaser owns less than one third (1/3) the total voting power on a fully diluted basis of the voting equity securities
+of the Company.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The foregoing description
+of the Director Nomination Agreement does not purport to be complete and is subject to and qualified in its entirety by reference to
+the full text of the Director Nomination Agreement, which is attached as Exhibit 10.6 to this Current Report on Form 8-K and is incorporated
+herein by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b><i>Support Agreements</i></b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">On the Initial Issue
+Date, the Purchaser entered into support agreements (the &#8220;Support Agreements&#8221;) with each of the Company&#8217;s officers
+and directors (the &#8220;Stockholders&#8221;), pursuant to which and subject to the conditions contained therein, each Stockholder has
+agreed, among other things, to vote all of such Stockholder&#8217;s shares (1) in favor of the removal of the Ownership Limitation, (2)
+in favor of any other matter which the Board of Directors has determined is necessary or appropriate in connection with the Requisite
+Stockholder Approval and (3) against any proposal, action or agreement that does or would oppose, impede, frustrate, prevent or nullify
+the Requisite Stockholder Approval, any provision of the Support Agreements or any matter that is proposed in furtherance thereof.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The foregoing description
+of the Support Agreements do not purport to be complete and are subject to and qualified in its entirety by reference to the full text
+of the form of Support Agreement, which is attached as Exhibit 10.7 to this Current Report on Form 8-K and is incorporated herein by
+reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0in"/><td style="width: 0.75in; text-align: left"><span style="font-size: 10pt"><b>Item 3.03.</b></span></td><td><span style="font-size: 10pt"><b>Material Modification to Rights
+of Security Holders.</b></span></td>
+</tr></table>
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">As described in
+Item 1.01 above, pursuant to the Investment Agreements, the Company issued and sold to the Purchaser an aggregate of 65,000 shares
+of Preferred Stock. A summary of the rights, preferences and privileges of the Preferred Stock is set forth in Item 1.01. Each share
+of Series A Convertible Preferred Stock issued to the Purchaser pursuant to the Series A Investment Agreement has the powers, designations,
+preferences, and other rights of the Series A Convertible Preferred Stock as are set forth in the Series A Certificate of Designations,
+a copy of which is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference. Each share of Series
+B Convertible Preferred Stock issued to the Purchaser pursuant to the Series B Investment Agreement has the powers, designations, preferences,
+and other rights of the Series B Convertible Preferred Stock as are set forth in the Series B Certificate of Designations, a copy of
+which is filed as Exhibit 3.2 to this Current Report on Form 8-K and is incorporated herein by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The information
+in Item 1.01 above is incorporated into this Item 3.03 by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 9 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0in"/><td style="width: 0.75in; text-align: left"><span style="font-size: 10pt"><b>Item 3.02</b></span></td><td><span style="font-size: 10pt"><b>Unregistered Sales of Equity
+Securities.</b></span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">As described in
+Item 1.01 above, pursuant to the Investment Agreements, the Company issued and sold to the Purchaser shares of Preferred Stock. The offer
+and sale of the shares of Preferred Stock through the Investment Agreements were made in reliance an exemption from registration under
+the Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;), pursuant to Section 4(a)(2) thereof. The shares of Common
+Stock issuable upon conversion of shares of the Preferred Stock will be issued in reliance upon the exemption from registration in Section
+3(a)(9) of the Securities Act. The information in Item 1.01 above is incorporated into this Item 3.02 by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b>Item 5.02. Departure of Directors
+or Certain Officers; Election of Directors.</b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">On November 3, 2025,
+each of Brian Hirsch, Chris Masto and Jane J. Thompson resigned as members of the Board of Directors, effective as of the closing of
+the Preferred Stock Issuances. The decisions of Messrs. Hirsch and Masto and Ms. Thompson to resign from the Board of Directors was not
+the result of any disagreement relating to the Company&#8217;s operations, policies or practices. The Company thanks each of them for
+their commitment and service.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">On November 3, 2025,
+upon the recommendation of the Nominating and Corporate Governance Committee of the Company, the Board of Directors determined that it
+was advisable and in the best interests of the Company and its stockholders to accept the Resignations and appointed (by filling of a
+vacancy) each of (1) Philip Key Bartow III and Jeffrey Rubin to serve as Class I directors, with an initial term expiring at the Company&#8217;s
+2027 annual meeting of stockholders, and Derek Medlin, President of the Company, to serve as a Class III director, with an initial term
+expiring at the Company&#8217;s 2028 annual meeting of stockholders, effective as of the closing of the Preferred Stock Issuance, and
+(2) Daniel Easley to serve as a Class III director, with an initial term expiring at the Company&#8217;s 2028 annual meeting of stockholders,
+effective immediately following the receipt of the Requisite Stockholder Approval.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Concurrent with
+their appointment as Class I Directors, the Board of Directors appointed each of Messrs. Bartow and Rubin to its Audit Committee, Compensation
+Committee and Nominating and Corporate Governance Committee.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Mr. Bartow, age
+46, has served as <span style="color: windowtext">Portfolio Manager and Head of Specialty Finance and the Technology Lending Strategy
+at Sound Point Capital. Mr. Bartow has 22 years of experience in investment management, capital markets and investment banking with a
+focus on specialty finance, financial technology, consumer finance, structured finance, and securitized products. Among the areas Mr.
+Bartow focuses on are special situations investing, structured finance, consumer credit, small business receivables originated and serviced
+by payments processing companies, other FinTech opportunities such as acquisition financing and marketing spend financing within the
+e-commerce and new media markets and GPU finance; and opportunistic investing in private asset backed securities (ABS). Mr. Bartow was
+a Portfolio Manager at RiverNorth Capital Management, where he launched a new strategy and led all ABS investments for the firm. Mr.
+Bartow was a Principal at Spring Hill Capital Partners, where he focused on the research and trading of consumer ABS, consumer whole
+loan pools, CMBS credit and CLO debt and equity. Mr. Bartow began his career in the Securitized Products Group at Lehman Brothers, where
+he focused on trading asset-backed securities and loans. Mr. Bartow earned a B.A. in Economics from Williams College and an M.B.A. from
+Columbia Business School with a focus on Finance and Value Investing.</span></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 10 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Mr. Rubin, age 58,
+has served as CEO and President of The JR Group, which provides consulting services to the electronic payment processing industry since
+2009. Since 2023 CEO of Excel Payments, a provider of electronic payment services to businesses throughout the United States. Since 2008
+Chief Executive Officer of Summit Processing Group LLC and Partner at Finance ERC LLC since 2023, both of which provide specialized financial
+products to businesses throughout the United States. He has been a Director of BRT Apartments (NYSE:BRT), a Real Estate Investment Trust
+which owns and manages Multi-Family Properties, since 2004 and has served as Independent Lead Director since 2023.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Mr. Easley, age
+52, recently returned to IQVentures after leading a line of business for NICE (Nasdaq: NICE), an AI-powered cloud platform for customer
+engagement. Mr. Easley previously served as Managing Partner of IQVentures during its formative years of 2015-2021. Prior to IQVentures,
+Mr. Easley co-founded and served as President of Fugent, an integrated customer relationship management platform for 15 years. Mr. Easley
+began his career with PricewaterhouseCoopers LLP and is currently a Non-Practicing Certified Public Accountant. He graduated from The
+Ohio State University with a B.S. Business Administration and Accounting.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt"></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Mr.&#160;Medlin&#8217;s full biographical background
+is provided in the &#8220;Executive Officers&#8221; section of the Company&#8217;s 2025 Proxy Statement, and such disclosure regarding
+Mr.&#160;Medlin is incorporated herein by reference.</p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Board of Directors has determined that each
+of Messrs. Bartow and Rubin is independent under applicable Nasdaq listing rules. No family relationships exist between any of Messrs.
+Bartow, Rubin, Easley or Medlin and any of the Company&#8217;s directors or other executive officers. There are no transactions to which
+the Company is or was a participant and in which any of Messrs. Bartow, Rubin, Easley or Medlin had or will have a direct or indirect
+material interest subject to disclosure under Item 404(a)&#160;of Regulation S-K. Each of Messrs. Bartow, Rubin and Easley were appointed
+to the Board of Directors pursuant to the Investment Agreements. There are no other arrangements or understandings between Mr.&#160;Medlin
+and any other person pursuant to which Mr.&#160;Medlin was appointed to the Board of Directors.</p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">As described in
+Item 1.01 above, pursuant to the Director Nomination Agreement, the Purchaser is permitted to nominate up to three persons for nomination
+for election to the Board of Directors, two of whom will be a Class I Director and one of whom will be a Class III director. The Purchaser&#8217;s
+right to designate two directors for nomination will terminate upon such time that the Purchaser owns less than one third (1/3) the total
+voting power on a fully diluted basis of the voting equity securities of the Company.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">In accordance with
+the Company&#8217;s non-employee director compensation program, (1) each of Messrs. Bartow, Rubin and Easley will each receive an annual
+base retainer of $50,000 for his service on the Board of Directors, and (2) each of Messrs. Bartow and Rubin will receive an annual base
+retainer of $10,000, $7,500 and $5,000 for his service on the Audit Committee, the Compensation Committee and the Nominating and Corporate
+Governance Committee, respectively. Each of Messrs. Bartow and Rubin was granted, and Mr. Easley will be granted on the effective date
+of his appointment to the Board of Directors, restricted stock units (&#8220;RSUs&#8221;) under the Company&#8217;s 2021 Incentive Plan
+having a grant date fair value of $150,000, prorated based on the number of days until the next annual meeting of the Company, and such
+RSUs will vest on the date of such annual meeting, subject to each of Messrs. Bartow, Rubin or Easley&#8217;s continued service as a
+member of the Board of Directors through such vesting date.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The Company expects
+to enter into the Company&#8217;s standard director indemnification agreement with each of Messrs. Bartow, Rubin and Easley.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The information
+in Item 1.01 above is incorporated into this Item 5.02 by reference.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 72px; layout-grid-mode: line"><span style="font-size: 10pt"><b>Item 5.03</b></span></td>
+    <td style="layout-grid-mode: line; text-indent: 0in"><span style="font-size: 10pt"><b>Amendments to Articles of Incorporation or
+    Bylaws&#894; Change in Fiscal Year.</b></span></td></tr>
+  </table>
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The information
+set forth in Item 1.01 and Item 3.03 above relating to the issuance and sale of the Series A Convertible Preferred Stock, the Series
+A Certificate of Designations, the Series B Convertible Preferred Stock and the Series B Certificate of Designation is incorporated into
+this Item 5.03 herein by reference. The Series A Certificate of Designations establishes the powers, designations, preferences, and other
+rights of the Series A Convertible Preferred Stock and became effective upon filing with the Secretary of State of the State of Delaware
+on November 3, 2025. The Series B Certificate of Designations establishes the powers, designations, preferences, and other rights of
+the Series B Convertible Preferred Stock and became effective upon filing with the Secretary of State of the State of Delaware on November
+3, 2025.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 11 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b>Important Information for Investors
+and Stockholders</b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The issuance of
+equity securities in connection with the Preferred Stock Issuances will be submitted to the Company&#8217;s stockholders for their consideration,
+and the Company will file with the Securities and Exchange Commission (the &#8220;SEC&#8221;) a proxy statement to be used to solicit
+stockholder approval of the proposed transaction, as well as other relevant documents concerning the Preferred Stock Issuances. THE COMPANY&#8217;S
+STOCKHOLDERS ARE URGED TO READ THE PROXY STATEMENT REGARDING THE PROPOSED TRANSACTION WHEN IT BECOMES AVAILABLE AND ANY OTHER RELEVANT
+DOCUMENTS FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THOSE DOCUMENTS, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION.
+You will be able to obtain a free copy of the proxy statement, as well as other filings containing information about the Company, at
+the SEC&#8217;s Internet site <i>(http://www.sec.gov)</i>. Copies of the proxy statement and the SEC filings that will be incorporated
+by reference in the proxy statement will also be provided to the Company&#8217;s stockholders, without charge, by directing a request
+to: Katapult Holdings, Inc., 5360 Legacy Drive, Building 2, Plano, Texas 75024-3105, Attention: Corporate Secretary, or emailing ir@katapultholdings.com.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b>Participants in the Solicitation</b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">The Company and its directors, executive
+officers and other members of its management and employees may be deemed to be participants in the solicitation of proxies from the Company&#8217;s
+stockholders in favor of the transaction. Information concerning persons who may be deemed participants in the solicitation of the Company&#8217;s
+stockholders under the rules of the SEC will be set forth in the proxy statement when it is filed with the SEC.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt"><b>Forward-Looking Statements</b></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">This Current Report
+on Form 8-K contains &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act of 1933, as amended,
+and Section 21E of the Securities Exchange Act of 1934, as amended, that involve substantial risks and uncertainties. All statements
+other than statements of historical fact contained in this report, including statements regarding our opportunity, our future results
+of operations and financial condition, business strategy, and plans and objectives of management for future operations, are forward-looking
+statements. In some cases, forward-looking statements may be identified by words such as &#8220;anticipate,&#8221; &#8220;assume&#8221;
+&#8220;believe,&#8221; &#8220;continue,&#8221; &#8220;could,&#8221; &#8220;design,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221;
+&#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;potentially,&#8221; &#8220;predict,&#8221; &#8220;should,&#8221;
+&#8220;will,&#8221; &#8220;would,&#8221; or the negative of these terms or other similar expressions. These forward-looking statements
+include, but are not limited to, statements regarding our ability to complete the Preferred Stock Issuances, our ability to obtain stockholder
+approval for the issuance of equity securities in connection with the Preferred Stock Issuances and our ability to satisfy the other
+conditions to closing in the Preferred Stock Issuances. Forward-looking statements are based on our management&#8217;s beliefs and assumptions
+and on information currently available. These forward-looking statements are subject to a number of known and unknown risks, uncertainties
+and assumptions, included in the section titled &#8220;Risk Factors&#8221; in the Company&#8217;s periodic reports filed with the SEC
+including the Quarterly Report on For 10-Q for the quarter ended June 30, 2025, filed with the SEC on August 13, 2025, the Annual Report
+on Form 10K for the fiscal year ended December 31, 2024, filed with the SEC on March 28, 2025 and similar disclosures in subsequent periods
+and current reports filed with the SEC, which are available on the SEC website at www.sec.gov. Other
+sections of this Current Report on Form 8-K may include additional factors that could harm our business and financial performance. Moreover,
+we operate in a very competitive and rapidly changing environment. New risk factors emerge from time to time, and it is not possible
+for our management to predict all risk factors nor can we assess the impact of all factors on our business or the extent to which any
+factor, or combination of factors, may cause actual results to differ from those contained in, or implied by, any forward-looking statements.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">Given these uncertainties,
+you should not place undue reliance on any forward-looking statements. Except as required by applicable law, we assume no obligation
+to update these forward-looking statements, even if new information becomes available in the future, and you should not rely upon these
+forward-looking statements after the date of this Quarterly Report on Form 10-Q.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 12 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 0.75in"><span style="font-size: 10pt"><b>Item 9.01</b></span></td><td><span style="font-size: 10pt"><b>Financial Statements and Exhibits.</b></span></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.5in; text-align: left"><span style="font-size: 10pt">(d)</span></td><td><span style="font-size: 10pt">Exhibits:</span></td>
+</tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex0301.htm"><span style="font-size: 10pt">3.1</span></a></td><td><a href="dp236791_ex0301.htm"><span style="font-size: 10pt">Certificate of Designations of Series
+                                            A Convertible Preferred Stock of Katapult Holdings, Inc.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex0302.htm"><span style="font-size: 10pt">3.2</span></a></td><td><a href="dp236791_ex0302.htm"><span style="font-size: 10pt">Certificate of Designations of Series
+                                            B Convertible Preferred Stock of Katapult Holdings, Inc.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex1001.htm"><span style="font-size: 10pt">10.1*</span></a></td><td><a href="dp236791_ex1001.htm"><span style="font-size: 10pt">Limited Waiver and First Amendment to
+                                            the Loan Agreement, dated November 2, 2025, between Katapult SPV-1 LLC, Katapult Group, Inc.,
+                                            the Company, Midtown Madison Management LLC, as administrative payment and collateral agent
+                                            and lender, and the lenders party thereto.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex1002.htm"><span style="font-size: 10pt">10.2*</span></a></td><td><a href="dp236791_ex1002.htm"><span style="font-size: 10pt">Series A Investment Agreement, dated
+                                            November 3, 2025, between Katapult Holdings, Inc. and HHCF Series 21 Sub, LLC.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex1003.htm"><span style="font-size: 10pt">10.3*</span></a></td><td><a href="dp236791_ex1003.htm"><span style="font-size: 10pt">Series B Investment Agreement, dated
+                                            November 3, 2025, between Katapult Holdings, Inc. and HHCF Series 21 Sub, LLC.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex1004.htm"><span style="font-size: 10pt">10.4</span></a></td><td><a href="dp236791_ex1004.htm"><span style="font-size: 10pt">Series A Registration Rights Agreement,
+                                            dated November 3, 2025, between Katapult Holdings, Inc. and HHCF Series 21 Sub, LLC.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex1005.htm"><span style="font-size: 10pt">10.5</span></a></td><td><a href="dp236791_ex1005.htm"><span style="font-size: 10pt">Series B Registration Rights Agreement,
+                                            dated November 3, 2025, between Katapult Holdings, Inc. and HHCF Series 21 Sub, LLC.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex1006.htm"><span style="font-size: 10pt">10.6</span></a></td><td><a href="dp236791_ex1006.htm"><span style="font-size: 10pt">Director Nomination Agreement, dated
+                                            November 3, 2025, between Katapult Holdings, Inc. and HHCF Series 21 Sub, LLC.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.5in"><a href="dp236791_ex1007.htm"><span style="font-size: 10pt">10.7</span></a></td><td><a href="dp236791_ex1007.htm"><span style="font-size: 10pt">Form of Support Agreements.</span></a></td></tr></table>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt"></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">* Schedules have been omitted pursuant to Item 601(a)(5) of Regulation
+S-K. The registrant hereby undertakes to furnish supplementally a copy of any omitted schedule upon request by the SEC.</p>
+<p style="font: 12pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 13 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 10pt"><span style="text-decoration: underline">SIGNATURE</span></span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><span style="font-size: 10pt">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.</span></p>
+
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><span style="font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td colspan="3" style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">Katapult Holdings, Inc</span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="width: 7%; layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="width: 52%; layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="width: 7%; layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="width: 9%; layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="width: 25%; layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line"><span style="font-size: 10pt">&#160;</span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">Date:</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">November 3, 2025</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">By: <span style="text-decoration: underline">&#160;</span></span></td>
+    <td colspan="2" style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">/s/ Orlando Zayas</span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">Name:</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">Orlando Zayas</span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">Title:</span></td>
+    <td style="layout-grid-mode: line; text-align: justify"><span style="font-size: 10pt">Chief Executive Officer</span></td></tr>
+  </table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 14; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: 10pt Arial, Helvetica, Sans-Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+
+
+
+
+
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-size: 10pt">&#160;</span></p>
+
+
+
+<p style="margin: 0"><span style="font-size: 10pt">&#160;</span></p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJx1kMFOwzAMhp9g72BVHKctDYJDb1CNCbGhqpsGV3f1IFoTV042tkfiLUlbVVwgihQn/r/fsZNkmiz5yTQk8P5YrmBLtm0wEJR0ICG3p6jIn18yiGdJH8YHQRf66wjmHBmKzP1MV/G9V56NpzqDNJ0rPdd3MchuNRTrZNLlc3YHU5MLBhtAV0Mh3IqhgHIdHLZ4Ycf22lfakXjDLtrN1JD+Bq1SDa98xi+Wo4fVKk8m035NkqXwqY2qxSWQ60hYNGRjOT/Qv7v/zf7kA9uspJrIYtXQG0rXpV+TrUiiIlVap+pBjd2NQhiVf9jFsVh2m8D7Y4Gyw+ZEaqaUSguSzScK/eM+cNCDU2hR4NyxcDPQ0MaR+44fa/4A3QKFag== -->
+</body>
+</html>
