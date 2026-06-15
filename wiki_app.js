@@ -68,6 +68,15 @@ SEC_FILING_PAGES.forEach(p => {
 });
 const SEC_FILING_INDEX = SEC_FILING_PAGES.find(p => !p.competitor) || null;
 
+// News tracker pages: same competitor join as SEC filings.
+const NEWS_PAGES = RAW_PAGES.filter(p => p.type === 'news');
+const NEWS_MAP = {};
+NEWS_PAGES.forEach(p => {
+  const c = (p.competitor || '').replace(/\[\[|\]\]/g, '').trim();
+  if (c) NEWS_MAP[c] = p;
+});
+const NEWS_INDEX = NEWS_PAGES.find(p => !p.competitor) || null;
+
 const OPPORTUNITY_PAGES = RAW_PAGES
   .filter(p => p.type === 'opportunity-list')
   .sort((a, b) => (a.owner_name || a.title || '').localeCompare(b.owner_name || b.title || ''));
@@ -99,7 +108,7 @@ const TYPE_LABELS = {
   competitor: 'Competitor', sae: 'SAE', segment: 'Segment', source: 'Source',
   industry: 'Industry',
   'opportunity-list': 'Opportunities', 'opportunity-index': 'Opportunities',
-  'sec-filing': 'SEC Filing',
+  'sec-filing': 'SEC Filing', news: 'News',
 };
 function pluralLabel(type) {
   const l = TYPE_LABELS[type] || type;
@@ -782,10 +791,15 @@ function CompetitorView({ navigateTo }) {
       .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
       .slice(0, 4);
     const tracker = SEC_FILING_MAP[c.slug] || null;
-    return { c, moves, tracker, filings: tracker ? (parseInt(tracker.count, 10) || 0) : 0 };
+    const news = NEWS_MAP[c.slug] || null;
+    return {
+      c, moves, tracker, filings: tracker ? (parseInt(tracker.count, 10) || 0) : 0,
+      news, newsCount: news ? (parseInt(news.count, 10) || 0) : 0,
+    };
   }), []);
 
   const totalFilings = cards.reduce((n, x) => n + x.filings, 0);
+  const totalNews = cards.reduce((n, x) => n + x.newsCount, 0);
 
   return (
     <div className="main-content">
@@ -796,18 +810,25 @@ function CompetitorView({ navigateTo }) {
           <span><strong>{COMPETITOR_PAGES.length}</strong> competitors watched</span>
           <span><strong>{SEC_FILING_PAGES.filter(p => p.competitor).length}</strong> public filers</span>
           <span><strong>{totalFilings}</strong> SEC filings tracked · last 24 months</span>
+          <span><strong>{totalNews}</strong> news items tracked</span>
         </div>
       </div>
       <div className="md-content">
-        {SEC_FILING_INDEX && (
-          <p style={{ marginBottom: 18 }}>
+        <p style={{ marginBottom: 18, display: 'flex', gap: 18, flexWrap: 'wrap' }}>
+          {SEC_FILING_INDEX && (
             <span style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 600 }}
                   onClick={() => navigateTo(SEC_FILING_INDEX.slug)}>
               View the full SEC filings index →
             </span>
-          </p>
-        )}
-        {cards.map(({ c, moves, tracker, filings }) => (
+          )}
+          {NEWS_INDEX && (
+            <span style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 600 }}
+                  onClick={() => navigateTo(NEWS_INDEX.slug)}>
+              View the full news index →
+            </span>
+          )}
+        </p>
+        {cards.map(({ c, moves, tracker, filings, news, newsCount }) => (
           <div key={c.slug} style={{ marginBottom: 28 }}>
             <hr className="section-divider" />
             <h2 style={{ display: 'inline-block', cursor: 'pointer', color: 'var(--accent)' }}
@@ -832,7 +853,8 @@ function CompetitorView({ navigateTo }) {
               </div>
             )}
             <div style={{ background: 'var(--bg-soft)', border: '1px solid var(--line)',
-                          borderRadius: 6, padding: '10px 14px', fontSize: 13 }}>
+                          borderRadius: 6, padding: '10px 14px', fontSize: 13,
+                          display: 'flex', gap: 18, flexWrap: 'wrap' }}>
               {tracker ? (
                 <span style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 600 }}
                       onClick={() => navigateTo(tracker.slug)}>
@@ -840,6 +862,12 @@ function CompetitorView({ navigateTo }) {
                 </span>
               ) : (
                 <span style={{ color: 'var(--muted)' }}>Private — no SEC filings tracked</span>
+              )}
+              {news && (
+                <span style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 600 }}
+                      onClick={() => navigateTo(news.slug)}>
+                  View {newsCount} news item{newsCount !== 1 ? 's' : ''} →
+                </span>
               )}
             </div>
           </div>
@@ -891,6 +919,25 @@ function Sidebar({ activeView, setActiveView, activeSlug, navigateTo, openPalett
             {SEC_FILING_PAGES.filter(p => p.competitor).slice().sort((a,b)=>(a.title||'').localeCompare(b.title||'')).map(p => (
               <div key={p.slug} className={'sidebar-item' + (activeView === 'page' && activeSlug === p.slug ? ' active' : '')} onClick={() => { setActiveView('page'); navigateTo(p.slug); }}>
                 <span>{p.parent || p.title}</span>
+                <span className="count-badge">{parseInt(p.count,10)||0}</span>
+              </div>
+            ))}
+          </SidebarSection>
+        </>
+      )}
+      {NEWS_PAGES.length > 0 && (
+        <>
+          <div className="sidebar-divider" />
+          <SidebarSection title="News" defaultOpen={false}>
+            {NEWS_INDEX && (
+              <div className={'sidebar-item' + (activeView === 'page' && activeSlug === NEWS_INDEX.slug ? ' active' : '')} onClick={() => { setActiveView('page'); navigateTo(NEWS_INDEX.slug); }}>
+                <span>News Index</span>
+                <span className="count-badge">{parseInt(NEWS_INDEX.count,10)||0}</span>
+              </div>
+            )}
+            {NEWS_PAGES.filter(p => p.competitor).slice().sort((a,b)=>(a.title||'').localeCompare(b.title||'')).map(p => (
+              <div key={p.slug} className={'sidebar-item' + (activeView === 'page' && activeSlug === p.slug ? ' active' : '')} onClick={() => { setActiveView('page'); navigateTo(p.slug); }}>
+                <span>{(p.competitor || '').replace(/\[\[|\]\]/g, '').trim() || p.title}</span>
                 <span className="count-badge">{parseInt(p.count,10)||0}</span>
               </div>
             ))}

@@ -61,6 +61,7 @@ PAGE_DIRS = [
     ("pages/industries", "industry"),
     ("pages/opportunities", "opportunity-list"),
     ("pages/sec-filings", "sec-filing"),
+    ("pages/news", "news"),
 ]
 
 
@@ -112,6 +113,96 @@ def collect_pages() -> list[dict]:
     return pages
 
 
+COMPETITOR_REGISTRY = BASE / "competitors.md"
+
+# Canonical row keys -> accepted header substrings (mirrors scripts/_lib.py;
+# build_wiki stays standalone and parses the registry itself, just as it has
+# its own parse_frontmatter).
+_REG_COLS = {
+    "slug": ("slug",), "title": ("competitor", "name", "title"),
+    "parent": ("parent", "issuer"), "ticker": ("ticker", "symbol"),
+    "category": ("category",), "notes": ("note",),
+}
+
+
+def parse_registry(path: Path) -> list[dict]:
+    """Parse the competitor registry markdown table into canonical row dicts."""
+    if not path.exists():
+        return []
+    header = None
+    rows: list[dict] = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip().startswith("|"):
+            continue
+        s = line.strip().strip("|")
+        cells = [c.strip() for c in s.split("|")]
+        if all(c and set(c) <= set("-: ") for c in cells):  # separator row
+            continue
+        if header is None:
+            lowered = [c.lower() for c in cells]
+            header = {}
+            for canon, keys in _REG_COLS.items():
+                for i, h in enumerate(lowered):
+                    if any(k in h for k in keys):
+                        header[canon] = i
+                        break
+            continue
+        row = {c: (cells[i].strip() if i < len(cells) else "")
+               for c, i in header.items()}
+        if row.get("slug"):
+            rows.append(row)
+    return rows
+
+
+def _blank_competitor(slug: str) -> dict:
+    """An empty competitor page dict with every field collect_pages emits."""
+    return {
+        "slug": slug, "type": "competitor", "title": slug, "significance": "",
+        "significance_reason": "", "category": "", "tier": "", "segment": "",
+        "sae": "", "partner": "", "competitor": "", "date": "", "parent": "",
+        "ticker": "", "publisher": "", "url": "", "owner_name": "",
+        "owner_slug": "", "count": "", "tags": [], "sources": [], "content": "",
+    }
+
+
+def _synth_competitor_body(p: dict) -> str:
+    """Minimal editorial body for a registry competitor with no page yet."""
+    title = p.get("title") or p.get("slug")
+    cat = (p.get("category") or "").strip()
+    parent = (p.get("parent") or "").strip()
+    cat_clause = f" in the {cat} category" if cat else ""
+    parent_clause = ""
+    if parent and parent.lower() not in (title.lower(), "") and "private" not in parent.lower():
+        parent_clause = f" Its SEC filer / parent is {parent}."
+    return (
+        f"# {title}\n\n## Overview\n\n"
+        f"{title} is tracked as a Snap Finance competitor{cat_clause}.{parent_clause}\n\n"
+        "_No editorial notes yet — recent moves and SEC filings populate on the next refresh._\n"
+    )
+
+
+def merge_competitor_registry(pages: list[dict]) -> list[dict]:
+    """Make competitors.md authoritative: emit one competitor page per registry
+    row, overriding roster fields and reusing any matching editorial page body."""
+    rows = parse_registry(COMPETITOR_REGISTRY)
+    if not rows:
+        return pages
+    existing = {p["slug"]: p for p in pages if p.get("type") == "competitor"}
+    merged: list[dict] = []
+    for r in rows:
+        slug = r["slug"]
+        p = dict(existing.get(slug) or _blank_competitor(slug))
+        p["type"], p["slug"] = "competitor", slug
+        for field in ("title", "parent", "ticker", "category"):
+            if r.get(field):
+                p[field] = r[field]
+        if not (p.get("content") or "").strip():
+            p["content"] = _synth_competitor_body(p)
+        merged.append(p)
+    others = [p for p in pages if p.get("type") != "competitor"]
+    return others + merged
+
+
 def load_env_vars() -> tuple[str, str]:
     """Read ANTHROPIC_API_KEY and CLAUDE_PROXY_URL from .env."""
     api_key = ""
@@ -149,6 +240,7 @@ def main(argv: list[str] | None = None) -> int:
     no_embed_key = not embed_key
 
     pages = collect_pages()
+    pages = merge_competitor_registry(pages)
     wiki_json = json.dumps(pages, ensure_ascii=True).replace("</", r"<\/")
 
     print(f"Pages: {len(pages)}, JSON size: {len(wiki_json):,} chars")

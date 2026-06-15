@@ -17,6 +17,7 @@ from typing import Iterable
 WIKI_ROOT = Path(__file__).resolve().parent.parent
 PAGES = WIKI_ROOT / "pages"
 SEC_FILINGS_ROOT = WIKI_ROOT / "sec-filings"
+COMPETITOR_REGISTRY = WIKI_ROOT / "competitors.md"
 
 TIER_SUFFIXES = [
     "LM Northeast", "LM-Northeast",
@@ -154,27 +155,92 @@ class CompetitorFiler:
     filer_slug: str   # slugify(parent), e.g. "upbound-group"
 
 
-def parse_competitors(competitors_dir: Path | None = None) -> list[CompetitorFiler]:
-    """Enumerate publicly traded competitors from pages/competitors/*.md.
+# Maps registry table headers (lower-cased) to canonical row keys. Matching is
+# by substring so the column can be renamed ("Parent (SEC issuer)" → "parent")
+# without breaking the parser.
+_REGISTRY_COLUMNS: dict[str, tuple[str, ...]] = {
+    "slug": ("slug",),
+    "title": ("competitor", "name", "title"),
+    "parent": ("parent", "issuer"),
+    "ticker": ("ticker", "symbol"),
+    "category": ("category",),
+    "query": ("search query", "query", "search"),
+    "pr_feed": ("pr feed", "newsroom", "pr_feed"),
+    "notes": ("note",),
+}
 
-    Skips pages whose `ticker` is empty or `private`, and pages with no
-    `parent` (the SEC issuer). The filer slug is derived from `parent` so two
-    brands under one issuer would resolve to the same filing tracker.
+
+def _split_md_row(line: str) -> list[str]:
+    """Split a markdown table row into trimmed cells, dropping the edge pipes."""
+    s = line.strip()
+    if s.startswith("|"):
+        s = s[1:]
+    if s.endswith("|"):
+        s = s[:-1]
+    return [c.strip() for c in s.split("|")]
+
+
+def _is_separator_row(cells: list[str]) -> bool:
+    """True for the `| --- | --- |` divider under a markdown table header."""
+    return all(c and set(c) <= set("-: ") for c in cells)
+
+
+def parse_competitor_registry(path: Path | None = None) -> list[dict]:
+    """Parse the competitor registry markdown table into row dicts.
+
+    Returns one dict per data row with canonical keys (slug, title, parent,
+    ticker, category, notes). The first pipe-row is the header; the column
+    order is read from it, so columns can be reordered or renamed freely.
+    Rows without a `slug` are skipped.
     """
-    if competitors_dir is None:
-        competitors_dir = PAGES / "competitors"
+    if path is None:
+        path = COMPETITOR_REGISTRY
+    text = path.read_text(encoding="utf-8")
+    header_idx: dict[str, int] | None = None
+    rows: list[dict] = []
+    for line in text.splitlines():
+        if not line.strip().startswith("|"):
+            continue
+        cells = _split_md_row(line)
+        if _is_separator_row(cells):
+            continue
+        if header_idx is None:
+            lowered = [c.lower() for c in cells]
+            header_idx = {}
+            for canon, keys in _REGISTRY_COLUMNS.items():
+                for i, h in enumerate(lowered):
+                    if any(k in h for k in keys):
+                        header_idx[canon] = i
+                        break
+            continue
+        row = {
+            canon: (cells[i].strip() if i < len(cells) else "")
+            for canon, i in header_idx.items()
+        }
+        if row.get("slug"):
+            rows.append(row)
+    return rows
+
+
+def parse_competitors(registry_path: Path | None = None) -> list[CompetitorFiler]:
+    """Enumerate publicly traded competitors from the competitor registry.
+
+    Reads `competitors.md` (the single source of truth). Skips rows whose
+    `ticker` is empty or `private`, and rows with no `parent` (the SEC issuer).
+    The filer slug is derived from `parent` so two brands under one issuer
+    resolve to the same filing tracker.
+    """
     out: list[CompetitorFiler] = []
-    for f in sorted(competitors_dir.glob("*.md")):
-        fm = parse_frontmatter(f.read_text(encoding="utf-8"))
-        ticker = (fm.get("ticker") or "").strip()
+    for r in parse_competitor_registry(registry_path):
+        ticker = (r.get("ticker") or "").strip()
         if not ticker or ticker.lower() == "private":
             continue
-        parent = (fm.get("parent") or "").strip()
+        parent = (r.get("parent") or "").strip()
         if not parent:
             continue
         out.append(CompetitorFiler(
-            slug=f.stem,
-            title=(fm.get("title") or f.stem).strip(),
+            slug=r["slug"],
+            title=(r.get("title") or r["slug"]).strip(),
             parent=parent,
             ticker=ticker,
             filer_slug=slugify(parent),

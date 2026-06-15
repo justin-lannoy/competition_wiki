@@ -28,8 +28,12 @@ scripts/
   refresh_sec_filings.py Orchestrator: pull filings → download docs → AI summaries →
                          render tracker pages → rebuild wiki.
 tests/                   pytest unit tests for the pure logic (no network).
+competitors.md           Single source of truth: the competitor roster (markdown
+                         table). Add/remove a row to track/untrack a competitor.
 pages/
-  competitors/           One page per competitor (frontmatter: parent, ticker, category).
+  competitors/           OPTIONAL editorial page per competitor (body only; roster
+                         fields come from competitors.md). New competitors render
+                         from the registry with a generated stub if no page exists.
   events/                Competitor "moves" the competitor pages link to.
   sec-filings/           index.md + one tracker page per public filer (generated).
 sec-filings/             Raw downloaded filing docs + per-filer _filings.json sidecars
@@ -39,9 +43,11 @@ docs/superpowers/        Design spec + implementation/migration plans (history).
 
 ## How the SEC pipeline works
 
-1. `parse_competitors()` reads `pages/competitors/*.md`; the SEC filer is the
-   frontmatter `parent` (e.g. Acima → Upbound Group / UPBD). `ticker: private`
-   (Koalafi) is skipped.
+1. `parse_competitors()` reads the `competitors.md` registry table; the SEC filer
+   is the row's `Parent` (e.g. Acima → Upbound Group / UPBD). `ticker: private`
+   (Koalafi) is skipped; a non-US symbol like `ZIP.AX` is kept but won't resolve in
+   EDGAR (filer skipped cleanly). `build_wiki.py` reads the same registry to render
+   the Competitor Watch roster, merging editorial bodies from `pages/competitors/`.
 2. `EdgarClient` resolves ticker→CIK via `company_tickers.json`, pulls each filer's
    submissions JSON, and `filter_filings` keeps 10-K/10-Q/8-K (+20-F/6-K for foreign
    filers like Klarna) from the **last 730 days (24 months)**.
@@ -82,8 +88,9 @@ EDGAR needs **no API key** — just the descriptive `User-Agent` already set in
   (no slug recomputation in JS).
 - Raw filing docs ARE committed (full archive, per project decision). Expect the repo
   to grow; weekly pushes get heavier.
-- Adding/removing a competitor = add/remove a `pages/competitors/*.md` page (with
-  `parent` + `ticker`); the next refresh picks it up automatically.
+- Adding/removing a competitor = add/remove a row in `competitors.md` (Slug, Parent,
+  Ticker, Category); the next refresh + `build_wiki.py` pick it up automatically. An
+  optional `pages/competitors/<slug>.md` supplies editorial body content.
 
 ## Status / where to resume
 

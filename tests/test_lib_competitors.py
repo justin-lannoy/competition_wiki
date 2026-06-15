@@ -2,25 +2,29 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
-from _lib import parse_competitors, CompetitorFiler  # noqa: E402
+from _lib import (  # noqa: E402
+    parse_competitors, parse_competitor_registry, CompetitorFiler,
+)
+
+HEADER = (
+    "| Slug | Competitor | Parent (SEC issuer) | Ticker | Category | Notes |\n"
+    "| --- | --- | --- | --- | --- | --- |\n"
+)
 
 
-def _write(dir_: Path, name: str, fm: str) -> None:
-    (dir_ / name).write_text(fm, encoding="utf-8")
+def _registry(tmp_path: Path, rows: str) -> Path:
+    p = tmp_path / "competitors.md"
+    p.write_text("# Competitor Registry\n\n" + HEADER + rows, encoding="utf-8")
+    return p
 
 
 def test_parse_competitors_extracts_public_filers(tmp_path):
-    _write(tmp_path, "acima.md",
-           "---\ntitle: Acima\ntype: competitor\nparent: Upbound Group\n"
-           "ticker: UPBD\ncategory: lto\n---\n\n# Acima\n")
-    _write(tmp_path, "koalafi.md",
-           "---\ntitle: Koalafi\ntype: competitor\nparent: Koalafi (private)\n"
-           "ticker: private\ncategory: pos-financing\n---\n\n# Koalafi\n")
-    _write(tmp_path, "klarna.md",
-           "---\ntitle: Klarna Group\ntype: competitor\nparent: Klarna Group\n"
-           "ticker: KLAR\ncategory: bnpl\n---\n\n# Klarna\n")
+    reg = _registry(tmp_path,
+        "| acima | Acima | Upbound Group | UPBD | lto | |\n"
+        "| koalafi | Koalafi | Koalafi (private) | private | pos-financing | |\n"
+        "| klarna | Klarna Group | Klarna Group | KLAR | bnpl | |\n")
 
-    filers = parse_competitors(tmp_path)
+    filers = parse_competitors(reg)
 
     assert all(isinstance(f, CompetitorFiler) for f in filers)
     slugs = {f.slug for f in filers}
@@ -36,6 +40,30 @@ def test_parse_competitors_extracts_public_filers(tmp_path):
 
 
 def test_parse_competitors_skips_missing_parent(tmp_path):
-    _write(tmp_path, "x.md",
-           "---\ntitle: X\ntype: competitor\nticker: XYZ\n---\n\n# X\n")
-    assert parse_competitors(tmp_path) == []
+    reg = _registry(tmp_path, "| x | X |  | XYZ | lto | |\n")
+    assert parse_competitors(reg) == []
+
+
+def test_parse_competitor_registry_reads_all_rows(tmp_path):
+    reg = _registry(tmp_path,
+        "| acima | Acima | Upbound Group | UPBD | lto | brand |\n"
+        "| koalafi | Koalafi | Koalafi (private) | private | pos-financing | |\n")
+    rows = parse_competitor_registry(reg)
+    assert [r["slug"] for r in rows] == ["acima", "koalafi"]
+    assert rows[0]["category"] == "lto"
+    assert rows[0]["notes"] == "brand"
+    assert rows[1]["ticker"] == "private"
+
+
+def test_parse_competitor_registry_tolerates_reordered_columns(tmp_path):
+    p = tmp_path / "competitors.md"
+    p.write_text(
+        "| Ticker | Slug | Category | Parent | Competitor |\n"
+        "| --- | --- | --- | --- | --- |\n"
+        "| SEZL | sezzle | bnpl | Sezzle Inc. | Sezzle |\n",
+        encoding="utf-8")
+    filers = parse_competitors(p)
+    assert len(filers) == 1
+    assert filers[0].slug == "sezzle"
+    assert filers[0].ticker == "SEZL"
+    assert filers[0].filer_slug == "sezzle-inc"
