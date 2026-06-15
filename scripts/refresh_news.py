@@ -158,8 +158,13 @@ def _load_env() -> None:
 
 def _process_competitor(row: dict, news_client: "nf.NewsClient", anthropic_client,
                         today: dt.date, *, use_api: bool, dry_run: bool,
-                        days: int, when_days: int, max_items: int) -> dict:
-    """Fetch + filter + (optionally) summarize coverage for one competitor."""
+                        days: int, when_days: int, pr_days: int,
+                        max_items: int) -> dict:
+    """Fetch + filter + (optionally) summarize coverage for one competitor.
+
+    Google News (high-volume, noisy) is kept to a tight `days` window; the
+    official PR feed (sparse, always on-topic) gets a wider `pr_days` window so
+    a low-frequency newsroom still surfaces several releases."""
     slug = row["slug"]
     title = row.get("title") or slug
     sidecar_path = NEWS_ROOT / slug / "_news.json"
@@ -171,17 +176,19 @@ def _process_competitor(row: dict, news_client: "nf.NewsClient", anthropic_clien
     query = (row.get("query") or "").strip() or nf.news_query(title, row.get("parent", ""))
     items: list[nf.NewsItem] = []
     try:
-        items += news_client.fetch_google_news(query, when_days)
+        items += nf.filter_recent(news_client.fetch_google_news(query, when_days),
+                                  today, days=days)
     except Exception as e:  # one bad fetch must not abort the run
         print(f"\n    ! google-news fetch failed for {slug}: {e}", end="")
     pr_feed = (row.get("pr_feed") or "").strip()
     if pr_feed:
         try:
-            items += news_client.fetch_pr_feed(pr_feed)
+            items += nf.filter_recent(news_client.fetch_pr_feed(pr_feed),
+                                      today, days=pr_days)
         except Exception as e:
             print(f"\n    ! PR feed failed for {slug}: {e}", end="")
 
-    items = nf.sort_newest_first(nf.dedupe(nf.filter_recent(items, today, days=days)))
+    items = nf.sort_newest_first(nf.dedupe(items))
     if len(items) > max_items:
         print(f"\n    · {slug}: capping {len(items)} -> {max_items} most recent", end="")
         items = items[:max_items]
@@ -224,6 +231,8 @@ def main(argv: list[str] | None = None) -> int:
                     help="Keep items filed within this many days (default 60)")
     ap.add_argument("--when-days", type=int, default=60,
                     help="Google News search recency window (default 60)")
+    ap.add_argument("--pr-days", type=int, default=365,
+                    help="Retain official PR-feed items this many days (default 365)")
     ap.add_argument("--max-items", type=int, default=25,
                     help="Cap items kept per competitor (default 25)")
     args = ap.parse_args(argv)
@@ -259,7 +268,7 @@ def main(argv: list[str] | None = None) -> int:
                     row, news_client, anthropic_client, today,
                     use_api=args.use_anthropic_api, dry_run=args.dry_run,
                     days=args.days, when_days=args.when_days,
-                    max_items=args.max_items)
+                    pr_days=args.pr_days, max_items=args.max_items)
             except Exception as e:  # one bad competitor must not abort the run
                 print(f"  ! {row['slug']}: {e} — skipping")
                 sidecar = nf.load_sidecar(NEWS_ROOT / row["slug"] / "_news.json")

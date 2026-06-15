@@ -19,21 +19,24 @@ pipeline (`scripts/refresh_sec_filings.py`) and the wiki's Competitor Watch view
 - **Search query** — optional. Overrides the news search for this competitor. Leave
   blank to auto-build from the name + parent. Use it to disambiguate short/generic
   names (e.g. `Zip`, `HFD`). Standard Google News query syntax (`"phrase" OR "phrase"`).
+- **PR feed** — optional RSS/Atom URL for the company's official newsroom or blog,
+  pulled alongside Google News. The right channel for low-press private firms whose
+  name has little/no news-outlet coverage (e.g. HFD → `https://gohfd.com/feed/`).
 
-| Slug | Competitor | Parent (SEC issuer) | Ticker | Category | Search query | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| acima | Acima | Upbound Group | UPBD | lto | | Brand of Upbound Group (also Rent-A-Center) |
-| affirm | Affirm Holdings | Affirm Holdings | AFRM | bnpl | | |
-| koalafi | Koalafi | Koalafi (private) | private | pos-financing | | Privately held |
-| healthcare-finance-direct | HFD (Healthcare Finance Direct) | Healthcare Finance Direct (private) | private | medical-financing | "Healthcare Finance Direct" | Patient / elective-medical financing; minimal news-outlet coverage — use PR feed |
-| progressive-leasing | Progressive Leasing | PROG Holdings | PRG | lto | | |
-| easypay-finance | EasyPay Finance | EasyPay Finance (private) | private | lto | "EasyPay Finance" OR "Duvera Billing" | Retail installment / lease-to-own |
-| klarna | Klarna Group | Klarna Group | KLAR | bnpl | | Foreign filer (20-F / 6-K) |
-| american-first-finance | American First Finance (AFF) | FirstCash Holdings | FCFS | lto | | Subsidiary of FirstCash Holdings |
-| katapult | Katapult | Katapult Holdings | KPLT | lto | "Katapult" OR "Katapult Holdings" | E-commerce lease-to-own |
-| kafene | Kafene | Kafene (private) | private | lto | | Privately held POS lease-to-own |
-| zip | Zip | Zip Co Limited | ZIP.AX | bnpl | "Zip Co" OR "Zip Pay" OR Quadpay | ASX-listed; not a U.S. SEC filer (skipped in EDGAR) |
-| sezzle | Sezzle | Sezzle Inc. | SEZL | bnpl | | |
-| afterpay | Afterpay | Block, Inc. | XYZ | bnpl | "Afterpay" | Subsidiary of Block; filings are Block's consolidated reports |
-| bread-financial | Bread Financial | Bread Financial Holdings | BFH | pos-financing | "Bread Financial" | |
-| synchrony-financial | Synchrony Financial | Synchrony Financial | SYF | pos-financing | | |
+| Slug | Competitor | Parent (SEC issuer) | Ticker | Category | Search query | PR feed | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| acima | Acima | Upbound Group | UPBD | lto | | | Brand of Upbound Group (also Rent-A-Center) |
+| affirm | Affirm Holdings | Affirm Holdings | AFRM | bnpl | | | |
+| koalafi | Koalafi | Koalafi (private) | private | pos-financing | | | Privately held |
+| healthcare-finance-direct | HFD (Healthcare Finance Direct) | Healthcare Finance Direct (private) | private | medical-financing | "Healthcare Finance Direct" | https://gohfd.com/feed/ | Rebranded to HFD; no news-outlet coverage — coverage comes from official PR feed |
+| progressive-leasing | Progressive Leasing | PROG Holdings | PRG | lto | | | |
+| easypay-finance | EasyPay Finance | EasyPay Finance (private) | private | lto | "EasyPay Finance" OR "Duvera Billing" | | Retail installment / lease-to-own |
+| klarna | Klarna Group | Klarna Group | KLAR | bnpl | | | Foreign filer (20-F / 6-K) |
+| american-first-finance | American First Finance (AFF) | FirstCash Holdings | FCFS | lto | | | Subsidiary of FirstCash Holdings |
+| katapult | Katapult | Katapult Holdings | KPLT | lto | "Katapult" OR "Katapult Holdings" | | E-commerce lease-to-own |
+| kafene | Kafene | Kafene (private) | private | lto | | | Privately held POS lease-to-own |
+| zip | Zip | Zip Co Limited | ZIP.AX | bnpl | "Zip Co" OR "Zip Pay" OR Quadpay | | ASX-listed; not a U.S. SEC filer (skipped in EDGAR) |
+| sezzle | Sezzle | Sezzle Inc. | SEZL | bnpl | | | |
+| afterpay | Afterpay | Block, Inc. | XYZ | bnpl | "Afterpay" | | Subsidiary of Block; filings are Block's consolidated reports |
+| bread-financial | Bread Financial | Bread Financial Holdings | BFH | pos-financing | "Bread Financial" | | |
+| synchrony-financial | Synchrony Financial | Synchrony Financial | SYF | pos-financing | | | |

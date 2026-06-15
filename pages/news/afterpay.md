@@ -2,7 +2,7 @@
 title: Afterpay — Recent Coverage
 type: news
 competitor: [[afterpay]]
-count: 25
+count: 26
 created: 2026-06-15
 updated: 2026-06-15
 ---
@@ -20,6 +20,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[afterpay]]
 | 2026-06-10 | simplywall.st | [Block’s Expanding Cash App And Afterpay Footprint Tests Its BNPL Thesis](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSEJnOTBsM1BNSmhwdm5mbF9nbUMxdXZ6YklQOVVFNllqT1VSNFZfTmR2UjZBOXlZdnJOUzlXZTVzcUFaeHp0emtHOGk0d09Ed2o3VjZWN21FeDNsNWdidG8yNzdPeU9TMDlRUzdOR0pGcDgtSVV2QXZKQTJQMV9CYnVtdUtWd2IzMXdHdV9qb3NnMWJEVDlPYVNwN3hSRmhLNTBtQWttR0FYT0ZwNW81YS0yR3hVNk00QU1pTVJ1QmY4NmFhaG9jVWlyUDVFR0kz0gHWAUFVX3lxTE11WHNLal91WV9BWHhORkFWdExkQnBEUHNoWl8yZHItSWZDaUVPT3QwOVdfTTFDRlBfaHhtUTV4aWphaUxIU1FpWUNMVm1yRzdrSkh6UWE0cS1KYzZuaU5TRXlYYzdaTU1nYnpqSURqSXczN2szaklHQVBXVEstM1BhVDdsWTVPVUw0NHJGa2FjSEYzb1JJdUNHQXBwdnJCdWhQa3VjLUl6ZmNzYV9HaFF1NUZENmFNT0owQVpHMVVodVBQSk5oNnlXMVhwc1BpUE5TcGVtSnc?oc=5) |
 | 2026-06-09 | Zacks Investment Research | [Block Expands Afterpay and Cash App Pay Across New Brands](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM1BMRjdGUzZIR2JMbk1SZ0RseU4yaWdxaTkyZ2ZiLWhteTd6LVJYQ1RDXzI0ZExENTFpeDlqX3J6NmZHOWFXM1JyVzlwSkdQWUFOWDRyeEp3eGN0WDJCeURsa2FmZ1RSV254eDUxX1lNaUJMM0ZEM015QmZKNXk0RFhwV0RmMm1JS2lySzI4R2cwbWhVcy1xU3d2dHUzYlU?oc=5) |
 | 2026-06-08 | RNZ | [Afterpay having 'direct impact' on number of dogs Auckland Council shelters euthanise](https://news.google.com/rss/articles/CBMixgFBVV95cUxOLW1IZXpPN3hYejM0eFdBNWRSM3FTbm9vQVlUQkJScEl6dFJRX2x6b2s0MndRMW9VS2VDYkN3Sjktb1ByR0xmS3BtZndnVnNnV3duS2FGQjN3dUN2akUxNDBnSklocnJuSHd3WURyYUdjbDhUUnRGaTY1YW9LdG5mUUxNa25zcGs1MFo4WmpnMFduWExJUHpfYWMzTS02bElEdTFIY3YwRUZFd01sVmlTbW5fbUNYYmYyT1pUV01mQmRVTElyVWc?oc=5) |
+| 2026-06-08 | PYMNTS.com | [Cash App Expands Pay Later and Pay Now via Instacart Partnership](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVvTXM2aTJUMVNiQWdNRFpPbFpUMEo4LWRTSVhqc1d6eG1ETUpxaFNIVnd2aFR2SjhRN3kyaDh5ZndZMzhRWDNEX1NHNnlSX1V6TExXNGhBQndXQTJCOE9rSTY3S016cXZfSzdZaTY4RUY3dmNlRmN3NXB1OFhBbWpnc3NIelJyUnlPeTBSTnRsN3ljbVctS3ZQSVJCN3dkWXVqMUk1NHJYTUFxRVV5WkVEcUVTMXFF?oc=5) |
 | 2026-06-07 | NZ Herald | [Auckland Council trials Afterpay at dog pounds as pet costs bite](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWwzQmJPODZHT3ZSY3pYRlhUWENsSmtJN2V6b2ZxM1EtX3FfWkFpVjBrRldjYTFSSXJJVURrcFlQUTFhM1diWllVSUdqSXNHWFliZUt0SDJBdVpFZW9tc3NiTW12R1hCRDhRTHYzM3RFdkxNMmZoSFV3TWQzSHFDZU9abHIzTWhld050WWRIR3daUFNPWkk3REpaUndrTzMtQ1N4N0liWm5qRURUa0ZVdGlubTU4SkJsWnh3aFZaS0xFRlhTSUE?oc=5) |
 | 2026-06-03 | Payments Dive | [Block expands Afterpay on Cash App card](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0lhT0gwOFBCUUhzTGowUlA3QTlrbWFVV1h0RnZicWhWR3JheUNoUndhUUtuNW5mV19YMTdQTTRPZG03QjBwTXczT3QyTlo3NFJ3eHFWb1FxclY1UFVqUXBkV1VwYmdZaEw5RmREYU83Yy13N2xiXzVaakk4Q3FoSG1XTUFURDAt?oc=5) |
 | 2026-06-03 | TradingView | [Block's Cash App Adds Afterpay BNPL: Will This Drive User Engagement?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3g3amdXN2NBTGlUalBEcjBCTV9qemo2aHFTQnVqNnRnTnNfRWtwNFdKOXdrY3h0cWw4cVZNemU4TV9pUDE5Qzl5NzRLMDNFcjc5R2taWTRYd25PQjRUbTFUaURtOTc0eWpucTVQenQ1dkc5aGh1ejNPcGYyOFk2WVdkaV9lQ0swVDhvTEg4QWo1dDNVS19DdGUxUkVST3gxOHdSSGFYclFNc3QwNjlGaWhmS1lIY0pTcDk5UEFfa0s?oc=5) |
@@ -82,6 +83,14 @@ Significance: medium · Category: partnership
 The headline/snippet is too thin to tell — there is no substantive detail explaining the causal mechanism by which Afterpay is allegedly impacting Auckland Council shelter euthanasia rates (e.g., financing pet adoptions, enabling pet purchases, etc.). No competitive read-through for Snap Finance can be reasonably drawn without more context.
 
 Significance: low · Category: other
+
+### 2026-06-08 — PYMNTS.com
+
+**Cash App Expands Pay Later and Pay Now via Instacart Partnership**
+
+The snippet is too thin to draw firm conclusions beyond the surface fact that Cash App (Afterpay's parent ecosystem via Block, Inc.) is extending its BNPL and pay-now capabilities into Instacart, deepening its presence in everyday grocery/delivery commerce. For Snap Finance, this signals continued expansion of BNPL players into high-frequency, lower-ticket verticals, which could pressure Snap's lease-to-own model if these partners begin targeting durable-goods or broader retail channels.
+
+Significance: medium · Category: partnership
 
 ### 2026-06-07 — NZ Herald
 
