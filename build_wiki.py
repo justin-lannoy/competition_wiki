@@ -211,7 +211,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Managed Accounts — Weekly Events Briefing</title>
+<title>Competitor Intelligence — Snap Finance</title>
 <meta name="wiki-proxy-url" content="{proxy_url}">
 <meta name="wiki-api-key" content="{api_key}">
 <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
@@ -225,10 +225,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
 <div id="root">
-  <div style="display:flex;height:100vh;align-items:center;justify-content:center;flex-direction:column;gap:12px;font-family:'Gellix',sans-serif;color:#585858;background:#fff;">
-    <div style="font-size:14px;font-weight:700;color:#2D44E2;letter-spacing:.14em;text-transform:uppercase;">Loading Managed Accounts Wiki…</div>
+  <div style="display:flex;height:100vh;align-items:center;justify-content:center;flex-direction:column;gap:12px;font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;color:#696969;background:#fff;">
+    <div style="font-size:14px;font-weight:700;color:#3D5CCF;letter-spacing:.14em;text-transform:uppercase;">Loading Competitor Intelligence…</div>
     <noscript>
-      <div style="margin-top:14px;padding:12px 18px;border:1px solid #B0001F;background:#FCE6EA;border-radius:4px;color:#B0001F;max-width:520px;text-align:center;font-size:13px;">
+      <div style="margin-top:14px;padding:12px 18px;border:1px solid #A32D2D;background:#FCEBEB;border-radius:4px;color:#A32D2D;max-width:520px;text-align:center;font-size:13px;">
         JavaScript is required to view this wiki. Please enable JavaScript or contact your administrator.
       </div>
     </noscript>

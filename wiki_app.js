@@ -1,5 +1,5 @@
-// Managed Accounts Wiki v2
-// Features: Briefing viewer, SAE books, Ask Claude, Industry Groups, Trend Analysis
+// Competitor Intelligence Wiki v2
+// Features: Competitor Watch, SEC filings tracker, Ask Claude, Trend Analysis
 
 const { useState, useMemo, useCallback, useRef, useEffect, Fragment } = React;
 
@@ -116,6 +116,12 @@ function fmtEditionDate(iso) {
   if (!iso) return '';
   return new Date(iso + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
 }
+// Canonical event-date display, shared across all views so the app never
+// mixes raw ISO ("2026-06-03") with formatted ("Jun 3, 2026") on one screen.
+function fmtDate(iso) {
+  if (!iso) return '';
+  return new Date(iso + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 function sanitize(html) {
@@ -201,7 +207,7 @@ const EMBEDDED_KEY = document.querySelector('meta[name="wiki-api-key"]')?.conten
 // (it's forwarded and takes precedence) but is no longer required.
 const PROXY_AVAILABLE = !!PROXY_BASE;
 
-const SYSTEM_PROMPT = `You are an analyst assistant for the Snap Finance Managed Accounts Wiki. Use the wiki content below as your primary source for partner-, competitor-, and SAE-specific facts. You may also draw on your general knowledge of consumer finance, retail verticals, public-company filings, and macro trends to enrich answers — there is no restriction to wiki content alone. When you cite a fact that came from outside the wiki, label it as such (e.g. "general knowledge:" or "macro context:").
+const SYSTEM_PROMPT = `You are an analyst assistant for the Snap Finance Competitor Intelligence Wiki. Use the wiki content below as your primary source for partner-, competitor-, and SAE-specific facts. You may also draw on your general knowledge of consumer finance, retail verticals, public-company filings, and macro trends to enrich answers — there is no restriction to wiki content alone. When you cite a fact that came from outside the wiki, label it as such (e.g. "general knowledge:" or "macro context:").
 
 Response format:
 - Group findings into 3-6 themes with **bold headers**
@@ -271,7 +277,7 @@ function EditionHeader({ fm }) {
   const win = fm.window_start && fm.window_end ? fmt(fm.window_start) + ' – ' + fmt(fm.window_end) : '';
   return (
     <header className="briefing-header">
-      <h1>Managed Accounts — Weekly Events Briefing</h1>
+      <h1>Competitor Intelligence — Weekly Briefing</h1>
       <div className="sub">Prepared for senior leadership · {fm.date ? new Date(fm.date + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }) : ''}</div>
       <div className="meta">
         <span><strong>{pc}</strong> partner events</span>
@@ -509,7 +515,7 @@ function IndustryView({ industryKey, navigateTo }) {
               <div key={e.slug} className="trend-event event-high-impact" onClick={() => navigateTo(e.slug)} style={{cursor:'pointer'}}>
                 <SignalChip sig={classifySignal(e)} />
                 <strong>{e.title}</strong>
-                <span style={{color:'var(--muted)', fontSize:12, marginLeft:8}}>{e.date}</span>
+                <span style={{color:'var(--muted)', fontSize:12, marginLeft:8}}>{fmtDate(e.date)}</span>
               </div>
             ))}
           </>
@@ -526,7 +532,7 @@ function IndustryView({ industryKey, navigateTo }) {
                 <div style={{fontWeight:700, fontSize:15, marginBottom:4, cursor:'pointer', color:'var(--accent)'}} onClick={() => navigateTo(c.slug)}>{c.name}</div>
                 {c.events.slice(0, 3).map(e => (
                   <div key={e.slug} className={'industry-event' + (e.significance === 'high' ? ' event-high-impact' : '')} onClick={() => navigateTo(e.slug)}>
-                    <span className="industry-event-date">{e.date}</span>
+                    <span className="industry-event-date">{fmtDate(e.date)}</span>
                     <span className="industry-event-title">{e.title}</span>
                     {e.significance === 'high' && <span className="pill">High Impact</span>}
                   </div>
@@ -544,7 +550,7 @@ function IndustryView({ industryKey, navigateTo }) {
             <div style={{fontSize:13, color:'var(--muted)', marginBottom:8}}>By tier:</div>
             <div style={{display:'flex', gap:12, flexWrap:'wrap'}}>
               {Object.entries(tierCounts).sort((a,b) => a[0].localeCompare(b[0])).map(([tier, count]) => (
-                <div key={tier} style={{background:'var(--soft)', border:'1px solid var(--line)', borderRadius:6, padding:'6px 14px', fontSize:13}}>
+                <div key={tier} style={{background:'var(--bg-soft)', border:'1px solid var(--line)', borderRadius:6, padding:'6px 14px', fontSize:13}}>
                   <strong>{tier}</strong>: {count} partner{count !== 1 ? 's' : ''}
                 </div>
               ))}
@@ -556,7 +562,7 @@ function IndustryView({ industryKey, navigateTo }) {
             <div style={{fontSize:13, color:'var(--muted)', marginBottom:8}}>By SAE coverage:</div>
             <div style={{display:'flex', gap:12, flexWrap:'wrap'}}>
               {Object.entries(saeCounts).sort((a,b) => b[1] - a[1]).map(([sae, count]) => (
-                <div key={sae} style={{background:'var(--soft)', border:'1px solid var(--line)', borderRadius:6, padding:'6px 14px', fontSize:13, cursor:'pointer'}} onClick={() => navigateTo(sae)}>
+                <div key={sae} style={{background:'var(--bg-soft)', border:'1px solid var(--line)', borderRadius:6, padding:'6px 14px', fontSize:13, cursor:'pointer'}} onClick={() => navigateTo(sae)}>
                   <strong>{sae.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}</strong>: {count}
                 </div>
               ))}
@@ -587,7 +593,7 @@ function IndustryView({ industryKey, navigateTo }) {
           <Collapsible title="Event Timeline" count={events.length} defaultOpen={false}>
             {events.sort((a,b) => (b.date||'').localeCompare(a.date||'')).map(e => (
               <div key={e.slug} className="industry-event" onClick={() => navigateTo(e.slug)}>
-                <span className="industry-event-date">{e.date}</span>
+                <span className="industry-event-date">{fmtDate(e.date)}</span>
                 <span className="industry-event-title">{e.title}</span>
                 {e.significance === 'high' && <span className="pill">High Impact</span>}
                 {e.category && <span style={{fontSize:11, color:'var(--muted)', marginLeft:6}}>({CAT_LABELS[e.category] || e.category})</span>}
@@ -700,7 +706,7 @@ function TrendView() {
               <div key={e.slug} className="trend-event event-high-impact">
                 <SignalChip sig={classifySignal(e)} />
                 <strong>{e.title}</strong>
-                <span style={{color:'var(--muted)', fontSize:12, marginLeft:8}}>{e.date}</span>
+                <span style={{color:'var(--muted)', fontSize:12, marginLeft:8}}>{fmtDate(e.date)}</span>
               </div>
             ))}
           </>
@@ -789,7 +795,7 @@ function CompetitorView({ navigateTo }) {
         <div className="page-meta">
           <span><strong>{COMPETITOR_PAGES.length}</strong> competitors watched</span>
           <span><strong>{SEC_FILING_PAGES.filter(p => p.competitor).length}</strong> public filers</span>
-          <span><strong>{totalFilings}</strong> SEC filings tracked</span>
+          <span><strong>{totalFilings}</strong> SEC filings tracked · last 24 months</span>
         </div>
       </div>
       <div className="md-content">
@@ -813,19 +819,19 @@ function CompetitorView({ navigateTo }) {
             </div>
             {moves.length > 0 && (
               <div style={{ marginBottom: 10 }}>
-                <div style={{ fontSize: 13, color: 'var(--muted)', marginBottom: 6 }}>Recent moves</div>
+                <div style={{ fontSize: 13, color: 'var(--muted)', marginBottom: 6 }}>Recent moves · latest {moves.length}</div>
                 {moves.map(e => (
                   <div key={e.slug}
                        className={'industry-event' + (e.significance === 'high' ? ' event-high-impact' : '')}
                        onClick={() => navigateTo(e.slug)}>
                     <SignalChip sig={classifySignal(e)} />
-                    <span className="industry-event-date">{e.date}</span>
+                    <span className="industry-event-date">{fmtDate(e.date)}</span>
                     <span className="industry-event-title">{e.title}</span>
                   </div>
                 ))}
               </div>
             )}
-            <div style={{ background: 'var(--soft)', border: '1px solid var(--line)',
+            <div style={{ background: 'var(--bg-soft)', border: '1px solid var(--line)',
                           borderRadius: 6, padding: '10px 14px', fontSize: 13 }}>
               {tracker ? (
                 <span style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 600 }}
@@ -1284,7 +1290,7 @@ function WikiPage({ page, navigateTo, onBack, isEdition, navHistory, goHome }) {
       {isEdition && <NeedsAttention fm={rendered.fm} navigateTo={navigateTo} />}
       {isEdition && <OrientationCard />}
       <SafeHTML className="md-content" html={bodyHtml} onRef={onContentRef} />
-      <div className="footer-note">Managed Accounts Wiki · Snap Finance</div>
+      <div className="footer-note">Competitor Intelligence · Snap Finance</div>
     </div>
   );
 }
