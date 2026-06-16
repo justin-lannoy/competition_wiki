@@ -62,6 +62,7 @@ PAGE_DIRS = [
     ("pages/opportunities", "opportunity-list"),
     ("pages/sec-filings", "sec-filing"),
     ("pages/news", "news"),
+    ("pages/themes", "theme"),
 ]
 
 
@@ -241,6 +242,29 @@ def check_app_js(js: str) -> str | None:
     return None
 
 
+def dedupe_slugs(pages: list[dict]) -> list[dict]:
+    """Ensure every page has a unique slug (PAGE_MAP is keyed by slug — a
+    collision silently shadows a page and breaks navigation). Competitor slugs
+    are kept canonical (the registry owns them); colliding tracker/index/other
+    pages are prefixed with their type. The competitor↔tracker join uses the
+    `competitor:` frontmatter, not the page slug, so renaming trackers is safe."""
+    seen = {p["slug"] for p in pages if p.get("type") == "competitor"}
+    for p in pages:
+        if p.get("type") == "competitor":
+            continue
+        slug = p["slug"]
+        if slug in seen:
+            base = f"{p.get('type', 'page')}-{slug}"
+            new = base
+            i = 2
+            while new in seen:
+                new = f"{base}-{i}"
+                i += 1
+            p["slug"] = new
+        seen.add(p["slug"])
+    return pages
+
+
 def load_env_vars() -> tuple[str, str]:
     """Read ANTHROPIC_API_KEY and CLAUDE_PROXY_URL from .env."""
     api_key = ""
@@ -279,6 +303,7 @@ def main(argv: list[str] | None = None) -> int:
 
     pages = collect_pages()
     pages = merge_competitor_registry(pages)
+    pages = dedupe_slugs(pages)
     wiki_json = json.dumps(pages, ensure_ascii=True).replace("</", r"<\/")
 
     print(f"Pages: {len(pages)}, JSON size: {len(wiki_json):,} chars")

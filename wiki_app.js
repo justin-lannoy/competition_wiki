@@ -108,7 +108,7 @@ const TYPE_LABELS = {
   competitor: 'Competitor', sae: 'SAE', segment: 'Segment', source: 'Source',
   industry: 'Industry',
   'opportunity-list': 'Opportunities', 'opportunity-index': 'Opportunities',
-  'sec-filing': 'SEC Filing', news: 'News',
+  'sec-filing': 'SEC Filing', news: 'News', theme: 'Themes & Signals',
 };
 function pluralLabel(type) {
   const l = TYPE_LABELS[type] || type;
@@ -925,6 +925,11 @@ function Sidebar({ activeView, setActiveView, activeSlug, navigateTo, openPalett
         <div className={'sidebar-item' + (activeView === 'trends' ? ' active' : '')} onClick={() => setActiveView('trends')}>
           <span>Trend Analysis</span>
         </div>
+        {PAGE_MAP['cross-competitor'] && (
+          <div className={'sidebar-item' + (activeView === 'page' && activeSlug === 'cross-competitor' ? ' active' : '')} onClick={() => { setActiveView('page'); navigateTo('cross-competitor'); }}>
+            <span>Themes &amp; Signals</span>
+          </div>
+        )}
         <div className={'sidebar-item' + (activeView === 'ask' ? ' active' : '')} onClick={() => setActiveView('ask')}>
           <span>Ask Claude</span>
         </div>
