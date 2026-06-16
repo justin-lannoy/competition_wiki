@@ -2,14 +2,14 @@
 title: Affirm Holdings — Recent Coverage
 type: news
 competitor: [[affirm]]
-count: 26
-created: 2026-06-15
-updated: 2026-06-15
+count: 39
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # Affirm Holdings — Recent Coverage
 
-_Updated: June 15, 2026_  ·  News & PR for [[affirm]]
+_Updated: June 16, 2026_  ·  News & PR for [[affirm]]
 
 ## Coverage
 
@@ -21,7 +21,10 @@ _Updated: June 15, 2026_  ·  News & PR for [[affirm]]
 | 2026-06-05 | high | Yahoo Finance | [Affirm's Expanded CPP Investments Deal Supports $8B in Loan Volume](https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlFfUHpQTVJsZjFwWEFoQTE2c3RoZVd3OWVLVGZ5Z2JrX0l0QkFzNHZjMVlhR09PX2Z5V3NpcFlULTFLdnh4SGhnajNOa184aTZpcWpjQl9XV1lvazFFY19BanlMWU01RGlrZkNydVJVYlVrRGgxT21wckNTWjRzazNVUDIwTkEzZUdjTzF4bnI3OGtUYUdPa3RHWmlBS1VVcWZVdg?oc=5) |
 | 2026-06-04 | low | TradingView | [AFRM: Mission-driven lending, strong growth, and expanding partnerships fuel Affirm's momentum](https://news.google.com/rss/articles/CBMiigJBVV95cUxQeVA4eDEyaEJpaFFqUHd1akVncUtZaVhKVTd1clBZeXdzclBUNFI0d0tsMGZPNkVYSTZpZTVUVkVhMWZ4MFcwY21IYXBUOFJMQ1BfRjBYcjJoNVI0cW5qd0VRaGtOMUlpUkRpUjhHUllqZ0FVWW91cUJ4a0hCNWhUOEdjNkZUaG1fNGxaR3N4QUNNY2FqbF94RHoxMHRQbGpSWjUzT0llMlZVcFBLY0NKbHJ2RUxQYW0zams4Zm1LUW81RURabFl2cWt0bDFzOTQ2dS1qWjNHR0hNTWFiamtYN0pFNGhRZklnX2pISU4waWRNTDBCWHFURmF6d3pDQ2d0UkpnTXpsSkVYZw?oc=5) |
 | 2026-06-04 | low | Investing.com | [William Blair reiterates Outperform on Affirm stock at conference](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzBVOEdVV0RZOXZmTEMtRkFsbk1ySVpZcGdtaFlMSGxkT0hIenpqR25CZ2d0dGo3RnRRdUI4VU9uUDlYVzBiQllhLVh4NE9EMllvSk5EUjM5UTVJZEhLRkMxR1RxVE1ueVVXd0t1WlhpWEJyRmdwRGhMaldQRTV5Yy03bWRSeUlRT1NUTTdSN0ZJSE5sb0F2ZkdxMzlxam11SzdZN1F1c1BhcFcyNjY3ZzF5QzI0cGNNNUd6b19POTJYOHM?oc=5) |
+| 2026-06-04 | medium | investors.affirm.com · PR | [Affirm and CPP Investments renew and expand capital partnership](https://investors.affirm.com/news-releases/news-release-details/affirm-and-cpp-investments-renew-and-expand-capital-partnership) |
 | 2026-06-03 | low | Yahoo Finance | [Here is What to Know Beyond Why Affirm Holdings, Inc. (AFRM) is a Trending Stock](https://news.google.com/rss/articles/CBMinAFBVV95cUxOckVoOWVRQ2Q1Q0RqZS1GN1o4S2JXOFhVaWozbk0zSkZQNmNrV1I5UXBOYndRTHJIcVQzbVQyZ3VXb1RPbjhHYWpUYzVselN1c1FvXzI4bFk1UnNCR0drNVpLZHVWVnpPeDlCQVdqaDNVZXVJZ3lSWjJMa1NUNDhlUjJXRXBQSHJsYnQtNURpNzJ4Z21xVC1SaTFfSTc?oc=5) |
+| 2026-06-03 | medium | Yahoo Finance | [Affirm CFO Says Bank Charter Would Diversify Funding, Not Turn It Into a Bank](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeE54bnJ1QmlWMEFVaHRDV2liTkVYRHlLdk9IRWZJRFpIY2ZabXR5ZzBzcTM5Zy1pSDFabnFnTmdpbmswTWRFdjY1b29ycnNONTU0RDdQUWlmYVRtN2VWSlVlVnJ0ZTgzWEt3bDhwaHN1WVJpcWpOSTVaVFhEQkVsaXo5Y1VxV3FLN1lKRHZMUTlpWm8ybzlpag?oc=5) |
+| 2026-06-02 | low | investors.affirm.com · PR | [Affirm and Stripe team up to power flexible UK payments](https://investors.affirm.com/news-releases/news-release-details/affirm-and-stripe-team-power-flexible-uk-payments) |
 | 2026-05-28 | low | Moomoo | [Truist Financial Maintains Affirm Holdings(AFRM.US) With Buy Rating, Announces Target Price $80](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejgzUkg4Z0ZsZk5RNHdBSWlGVkp6OUgtbGJqdWhnd1luV3dmMUJrNGFpcXR0NzIyRkpuT0pVa3JHVXB3TDQ4U19GY0dFNlJaNmNxbFhLaWdpQ19ualFOLWRPUFRJTm9QNkNTR19EbUZxVnZBMkVYM2xadFQ0eHA4b2xBMFZtYS1oeUVpaFBFWDlYVnE1enNJZUhFTGI3cjhaRlNwTGc4Vjk1OWdDSlN0YWs0cWo3c1I1?oc=5) |
 | 2026-05-26 | low | Investing.com | [BTIG reiterates Neutral on Affirm stock amid credit trend review](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUpwZlRuMThObFBIdTQ5Vlc4b193TzhFRWJHNm1taVQyNUpTRnQyelRrVFd2YjFkRVgtQjBza1YzaHhONDJBNUhsWnFNVjQxcy1LVHNwQmdSOHlrZkdLUndOeVZIUUtBdlA4eldtejdxMjJUU1V5X2N5Y0stRUJpR2ZESkR2X1RTUXYteWJKa3VGRkRRMUNUU2NPY2o5ZXViWlFnR2ZXTU5uUXNQTG9Tb1EwZm90VHVWRmhPMDBrdlE2UQ?oc=5) |
 | 2026-05-22 | low | Yahoo Finance | [Is Trending Stock Affirm Holdings, Inc. (AFRM) a Buy Now?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3FNam51QTcxOThZd040QlZtdUF0cjl5emE2Q1FLN085RFBSQTFQRlc3OEdraFUzSmlMd3dQUDEwaVY5emZIcW5ZMUxLOU1Mak9yTUlLdlRBdjNOLTF0ajRaNV9VYVRBVXpxTEg5LTJKeDlPeFR2dml3QjBLc3dvT2pYWUtHRXM0QUh1NDB3OWF6blFFNnIyQ01zNDRxR2Nm?oc=5) |
@@ -31,16 +34,26 @@ _Updated: June 15, 2026_  ·  News & PR for [[affirm]]
 | 2026-05-20 | low | Yahoo Finance | [Affirm Slides 12.3% YTD Despite Strong Growth: Buy the Dip or Wait?](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV0lHRFB2OTJjU1NGV09obEdZYkFQcVRHalFfSklDVVR6anMzRk9sUUZIMHdZbDc5dzBmQ1Z6ZllnVEVGbFo4MmR0WTRIT0VRMHVGeS1sQXRqSjctT2ZVTlpydzRxS05MMi11S0pzdmFEU2xFWl90aWNPX1JDVG04QWx1WC1SUms5SkQ5blEtS04?oc=5) |
 | 2026-05-20 | low | Yahoo Finance | [Fintech Stocks in Focus as Digital Finance Reshapes the Market](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2IwZjVScDVGNmlfQzk0N2wyNW1wNnVMaGkwNDcyRjFSM01YZ1B0SGdpLUoxWUhQWnZZYXZTVENSMENTTTRJNUFzc1RjVkJTYWpGeF8taGI2Rlg4aXVXd1dkVUVyaVd2OWI3V2h5eHU5UTdmaFZUVXZiaTBCVWY4ZnNibjBMUGZ4aHZHUE8xWXc5WUpUd04yTUVhMUN6UVR1VVdF?oc=5) |
 | 2026-05-20 | low | Moomoo | [Affirm Teams Up With Royal Caribbean to Offer Flexible Cruise Payments](https://news.google.com/rss/articles/CBMipgFBVV95cUxQWU5wdW1Sa051elQwTV9KVmw2bkx0VXN3cFk5cUNfQ1ZFTGxaSEZ0NURfTFR6UkdKcUFBVjQwSVo4QXE1cFlPQWFUM21FMVJsODdEMVRkeWg3OWphdy1mTjRWcEhRbXhMNW1uWEFHWTEzSkVTc1JQTEhyeVNERE1GSmJvQmVKSV9HTTc5SlRNVDcwdzZuS253b2hURXpsLV9UeDVUX1ZB?oc=5) |
+| 2026-05-20 | medium | investors.affirm.com · PR | [Royal Caribbean and Affirm to bring flexible and transparent payment options to travellers in UK and Canada](https://investors.affirm.com/news-releases/news-release-details/royal-caribbean-and-affirm-bring-flexible-and-transparent) |
 | 2026-05-15 | medium | Yahoo Finance | [Assessing Affirm Holdings (AFRM) Valuation After Google Partnership And Recent Share Price Strength](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZU45RG9hZ0R0bWRWbEtXZ29wTXVLSDRkMjlFZE9xNTV6NXh4U3dQWVBLdjNValA3MEQybElCdmh4SVBRbklXR0VEbWFNYUtZMEdWTlF6QS13M29PQ1lySzFHRklOVmpDX2FmaEx0V0lBUHVKam9nRE1ubEJnamxLMHVYeUpvQXB3dXBYTjBlTHZyemQyMHBPdGpFVUg0eWdpM1dlT1hRYlE?oc=5) |
 | 2026-05-15 | low | Yahoo Finance | [This Analyst Just Upgraded Affirm. What It Means for AFRM Stock.](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbG0yZ2gza3hLb0JvMEpOVnBiYVdQTEhyanRWbVFid2ltSEVqVVVuMnY1SGlJWjdmVUpfanZkUFhmVkdmUFNrWHh6THlCOHdZYnhPanBrMnJwSkoxNjgyRDh1elVTYm5JR3hhSXpVUmZVVTZXRHpZMWFNZURsamZCbzdWOHpRRE15ZFQ4VW1xYUxBNG5Tck5rdE01R2g0ZnZC?oc=5) |
+| 2026-05-15 | low | StreetInsider | [Affirm Holdings (AFRM) PT Raised to $80 at Compass Point](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTkFrekQ3MThOalM5TEZqVkFabVBrN2lXMzRyWDNWZDJZYlkxOFc2VW8wUmJ1TDUwM2lLT00wYjl5ZjdkdmFnd2tMQm5INmJDRGF2WHFUdTRlczFGLWhmOU5SR3RDcnMtS3ZjOHV6bWdYZ1ZFT05jN1VKem0td1JWT3Q5TTdSVlJMUkdVdWJxQncwNkJ0b21VZzg3NGp0b1RzcUVWWm1jV29yNHdXQ1V2UGdHMm9ma213WGNKQTk4Zkg?oc=5) |
 | 2026-05-14 | low | Yahoo Finance | [Affirm (AFRM) Is Doing The Right Thing With AI, Says Jim Cramer](https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmJNTEhxYzFoSFdxUWxxdVIwSVdTanpuOXk5clJPdDlNQ3BHVUUwNXpBNFVGckxmb0FlZGx2Y0RCN3A1eU9HUnN5OFpEWE9vWEY5RE1BeGhZYkRYRjR0a25xamg4NDZNMldzOVpGenFUWjNXbXo5Q09hYURkMzFfRFpXaTE3cTdLS3NuNGFDemVyc2NMMkE?oc=5) |
 | 2026-05-14 | medium | Payments Dive | [BNPL giants battle at Walmart](https://news.google.com/rss/articles/CBMie0FVX3lxTFA5QnJ6UDZVYnRfNGJXRDZSckJ3ZHlUY0g2b1JBZ0VzQ3lzMWk4Um1BT19qSUxmekozU2dnUWRuRnduNlV1S3BSS1JQV3JmNHRuS1gzS09ESkpOeEcxS2xZUDJ4T0F5NTkzSUlUZ3dQMTB2ZXdNajVIZHNFQQ?oc=5) |
 | 2026-05-14 | low | Yahoo Finance | [Klarna Is Up 15% Today: Is It Outperforming Other BNPL Stocks Like Affirm and Sezzle?](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUd6OVlrZnZLOGtXanJhNml2Zy0zNkdTSDZuZ3VfazBmUVhlX1FvRENfTHVwa2RCdjRtLXJJVU9JNlRDNlNhMmdUeGdFeHdCTUFXTDQ4TGM3cEd4M0s5VlZTQjhZcV9ZZy11bVdLczZrZlVfekhVYmZOam9KMUgwUXplU2w1UmNuc0JDcEN2UmxIRDY3N2xIanNfVklYLUZjR1E?oc=5) |
+| 2026-05-14 | — | 24/7 Wall St. | [Klarna Is Up 15% Today: Is It Outperforming Other BNPL Stocks Like Affirm and Sezzle?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXpXOUFKN0V5b3BGV1ZudFRaZV9lUVEyZkw2eHJ2NFZJV2VoMEpEWlpub1F1UWt0Z2t0UC0ybDBzTEM1LXRkSTVkNUk2SE1LQnFFNUFvXzBlV3BXTFhndWhKdzdXYmNnM0JaWXNVNHBhQzk2bUpzSHBfSUZRTHdrV3M5aFRKS1JhbHdqUE1pWXdoTEdHaWx2OTFfMVJBN3F1RDFJY1lWN3RQUXZMX1dIWXIxZS03NHlneEhOeHg0aEVsTHZL?oc=5) |
 | 2026-05-13 | medium | Yahoo Finance | [Affirm Unveils Aggressive Expansion Blueprint](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeGQ1aEdGaFpkT0NIYXd2R1JyYjd3cGM5MEhrOVNXWXdKbzBIMjItOUtvZVN4d2hMT1hQQUUwMnRuVnp4Nk5XSGhyVmdYREtDaFkwbGx4MVphMktublpPNTFLVVZaSVhhZjg3RHJxeF9PQ2g0c0JhX09nSU82LU1sNF9rVVFBSlgybGlJaXdSWURnWVU1WEE?oc=5) |
 | 2026-05-13 | medium | Yahoo Finance | [Jim Cramer on Affirm: “This Is Now a Very Profitable Business”](https://news.google.com/rss/articles/CBMifEFVX3lxTE1oa201aUdtVnFSNndJMHJMWDdBY3MxcU9WQVZMbXFYYVNuNXh1em5pZERJUjNvYThTaENkTldhc01aUWM4c2RfaU1mNzFaQ1VUZW9ROHBGd1hqaFJuLUN0RTJUeWxJQlc4aEJTWkZXNTlkNndjcVVLcmlNZUc?oc=5) |
 | 2026-05-13 | medium | Yahoo Finance | [Can Affirm and Google Simplify Payments in AI Shopping?](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmxvSERpZDEzUlU5dlg1VEtUMkVDeFNSellzLWcyTkV4YlBzRWpTT1BlQXRZYnFmS2RraWVtd09IOF9Gc0ZjMFNkSjNSMkRwR3RyOFNKekgxSlBPRkJ4R0ZnOFZKSmgwdFBqWE55cDBWc0F2MUZJX19ybnFLd1hPOWZGNDBJVG8?oc=5) |
 | 2026-05-13 | high | The Business Journals | [Why a buy-now, pay-later titan is making a $350 million bet on becoming a bank](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3VFZ2ZCcjJKX01kbVJQeVd3LW1iRS1TcFFycVZJQ1praFRnNE41b19jZ0lZZVEtelhueUFwREJ0OTBYaGtDLUJPd3AxZ1ZqdTBmUEhlRElLb2N3dzIzSXFGLWRtZURMM19BUXliV2JaVlZyUlZSczR4N1hHN05mWTA2UjVaOEM4SGpKZlFtRF9xMkl4a3Z6b0RDNWZ3bllPazZUeDVFa3pjdw?oc=5) |
 | 2026-05-13 | low | Investing.com | [Evercore ISI reiterates Outperform on Affirm stock, $90 target](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUU3dXBOVV9EeU95VWNFSUxnbG5lTGd1WVllajgwci1fZTBZMm0yd3A2UG1lR1BUQlMwYVF5QS00c0pkM2QzOWVOUXg0Vl85QjhTbzdJd2JCZEV4d0JZd3JwNHlFOVRfd2haLW9QUjVSUktYakMtbFR4dm5NS1RiMlBWdGZfT0lveW9GUXZqbFRmQWVBN2M0VGNvNFAxbDc0M0UxUXp0SVlLNTdrNUZrSWc0TkcwU19uUml2Tg?oc=5) |
+| 2026-05-12 | — | investors.affirm.com · PR | [Affirm works with Google to make AI shopping payments clear and simple](https://investors.affirm.com/news-releases/news-release-details/affirm-works-google-make-ai-shopping-payments-clear-and-simple) |
+| 2026-05-11 | — | investors.affirm.com · PR | [Affirm survey: 90% of small businesses are confident in growth outlook and turning to flexible payments to compete](https://investors.affirm.com/news-releases/news-release-details/affirm-survey-90-small-businesses-are-confident-growth-outlook) |
+| 2026-05-07 | — | investors.affirm.com · PR | [Affirm reports third fiscal quarter 2026 results](https://investors.affirm.com/news-releases/news-release-details/affirm-reports-third-fiscal-quarter-2026-results) |
+| 2026-05-04 | — | investors.affirm.com · PR | [Affirm to participate in upcoming investor conferences](https://investors.affirm.com/news-releases/news-release-details/affirm-participate-upcoming-investor-conferences-18) |
+| 2026-04-28 | — | investors.affirm.com · PR | [Nothing is coming: Affirm’s The Big Nothing returns May 13–15](https://investors.affirm.com/news-releases/news-release-details/nothing-coming-affirms-big-nothing-returns-may-13-15) |
+| 2026-04-16 | — | investors.affirm.com · PR | [Affirm to announce third quarter fiscal year 2026 results on May 7, 2026](https://investors.affirm.com/news-releases/news-release-details/affirm-announce-third-quarter-fiscal-year-2026-results-may-7) |
+| 2026-04-02 | — | investors.affirm.com · PR | [Affirm to host Investor Forum on May 12, 2026](https://investors.affirm.com/news-releases/news-release-details/affirm-host-investor-forum-may-12-2026) |
 
 ## Coverage notes
 
@@ -52,11 +65,35 @@ Affirm expanded its funding partnership with CPP Investments to support $8B in l
 
 Significance: high · Category: partnership
 
+### 2026-06-04 — investors.affirm.com
+
+**Affirm and CPP Investments renew and expand capital partnership**
+
+Affirm renewed and expanded its forward-flow capital agreement with CPP Investments, meaning Affirm has secured additional committed institutional funding to purchase consumer receivables — strengthening its ability to scale loan volume without straining its own balance sheet. For Snap Finance, this signals that Affirm is well-capitalized to compete aggressively on volume and merchant partnerships, though the headline/snippet lacks specifics on deal size or terms to fully gauge the magnitude.
+
+Significance: medium · Category: funding
+
+### 2026-06-03 — Yahoo Finance
+
+**Affirm CFO Says Bank Charter Would Diversify Funding, Not Turn It Into a Bank**
+
+Affirm's CFO signaled the company is exploring a bank charter primarily as a funding diversification tool (lower cost of capital) rather than a full banking pivot — suggesting Affirm is working to reduce dependence on capital markets and improve unit economics. For Snap Finance, this is a reminder that larger BNPL/POS financing players are actively shoring up funding advantages that could allow them to price more aggressively or expand into underserved credit segments where Snap competes.
+
+Significance: medium · Category: funding
+
 ### 2026-05-21 — Yahoo Finance
 
 **Will Deeper Google and Royal Caribbean Integrations Change Affirm Holdings' (AFRM) Narrative**
 
 The headline signals Affirm is deepening integrations with Google and Royal Caribbean, suggesting it is expanding BNPL reach into travel and broader e-commerce/search channels — but the snippet provides no specifics on terms, volume, or timeline. For Snap Finance, this is a reminder that Affirm continues to push upmarket and into new verticals, though Affirm's prime-credit, interest-free positioning remains largely distinct from Snap's subprime/lease-to-own focus.
+
+Significance: medium · Category: partnership
+
+### 2026-05-20 — investors.affirm.com
+
+**Royal Caribbean and Affirm to bring flexible and transparent payment options to travellers in UK and Canada**
+
+Affirm has partnered with Royal Caribbean to offer installment financing (no compounding interest or late fees) to cruise bookers in the UK and Canada, marking a meaningful geographic and vertical expansion into international travel. For Snap Finance, this signals Affirm continuing to push into experiential/travel spending and new markets, though Snap's core lease-to-own, subprime retail focus means direct competitive overlap remains limited for now.
 
 Significance: medium · Category: partnership
 

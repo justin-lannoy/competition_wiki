@@ -3,13 +3,13 @@ title: Bread Financial — Recent Coverage
 type: news
 competitor: [[bread-financial]]
 count: 30
-created: 2026-06-15
-updated: 2026-06-15
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # Bread Financial — Recent Coverage
 
-_Updated: June 15, 2026_  ·  News & PR for [[bread-financial]]
+_Updated: June 16, 2026_  ·  News & PR for [[bread-financial]]
 
 ## Coverage
 

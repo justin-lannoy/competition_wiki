@@ -2,38 +2,43 @@
 title: Zip — Recent Coverage
 type: news
 competitor: [[zip]]
-count: 27
-created: 2026-06-15
-updated: 2026-06-15
+count: 32
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # Zip — Recent Coverage
 
-_Updated: June 15, 2026_  ·  News & PR for [[zip]]
+_Updated: June 16, 2026_  ·  News & PR for [[zip]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-16 | low | Moomoo | [$Zip Co Ltd (ZIP.AU)$ cashed out 1/3 positions at 2.87[Joyful]](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjNJQXpfRVZyU25fRkozeEl5a0xVYjRId3RrTklaQW9QOGZsTmYyRjBJamZkeFZ1SFhncmFCbXdsVTkxX2RrdGt3VE85eWhKMkVpdjFLNG44Qnk0Y21NWXpsZWFRc1BFUUlJaWsxNGF5SFN0ZDNTc2c0RUpzdENoY1ExNUk1dXkyNDZKbWp2UTRzd3lNMXhLb0hWSUI?oc=5) |
 | 2026-06-14 | low | Bez Kabli | [Zip Co Rallies 9% as Buyback Draws Attention Ahead of FY26 Numbers](https://news.google.com/rss/articles/CBMilgFBVV95cUxORDJuaS1mdVI0ekhFRGR6emhIaXoySW9lOTNzaG5hMGZmbko4dlcwX1BCOFNiblVraUZrY0tDRTNRNVFuUUhqUFA2OEEzSkJWa0d5Zlk0YzBUV09XNnZjWS1KUm94UHVPWXBjMnlVOWEweERPVnEzeC1OVTlyenVVX0RMMWN6MkQ3ZEc3bVFIX01Ndi1QZlE?oc=5) |
 | 2026-06-14 | low | The Australian | [Zip chair defends disgraced ex-Star boss Bekier](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcEdSOF9SazA1MTNReHp0d2JiNUpYX2JfQXptRFhBSkQ3WUU5YTZxaFkyZXhYcGlDdHRoeVVTSUlvZXRDaFJPd0R1Y3hLY045SGNreG9wMENKNUE2V19kUzFwSE16TFBCNjZSNG5VbVhucEFuRXRoMldLbmU4WFN0Wnh0UWdMa0JOSU9ZQ084VC1LOFJVVGZfNWhPWlFNZF80UTVlcjhEN3Rlb0lOZkZYa19PQ0RGT2VRQkZHNnhWM1Yya3lLY2JVRm5rdkdsMUhoT0dGZWhsQ0I2RUFtMDRkOVdWa3pBTmR6bVJGT19fLU5CVWptVVHSAfsBQVVfeXFMUDdUakQxTXBoeUVnRTRTWnZkQ0NXRXprSVYxZ1NoQ2M0LWp6QmQzTWtCcWxJa1FlbWpGb3VkNVp2SHB3TVJic3QtN0dhbXV6WHBRdVRSOWNUYTM5bTRmWC0zTlUydzVVdXJpOE92TnM0OGlFWnBLSjlMQU9wdkhSYXhiWHpiN192SzVScU9RLUxuZjBLNGlKLUV3WVZxNXdWQXc1Y0ZYLXd3a19HbnYzVER4Skx5X1Y0N1YxQWRJNHEtVmNfeERKbEJvbExaLWkwU004VUMyaWNvNjJwNjNJUElyZ2dROTBkV0pXcFZOTmpQLVQyaGRsTER5WE0?oc=5) |
 | 2026-06-12 | medium | Bez Kabli | [Zip Co Shares Gain 9% After Buyback Ahead of FY26 Profit Target](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUE1rMnhyRHRhVmNWZ2JmVEY5elUyVldMSVgyNHc5M25sYmU0UDM2OXlyeVhlQmQ1eDQxdHVWa3RONEE2LUJ2dTZIcThjdjBIeTlCbzFacEctdnBEc2lGSkVaZlhWMzlkRlNVYk9sY1dLWmJnYkpORTRtR3JsQXM2RTVkcVRnX3RCS19nNmJFdEtpQQ?oc=5) |
 | 2026-06-10 | low | Lawyers Weekly | [The Zip Co decision: What the High Court’s ruling means for every brand owner](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3pORTRWUzBoenFJTUJTaHhTOUNqeWdtQjNjMXNCN2lTa0Z0bklTb3lGZVlEV1pZTDkwRWh4eHFlZGhQTkdCYkx6eWtBQWgtamcyZW9RbE1CUWZKc1RONnFTT0RjdWEyTU1BSVFneFRycExjYkJ5VjRVZ2x3X3RoNHgzNzZnSDF4UDVnZkJEV2hXTXo3clBXOUc1UzhMMDZScXRaRi1VdHl4YmxaaUV6ZXlMQ0dlSU84em5wWFZmSHk?oc=5) |
-| 2026-06-09 | low | Bez Kabli | [Zip Co Shares Just Jumped 5.9%—Here’s What Traders Are Watching Next](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkNHSzFiZVpId0t3bG9lUXh3NlZhZzktYTMwNWdGZXllb2ZsMU1yYUktS2FzcUdYSXc1cHRzdi0xMFJEVXhEbEI4MFBwbk5PdFJmbzBFU29BSzhORjQ2WUhoRTNybnFaTjFoTVhOWXp6ai1HV1l1RnFhdUVTM3pKdi13NURVZ0JtVFdpcEFlQi1pczJOc3pV?oc=5) |
+| 2026-06-10 | low | Bez Kabli | [Zip Co Shares Just Jumped 5.9%—Here’s What Traders Are Watching Next](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkNHSzFiZVpId0t3bG9lUXh3NlZhZzktYTMwNWdGZXllb2ZsMU1yYUktS2FzcUdYSXc1cHRzdi0xMFJEVXhEbEI4MFBwbk5PdFJmbzBFU29BSzhORjQ2WUhoRTNybnFaTjFoTVhOWXp6ai1HV1l1RnFhdUVTM3pKdi13NURVZ0JtVFdpcEFlQi1pczJOc3pV?oc=5) |
 | 2026-06-09 | low | thebull.com.au | [Zip Shares Lead ASX 200 Today as Breakout Attempt Shapes Up](https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2Z0Y3IzT0E3ajR3Mmhob1RrM2prVUpJWXRiVFh1X1Flc05zTnVWdWFiQWZscWMzLVBpakpVazhvOFRqSnNQUEJNc0xqNlA5VFozMVV2aTZCbGUwVUhabk9WRk02RGRIRDM1WU55dUpWNGtIa0wtalNJU0hleUFrbksxWnRIZzFhLV9pUzRiWnVmdw?oc=5) |
+| 2026-06-05 | low | CNBC | [The best buy now, pay later apps of June 2026](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQUVhbHkwelpZdlNOZVZtMlcxdDVCcDdLR1dYcFlwMHBmXzMtOXpMOVkxeFVuT2xVQ0tiZHVQYU5rbkZSaXlRSGVualFwMUFEWDZnMUllMzFTMmlYbGlLRzlIcDZHQ03SAWxBVV95cUxPSXN0MW5scGVHSExLNGtHNVcwQlNQZ1VuRnlYc2hOVi1mSGtDb1RNNjRtdXZIRDlMZFF4MGJ4dXI1d2FBdGs0cGZwblE4WmRVTFRQN1FTS0FYRmRuYzVGTXI5WXMxdWdKSTkyVWc?oc=5) |
 | 2026-06-02 | low | Norton Rose Fulbright | [Sharing isn’t always caring: The High Court clarifies honest concurrent use defence](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbkZCeGtoTWpYZUdoWmJrMEhCaWJYdVJ5RFBBOW5Sa2lISkdaLVlUZ1ZObW8zNEZ1M1NYTkZEMkc4Zl8tX3N0UDlsN3dzWDdRMEtvakxDMksyYWFBbmZoeXFNaGFkSjZVeXdCQjRMa0ZtUlIxN2RkLTZ6Uk9Ic1dZdFgzQndKV1hYSEdOeGxBdFFsT2VuQ2d4Q3lpVWlReG9DZ3k5dm9CclZaekNDcEtoV2NZZzgyNHQzMkhQMjdlMGRpcWM?oc=5) |
 | 2026-06-02 | low | The Motley Fool Australia | [3 reasons to buy Zip shares today](https://news.google.com/rss/articles/CBMie0FVX3lxTE9tbEJvUmQ4andyNF9BSWNtODhLcUhtRVVwU3VwSW5YTzI3ODFKYVZ5bnJyMTdzRFZ4ajNuZTBJVE9xcThrN1FUdXUyZEhwT2dKSzdZUnN1dlZqZGt5NUFfc2IyTk95cGNoNlhSZFlZQWg5RzhjMTBCQjBDZw?oc=5) |
 | 2026-05-29 | low | The Motley Fool Australia | [3 key reasons to buy Zip Co shares now](https://news.google.com/rss/articles/CBMif0FVX3lxTE1BSG94Rk9rM3YwV3N0OGVQd2dNeldNNllOekhnQ1hHV0xwYkc3SnpCLU04c29Kd0wtelJscmZWTURLNFh5TjRuY3dRODRveC02c21Rdkw0QVJLUUQ1NXU5LU1RVklIMTczanlXc1phbDM0RnFFNEd6RXB0SDNtVk0?oc=5) |
 | 2026-05-25 | medium | Gilbert + Tobin | [Zip Co zapped by High Court of Australia: trade mark loss leads to rebrand](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclN2ZHpKWTVYbFJNMFEzbFd6MVVLcXV6RDFjWWMyU0tlY2djenhtajdFc3FFb0pyQmdDRk14Mi1Bc3piNFQtWmgtWjFwanlieDBuM0FmNzJSRHNCT2g2U3FVbjZPZlVqczhYN185WXV3UUZXeW5ObGk5SGhSOV9ReHAydmhFaEphRF92RjFFRWQyQmpmNl9HajVKZmgwS3NSeV82SVJsbGpESzQ?oc=5) |
+| 2026-05-21 | low | Yahoo Finance Australia | [Australian Shares Up, Zip Co to Continue Using Zip Brand in Australia](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEJ1LXZTVDQ4UGZvTm1IUkFmSGh4OThpS1M2SUtOQ3lOS1lZd0hnc2VfX3E4U2FQWl9fdDJOdVBhMTdFbXJaZDM4Y1BrNTBXNVU3bUNFMnVRT0RseVl2cTZuRS02TDFBSkFyNjJ2azg3dVgyUU84ZThrbXR3Mkc3NDFGOEFnWkVYSkE?oc=5) |
 | 2026-05-21 | low | Business News Australia | [Zip Co settles trademark dispute with Firstmac, acquiring 'Zip' mark to keep brand name in Australia](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRERPUnFwNkw0bzRkZFFlNHJlRnFISE01YXZ5bXEyeXZaQk1sWlN0TW5tZlYtVDI1bUdOQ1RlcjU2LXIyaUFqR0gwTy1RalpadjUzY1VxYlpvb3gzSnJZYmtkb3RfNElya2VYTW9FYkI2LTJNZEN3dUhwTVZXUjNlSHpzVVhELWU3SGh5ZDhkd1FoajNfN0xSc1BYSzAxRDd4WXNCcjF0QjNxOWZlaV82MjY1eFdKWHFTWUpVQlJfX2JGaFAwaHdLWXlLT3I1UmpLdzZQY1RhcS1EazZSdWt3cDdR?oc=5) |
 | 2026-05-21 | low | marketscreener.com | [Australian Shares Up, Zip Co to Continue Using Zip Brand in Australia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDNPbG1BcWdCdHFoQnhSVGNKaUZETGN4bW1rZHpLeDJ4Ymp0WHhaWDd4dG1CT0hhQWRlbmNMTFBWaldBQ3FNLXB3bk5DMWdqenVjQV8zdUlzcURPTVZuUmE4Qkk3cDJXQWNLbnkwTWI1NmZJbWYyMDJNRWNsaHNtTTdkVEFKc2RlRmJrUnZvMVRhanFaR0g0cW0zTHJWXzMxXzBWZFJKeElmT25ETlVxdVZaVTF3UUJueWlVRUhR?oc=5) |
-| 2026-05-20 | low | Yahoo Finance Australia | [Australian Shares Up, Zip Co to Continue Using Zip Brand in Australia](https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEJ1LXZTVDQ4UGZvTm1IUkFmSGh4OThpS1M2SUtOQ3lOS1lZd0hnc2VfX3E4U2FQWl9fdDJOdVBhMTdFbXJaZDM4Y1BrNTBXNVU3bUNFMnVRT0RseVl2cTZuRS02TDFBSkFyNjJ2azg3dVgyUU84ZThrbXR3Mkc3NDFGOEFnWkVYSkE?oc=5) |
+| 2026-05-21 | medium | The Motley Fool Australia | [Down 55%: Should I buy Zip shares?](https://news.google.com/rss/articles/CBMidkFVX3lxTE5Vdnc1R1djUzljOEdoRXJ5X0xnYkpUanpjVmRwU3VGU21iWnMtMHFnLXZLazNDSUJ4THNMQVljeWRHV09RWnFoa3VRTDVCOHI1MElQVW82aC1rTGxTNVJLa0NQVTZHTnBFeHhHLUdfZG5uVGZkREE?oc=5) |
 | 2026-05-20 | low | Moomoo | [Zip Co to Continue Using Zip Brand in Australia](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmNKcUdYd3pCUVBSdnNEX0NHNzh5SnFoMzZVNDJZOXU0ZGUwYlFJTVQ3MmtiNFdDbDRRZ3VuTWtQYWp4NlI4TzFXZmVTbkpwaFdsY0lKbmt4VXk0cEM3QXJqaXJuOUhVaGQ0cDdWVkduRl9lX0I4aTdtaEdqZjBiX2tlTUtRa3IwVTBJczlKQUhLelE?oc=5) |
+| 2026-05-20 | low | Managing Intellectual Property | [Lawyers welcome Australian clarity on ‘honest’ defence to TM infringement](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYkxFZkVaTThjTXdUNFZsRnB6TXo0UlZaWnJXTVZmTGg1RmRpN2tsZmluTnJCMnVFNHRwMFV6QmdOQ05femhkNnVwMVRXTkZoUml3TXN6ZzhFYjlTWmtKRE1VbFp6Ul9EcXRFR1dPY2VCLXU0cXdoa1R1OVN3dEp2dS1kXzRQeWY1ZU1QdWdIYUJOYlBnaHFzWEJtLVoyRFFRTUFEV3k4Mlc4VEJ2TkxQelljYkhrU2JscVpNeGhaVDBPT3pXX0k2V0ktR0Y3bmdhS2ZrWkR3?oc=5) |
 | 2026-05-18 | low | Australasian Lawyer | [High Court of Australia clarifies honest concurrent use defence in trade mark dispute](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN09jZEFHeGRHYmNFUjNiTVU2VlVob2ZmS19adkxRNmRCa0JkV2JsTWs5bkFLalVKdVNyZFpKRnVUNWl0VUJxa2dMQmhDSU8wR19FczJRdmczZ1RNNDhmN1c3SUtCbUtYbmNxOUpYMU1SRHpVTjJnLXhZb1g4Z0g5aVBnN3BLek9xT2MtaVhsOWJxa01HMXZkaTBrVnctZGVKMVhkSlduWWRTVS1TSE5ZMkd0eVdVVlhRb3hJLXk5UnRRRkFZZ0phRS1KZ3hJTmhLWVhj?oc=5) |
 | 2026-05-14 | low | Capital Brief | [Zip zapped](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnFuWEdINTlkUDZUTWxBbS1Vc1gySEVHUGVjN0d0UFNGZlZfUHp1YmhUdVRtaTl3OGxRbERnZnZESjExNGNZLWZFcTdjd1U4RG4tZTkwX1pnbHpaVllZUzVDSzhFZm9QZjlObW9YMEF6eGF3RlpiSi0ydlBKUUNkZGFza01jRUtIa2xfQUpkMDBDUQ?oc=5) |
 | 2026-05-14 | medium | Stocks Down Under | [Zip Co (ASX:ZIP) Sinks on High Court Loss and Forced Rebrand: Buy the Dip or Cut Losses?](https://news.google.com/rss/articles/CBMid0FVX3lxTE9jWGRVOUpxRGh6RXI1NVFLSnVPVTQtVmpvU1ZzeWZrb1B5d0Q2M1JKUnRfZF80emhqVDQ2OXFFMmZFNkZvQ0dCSzRqQURWaUt0cDZCMGdESlVNaVN0dmV2cWFVZnFkZHdIZjJ5QUtZcFpGYjNycmQ4?oc=5) |
 | 2026-05-14 | medium | channelnews.com.au | [Zip Co Ordered To Rebrand After High Court Trademark Defeat](https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2RKbDBBTllFUDZQR0JKMHU4Uk5PcE0xX1FqVGg2UTE4WEhXYUFuWElSN3p5aklkd1ZfRkxldzlzUGxUelM1dGRLcmltQjB4aGVWZjd5X1hUU1lxN21MVmVsNWduMXh3akd4SVMwMWE0cUFVdkp4aVNqOXBCdUNyZVBDbEdPS1UxcnJHX3BRSHdmQ2F5MkE?oc=5) |
 | 2026-05-13 | medium | AFR | [Zip Co forced to change its name after losing major High Court stoush](https://news.google.com/rss/articles/CBMizwFBVV95cUxORklfNVBlRE8ybU41ZXpXZDJiTnBQNEhONEQwSXVpbFdGbWFWRU5qVHY3SVMtQ095S2h3M3dSSmttal9GeGJsOFJiVVdYTV9UT1NHT2ZoVEdXaFZMVTNicWV0WTNWMmFCcC1DZ01BT2dhSUE1VkItQktGcTl0R1A5aHBHTjY0dm4xVTM0ZXVxMnEtSUVWdnpQMnBDd3h2bGUyVkNKTC1takVxdzYtVzlfUUJzUjJSam8xamlKODlyejRyUmVQcmJJTV80ajFWSFk?oc=5) |
+| 2026-05-13 | medium | The Motley Fool Australia | [Zip shares sink after court loss. Is this ASX comeback stock in trouble?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3FuRWV0Q3NxWEZlRVVvMGoyODlob3M2RWdSMGMwRXV5SWRJSFpMeUk0Q0Q0aU80WEI0OTV5cE1IdzRJYk1KZVFhVzlDYzI0VEhWQl9FdDllTnpUSV9pX29LUkFPZEpVb3Q1NEVfZl9YYkZfMXBMNjlLaEh5VzZiUlExanVyRFk1NU1kdklhR1Q4X0NLX1JzMDB0eko2Vm9yM1hSeEVCeTE4QQ?oc=5) |
 | 2026-05-12 | low | TradingView | [Zip Co To Rebrand Its Australian Products And Services](https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjRqeWNZN294QzVuXzRqY3RvMTQ1ajFiQWtzUldtOGRvMGxJZFI0RDQtWjRiVkljUGJFVlZaUks5ci1HVWNCTWZNRXdILVF2WkpaTFBEZkJuTEtlUXRMVG5idW9nT2JaNU5IYlUxcXMzSkNMMDNOdU5NNGx3OGVLc3dkVVZfcksweC1seWROY1pPMTFqakowMVkwZE9fM0FfTmtPLVJoT0dZZFFYSWV5cjlEVzdic1B4TWt2clg2QjVwQQ?oc=5) |
 | 2026-05-07 | low | The Motley Fool Australia | [Why are Zip shares storming higher on Thursday?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQR1JFM0J5LVk2RW85VDA0NzhBNHhkT2VEM29PZE0ySkpqTENrNll6b0JQcGNYcnVuTHAxQUN6ZVY3OF90X2Q3VnZQemFDVWF5RFlnVnMteDQ2em03U1pfSHBVWjZWTWIxY3BrYzJZV2hfRGloeTdEcEVXX2E2WE16ZjBRSUNmemE1QUE?oc=5) |
 | 2026-05-06 | low | Procurement Magazine | [Scaling Finance: Zip Unveils Procure-to-Pay AI Automation](https://news.google.com/rss/articles/CBMifEFVX3lxTE5vbjdjeXNxaE0talRTTHNKSjRKajllbHJ5dUlyZkYwTU4ybFRxRkZ4bHM2SzNyNHI0UmpIRi15X1FzVHE3aWpDZTZGZ1NFVU5XU3M0bWFuOGJfYTVGcnRjNzk5TTF5cmdfS3dFSUtMUDlvRm9aTWtJRDQxTEo?oc=5) |
@@ -61,6 +66,14 @@ The snippet is too thin to confirm specifics, but based on the headline: Austral
 
 Significance: medium · Category: legal
 
+### 2026-05-21 — The Motley Fool Australia
+
+**Down 55%: Should I buy Zip shares?**
+
+The headline/snippet is too thin to determine the cause of Zip's ~55% share-price decline — it only poses a buy/sell question without providing underlying details on earnings, guidance, or business developments.
+
+Significance: medium · Category: other
+
 ### 2026-05-14 — Stocks Down Under
 
 **Zip Co (ASX:ZIP) Sinks on High Court Loss and Forced Rebrand: Buy the Dip or Cut Losses?**
@@ -82,6 +95,14 @@ Significance: medium · Category: legal
 **Zip Co forced to change its name after losing major High Court stoush**
 
 The snippet confirms Zip Co lost a High Court case in Australia that compels a corporate name change, but provides no detail on the underlying dispute, damages, or timeline. This is too thin to assess full business impact beyond the reputational and operational disruption of rebranding.
+
+Significance: medium · Category: legal
+
+### 2026-05-13 — The Motley Fool Australia
+
+**Zip shares sink after court loss. Is this ASX comeback stock in trouble?**
+
+The headline and snippet are too thin to determine the nature of the court loss, the ruling's specifics, or its financial/operational impact on Zip beyond the share price decline.
 
 Significance: medium · Category: legal
 

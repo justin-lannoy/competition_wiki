@@ -2,30 +2,41 @@
 title: Afterpay — Recent Coverage
 type: news
 competitor: [[afterpay]]
-count: 26
-created: 2026-06-15
-updated: 2026-06-15
+count: 37
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # Afterpay — Recent Coverage
 
-_Updated: June 15, 2026_  ·  News & PR for [[afterpay]]
+_Updated: June 16, 2026_  ·  News & PR for [[afterpay]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-16 | low | Retail Technology Innovation Hub | [GlassesUSA.com adds Afterpay at checkout as research flags cash strapped shoppers delaying purchases](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnlpcTNmRkY5NUYxemlmeEdzQURMRGJ6bHNOOTRPcG4zTDZNdXRmRkhUTV8xM292RVJtcFNOWXNFS2xGcDdhNGlOU1preVFpdDl0SmNmRUhvakRjZF9FdkFHTTNxX1RXdTJRMVNOUTJOeGFzakpTc04zSHA3UkhiS2I5YVJ0UTEtTG81Yzd6VlVsT0VpeG5YN1podU81OVJZYUZISzJqYlY2UjY3TS1qd3M0V0p3ZU9ZUDMteHJsQS1KdFFyU0pSY2kxM3lpM01wdjFvVzlISWU2MFZzVlJfcTAyN0VDQXUt?oc=5) |
+| 2026-06-12 | low | investors.block.xyz · PR | [Square Financial Services Introduces 3.50% APY High Yield Savings for Square Sellers, More Than 8 Times the National Average](https://investors.block.xyz/investor-news/news-details/2026/Square-Financial-Services-Introduces-3-50-APY-High-Yield-Savings-for-Square-Sellers-More-Than-8-Times-the-National-Average/default.aspx) |
 | 2026-06-11 | low | Coliseum Global Sports Venue Alliance | [Sydney venue is Afterpay Arena in new naming rights deal](https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2ZjU0d6SUFtcXY0SkphMVBObFVVZlFGZWlFWUlfMC1CRXZuWnAyMDdRSjBsbTN1cnNRa0xzckNra3B5cGF6NGg1OWg1MWdnUVdKbXFBY1pZNUgxV3RneHd3ajA1cUpzOWJHNFZDZ3BMdDZ4UFBGVUUwTjk3WGJSY0N4ZEVwUVA1dUNKUFZuUldTWHPSAZgBQVVfeXFMTkFxVm5IRGFsckU1RjdmbWdtVGJJd081MEUwWG5hZ1Y5ZENPOUtfZzVPTnhkVmZDMkhTNUxlZmsxdHRVV3NwVFNyeXBkUmEtTmNCNGNLeUtGMS03c2RVdnZEWW95ZEdxR05IU01QVmlDUzJkeE5wRUtsMDBsRE1vbVJqMlNBN2Q4V01aX1lzbzZMWDh3U3p0OXc?oc=5) |
 | 2026-06-11 | low | Invezz | [How to Buy Bitcoin With Afterpay in 2026](https://news.google.com/rss/articles/CBMidkFVX3lxTE9sTkpJd2JvQml6RlpNRFFSWC1kZUNSUzBHSzhqR3c1ZzFGeE5TLVVXbU9fVEdqOFZMeC1EdmxTTUlLNF9KY0RsVnk1aHhWWEpzdDNFNUMybUYtWmN1UkI2SUs5dEZjQncycEV0OGVWRDRGUkp0X0E?oc=5) |
+| 2026-06-11 | low | investors.block.xyz · PR | [Coffee Dose Scales from 88 Square Feet to an Eight-Figure Brand Supported by Square](https://investors.block.xyz/investor-news/news-details/2026/Coffee-Dose-Scales-from-88-Square-Feet-to-an-Eight-Figure-Brand-Supported-by-Square/default.aspx) |
+| 2026-06-10 | low | Money Talks News | [6 Reasons Consumer Advocates Warn Shoppers Not to Use ‘Buy Now, Pay Later’](https://news.google.com/rss/articles/CBMiggFBVV95cUxOOFk4YmhyZmtpQ3dFVHpjaFJjamFXdk41ZFFMRnQ0d0RtbkNQcjNkajhwWkVZbUJJN3F1RVhyU0xvVktuQVlueHhlZ1JuWUMzQ0xaQkxtUGxFei1odVZFenBuM1BjWDlFaVpDck5OUXR5QWhyTTdTRFp0X2lUNXdIZmF3?oc=5) |
+| 2026-06-09 | medium | Yahoo Finance | [Block Expands Afterpay and Cash App Pay Across New Brands](https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWxodVlmbDhEWVB3T3M1dzdzdzdwQXI5dEQzelA0bFI4UXp1WDJFVExjUDQ5OXlfZ3A3VXNIcFRPa0tHNUs1UlUtVlNEYngzeUdHalp0LW1DelpPdjVYNjJmYktQLU8wVlptMjZ0VlNHZ1p4b2VKaUJWeExJcmpTdjNlNWM3X29JZXFIZG9oSTFIbWUzemZzaF9lWk8?oc=5) |
 | 2026-06-08 | low | RNZ | [Afterpay having 'direct impact' on number of dogs Auckland Council shelters euthanise](https://news.google.com/rss/articles/CBMixgFBVV95cUxOLW1IZXpPN3hYejM0eFdBNWRSM3FTbm9vQVlUQkJScEl6dFJRX2x6b2s0MndRMW9VS2VDYkN3Sjktb1ByR0xmS3BtZndnVnNnV3duS2FGQjN3dUN2akUxNDBnSklocnJuSHd3WURyYUdjbDhUUnRGaTY1YW9LdG5mUUxNa25zcGs1MFo4WmpnMFduWExJUHpfYWMzTS02bElEdTFIY3YwRUZFd01sVmlTbW5fbUNYYmYyT1pUV01mQmRVTElyVWc?oc=5) |
 | 2026-06-08 | medium | PYMNTS.com | [Cash App Expands Pay Later and Pay Now via Instacart Partnership](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlVvTXM2aTJUMVNiQWdNRFpPbFpUMEo4LWRTSVhqc1d6eG1ETUpxaFNIVnd2aFR2SjhRN3kyaDh5ZndZMzhRWDNEX1NHNnlSX1V6TExXNGhBQndXQTJCOE9rSTY3S016cXZfSzdZaTY4RUY3dmNlRmN3NXB1OFhBbWpnc3NIelJyUnlPeTBSTnRsN3ljbVctS3ZQSVJCN3dkWXVqMUk1NHJYTUFxRVV5WkVEcUVTMXFF?oc=5) |
+| 2026-06-08 | low | investors.block.xyz · PR | [Monday Swimwear and Instacart Among Latest Brands to Add Afterpay and Cash App Pay to Checkout This Summer](https://investors.block.xyz/investor-news/news-details/2026/Monday-Swimwear-and-Instacart-Among-Latest-Brands-to-Add-Afterpay-and-Cash-App-Pay-to-Checkout-This-Summer/default.aspx) |
 | 2026-06-07 | low | NZ Herald | [Auckland Council trials Afterpay at dog pounds as pet costs bite](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWwzQmJPODZHT3ZSY3pYRlhUWENsSmtJN2V6b2ZxM1EtX3FfWkFpVjBrRldjYTFSSXJJVURrcFlQUTFhM1diWllVSUdqSXNHWFliZUt0SDJBdVpFZW9tc3NiTW12R1hCRDhRTHYzM3RFdkxNMmZoSFV3TWQzSHFDZU9abHIzTWhld050WWRIR3daUFNPWkk3REpaUndrTzMtQ1N4N0liWm5qRURUa0ZVdGlubTU4SkJsWnh3aFZaS0xFRlhTSUE?oc=5) |
+| 2026-06-05 | low | CNBC | [The best buy now, pay later apps of June 2026](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQUVhbHkwelpZdlNOZVZtMlcxdDVCcDdLR1dYcFlwMHBmXzMtOXpMOVkxeFVuT2xVQ0tiZHVQYU5rbkZSaXlRSGVualFwMUFEWDZnMUllMzFTMmlYbGlLRzlIcDZHQ03SAWxBVV95cUxPSXN0MW5scGVHSExLNGtHNVcwQlNQZ1VuRnlYc2hOVi1mSGtDb1RNNjRtdXZIRDlMZFF4MGJ4dXI1d2FBdGs0cGZwblE4WmRVTFRQN1FTS0FYRmRuYzVGTXI5WXMxdWdKSTkyVWc?oc=5) |
+| 2026-06-04 | low | investors.block.xyz · PR | [Introducing Cash App Tags: A New Way to Pay](https://investors.block.xyz/investor-news/news-details/2026/Introducing-Cash-App-Tags1-A-New-Way-to-Pay/default.aspx) |
 | 2026-06-03 | medium | Payments Dive | [Block expands Afterpay on Cash App card](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0lhT0gwOFBCUUhzTGowUlA3QTlrbWFVV1h0RnZicWhWR3JheUNoUndhUUtuNW5mV19YMTdQTTRPZG03QjBwTXczT3QyTlo3NFJ3eHFWb1FxclY1UFVqUXBkV1VwYmdZaEw5RmREYU83Yy13N2xiXzVaakk4Q3FoSG1XTUFURDAt?oc=5) |
 | 2026-06-03 | medium | TradingView | [Block's Cash App Adds Afterpay BNPL: Will This Drive User Engagement?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3g3amdXN2NBTGlUalBEcjBCTV9qemo2aHFTQnVqNnRnTnNfRWtwNFdKOXdrY3h0cWw4cVZNemU4TV9pUDE5Qzl5NzRLMDNFcjc5R2taWTRYd25PQjRUbTFUaURtOTc0eWpucTVQenQ1dkc5aGh1ejNPcGYyOFk2WVdkaV9lQ0swVDhvTEg4QWo1dDNVS19DdGUxUkVST3gxOHdSSGFYclFNc3QwNjlGaWhmS1lIY0pTcDk5UEFfa0s?oc=5) |
+| 2026-06-03 | low | investors.block.xyz · PR | [Baker St Cafe Builds a Neighborhood Favorite on Square](https://investors.block.xyz/investor-news/news-details/2026/Baker-St-Cafe-Builds-a-Neighborhood-Favorite-on-Square/default.aspx) |
 | 2026-06-02 | medium | MarketWatch | [Americans are using buy-now-pay-later for gas and groceries, showing just how expensive daily necessities are now](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTjk3Z0ZMUzNDUzRtMkVtUVlFOTYzMXdiakVScDctOUp6SnVWYmQ5NDZJektUaElmeHp6c2M1LWhCcl80ZVp5T3Z5NEctZWlYMy1CYjlockdIRko2RXNHX2g4S25ocEFxc3c4d1IySk9aaURJN1ZUcERqOVJWdmFhQzQwQlluUWctekMwUFJEaVQ0TzhPVFZYX0ZUNTZMZGl1X2lkXzNPYUFvSzZ0ZnVYTDQ3SkQ0azNOSV9VekgxVFE2R3FOUGttaDUxYUdzOEc2MWs5aU0zRjdqZnFHR2xBVk5oZGo4MGx2VnM0?oc=5) |
+| 2026-06-02 | high | investors.block.xyz · PR | [As BNPL Goes Mainstream, Cash App and Afterpay Brings Pay-Over-Time to Every Purchase, Where Visa is Accepted](https://investors.block.xyz/investor-news/news-details/2026/As-BNPL-Goes-Mainstream-Cash-App-and-Afterpay-Brings-Pay-Over-Time-to-Every-Purchase-Where-Visa-is-Accepted/default.aspx) |
 | 2026-06-01 | low | IT Brief New Zealand | [Afterpay NZ profit more than triples on BNPL growth](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkc4NFF4Mlp3NWF5LUwxcGk0QnRzbGRIVjY2ZkRob0VWMHg1ZUc4LVNrUk9rUkgybHJPdDk2OUxlUHZuU2dLY0xuamlPSVM4dXdudzh1b3FPSTkyVHUwaWZYeUNzd0NnQXFBMnBDZEhUMFVqQnU1YWxKZHJWdzhXQWk5ckxNdw?oc=5) |
 | 2026-06-01 | low | PerthNow | [A 7-day Afterpay travel guide to the east coast](https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3E0OFhaWE1XWnROY0FETEh4VGhQYjRTY3pjNFcybFhESWxWWDdWZDZ0V05NQkhoUWdfQWVvY2oyMUNwb2dYZUtUV3ZUVXhMNEVFMUM2UlZXWmpQODV5aTd5VDRLWDFoOG5jd0xXNE1FU3JyMlBKb25oelNrX2RKRDVNdUxtR25CeXFEdVg2dkFJcTdnMWNtWFU1VQ?oc=5) |
 | 2026-05-28 | low | Spice News | [Name change announced for Sydney arena](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGRXMDhXNlo3aHBzWEZDTUdaeDlzQ0RfTGEwa2pmNVc2NlhqV21fbm84aVhrU2tnbVNPMjg2aFRGak1iY3UyUy01UTczQkl5MC01RS1pU1U3Vk9xb0FfSkl0Q0QxQkV0TnpfLV9RTWZESHd6OWFkb1N2MU9KSjdxLVJyYTF4ZDR4Mms5YlB1SThuTTk2Qy02TWVRclM?oc=5) |
+| 2026-05-26 | low | investors.block.xyz · PR | [Magnolia Soap & Bath Co. Selects Square to Power Its 50+ Location Retail Franchise](https://investors.block.xyz/investor-news/news-details/2026/Magnolia-Soap--Bath-Co--Selects-Square-to-Power-Its-50-Location-Retail-Franchise/default.aspx) |
 | 2026-05-21 | low | Statista | [Afterpay use in Australia 2025](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTkFwRkdOVFBSNllEMWVWLTBybWF5X2RUcmJhLXNSeFM3eGQ3ZU5hM0xqM1d6bnhDVFU5NEhfdC1TWVVFRTM1YWFNUlRQaVA1OFJRUk1wTlhZSDl1a0o1UThjWG4wUm9WUWwwVzNfTWRSeEc2eVItVUl2NHI5TmNjeA?oc=5) |
 | 2026-05-21 | low | Time Out Worldwide | [Afterpay Arena is one of Sydney's major concert and sport venues](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0waUZud09zcW1zakJxNEd0VWhrNzhlVGcyNkJELUpUVHQxb1k3TUoyaGw4VWdfTmtDeXVRMmVBalp5amQ4bGxvSGhXQ2swc09PX3NmZTJEY1BmOURtbEZUNA?oc=5) |
 | 2026-05-21 | low | PressReader | [Op shops add Afterpay \| Taranaki Daily News](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjM5NmI4Ym5zT0lURm5TLXdoTWdOMFhaTV8wOVpzei1jSGpfbDBiMzlpMmJiWjlsekdudUQ3SXRvT2tPWmZLdjdiR0lsVEFWeW9vaDRfTFZ3allxdkRCdzlKcjh1bDM1UVRoMDhDOWI0Rk9LWHJxSTJDMFVmUlhOenRFbXhmVDkwam52Zw?oc=5) |
@@ -43,6 +54,14 @@ _Updated: June 15, 2026_  ·  News & PR for [[afterpay]]
 | 2026-05-19 | low | Sacramento Bee | [Afterpay Review: My Honest Take on This BNPL App](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zNlprSmxXNHROaUNzREVNMkNETWItRC1DVFRyX0RUY0FNRE5Cci1FZGJZN3BMNjczbWk2ajlJbG5tM2gxN0dnVjFzNkVOZms1Wm1LVWRPTTBqbkdWSWZ2TndHcTR5UnRz?oc=5) |
 
 ## Coverage notes
+
+### 2026-06-09 — Yahoo Finance
+
+**Block Expands Afterpay and Cash App Pay Across New Brands**
+
+The headline/snippet is too thin to extract specifics — it signals Afterpay and Cash App Pay are expanding to new merchant brands, but no details on which merchants, verticals, or deal terms are provided. For Snap Finance, broader Afterpay merchant penetration generally increases competitive pressure at the point of sale, particularly if expansion targets non-prime or lease-to-own-adjacent retail segments.
+
+Significance: medium · Category: partnership
 
 ### 2026-06-08 — PYMNTS.com
 
@@ -75,3 +94,11 @@ Significance: medium · Category: product
 Afterpay and other BNPL players are seeing consumers increasingly rely on installment financing for everyday essentials like gas and groceries, signaling that financial stress is pushing demand for short-term credit further down the income spectrum. For Snap Finance, this validates the lease-to-own/subprime financing market's tailwinds, as cash-strapped consumers who may not qualify for traditional BNPL are likely candidates for Snap's products at durable goods retailers.
 
 Significance: medium · Category: other
+
+### 2026-06-02 — investors.block.xyz
+
+**As BNPL Goes Mainstream, Cash App and Afterpay Brings Pay-Over-Time to Every Purchase, Where Visa is Accepted**
+
+The headline suggests Afterpay/Cash App is expanding BNPL acceptance to anywhere Visa is accepted, significantly broadening its addressable market beyond merchant-integrated checkout and potentially reaching underserved or everyday spending occasions. This is a direct competitive threat to Snap Finance, as wider BNPL accessibility could reduce the friction advantage Snap holds in point-of-sale retail contexts — though the headline/snippet is too thin to confirm execution details or rollout scope.
+
+Significance: high · Category: product

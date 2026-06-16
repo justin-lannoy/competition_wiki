@@ -45,7 +45,7 @@
       "title": "Zip Co Shares Just Jumped 5.9%\u2014Here\u2019s What Traders Are Watching Next",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkNHSzFiZVpId0t3bG9lUXh3NlZhZzktYTMwNWdGZXllb2ZsMU1yYUktS2FzcUdYSXc1cHRzdi0xMFJEVXhEbEI4MFBwbk5PdFJmbzBFU29BSzhORjQ2WUhoRTNybnFaTjFoTVhOWXp6ai1HV1l1RnFhdUVTM3pKdi13NURVZ0JtVFdpcEFlQi1pczJOc3pV?oc=5",
       "source": "Bez Kabli",
-      "published": "2026-06-09",
+      "published": "2026-06-10",
       "feed": "google-news",
       "snippet": "Zip Co Shares Just Jumped 5.9%\u2014Here\u2019s What Traders Are Watching Next Bez Kabli",
       "summary": "The headline and snippet are too thin to determine the cause of Zip Co's 5.9% share price jump \u2014 no earnings, news event, or catalyst is identified beyond the price movement itself.\n\nSignificance: low \u00b7 Category: other",
@@ -95,7 +95,7 @@
       "title": "Australian Shares Up, Zip Co to Continue Using Zip Brand in Australia",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEJ1LXZTVDQ4UGZvTm1IUkFmSGh4OThpS1M2SUtOQ3lOS1lZd0hnc2VfX3E4U2FQWl9fdDJOdVBhMTdFbXJaZDM4Y1BrNTBXNVU3bUNFMnVRT0RseVl2cTZuRS02TDFBSkFyNjJ2azg3dVgyUU84ZThrbXR3Mkc3NDFGOEFnWkVYSkE?oc=5",
       "source": "Yahoo Finance Australia",
-      "published": "2026-05-20",
+      "published": "2026-05-21",
       "feed": "google-news",
       "snippet": "Australian Shares Up, Zip Co to Continue Using Zip Brand in Australia Yahoo Finance Australia",
       "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it only confirms Zip Co will retain its \"Zip\" brand in Australia, with no detail on strategy, financials, or market moves. There is no clear read-through for Snap Finance based on this information alone.\n\nSignificance: low \u00b7 Category: other",
@@ -269,6 +269,56 @@
       "feed": "google-news",
       "snippet": "Zip Co Shares Lead ASX 200 Gainers, Up 75% On Month thebull.com.au",
       "summary": "Zip Co's shares surged 75% over the past month, leading ASX 200 gainers, though the snippet provides no explanation for the rally (e.g., earnings beat, deal, or macro tailwind). Without more detail, it's unclear whether this reflects a fundamental business improvement or market sentiment shift that would signal a stronger competitive threat to Snap Finance.\n\nSignificance: medium \u00b7 Category: other",
+      "significance": "medium"
+    },
+    "cc223fcd5d0cb05b": {
+      "title": "$Zip Co Ltd (ZIP.AU)$ cashed out 1/3 positions at 2.87[Joyful]",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjNJQXpfRVZyU25fRkozeEl5a0xVYjRId3RrTklaQW9QOGZsTmYyRjBJamZkeFZ1SFhncmFCbXdsVTkxX2RrdGt3VE85eWhKMkVpdjFLNG44Qnk0Y21NWXpsZWFRc1BFUUlJaWsxNGF5SFN0ZDNTc2c0RUpzdENoY1ExNUk1dXkyNDZKbWp2UTRzd3lNMXhLb0hWSUI?oc=5",
+      "source": "Moomoo",
+      "published": "2026-06-16",
+      "feed": "google-news",
+      "snippet": "$Zip Co Ltd (ZIP.AU)$ cashed out 1/3 positions at 2.87[Joyful] Moomoo",
+      "summary": "The headline and snippet are too thin to provide meaningful competitive intelligence \u2014 this appears to be a retail investor's social media post about personally selling one-third of their Zip Co position at AUD $2.87, not a corporate announcement.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "b5ccfebd4db01c56": {
+      "title": "The best buy now, pay later apps of June 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQUVhbHkwelpZdlNOZVZtMlcxdDVCcDdLR1dYcFlwMHBmXzMtOXpMOVkxeFVuT2xVQ0tiZHVQYU5rbkZSaXlRSGVualFwMUFEWDZnMUllMzFTMmlYbGlLRzlIcDZHQ03SAWxBVV95cUxPSXN0MW5scGVHSExLNGtHNVcwQlNQZ1VuRnlYc2hOVi1mSGtDb1RNNjRtdXZIRDlMZFF4MGJ4dXI1d2FBdGs0cGZwblE4WmRVTFRQN1FTS0FYRmRuYzVGTXI5WXMxdWdKSTkyVWc?oc=5",
+      "source": "CNBC",
+      "published": "2026-06-05",
+      "feed": "google-news",
+      "snippet": "The best buy now, pay later apps of June 2026 CNBC",
+      "summary": "The snippet is too thin to draw meaningful conclusions \u2014 it only confirms Zip appeared in a CNBC BNPL roundup for June 2026, but provides no detail on ranking, commentary, or context.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "acc82a40227e51dc": {
+      "title": "Down 55%: Should I buy Zip shares?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Vdnc1R1djUzljOEdoRXJ5X0xnYkpUanpjVmRwU3VGU21iWnMtMHFnLXZLazNDSUJ4THNMQVljeWRHV09RWnFoa3VRTDVCOHI1MElQVW82aC1rTGxTNVJLa0NQVTZHTnBFeHhHLUdfZG5uVGZkREE?oc=5",
+      "source": "The Motley Fool Australia",
+      "published": "2026-05-21",
+      "feed": "google-news",
+      "snippet": "Down 55%: Should I buy Zip shares? The Motley Fool Australia",
+      "summary": "The headline/snippet is too thin to determine the cause of Zip's ~55% share-price decline \u2014 it only poses a buy/sell question without providing underlying details on earnings, guidance, or business developments.\n\nSignificance: medium \u00b7 Category: other",
+      "significance": "medium"
+    },
+    "8239a13316105a50": {
+      "title": "Lawyers welcome Australian clarity on \u2018honest\u2019 defence to TM infringement",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYkxFZkVaTThjTXdUNFZsRnB6TXo0UlZaWnJXTVZmTGg1RmRpN2tsZmluTnJCMnVFNHRwMFV6QmdOQ05femhkNnVwMVRXTkZoUml3TXN6ZzhFYjlTWmtKRE1VbFp6Ul9EcXRFR1dPY2VCLXU0cXdoa1R1OVN3dEp2dS1kXzRQeWY1ZU1QdWdIYUJOYlBnaHFzWEJtLVoyRFFRTUFEV3k4Mlc4VEJ2TkxQelljYkhrU2JscVpNeGhaVDBPT3pXX0k2V0ktR0Y3bmdhS2ZrWkR3?oc=5",
+      "source": "Managing Intellectual Property",
+      "published": "2026-05-20",
+      "feed": "google-news",
+      "snippet": "Lawyers welcome Australian clarity on \u2018honest\u2019 defence to TM infringement Managing Intellectual Property",
+      "summary": "The headline and snippet are too thin to tell \u2014 there is no detail connecting Zip specifically to this trademark infringement case, nor any indication of the outcome, parties involved, or relevance to Zip's business operations. This appears to be general legal/IP commentary from an Australian law publication with no clear read-through for Snap Finance.\n\nSignificance: low \u00b7 Category: legal",
+      "significance": "low"
+    },
+    "7fada3e373c209a0": {
+      "title": "Zip shares sink after court loss. Is this ASX comeback stock in trouble?",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3FuRWV0Q3NxWEZlRVVvMGoyODlob3M2RWdSMGMwRXV5SWRJSFpMeUk0Q0Q0aU80WEI0OTV5cE1IdzRJYk1KZVFhVzlDYzI0VEhWQl9FdDllTnpUSV9pX29LUkFPZEpVb3Q1NEVfZl9YYkZfMXBMNjlLaEh5VzZiUlExanVyRFk1NU1kdklhR1Q4X0NLX1JzMDB0eko2Vm9yM1hSeEVCeTE4QQ?oc=5",
+      "source": "The Motley Fool Australia",
+      "published": "2026-05-13",
+      "feed": "google-news",
+      "snippet": "Zip shares sink after court loss. Is this ASX comeback stock in trouble? The Motley Fool Australia",
+      "summary": "The headline and snippet are too thin to determine the nature of the court loss, the ruling's specifics, or its financial/operational impact on Zip beyond the share price decline.\n\nSignificance: medium \u00b7 Category: legal",
       "significance": "medium"
     }
   }

@@ -31,22 +31,22 @@ pipeline (`scripts/refresh_sec_filings.py`) and the wiki's Competitor Watch view
 
 | Slug | Competitor | Parent (SEC issuer) | Ticker | Category | Tier | Product | Search query | PR feed | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| acima | Acima | Upbound Group | UPBD | lto | direct-lto | lease | | | Brand of Upbound Group (also Rent-A-Center) |
-| progressive-leasing | Progressive Leasing | PROG Holdings | PRG | lto | direct-lto | lease | | | |
-| american-first-finance | American First Finance (AFF) | FirstCash Holdings | FCFS | lto | direct-lto | hybrid | | | Subsidiary of FirstCash Holdings |
-| katapult | Katapult | Katapult Holdings | KPLT | lto | direct-lto | lease | "Katapult" OR "Katapult Holdings" | | E-commerce lease-to-own; merging into Aaron's/CCFI |
+| acima | Acima | Upbound Group | UPBD | lto | direct-lto | lease | | https://investor.upbound.com/rss/news-releases.xml | Brand of Upbound Group (also Rent-A-Center) |
+| progressive-leasing | Progressive Leasing | PROG Holdings | PRG | lto | direct-lto | lease | | https://investor.progholdings.com/rss/news-releases.xml | |
+| american-first-finance | American First Finance (AFF) | FirstCash Holdings | FCFS | lto | direct-lto | hybrid | | https://investors.firstcash.com/rss/news-releases.xml | Subsidiary of FirstCash Holdings |
+| katapult | Katapult | Katapult Holdings | KPLT | lto | direct-lto | lease | "Katapult" OR "Katapult Holdings" | https://ir.katapultholdings.com/rss/PressRelease.aspx | E-commerce lease-to-own; merging into Aaron's/CCFI |
 | koalafi | Koalafi | Koalafi (private) | private | pos-financing | direct-lto | hybrid | | | Privately held; prime waterfall + LTO backstop |
 | easypay-finance | EasyPay Finance | EasyPay Finance (private) | private | lto | direct-lto | RIC | "EasyPay Finance" OR "Duvera Billing" | | Retail installment / lease-to-own |
 | kafene | Kafene | Kafene (private) | private | lto | direct-lto | lease | | | Privately held POS lease-to-own |
 | uown | Uown Leasing | Uown (private) | private | lto | direct-lto | lease | "Uown Leasing" | | Privately held POS lease-to-own |
 | sunbit | Sunbit | Sunbit (private) | private | pos-financing | direct-lto | loan | "Sunbit" | | Near/non-prime POS lending: auto-repair, dental, optical |
 | genesis-credit | Genesis Credit | Genesis Financial Solutions (private) | private | pos-financing | direct-lto | card | "Genesis Credit" OR "Genesis Financial Solutions" OR "Concora Credit" | | Second-look / non-prime private-label card |
-| affirm | Affirm Holdings | Affirm Holdings | AFRM | bnpl | adjacent-bnpl | loan | | | |
-| klarna | Klarna Group | Klarna Group | KLAR | bnpl | adjacent-bnpl | loan | | | Foreign filer (20-F / 6-K) |
+| affirm | Affirm Holdings | Affirm Holdings | AFRM | bnpl | adjacent-bnpl | loan | | https://investors.affirm.com/rss/news-releases.xml | |
+| klarna | Klarna Group | Klarna Group | KLAR | bnpl | adjacent-bnpl | loan | | https://investors.klarna.com/rss/pressrelease.aspx?categoryid=&items=15 | Foreign filer (20-F / 6-K) |
 | sezzle | Sezzle | Sezzle Inc. | SEZL | bnpl | adjacent-bnpl | loan | | | |
-| afterpay | Afterpay | Block, Inc. | XYZ | bnpl | adjacent-bnpl | loan | "Afterpay" | | Subsidiary of Block; filings are Block's consolidated reports |
+| afterpay | Afterpay | Block, Inc. | XYZ | bnpl | adjacent-bnpl | loan | "Afterpay" | https://investors.block.xyz/rss/pressrelease.aspx | Subsidiary of Block; filings are Block's consolidated reports |
 | zip | Zip | Zip Co Limited | ZIP.AX | bnpl | adjacent-bnpl | loan | "Zip Co" OR "Zip Pay" OR Quadpay | | ASX-listed; not a U.S. SEC filer (skipped in EDGAR) |
 | bread-financial | Bread Financial | Bread Financial Holdings | BFH | pos-financing | prime-card | card | "Bread Financial" | | |
-| synchrony-financial | Synchrony Financial | Synchrony Financial | SYF | pos-financing | prime-card | card | | | |
+| synchrony-financial | Synchrony Financial | Synchrony Financial | SYF | pos-financing | prime-card | card | | https://investors.synchrony.com/news-events/financial-news/rss | |
 | healthcare-finance-direct | HFD (Healthcare Finance Direct) | Healthcare Finance Direct (private) | private | medical-financing | medical | loan | "Healthcare Finance Direct" | https://gohfd.com/feed/ | Rebranded to HFD; coverage from official PR feed |
 | scratchpay | Scratchpay | Scratchpay (private) | private | medical-financing | medical | loan | "Scratchpay" | | Veterinary / pet patient financing |

@@ -22,6 +22,10 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 NEWS_UA = "Snap Finance competition_wiki refresh_news.py jlannoy@snapfinance.com"
+# Many IR newsroom hosts (Q4 Inc / Akamai WAFs) throttle a non-browser UA; PR
+# feeds fall back to this when the descriptive UA yields nothing.
+BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36")
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
 MIN_INTERVAL = 0.5   # seconds between requests — gentle with public feeds
 
@@ -269,12 +273,12 @@ class NewsClient:
         self.ua = ua
         self._last = 0.0
 
-    def _get(self, url: str) -> bytes:
+    def _get(self, url: str, ua: str | None = None) -> bytes:
         wait = MIN_INTERVAL - (time.monotonic() - self._last)
         if wait > 0:
             time.sleep(wait)
         req = urllib.request.Request(url, headers={
-            "User-Agent": self.ua,
+            "User-Agent": ua or self.ua,
             "Accept": "application/rss+xml, application/xml, text/xml, */*",
         })
         try:
@@ -287,4 +291,16 @@ class NewsClient:
         return parse_rss(self._get(google_news_url(query, when_days)), feed="google-news")
 
     def fetch_pr_feed(self, url: str) -> list[NewsItem]:
-        return parse_rss(self._get(url), feed="pr")
+        """Fetch an official PR/newsroom feed. Tries the descriptive UA first
+        (good citizen), then falls back to a browser UA — IR-host WAFs commonly
+        throttle non-browser agents (Q4 Inc / Akamai)."""
+        try:
+            items = parse_rss(self._get(url), feed="pr")
+        except Exception:
+            items = []
+        if not items:
+            try:
+                items = parse_rss(self._get(url, ua=BROWSER_UA), feed="pr")
+            except Exception:
+                items = []
+        return items

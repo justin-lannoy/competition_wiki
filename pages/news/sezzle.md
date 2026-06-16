@@ -2,19 +2,21 @@
 title: Sezzle — Recent Coverage
 type: news
 competitor: [[sezzle]]
-count: 39
-created: 2026-06-15
-updated: 2026-06-15
+count: 44
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # Sezzle — Recent Coverage
 
-_Updated: June 15, 2026_  ·  News & PR for [[sezzle]]
+_Updated: June 16, 2026_  ·  News & PR for [[sezzle]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-16 | medium | Yahoo Finance | [SoFi, Sezzle, and Affirm Shares Skyrocket, What You Need To Know](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkhQUDkzRUQ1bGcwSHdJM0pzTzZWREVWTUo0MXIyMGlkUy1KazBNN2YyWlBGTUkwOGRQR25wbmVpWDNmaFVxVjVWLWdmbzZlQmo0U01YbnVTeURaY3lzNG93TGhXMjk3NjRTRkFmT1ZjODhSYjNTOUFfcUIweUpaSDRUR202M3RQb25XUFZ0S2hHVndDTXBuVG0wY3M0M05MV2c?oc=5) |
+| 2026-06-16 | low | Charlotte Observer | [Can You Use Sezzle to Pay Bills? A Simple Breakdown](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMC1rX19ZZlBZd1hxVjRLWDdBamY5TmRBLUtwNGdjUGRsbzgyWWs0V0dJVm5IMWlIVjBlNndWZjBFcWlCOXBQVHY1OXJXRjQ1T1NYazFtWFd2THlVYXpFN1M1cGc2VU1zQVdQVzVQelg1YUZjMU9FTVljRXpiS1p0SVcyZ24xSUs2U1lZYg?oc=5) |
 | 2026-06-15 | low | TradingView | [SoFi, Sezzle, and Affirm Shares Skyrocket, What You Need To Know](https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVBnODlFOUV0M0JLNEVvSVFvX3lhc2xmdzN0VldnblRRZEFTTHFGZjhFaml2ZnZ6aW0yLXFsb0VkZlcybjhGSWEwZVFXbFhCVjhrbzN5WWdZTS1MSzZYZGJ6THBvMWVOUHVRUDRUNXhNelRLZWowbVpEUXRYZkVJUTB1QmNvNnNYcmlid291Mm03R3VZYVplaEVUSTZydTJDZ0pDUlNPUmxQMVJaZXNfZUxZSWgxVjJxOVpaUThWRQ?oc=5) |
 | 2026-06-15 | low | AlphaStreet | [Sezzle Jumps 8.7% Amid Sector-Wide Rally](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUFQ1TmE5R25fWFQxc0pmaWNRZjYwdXpHUzV6TUNyOEt0bU1LUk9tZVhsOWpFUlRvM201M0lWN3JTbGs0Y0xIMlRTeUNacGpSUXpidEdsREhRSzR5NmtMNnZEVVdZUm1IM0plQ2FjbEIwVlFoSHdrZdIBeEFVX3lxTE9zUFQ1TmE5R25fWFQxc0pmaWNRZjYwdXpHUzV6TUNyOEt0bU1LUk9tZVhsOWpFUlRvM201M0lWN3JTbGs0Y0xIMlRTeUNacGpSUXpidEdsREhRSzR5NmtMNnZEVVdZUm1IM0plQ2FjbEIwVlFoSHdrZQ?oc=5) |
 | 2026-06-14 | medium | Yahoo Finance | [Sezzle Expands Beyond BNPL As New Features Meet Rich Valuation](https://news.google.com/rss/articles/CBMiogFBVV95cUxQeThMdnp5cnNuRnF2d1hnZXNuTTdYVl82SnJCQ1pQU1djVG54TXYtM2VNWFE0RGdsMnF4SVZFdTU0dkRodGlISm95TUZvZEdhdktETm1GamYwQ3gtaEg4b0hXZkhESldQOWNfRElCaFA5RUZPSDNjWHlpNFRpVlkwNWNHcFMyXzB1Nk1lcndIXy1vUG0wbkxKU19iQ1VMWEVmZGc?oc=5) |
@@ -22,6 +24,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[sezzle]]
 | 2026-06-12 | low | Yahoo Finance | [Is Sezzle Inc. (SEZL) Stock Outpacing Its Business Services Peers This Year?](https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1R1R291OHBhYWFhQ0dqM3k5UHpWTUJ0aW5EcWxSWHJuSHBnamFYTnlMMklBN1Q1cXIyaW1RempmUUZsMkd0bmZmNVdLM2hVUnJDajdxYmY0YXlPRnRLM0x6NVlxRmpDY2FpdzVCbm5OVXp4Zk9zYmJldjlOSlhETklZdlloNVhkQTBRbHBPZ1psRnNRUjRqTGxqQ1A?oc=5) |
 | 2026-06-12 | low | Sacramento Bee | [Sezzle Spend Promo Codes and Discounts](https://news.google.com/rss/articles/CBMidEFVX3lxTFAzV1hLZldZbzB2SE9IT0l5Q184c1RkU3ZBbmxSdkZKYXVJZ0hjeHdEOWcwMlpBY2xqTTJwdW5KcUVHZDZPR1RxTzNJeEFtZmZNTml4azh1WXMxdjE2bGRYeXNOeDBUVW8tUzZDT3Y2WE1TV2JZ?oc=5) |
 | 2026-06-12 | medium | Stocktwits | [Sezzle Stock Sizzles 16% After The Bell As Investors And Retail Traders Cheer Record GMV Growth](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2hkbDdvOVlIUFhxZTVFRHFaVGZqRmo2SnpLeXlDdkNfZU5XbnlBUXBNR3Q4MUxBN1NUQ3BsQVBrcGI0OGRDRVNmSWdodEtIY1gwZmgyekZHMWdxZlZzaEtfeW1yQUpBVFFpQ2p3NTg0NUt6SjFqXzhjMF9ISS0zUWg4RUNyeC1wQmhhZlJsS204SmJRWWlhcmdsREdoeWtsMU1FUEFLVmRNa0laNlJGd1BVQWxKYmdreWppazFnckdHa0pEaFB4LW1NRlkwOGR3OXVRQmpTbldyYzJt?oc=5) |
+| 2026-06-12 | low | MSN | [Is Sezzle Inc. (SEZL) stock outpacing its business services peers this year?](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNG5uOU5yWG5jclZGZ0tVOUlKYmFEZERsNWdOOEJldWQwbTk5ejIzaGJNY2tJcXQxbzZncjAyUFRKdW4wUWg2Wi0xNDVpOWRDb2xiN3lKdDNnUnVZZEdfWEcyS3RyUmgwWWtreTQyb0ZpSGxJakQ4dmlwRDJsOW1KRnJBZXI5a29DM2w4SlJ5UWNvdWNSRFA4emhnYXhHLWZCTjEtNGVnYjZqQjBnLXFFWUVFdzZqVS0yMllxZzJuS0ItUQ?oc=5) |
 | 2026-06-09 | low | Charlotte Observer | [Does Sezzle Do Monthly Payments? What Shoppers Need To Know](https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0FLQW5KaGxLNHQzeUE2RVY5MnVlS2VXbWNaWVk5amE3N1J2QWdKSU8yWUpzbVVvR0ZFUnFVYUI5eGRUTGxyeGVsRERxWEhOLXdFWFhMSHpJbmJyVk5JME9jT2F2YTliZFUxQzVONHdoaVdtWHc5a1VucllMQTRfaDhzUXB3aGJxZHk4NA?oc=5) |
 | 2026-06-08 | medium | Yahoo Finance | [Personal Loan Stocks Q1 Earnings Review: Sezzle (NASDAQ:SEZL) Shines](https://news.google.com/rss/articles/CBMingFBVV95cUxQUU9WdG0yQnA3SGRaaWVOUHloeFVnRTZlOURDNWNfclV3aHlGUHZkMGgzWjd5SXNIamlPSXg2V3o0R0EzLTA3alZXYlBLdnE5bXMzVmRsdmhMZXBqZkYwdE1VV3k4SlUydmFOUE5YdDRuZDcxNUxQU3ZJVnBPa21qalQ4MDBMNEhkSWowd1VTa2xZbE5aaTlnQk1YcnhYQQ?oc=5) |
 | 2026-06-08 | low | Charlotte Observer | [How To Increase Your Sezzle Limit: Practical Tips](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG1fSmVPcGlFZHJmZExGU0NHZU5HX2JNX21ycjdEMldUR1ZPMWpRZW5BMnZEcXY2a2xFOG9BNTdSWWR2Y29RaHhfQVMyQ2NkcFNKTjhhWl9jR2c4U3BnR2owc3ZlYTJxQzB4c1VDOUJHVjR6T3N0UzkxZEVyeTR3WWN5VmxrZnNVVEUtNGVJSQ?oc=5) |
@@ -30,6 +33,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[sezzle]]
 | 2026-06-05 | low | Yahoo Finance | [Sezzle, Payoneer, and Shift4 Shares Plummet, What You Need To Know](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRko4YlFYbk9BN3NfSk9WUzdIb2RWMTFfS3hhZFRKaWlpeDJnQXE3RVQ0aXJVZjcwXzJ6a1pFR1NydXkxMWRsODZYQjZhejJCY2NEZjZNcTlLLWhuYU93a0ptVWlfcjBOUVZXb3o0X2VYU1czMFFyYm5QcUt1OC02TEV2VHlzOXdXMFh6RUl2Zm56SWd5cW8tUTlKTVZaTFpPV0k0bA?oc=5) |
 | 2026-06-05 | medium | TradingView | [Sezzle, Payoneer, and Shift4 Shares Plummet, What You Need To Know](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSl9zV01TTUdjTjhRSlpkX1BfQzhtU3dlMkEwV2otanNjOHc4M3RRRDRfdmxMTS1PMTM1QnJBX1J2ZjVaNndXcmJScEoxWlJiNTVMem9TVVhVa29LZWNZMVVtUzFfZEhpa2FBU1ZDbGdfRTdaNFhNTVpROVAzMlIwdTExaFhkQ2JNWkY2U1lxV2w2N1k1X0FVSHZwVEdHYkdCckFtQjI4QmRIdUVQU0xJcUVkd01iNmJiY1YzYUFvaVhlUQ?oc=5) |
 | 2026-06-05 | low | newsline.com | [Sezzle Inc. (SEZL) Faces Steep Decline, Testing Key Support Levels - Opening Range Breakout](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXVHSlotUUJBMFlGWThtVlNzR2pqTjdLMmpodWN4bEh3SmlWMVFTS1ZFaEtuOEFxc2N3STFtUU85YUY2cGNVbHh2SHJ5UUc1bmY0V2lfRlpGLXI0NXowTmowNjRONzI0NnoyVk1ZN2RSX1g1QmVmVkI1NS14TUFXb3QyZG9lOW9EVWM5WWtQdGMxTm5mbF9PTkpTZ0VzTUVoNnBB?oc=5) |
+| 2026-06-05 | low | CNBC | [The best buy now, pay later apps of June 2026](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJQUVhbHkwelpZdlNOZVZtMlcxdDVCcDdLR1dYcFlwMHBmXzMtOXpMOVkxeFVuT2xVQ0tiZHVQYU5rbkZSaXlRSGVualFwMUFEWDZnMUllMzFTMmlYbGlLRzlIcDZHQ03SAWxBVV95cUxPSXN0MW5scGVHSExLNGtHNVcwQlNQZ1VuRnlYc2hOVi1mSGtDb1RNNjRtdXZIRDlMZFF4MGJ4dXI1d2FBdGs0cGZwblE4WmRVTFRQN1FTS0FYRmRuYzVGTXI5WXMxdWdKSTkyVWc?oc=5) |
 | 2026-06-04 | high | Yahoo Finance | [Sezzle (SEZL) Valuation Check After Surpassing $1b GMV And Raising FY2026 Guidance](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXc2NERNcUV2WWJJQTYzYjNHamhkSklKM1l1cHdUT2tuaWdvSG9YRXhyTXFoQVpPZkJBNUs4Wmg2djl2Y041WUNIeW5FdGdvcnR1eGJjRnozd1c2UTN5NkUtSDRWQTdqcllISWtIRnlnMVN6MGFMRVl6Y3lnUHctZmVZNWZreUh2OXFLblVoenhPZ245WldVaDFZMm9ZX2VlUHZaZXFB?oc=5) |
 | 2026-06-04 | low | AlphaStreet | [Sezzle Jumps 6.3% After B. Riley Securities Maintains Buy](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRldxN0lQOXhnRE9fcF9XTXE2UzdqTkJaTVhBTVFsd3cxZ1ItTDllbFBXV0lmUktiMUtpY3d1Q0Mxemo4emFqS0lwT0oycU04VVlKbG1EYldVQTBuQVNveXdWVWJNdVhCbXJ0X2szcFdjZU1mMldHUjhlYXpYSi02M28tMVR2ckhENFlDakFn0gGOAUFVX3lxTE9GV3E3SVA5eGdET19wX1dNcTZTN2pOQlpNWEFNUWx3dzFnUi1MOWVsUFdXSWZSS2IxS2ljd3VDQzF6ajh6YWpLSXBPSjJxTThVWUpsbURiV1VBMG5BU295d1ZVYk11WEJtcnRfazNwV2NlTWYyV0dSOGVhelhKLTYzby0xVHZySEQ0WUNqQWc?oc=5) |
 | 2026-06-03 | medium | Yahoo Finance | [Sezzle Expands Super App Platform Following Strong 1Q26 Results](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1NMEdURjRqVmhPSnEwZFNiS2Y3cWtSLXpXODdybmVBRXo2enluTFBfYUJZSXFiZXFZZFU5WjBVekYxXzBOOUlrLTZ4S1ZjcldxSFQzN0NJTy1iSUl1dV9pRnE0dk9TUGxqQ2NCU0lIVzVtVTZzSUloeHdPMWRQdWNjN1RPV2NqVjl5b3V5VE1Zb0Utb1RhV2phamtXcmM?oc=5) |
@@ -40,6 +44,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[sezzle]]
 | 2026-05-31 | low | Forbes | [Sezzle’s Strong Numbers And Interesting Valuation](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVRLRTduVm5Hc1ZUUVk3ekRuNm1kWGZWYlhibjZRTml1Z050el9uWUF0OWZrcThMNmlPNjJKRG1vNXJyOUxyUGUwZUpOaHpFb09nbWd6cG1ob29Yd3NjakJvSTFzV2J4MTB1M0xELUlqV0l6d3kzWFRIbVRmeVB4R0lRWXVOYU5QOVRLNmtINUZPSXViTy1PTkxEQ0tCMWNtOU5HVE9IaUdsSDBlWlJj?oc=5) |
 | 2026-05-28 | medium | Yahoo Finance | [Why Sezzle (SEZL) Is Up 10.6% After Raising 2026 Outlook And Highlighting Insider Alignment](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzZpRFVwaUdIUEkxdFpwbDJyQzNYajdLblN5b3J2b1JoYjg2OTk5MjgxLUxkQzY1UHI4SUVMU0RocXk1QTdveDREX1N2OTRyUTFBem8wUE51ZFdXVVpYTm0yVE15WnZhenk4S3l3YWxMcUdhRHR2SUFQOEhaNGxpZl9IeWtqMlZLZk5LblRR?oc=5) |
 | 2026-05-28 | low | Seeking Alpha | [Sezzle is the best performing financial stock in the past month (XLF:NYSEARCA)](https://news.google.com/rss/articles/CBMiowFBVV95cUxQRE40ems0RGZKbW1QdUwyNm83VndFWHNzZEgwN2FSbVcxYzQ0dGRnRjE1SF9HeWFsY25OMHV0RkdLM2lpejJBWHlNdjRtM01oa0NfTW95S2xLbUg0bkZXc0VMYk5nQXRvZkItUmtlOFIxOG9UXzlWUkd0aWR1Nk81MTRsWGJqVHc1SUttalprZ3k3bzBMQXJUcnJzLVFVblZzMDlz?oc=5) |
+| 2026-05-28 | medium | MSN | [Sezzle is the best performing financial stock in the past month](https://news.google.com/rss/articles/CBMizwJBVV95cUxQbklzR2NPZm41WjlwMllFZFFGVllTSG50LWRlbWVNRnRHekZoTlJ3UTNkX3ZSdFl0ZEpDbkNsVFp4Y2EyN2dIaTFLX1RsdXpLVndGWEtDeGFFZDJ3SEhLNTJmWmJvZTVxN0R6emxMcEdJOWtSOXFYTE5JV25JYXNyb2duQy1iejNnbU9TOG5IUXdlMkNaWjVBcUNncWhCelZ4ZEI3NnRLelI3TlI2RjRNREdDei0zdWp4amVKT3dXeG96Y01NcTZ4VFVUeU5rZS1mZXdsWjU4T1g3dEVtQmZSdmRyaWdKNjFBOXdWa0lfRVI2NTdhTVNfeUMwcW1GZ1NGcE5LYUdoQ3Rfb2tOUW1fU3JPaE00U2paU01XVlM5VVlwQWxTcGtzTTdpdzB1QWZROHNvRXBTYkVzY2tNNU4zdEthQVRIWThqU3VMSmhMWQ?oc=5) |
 | 2026-05-27 | low | The Motley Fool | [Klarna vs. Sezzle: Which Technology Stock Is a Better Buy in 2026?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWxvamZHM0VZZzROaHQzWC1mVl9CcV9JbHQ4TTh1S2JrYVBHZl90eDYwYkNfZjZRbVBZRTFMVUppNFZRQ2hiLVRRUWFnU2tNTUNsdFI1UHgyYXFjS3VSMV9zWlU2eHpxN09HNGdyQXhiSWd5YXB3cDhXaHN6eVBSN2FJZHJhd1IzVkE1eGVWQ2U4MUJGT1F2cnlKWG15MU5oLUlhbzRRZDVPSTNscUZiUUZQenloWEE?oc=5) |
 | 2026-05-27 | low | newsline.com | [Sezzle Inc. (SEZL) Q1 2026 Earnings: EPS Surpasses Estimates, Shares Rally - Healthcare Earnings Report](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEtNbFIyQ3dTcFdCaXhyN1ZCR1YyMXlxWTF0Nlh0eTZubHNOVEtVeU1RbFQ1X2x1LTl0YXNVeGRwX2NSck1JZTJGQmVPV0luUXdpdG5jbkpHUURLQjVZTHBHQXZTS18tQU1aTDNHVkpkZXF2TnRXS0tWU3d1d0FhYWJBOVBRTUVXeFdDSktPZ2txamh4YnllSmpzcXRVWHphUkhrRDduYUpFRTdxY3poeQ?oc=5) |
 | 2026-05-26 | low | Yahoo Finance | [Sezzle, LendingClub, and Atlanticus Holdings Stocks Trade Up, What You Need To Know](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWV5QVdNeHdGSzJLa0NuNVA5MDlMbFlUSjdYZFlpcmQ5VXRBTTBLYUVWTjFXelVuMUlUZ0VVM2QtVWNpSlJCdFFVeW1fNDBhdS1QNUxsWk1GS0JpSFhuNE1fUFROUkNlZ2N5ZnJaV2c5OHJZNml0U0pnbXNFNHpwNDNlZ1VLcmpHSTdQVTJ5bV82OE1zYnpUTHJjSUEwWDYxN2dGajI5ZWwweHpyZWlR?oc=5) |
@@ -56,6 +61,14 @@ _Updated: June 15, 2026_  ·  News & PR for [[sezzle]]
 | 2026-05-17 | low | Yahoo Finance | [How The Sezzle (SEZL) Story Is Shifting As Analysts Rethink Growth And Valuation](https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2J0SjNyd3h1YmFZSF9wVjdRLUlGTXAyQzBtUzVsZnl2VVV1WE90U2U4akdCZ1ZlMm5TckFFMmpNNHg1bzRueVh5SlJRRTRjdXJCX0t2Z2VQMlJqWnNoUEVMSzR4R0d2T1lWSzYzSFpDMDE4LU5KMWR3Y3hUWkpoWjNGU0hSME5JZ3lsZjBsMjRKTk9VeGdNNUY0bUlJcnBpN1E?oc=5) |
 
 ## Coverage notes
+
+### 2026-06-16 — Yahoo Finance
+
+**SoFi, Sezzle, and Affirm Shares Skyrocket, What You Need To Know**
+
+The headline/snippet is too thin to determine the specific cause of the share price increases for SoFi, Sezzle, and Affirm — no underlying catalyst (earnings beat, macro news, sector re-rating, etc.) is provided. Without knowing the driver, it's difficult to assess the precise read-through for Snap Finance, though a broad BNPL/fintech sector rally could signal improved investor sentiment toward the space overall.
+
+Significance: medium · Category: other
 
 ### 2026-06-14 — Yahoo Finance
 
@@ -144,6 +157,14 @@ Significance: medium · Category: product
 Sezzle raised its 2026 financial outlook, driving a 10.6% stock surge, while also emphasizing insider ownership alignment — suggesting management confidence in sustained growth. For Snap Finance, this signals a strengthening BNPL competitor with positive momentum, though the snippet lacks specifics on what metrics were revised upward.
 
 Significance: medium · Category: earnings
+
+### 2026-05-28 — MSN
+
+**Sezzle is the best performing financial stock in the past month**
+
+The headline/snippet is too thin to explain *why* Sezzle is the top-performing financial stock over the past month — no earnings data, partnership, or catalyst is provided. The strong stock performance alone signals positive market sentiment toward Sezzle and BNPL/installment lending broadly, which could indicate competitive pressure on Snap Finance in the consumer financing space, but the specific driver is unknown.
+
+Significance: medium · Category: other
 
 ### 2026-05-22 — GlobeNewswire
 

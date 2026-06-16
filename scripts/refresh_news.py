@@ -178,25 +178,28 @@ def _process_competitor(row: dict, news_client: "nf.NewsClient", anthropic_clien
     # A registry `Search query` cell overrides the auto-built query (useful for
     # short/ambiguous names like Zip or HFD); otherwise derive from name+parent.
     query = (row.get("query") or "").strip() or nf.news_query(title, row.get("parent", ""))
-    items: list[nf.NewsItem] = []
+    google: list[nf.NewsItem] = []
     try:
-        items += nf.filter_recent(news_client.fetch_google_news(query, when_days),
+        google = nf.filter_recent(news_client.fetch_google_news(query, when_days),
                                   today, days=days)
     except Exception as e:  # one bad fetch must not abort the run
         print(f"\n    ! google-news fetch failed for {slug}: {e}", end="")
+    pr: list[nf.NewsItem] = []
     pr_feed = (row.get("pr_feed") or "").strip()
     if pr_feed:
         try:
-            items += nf.filter_recent(news_client.fetch_pr_feed(pr_feed),
-                                      today, days=pr_days)
+            pr = nf.filter_recent(news_client.fetch_pr_feed(pr_feed), today, days=pr_days)
         except Exception as e:
             print(f"\n    ! PR feed failed for {slug}: {e}", end="")
 
-    items = [it for it in nf.sort_newest_first(nf.dedupe(items)) if not nf.is_noise(it)]
-    if len(items) > max_items:
-        print(f"\n    · {slug}: capping {len(items)} -> {max_items} most recent", end="")
-        items = items[:max_items]
-    print(f"  · {title}: {len(items)} items", end=" ")
+    # Denylist + cap the high-volume Google News stream; KEEP ALL official PR
+    # items (sparse, authoritative — never crowd them out behind the cap).
+    google = [it for it in nf.sort_newest_first(nf.dedupe(google)) if not nf.is_noise(it)]
+    if len(google) > max_items:
+        print(f"\n    · {slug}: capping news {len(google)} -> {max_items}", end="")
+        google = google[:max_items]
+    items = nf.sort_newest_first(nf.dedupe(google + pr))
+    print(f"  · {title}: {len(items)} items ({len(pr)} PR)", end=" ")
 
     sidecar = nf.merge_sidecar(sidecar, slug, items)
     # Prune any previously-stored deny-listed noise so re-runs clean history.
