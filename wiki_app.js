@@ -816,6 +816,33 @@ function MiniSparkline({ series, color = 'var(--brand)', w = 88, h = 22 }) {
   );
 }
 
+function FinancialsStrip({ financials }) {
+  const items = COMPARE_METRICS.filter(m => Array.isArray(financials[m.key]) && financials[m.key].length >= 2);
+  if (!items.length) return null;
+  return (
+    <div style={{ display: 'contents' }}>
+      <div className="entity-section-label">Financial trends <span className="esl-count">quarterly · SEC XBRL</span></div>
+      <div style={{ display: 'flex', gap: 14, flexWrap: 'wrap', marginBottom: 8 }}>
+        {items.map(m => {
+          const s = financials[m.key];
+          const last = s[s.length - 1].val, up = last >= s[0].val;
+          const color = m.kind === 'pct' ? '#854F0B' : (m.key === 'net_income' ? '#3D5CCF' : 'var(--brand)');
+          return (
+            <div key={m.key} style={{ minWidth: 138, padding: '8px 12px', border: '1px solid var(--line)', borderRadius: 6, background: 'var(--bg-soft)' }}>
+              <div style={{ fontSize: 11, color: 'var(--muted)', marginBottom: 3 }}>{m.label}</div>
+              <MiniSparkline series={s} color={color} />
+              <div style={{ fontSize: 13, fontWeight: 600, marginTop: 3 }}>
+                {fmtMetric(last, m.kind)}
+                <span style={{ fontSize: 11, fontWeight: 400, marginLeft: 6, color: up ? 'var(--snap-green)' : 'var(--snap-error)' }}>{up ? '▲' : '▼'}</span>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 function CompareFinancialsView({ navigateTo }) {
   const [metric, setMetric] = useState('revenue');
   const [indexed, setIndexed] = useState(false);
@@ -1454,6 +1481,8 @@ function EntityProfile({ page, navigateTo }) {
           <div className="stat-value">{last ? fmtLong(last.date) : '—'}<span className="stat-sub">{last ? relativeAge(last.date) : 'no events tracked'}</span></div>
         </div>
       </div>
+
+      {page.type === 'competitor' && page.financials && <FinancialsStrip financials={page.financials} />}
 
       {events.length > 0 && (
         <div style={{ display: 'contents' }}>
