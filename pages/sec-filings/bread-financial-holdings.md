@@ -17,78 +17,81 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-06-10 | 2026-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000061/bfh-20260610.htm) | [file](../../sec-filings/bread-financial-holdings/2026-06-10_8-K_0001101215-26-000061.htm) |
-| 8-K | 2026-05-22 | 2026-05-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000058/bfh-20260519.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-22_8-K_0001101215-26-000058.htm) |
-| 8-K | 2026-05-15 | 2026-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000055/bfh-20260515.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-15_8-K_0001101215-26-000055.htm) |
-| 8-K | 2026-05-12 | 2026-05-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000119312526218648/d118407d8k.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-12_8-K_0001193125-26-218648.htm) |
-| 8-K | 2026-05-06 | 2026-05-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000053/bfh-20260505.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-06_8-K_0001101215-26-000053.htm) |
-| 8-K | 2026-05-05 | 2026-05-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000047/bfh-20260505.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-05_8-K_0001101215-26-000047.htm) |
-| 10-Q | 2026-04-28 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000040/bfh-20260331.htm) | [file](../../sec-filings/bread-financial-holdings/2026-04-28_10-Q_0001101215-26-000040.htm) |
-| 8-K | 2026-04-23 | 2026-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000037/bfh-20260423.htm) | [file](../../sec-filings/bread-financial-holdings/2026-04-23_8-K_0001101215-26-000037.htm) |
-| 8-K | 2026-04-23 | 2026-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000036/bfh-20260423.htm) | [file](../../sec-filings/bread-financial-holdings/2026-04-23_8-K_0001101215-26-000036.htm) |
-| 8-K | 2026-03-11 | 2026-03-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000032/bfh-20260311.htm) | [file](../../sec-filings/bread-financial-holdings/2026-03-11_8-K_0001101215-26-000032.htm) |
-| 8-K | 2026-02-26 | 2026-02-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000030/bfh-20260226.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-26_8-K_0001101215-26-000030.htm) |
-| 8-K | 2026-02-18 | 2026-02-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000021/bfh-20260217.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-18_8-K_0001101215-26-000021.htm) |
-| 10-K | 2026-02-13 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000016/bfh-20251231.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-13_10-K_0001101215-26-000016.htm) |
-| 8-K | 2026-02-10 | 2026-02-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000010/bfh-20260210.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-10_8-K_0001101215-26-000010.htm) |
-| 8-K | 2026-01-29 | 2026-01-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000008/bfh-20260129.htm) | [file](../../sec-filings/bread-financial-holdings/2026-01-29_8-K_0001101215-26-000008.htm) |
-| 8-K | 2026-01-29 | 2026-01-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000007/bfh-20260129.htm) | [file](../../sec-filings/bread-financial-holdings/2026-01-29_8-K_0001101215-26-000007.htm) |
-| 8-K | 2025-12-10 | 2025-12-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000201/bfh-20251210.htm) | [file](../../sec-filings/bread-financial-holdings/2025-12-10_8-K_0001101215-25-000201.htm) |
-| 8-K | 2025-11-25 | 2025-11-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000119312525294761/d48032d8k.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-25_8-K_0001193125-25-294761.htm) |
-| 8-K | 2025-11-21 | 2025-11-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000198/bfh-20251120.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-21_8-K_0001101215-25-000198.htm) |
-| 8-K | 2025-11-20 | 2025-11-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000193/bfh-20251120.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-20_8-K_0001101215-25-000193.htm) |
-| 8-K | 2025-11-13 | 2025-11-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000183/bfh-20251113.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-13_8-K_0001101215-25-000183.htm) |
-| 8-K | 2025-11-06 | 2025-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000181/bfh-20251106.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-06_8-K_0001101215-25-000181.htm) |
-| 8-K | 2025-10-29 | 2025-10-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000178/bfh-20251028.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-29_8-K_0001101215-25-000178.htm) |
-| 8-K | 2025-10-28 | 2025-10-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000175/bfh-20251028.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-28_8-K_0001101215-25-000175.htm) |
-| 10-Q | 2025-10-28 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000173/bfh-20250930.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-28_10-Q_0001101215-25-000173.htm) |
-| 8-K | 2025-10-23 | 2025-10-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000169/bfh-20251023.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-23_8-K_0001101215-25-000169.htm) |
-| 8-K | 2025-10-23 | 2025-10-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000168/bfh-20251023.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-23_8-K_0001101215-25-000168.htm) |
-| 8-K | 2025-09-09 | 2025-09-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000154/bfh-20250909.htm) | [file](../../sec-filings/bread-financial-holdings/2025-09-09_8-K_0001101215-25-000154.htm) |
-| 8-K | 2025-08-27 | 2025-08-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000151/bfh-20250827.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-27_8-K_0001101215-25-000151.htm) |
-| 8-K | 2025-08-22 | 2025-08-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000147/bfh-20250822.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-22_8-K_0001101215-25-000147.htm) |
-| 8-K | 2025-08-15 | 2025-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000145/bfh-20250815.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-15_8-K_0001101215-25-000145.htm) |
-| 8-K | 2025-08-07 | 2025-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000142/bfh-20250807.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-07_8-K_0001101215-25-000142.htm) |
-| 10-Q | 2025-07-29 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000135/bfh-20250630.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-29_10-Q_0001101215-25-000135.htm) |
-| 8-K | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000131/bfh-20250724.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-24_8-K_0001101215-25-000131.htm) |
-| 8-K | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000130/bfh-20250724.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-24_8-K_0001101215-25-000130.htm) |
-| 8-K | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000129/bfh-20250724.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-24_8-K_0001101215-25-000129.htm) |
-| 8-K | 2025-06-11 | 2025-06-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000096/bfh-20250611.htm) | [file](../../sec-filings/bread-financial-holdings/2025-06-11_8-K_0001101215-25-000096.htm) |
-| 8-K | 2025-06-05 | 2025-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000119312525135322/d939976d8k.htm) | [file](../../sec-filings/bread-financial-holdings/2025-06-05_8-K_0001193125-25-135322.htm) |
-| 8-K | 2025-05-21 | 2025-05-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000092/bfh-20250521.htm) | [file](../../sec-filings/bread-financial-holdings/2025-05-21_8-K_0001101215-25-000092.htm) |
-| 8-K | 2025-05-14 | 2025-05-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000086/bfh-20250513.htm) | [file](../../sec-filings/bread-financial-holdings/2025-05-14_8-K_0001101215-25-000086.htm) |
-| 8-K | 2025-05-13 | 2025-05-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000082/bfh-20250513.htm) | [file](../../sec-filings/bread-financial-holdings/2025-05-13_8-K_0001101215-25-000082.htm) |
-| 10-Q | 2025-04-29 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000080/bfh-20250331.htm) | [file](../../sec-filings/bread-financial-holdings/2025-04-29_10-Q_0001101215-25-000080.htm) |
-| 8-K | 2025-04-24 | 2025-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000076/bfh-20250424.htm) | [file](../../sec-filings/bread-financial-holdings/2025-04-24_8-K_0001101215-25-000076.htm) |
-| 8-K | 2025-04-24 | 2025-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000075/bfh-20250424.htm) | [file](../../sec-filings/bread-financial-holdings/2025-04-24_8-K_0001101215-25-000075.htm) |
-| 8-K | 2025-03-17 | 2025-03-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000062/bfh-20250317.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-17_8-K_0001101215-25-000062.htm) |
-| 8-K | 2025-03-10 | 2025-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000054/bfh-20250310.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-10_8-K_0001101215-25-000054.htm) |
-| 8-K | 2025-03-06 | 2025-03-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000052/bfh-20250305.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-06_8-K_0001101215-25-000052.htm) |
-| 8-K | 2025-03-05 | 2025-03-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000050/bfh-20250305.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-05_8-K_0001101215-25-000050.htm) |
-| 10-K | 2025-02-14 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000031/bfh-20241231.htm) | [file](../../sec-filings/bread-financial-holdings/2025-02-14_10-K_0001101215-25-000031.htm) |
-| 8-K | 2025-02-11 | 2025-02-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000026/bfh-20250211.htm) | [file](../../sec-filings/bread-financial-holdings/2025-02-11_8-K_0001101215-25-000026.htm) |
-| 8-K | 2025-01-30 | 2025-01-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000013/bfh-20250130.htm) | [file](../../sec-filings/bread-financial-holdings/2025-01-30_8-K_0001101215-25-000013.htm) |
-| 8-K | 2025-01-30 | 2025-01-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000012/bfh-20250130.htm) | [file](../../sec-filings/bread-financial-holdings/2025-01-30_8-K_0001101215-25-000012.htm) |
-| 8-K | 2024-12-31 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000238/bfh-20241231.htm) | [file](../../sec-filings/bread-financial-holdings/2024-12-31_8-K_0001101215-24-000238.htm) |
-| 8-K | 2024-12-11 | 2024-12-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000232/bfh-20241211.htm) | [file](../../sec-filings/bread-financial-holdings/2024-12-11_8-K_0001101215-24-000232.htm) |
-| 8-K | 2024-12-02 | 2024-12-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000230/bfh-20241202.htm) | [file](../../sec-filings/bread-financial-holdings/2024-12-02_8-K_0001101215-24-000230.htm) |
-| 8-K | 2024-11-14 | 2024-11-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000226/bfh-20241114.htm) | [file](../../sec-filings/bread-financial-holdings/2024-11-14_8-K_0001101215-24-000226.htm) |
-| 10-Q | 2024-10-31 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000224/bfh-20240930.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-31_10-Q_0001101215-24-000224.htm) |
-| 8-K | 2024-10-24 | 2024-10-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000218/bfh-20241024.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-24_8-K_0001101215-24-000218.htm) |
-| 8-K | 2024-10-24 | 2024-10-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000217/bfh-20241024.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-24_8-K_0001101215-24-000217.htm) |
-| 8-K | 2024-10-21 | 2024-10-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000114036124043815/ef20037463_8k.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-21_8-K_0001140361-24-043815.htm) |
-| 8-K | 2024-09-16 | 2024-09-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000204/bfh-20240916.htm) | [file](../../sec-filings/bread-financial-holdings/2024-09-16_8-K_0001101215-24-000204.htm) |
-| 8-K | 2024-08-15 | 2024-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000196/bfh-20240815.htm) | [file](../../sec-filings/bread-financial-holdings/2024-08-15_8-K_0001101215-24-000196.htm) |
-| 8-K | 2024-08-09 | 2024-08-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000189/bfh-20240809.htm) | [file](../../sec-filings/bread-financial-holdings/2024-08-09_8-K_0001101215-24-000189.htm) |
-| 10-Q | 2024-08-01 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000181/bfh-20240630.htm) | [file](../../sec-filings/bread-financial-holdings/2024-08-01_10-Q_0001101215-24-000181.htm) |
-| 8-K | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000174/bfh-20240725.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-25_8-K_0001101215-24-000174.htm) |
-| 8-K | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000173/bfh-20240725.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-25_8-K_0001101215-24-000173.htm) |
-| 8-K | 2024-07-02 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000160/a6-30x24wfnform8xkthirdadd.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-02_8-K_0001101215-24-000160.htm) |
-| 8-K | 2024-06-18 | 2024-06-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000141/bfh-20240618.htm) | [file](../../sec-filings/bread-financial-holdings/2024-06-18_8-K_0001101215-24-000141.htm) |
+| [8-K](#f-000110121526000061) | 2026-06-10 | 2026-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000061/bfh-20260610.htm) | [file](../../sec-filings/bread-financial-holdings/2026-06-10_8-K_0001101215-26-000061.htm) |
+| [8-K](#f-000110121526000058) | 2026-05-22 | 2026-05-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000058/bfh-20260519.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-22_8-K_0001101215-26-000058.htm) |
+| [8-K](#f-000110121526000055) | 2026-05-15 | 2026-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000055/bfh-20260515.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-15_8-K_0001101215-26-000055.htm) |
+| [8-K](#f-000119312526218648) | 2026-05-12 | 2026-05-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000119312526218648/d118407d8k.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-12_8-K_0001193125-26-218648.htm) |
+| [8-K](#f-000110121526000053) | 2026-05-06 | 2026-05-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000053/bfh-20260505.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-06_8-K_0001101215-26-000053.htm) |
+| [8-K](#f-000110121526000047) | 2026-05-05 | 2026-05-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000047/bfh-20260505.htm) | [file](../../sec-filings/bread-financial-holdings/2026-05-05_8-K_0001101215-26-000047.htm) |
+| [10-Q](#f-000110121526000040) | 2026-04-28 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000040/bfh-20260331.htm) | [file](../../sec-filings/bread-financial-holdings/2026-04-28_10-Q_0001101215-26-000040.htm) |
+| [8-K](#f-000110121526000037) | 2026-04-23 | 2026-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000037/bfh-20260423.htm) | [file](../../sec-filings/bread-financial-holdings/2026-04-23_8-K_0001101215-26-000037.htm) |
+| [8-K](#f-000110121526000036) | 2026-04-23 | 2026-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000036/bfh-20260423.htm) | [file](../../sec-filings/bread-financial-holdings/2026-04-23_8-K_0001101215-26-000036.htm) |
+| [8-K](#f-000110121526000032) | 2026-03-11 | 2026-03-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000032/bfh-20260311.htm) | [file](../../sec-filings/bread-financial-holdings/2026-03-11_8-K_0001101215-26-000032.htm) |
+| [8-K](#f-000110121526000030) | 2026-02-26 | 2026-02-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000030/bfh-20260226.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-26_8-K_0001101215-26-000030.htm) |
+| [8-K](#f-000110121526000021) | 2026-02-18 | 2026-02-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000021/bfh-20260217.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-18_8-K_0001101215-26-000021.htm) |
+| [10-K](#f-000110121526000016) | 2026-02-13 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000016/bfh-20251231.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-13_10-K_0001101215-26-000016.htm) |
+| [8-K](#f-000110121526000010) | 2026-02-10 | 2026-02-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000010/bfh-20260210.htm) | [file](../../sec-filings/bread-financial-holdings/2026-02-10_8-K_0001101215-26-000010.htm) |
+| [8-K](#f-000110121526000008) | 2026-01-29 | 2026-01-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000008/bfh-20260129.htm) | [file](../../sec-filings/bread-financial-holdings/2026-01-29_8-K_0001101215-26-000008.htm) |
+| [8-K](#f-000110121526000007) | 2026-01-29 | 2026-01-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000007/bfh-20260129.htm) | [file](../../sec-filings/bread-financial-holdings/2026-01-29_8-K_0001101215-26-000007.htm) |
+| [8-K](#f-000110121525000201) | 2025-12-10 | 2025-12-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000201/bfh-20251210.htm) | [file](../../sec-filings/bread-financial-holdings/2025-12-10_8-K_0001101215-25-000201.htm) |
+| [8-K](#f-000119312525294761) | 2025-11-25 | 2025-11-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000119312525294761/d48032d8k.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-25_8-K_0001193125-25-294761.htm) |
+| [8-K](#f-000110121525000198) | 2025-11-21 | 2025-11-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000198/bfh-20251120.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-21_8-K_0001101215-25-000198.htm) |
+| [8-K](#f-000110121525000193) | 2025-11-20 | 2025-11-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000193/bfh-20251120.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-20_8-K_0001101215-25-000193.htm) |
+| [8-K](#f-000110121525000183) | 2025-11-13 | 2025-11-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000183/bfh-20251113.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-13_8-K_0001101215-25-000183.htm) |
+| [8-K](#f-000110121525000181) | 2025-11-06 | 2025-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000181/bfh-20251106.htm) | [file](../../sec-filings/bread-financial-holdings/2025-11-06_8-K_0001101215-25-000181.htm) |
+| [8-K](#f-000110121525000178) | 2025-10-29 | 2025-10-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000178/bfh-20251028.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-29_8-K_0001101215-25-000178.htm) |
+| [8-K](#f-000110121525000175) | 2025-10-28 | 2025-10-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000175/bfh-20251028.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-28_8-K_0001101215-25-000175.htm) |
+| [10-Q](#f-000110121525000173) | 2025-10-28 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000173/bfh-20250930.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-28_10-Q_0001101215-25-000173.htm) |
+| [8-K](#f-000110121525000169) | 2025-10-23 | 2025-10-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000169/bfh-20251023.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-23_8-K_0001101215-25-000169.htm) |
+| [8-K](#f-000110121525000168) | 2025-10-23 | 2025-10-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000168/bfh-20251023.htm) | [file](../../sec-filings/bread-financial-holdings/2025-10-23_8-K_0001101215-25-000168.htm) |
+| [8-K](#f-000110121525000154) | 2025-09-09 | 2025-09-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000154/bfh-20250909.htm) | [file](../../sec-filings/bread-financial-holdings/2025-09-09_8-K_0001101215-25-000154.htm) |
+| [8-K](#f-000110121525000151) | 2025-08-27 | 2025-08-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000151/bfh-20250827.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-27_8-K_0001101215-25-000151.htm) |
+| [8-K](#f-000110121525000147) | 2025-08-22 | 2025-08-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000147/bfh-20250822.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-22_8-K_0001101215-25-000147.htm) |
+| [8-K](#f-000110121525000145) | 2025-08-15 | 2025-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000145/bfh-20250815.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-15_8-K_0001101215-25-000145.htm) |
+| [8-K](#f-000110121525000142) | 2025-08-07 | 2025-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000142/bfh-20250807.htm) | [file](../../sec-filings/bread-financial-holdings/2025-08-07_8-K_0001101215-25-000142.htm) |
+| [10-Q](#f-000110121525000135) | 2025-07-29 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000135/bfh-20250630.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-29_10-Q_0001101215-25-000135.htm) |
+| [8-K](#f-000110121525000131) | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000131/bfh-20250724.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-24_8-K_0001101215-25-000131.htm) |
+| [8-K](#f-000110121525000130) | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000130/bfh-20250724.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-24_8-K_0001101215-25-000130.htm) |
+| [8-K](#f-000110121525000129) | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000129/bfh-20250724.htm) | [file](../../sec-filings/bread-financial-holdings/2025-07-24_8-K_0001101215-25-000129.htm) |
+| [8-K](#f-000110121525000096) | 2025-06-11 | 2025-06-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000096/bfh-20250611.htm) | [file](../../sec-filings/bread-financial-holdings/2025-06-11_8-K_0001101215-25-000096.htm) |
+| [8-K](#f-000119312525135322) | 2025-06-05 | 2025-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000119312525135322/d939976d8k.htm) | [file](../../sec-filings/bread-financial-holdings/2025-06-05_8-K_0001193125-25-135322.htm) |
+| [8-K](#f-000110121525000092) | 2025-05-21 | 2025-05-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000092/bfh-20250521.htm) | [file](../../sec-filings/bread-financial-holdings/2025-05-21_8-K_0001101215-25-000092.htm) |
+| [8-K](#f-000110121525000086) | 2025-05-14 | 2025-05-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000086/bfh-20250513.htm) | [file](../../sec-filings/bread-financial-holdings/2025-05-14_8-K_0001101215-25-000086.htm) |
+| [8-K](#f-000110121525000082) | 2025-05-13 | 2025-05-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000082/bfh-20250513.htm) | [file](../../sec-filings/bread-financial-holdings/2025-05-13_8-K_0001101215-25-000082.htm) |
+| [10-Q](#f-000110121525000080) | 2025-04-29 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000080/bfh-20250331.htm) | [file](../../sec-filings/bread-financial-holdings/2025-04-29_10-Q_0001101215-25-000080.htm) |
+| [8-K](#f-000110121525000076) | 2025-04-24 | 2025-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000076/bfh-20250424.htm) | [file](../../sec-filings/bread-financial-holdings/2025-04-24_8-K_0001101215-25-000076.htm) |
+| [8-K](#f-000110121525000075) | 2025-04-24 | 2025-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000075/bfh-20250424.htm) | [file](../../sec-filings/bread-financial-holdings/2025-04-24_8-K_0001101215-25-000075.htm) |
+| [8-K](#f-000110121525000062) | 2025-03-17 | 2025-03-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000062/bfh-20250317.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-17_8-K_0001101215-25-000062.htm) |
+| [8-K](#f-000110121525000054) | 2025-03-10 | 2025-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000054/bfh-20250310.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-10_8-K_0001101215-25-000054.htm) |
+| [8-K](#f-000110121525000052) | 2025-03-06 | 2025-03-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000052/bfh-20250305.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-06_8-K_0001101215-25-000052.htm) |
+| [8-K](#f-000110121525000050) | 2025-03-05 | 2025-03-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000050/bfh-20250305.htm) | [file](../../sec-filings/bread-financial-holdings/2025-03-05_8-K_0001101215-25-000050.htm) |
+| [10-K](#f-000110121525000031) | 2025-02-14 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000031/bfh-20241231.htm) | [file](../../sec-filings/bread-financial-holdings/2025-02-14_10-K_0001101215-25-000031.htm) |
+| [8-K](#f-000110121525000026) | 2025-02-11 | 2025-02-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000026/bfh-20250211.htm) | [file](../../sec-filings/bread-financial-holdings/2025-02-11_8-K_0001101215-25-000026.htm) |
+| [8-K](#f-000110121525000013) | 2025-01-30 | 2025-01-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000013/bfh-20250130.htm) | [file](../../sec-filings/bread-financial-holdings/2025-01-30_8-K_0001101215-25-000013.htm) |
+| [8-K](#f-000110121525000012) | 2025-01-30 | 2025-01-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121525000012/bfh-20250130.htm) | [file](../../sec-filings/bread-financial-holdings/2025-01-30_8-K_0001101215-25-000012.htm) |
+| [8-K](#f-000110121524000238) | 2024-12-31 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000238/bfh-20241231.htm) | [file](../../sec-filings/bread-financial-holdings/2024-12-31_8-K_0001101215-24-000238.htm) |
+| [8-K](#f-000110121524000232) | 2024-12-11 | 2024-12-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000232/bfh-20241211.htm) | [file](../../sec-filings/bread-financial-holdings/2024-12-11_8-K_0001101215-24-000232.htm) |
+| [8-K](#f-000110121524000230) | 2024-12-02 | 2024-12-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000230/bfh-20241202.htm) | [file](../../sec-filings/bread-financial-holdings/2024-12-02_8-K_0001101215-24-000230.htm) |
+| [8-K](#f-000110121524000226) | 2024-11-14 | 2024-11-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000226/bfh-20241114.htm) | [file](../../sec-filings/bread-financial-holdings/2024-11-14_8-K_0001101215-24-000226.htm) |
+| [10-Q](#f-000110121524000224) | 2024-10-31 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000224/bfh-20240930.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-31_10-Q_0001101215-24-000224.htm) |
+| [8-K](#f-000110121524000218) | 2024-10-24 | 2024-10-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000218/bfh-20241024.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-24_8-K_0001101215-24-000218.htm) |
+| [8-K](#f-000110121524000217) | 2024-10-24 | 2024-10-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000217/bfh-20241024.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-24_8-K_0001101215-24-000217.htm) |
+| [8-K](#f-000114036124043815) | 2024-10-21 | 2024-10-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000114036124043815/ef20037463_8k.htm) | [file](../../sec-filings/bread-financial-holdings/2024-10-21_8-K_0001140361-24-043815.htm) |
+| [8-K](#f-000110121524000204) | 2024-09-16 | 2024-09-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000204/bfh-20240916.htm) | [file](../../sec-filings/bread-financial-holdings/2024-09-16_8-K_0001101215-24-000204.htm) |
+| [8-K](#f-000110121524000196) | 2024-08-15 | 2024-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000196/bfh-20240815.htm) | [file](../../sec-filings/bread-financial-holdings/2024-08-15_8-K_0001101215-24-000196.htm) |
+| [8-K](#f-000110121524000189) | 2024-08-09 | 2024-08-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000189/bfh-20240809.htm) | [file](../../sec-filings/bread-financial-holdings/2024-08-09_8-K_0001101215-24-000189.htm) |
+| [10-Q](#f-000110121524000181) | 2024-08-01 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000181/bfh-20240630.htm) | [file](../../sec-filings/bread-financial-holdings/2024-08-01_10-Q_0001101215-24-000181.htm) |
+| [8-K](#f-000110121524000174) | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000174/bfh-20240725.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-25_8-K_0001101215-24-000174.htm) |
+| [8-K](#f-000110121524000173) | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000173/bfh-20240725.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-25_8-K_0001101215-24-000173.htm) |
+| [8-K](#f-000110121524000160) | 2024-07-02 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000160/a6-30x24wfnform8xkthirdadd.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-02_8-K_0001101215-24-000160.htm) |
+| [8-K](#f-000110121524000141) | 2024-06-18 | 2024-06-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000141/bfh-20240618.htm) | [file](../../sec-filings/bread-financial-holdings/2024-06-18_8-K_0001101215-24-000141.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-06-10
+_Click a filing to expand its summary._
+
+<details id="f-000110121526000061">
+<summary><strong>8-K</strong> — 2026-06-10</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed June 10, 2026
 
@@ -96,26 +99,14 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - Filing discloses a Regulation FD performance update as of and for the period ended **May 31, 2026**; specific financial metrics are contained in Exhibit 99.1, which is not reproduced in the truncated filing text.
 - No standalone revenue, net income, EPS, or credit loss figures are extractable from the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **June 10, 2026**, Bread Financial Holdings issued a press release (Exhibit 99.1) providing a monthly performance update covering the period ended **May 31, 2026**; filed under Item 7.01 (Regulation FD Disclosure).
 - Filing was signed by **Joseph L. Motes III**, EVP, Chief Legal and Administrative Officer, and Secretary; information in the exhibit is expressly **not deemed "filed"** for Section 18 liability purposes and is not automatically incorporated by reference into Securities Act filings.
 
-### 8-K — 2026-05-22
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000110121526000058">
+<summary><strong>8-K</strong> — 2026-05-22</summary>
 
 #### Material events
 - Bread Financial Holdings (NYSE: BFH) held its 2026 Annual Meeting on May 19, 2026 in virtual-only format; 37,841,186 shares were represented (~91.35% of shares outstanding as of the March 25, 2026 record date).
@@ -123,7 +114,10 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - Advisory "say-on-pay" vote on executive compensation passed 31,508,096 For vs. 2,754,478 Against (~92% approval among votes cast excluding broker non-votes).
 - The 2026 Employee Stock Purchase Plan was approved (34,219,041 For vs. 55,969 Against), and Deloitte & Touche LLP was ratified as independent auditor for 2026 (36,998,194 For vs. 822,956 Against).
 
-### 8-K — 2026-05-15
+</details>
+
+<details id="f-000110121526000055">
+<summary><strong>8-K</strong> — 2026-05-15</summary>
 
 ### Bread Financial Holdings (BFH) — 8-K Filed May 15, 2026
 
@@ -131,26 +125,20 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - Filing discloses a Regulation FD performance update as of and for the period ended **April 30, 2026**; detailed financials are contained in Exhibit 99.1, which is not reproduced in the filing text provided.
 - No specific revenue, net income, EPS, or credit metrics are stated in the body of the 8-K itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **May 15, 2026**, Bread Financial Holdings issued a press release providing a monthly performance update through **April 30, 2026** (Item 7.01 Regulation FD Disclosure).
 - The filing covers common stock (BFH) and two preferred series: **8.625% Series A** (BFH PrA) and **8.875% Fixed Rate Reset Series B** (BFH PrB), all listed on the NYSE; no changes to capital structure were announced.
 
 > **Analyst note for Snap Finance:** The exhibit containing actual portfolio performance data (delinquencies, charge-offs, receivables growth) was not included in the truncated filing text. Retrieval of Exhibit 99.1 is recommended to extract credit-quality and consumer-lending volume metrics relevant to competitive benchmarking.
 
-### 8-K — 2026-05-12
+</details>
+
+<details id="f-000119312526218648">
+<summary><strong>8-K</strong> — 2026-05-12</summary>
 
 #### Key financials
 - On May 12, 2026, Bread Financial Holdings issued 5,400,000 depositary shares (including 600,000 from the underwriters' overallotment option) of its new Series B Preferred Stock, each representing a 1/40th interest in a share with a liquidation preference of $1,000 per share (implying ~$135M total liquidation value at the depositary share level).
 - The Series B Preferred Stock carries an 8.875% Fixed Rate Reset Non-Cumulative Perpetual rate; the Underwriting Agreement (dated May 5, 2026) allowed for up to 5,520,000 depositary shares including up to 720,000 additional shares via overallotment.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - The Certificate of Designations (effective May 12, 2026) restricts Bread Financial's ability to pay dividends on, repurchase, or redeem shares ranking junior or on parity with the Series B Preferred Stock if dividends on Series B are not declared and funded for the immediately preceding dividend period.
@@ -160,7 +148,10 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - Bread Financial filed a Certificate of Designations with the Delaware Secretary of State on May 11, 2026 (effective May 12, 2026), establishing the Series B Preferred Stock and amending its Third Amended and Restated Certificate of Incorporation.
 - Depositary shares were issued under a Deposit Agreement dated May 12, 2026, with Computershare Inc. and Computershare Trust Company, N.A. as depositary; lead underwriters included Morgan Stanley, RBC Capital Markets, UBS Securities, Wells Fargo Securities, and Keefe, Bruyette & Woods.
 
-### 8-K — 2026-05-06
+</details>
+
+<details id="f-000110121526000053">
+<summary><strong>8-K</strong> — 2026-05-06</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed May 6, 2026
 
@@ -172,14 +163,14 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - Net proceeds designated for general corporate purposes, including potential capital contributions or loans to subsidiary Comenity Capital Bank, and share repurchases; no specific dollar allocation disclosed.
 - None noted beyond the above.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Offering registered under Securities Act via Form S-3 (Registration No. 333-291573); prospectus supplement dated May 5, 2026, to be filed per Rule 424(b) no later than the second business day following first use.
 - Underwriting agreement dated May 5, 2026, executed between Bread Financial Holdings and five named underwriter representatives.
 
-### 8-K — 2026-05-05
+</details>
+
+<details id="f-000110121526000047">
+<summary><strong>8-K</strong> — 2026-05-05</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed May 5, 2026
 
@@ -191,14 +182,14 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - Comenity Capital Bank identified as the primary intended recipient of proceeds, highlighting the company's bank-subsidiary funding structure relevant to its point-of-sale credit/financing operations.
 - None noted beyond the above.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On May 5, 2026, Bread Financial launched a public offering of Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B (par value $0.01/share), traded on NYSE under depositary share structure alongside existing Series A (ticker: BFH PrA, carrying an 8.625% rate).
 - Offering is contingent on market and other conditions; no guarantee of completion was stated.
 
-### 10-Q — 2026-04-28
+</details>
+
+<details id="f-000110121526000040">
+<summary><strong>10-Q</strong> — 2026-04-28</summary>
 
 #### Key financials
 - Q1 2026 net income of $181M ($4.15 diluted EPS) vs. $138M ($2.78) in Q1 2025, a 32% and 50% increase, respectively; total net interest and non-interest income of $1.018B, up 5% YoY.
@@ -223,7 +214,10 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - On December 17, 2025, BFH filed applications to merge Comenity Bank into Comenity Capital Bank (CCB surviving); pending regulatory approval, merger expected to close in second half of 2026 with no material financial impact anticipated.
 - On April 23, 2026, the Board declared a Q2 preferred dividend of $21.56/share and a common dividend of $0.23/share, both payable June 15, 2026, to holders of record May 29, 2026.
 
-### 8-K — 2026-04-23
+</details>
+
+<details id="f-000110121526000037">
+<summary><strong>8-K</strong> — 2026-04-23</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed April 23, 2026
 
@@ -231,17 +225,14 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - Filing references a performance update press release (Exhibit 99.1) as of and for the period ended March 31, 2026; specific financial figures are contained in the attached exhibit, which is not included in the truncated text.
 - No standalone financial metrics (revenue, EPS, credit losses, receivables balances) are presented within the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On April 23, 2026, Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K under Item 7.01 (Regulation FD Disclosure) disclosing a Q1 2026 performance update press release dated April 23, 2026.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Legal and Administrative Officer, and Secretary; the disclosure is explicitly not deemed "filed" for Section 18 liability purposes and is not automatically incorporated by reference into Securities Act filings.
 
-### 8-K — 2026-04-23
+</details>
+
+<details id="f-000110121526000036">
+<summary><strong>8-K</strong> — 2026-04-23</summary>
 
 #### Key financials
 - Q1 2026 earnings release issued April 23, 2026 for the quarter ended March 31, 2026; detailed P&L figures are contained in Exhibit 99.1 and financial supplement Exhibit 99.2, which are furnished but not filed and not reproduced in the 8-K text.
@@ -251,55 +242,46 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 #### Segment & competitive notes
 - None noted. (The 8-K body contains no segment-level or competitive data; detail is limited to referenced exhibits not reproduced in the filing text.)
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings (NYSE: BFH) filed an 8-K on April 23, 2026 disclosing Q1 2026 results of operations (Item 2.02) and posting an investor presentation to its website for use in analyst and investor meetings (Item 7.01).
 - Board declared both preferred and common cash dividends on April 23, 2026, with identical record (May 29, 2026) and payment (June 15, 2026) dates for both share classes.
 
-### 8-K — 2026-03-11
+</details>
+
+<details id="f-000110121526000032">
+<summary><strong>8-K</strong> — 2026-03-11</summary>
 
 #### Key financials
 - Filing is a Regulation FD disclosure (Item 7.01) referencing a performance update press release for the period ended February 28, 2026; no financial statements or specific metrics are included in the 8-K body itself.
 - Exhibit 99.1 (the press release with actual performance data) is referenced but not reproduced in the filing text provided; specific figures are therefore unavailable from this document.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on March 11, 2026, disclosing a monthly performance update as of and for the period ended February 28, 2026, consistent with its regular Regulation FD practice.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Legal and Administrative Officer, and Secretary, on March 11, 2026.
 
-### 8-K — 2026-02-26
+</details>
+
+<details id="f-000110121526000030">
+<summary><strong>8-K</strong> — 2026-02-26</summary>
 
 #### Key financials
 - Board approved a **$600 million increase** to the existing share repurchase authorization, announced via press release on **February 26, 2026**.
 - No revenue, earnings, or credit metrics disclosed in this filing.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on **February 26, 2026** under Item 7.01 (Regulation FD) disclosing the $600 million buyback authorization expansion.
 - The company also has 8.625% Non-Cumulative Perpetual Preferred Stock, Series A (NYSE: BFH PrA) outstanding; no changes to preferred terms were disclosed.
 
-### 8-K — 2026-02-18
+</details>
+
+<details id="f-000110121526000021">
+<summary><strong>8-K</strong> — 2026-02-18</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed February 18, 2026
 
 #### Key financials
 - As of December 31, 2025, all of the Company's 4.25% Convertible Senior Notes due 2028 (issued June 2023) had been fully retired; no Notes remained outstanding.
 - Based on the February 17, 2026 VWAP, the Capped Call Unwind Agreements would hypothetically result in the Company receiving and retiring approximately **1.5 million shares** of Common Stock; actual settlement shares will vary based on VWAP during the applicable Unwind Period.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Settlement of Capped Call Unwind Agreements is expected on or before **end of February 2026**; final share count is subject to Common Stock price performance during the Unwind Period and may be higher or lower than the 1.5 million reference figure.
@@ -309,7 +291,10 @@ _Updated: June 15, 2026_  ·  Filer for [[bread-financial]] (BFH)
 - On **February 17, 2026**, Bread Financial entered into separate Capped Call Unwind Agreements with the Option Counterparties to fully terminate Capped Call Transactions originally entered into in **June 2023** in connection with the 4.25% Convertible Senior Notes due 2028.
 - Shares received under the Capped Call Unwind Agreements will be retired but are explicitly independent of and will not reduce any existing or future Board-approved share repurchase authorization.
 
-### 10-K — 2026-02-13
+</details>
+
+<details id="f-000110121526000016">
+<summary><strong>10-K</strong> — 2026-02-13</summary>
 
 Based on the XBRL metadata and narrative text provided in this 10-K filing for Bread Financial Holdings, Inc. (BFH, ticker: BFH), filed 2026-02-13 for FY2025:
 
@@ -337,7 +322,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - BFH completed a **share repurchase program in 2025** and declared both preferred and common dividends; subsequent to year-end, on **January 29, 2026**, the Board declared Q1 2026 preferred and common dividends.
 - The **CFPB Open Banking rule** (finalized October 2024) is under active reconsideration: a preliminary injunction **barring enforcement was entered in October 2025** while the CFPB conducts a revised rulemaking, reducing near-term compliance burden.
 
-### 8-K — 2026-02-10
+</details>
+
+<details id="f-000110121526000010">
+<summary><strong>8-K</strong> — 2026-02-10</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed February 10, 2026
 
@@ -345,29 +333,20 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Filing references a performance update press release (Exhibit 99.1) as of and for the period ended **January 31, 2026**; specific financial metrics are contained in the attached exhibit, which is not reproduced in the filing text provided.
 - No standalone financial figures (revenue, net income, credit losses, receivables balances) are disclosed within the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **February 10, 2026**, Bread Financial Holdings, Inc. filed an 8-K under **Item 7.01 (Regulation FD Disclosure)** disclosing a monthly performance update press release for the period ended **January 31, 2026**.
 - The filing is furnished, not filed, under Section 18 of the Exchange Act, meaning it is not subject to standard Exchange Act liabilities and is not automatically incorporated by reference into other SEC filings.
 
-### 8-K — 2026-01-29
+</details>
+
+<details id="f-000110121526000008">
+<summary><strong>8-K</strong> — 2026-01-29</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed January 29, 2026
 
 #### Key financials
 - Filing references a performance update press release (Exhibit 99.1) for the period ended December 31, 2025; specific financial figures are contained in the attached exhibit, which is not included in the truncated filing text.
 - No standalone financial metrics (revenue, net income, EPS, credit loss rates, or receivables balances) are disclosed within the 8-K body itself.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On January 29, 2026, Bread Financial Holdings issued a Regulation FD performance update press release covering the period ended December 31, 2025 (filed as Exhibit 99.1); content is disclosed under Item 7.01 and is expressly **not** deemed "filed" for Section 18 liability purposes.
@@ -376,47 +355,41 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 ---
 *Note: The exhibit (Exhibit 99.1) containing the actual performance data was not included in the provided filing text. A complete analysis of key financials and competitive metrics would require review of that press release.*
 
-### 8-K — 2026-01-29
+</details>
+
+<details id="f-000110121526000007">
+<summary><strong>8-K</strong> — 2026-01-29</summary>
 
 #### Key financials
 - Q4 2025 earnings results released January 29, 2026 (period ended December 31, 2025); full financials contained in Exhibits 99.1 and 99.2, which are furnished but not filed — specific revenue/EPS figures not disclosed in the 8-K body text.
 - Quarterly common stock dividend declared at $0.23 per share, payable March 16, 2026 to stockholders of record February 27, 2026.
 - Quarterly preferred stock (8.625% Non-Cumulative Perpetual Preferred Stock, Series A) dividend declared at $26.35 per share ($0.65875 per depositary share), payable March 16, 2026 to holders of record February 27, 2026.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on January 29, 2026 reporting Q4 2025 results of operations and providing an investor presentation (Exhibit 99.3) for use in analyst and investor meetings.
 - Board declared both common and preferred dividends on January 29, 2026, with identical payment and record dates (March 16, 2026 and February 27, 2026, respectively).
 
-### 8-K — 2025-12-10
+</details>
+
+<details id="f-000110121525000201">
+<summary><strong>8-K</strong> — 2025-12-10</summary>
 
 #### Key financials
 - Filing is a Regulation FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended November 30, 2025; actual financial data is contained in the attached exhibit, which is not included in the truncated filing text.
 - No specific revenue, earnings, credit loss, or balance sheet figures are extractable from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed this 8-K on December 10, 2025, disclosing a monthly performance update as of and for the period ended November 30, 2025 via press release (Exhibit 99.1).
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on December 10, 2025; the disclosure is explicitly non-"filed" under Section 18 of the Exchange Act and is not incorporated by reference into Securities Act filings unless expressly stated.
 
-### 8-K — 2025-11-25
+</details>
+
+<details id="f-000119312525294761">
+<summary><strong>8-K</strong> — 2025-11-25</summary>
 
 #### Key financials
 - On November 25, 2025, Bread Financial Holdings issued 3,000,000 depositary shares, each representing a 1/40th interest in a share of the 8.625% Non-Cumulative Perpetual Preferred Stock, Series A (par value $0.01/share; liquidation preference $1,000/share).
 - Implied gross proceeds: approximately $75M (3,000,000 depositary shares × ~$25 stated value per depositary share, consistent with 1/40th of $1,000 liquidation preference); dividend rate fixed at 8.625% per annum on the $1,000 liquidation preference (~$86.25/share annually, or ~$2.16/depositary share annually).
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - The Series A Preferred Stock is non-cumulative, meaning missed dividends do not accrue; however, the Company is restricted from paying dividends on or repurchasing junior/parity stock if it fails to declare and fund preferred dividends for the immediately preceding dividend period.
@@ -426,7 +399,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Underwriting Agreement signed November 20, 2025 with Wells Fargo Securities, J.P. Morgan Securities, Morgan Stanley, and RBC Capital Markets as lead underwriters for the 3,000,000 depositary share offering.
 - Certificate of Designations filed with the Delaware Secretary of State on November 24, 2025 and became effective November 25, 2025, formally amending the Company's Third Amended and Restated Certificate of Incorporation; depositary agent is Computershare Inc. and Computershare Trust Company, N.A.
 
-### 8-K — 2025-11-21
+</details>
+
+<details id="f-000110121525000198">
+<summary><strong>8-K</strong> — 2025-11-21</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed November 21, 2025
 
@@ -438,14 +414,14 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Proceeds may be contributed or lent to subsidiary Comenity Capital Bank, indicating a potential capital reinforcement of the bank's balance sheet.
 - Remaining proceeds designated for general corporate purposes, including share repurchases, signaling management's continued focus on capital return alongside balance sheet management.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Offering registered under Form S-3 (Registration No. 333-291573); prospectus supplement dated November 20, 2025, to be filed with the SEC no later than the second business day following first use.
 - Series A Preferred Stock is non-cumulative, meaning missed dividends do not accrue — a structural consideration relevant to preferred holders' risk profile.
 
-### 8-K — 2025-11-20
+</details>
+
+<details id="f-000110121525000193">
+<summary><strong>8-K</strong> — 2025-11-20</summary>
 
 ## Bread Financial Holdings (BFH) – 8-K Filed November 20, 2025
 
@@ -453,17 +429,14 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Launching a public offering of depositary shares, each representing a 1/40th interest in Series A Non-Cumulative Perpetual Preferred Stock at a liquidation preference of **$25 per depositary share** (equivalent to **$1,000 per share** of Series A Preferred Stock); offering size not specified in the filing.
 - Net proceeds intended for general corporate purposes, including potential capital contributions or loans to subsidiary **Comenity Capital Bank** and/or **share repurchases**; no specific dollar amounts disclosed.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **November 20, 2025**, Bread Financial announced the launch of a preferred stock offering (Series A, par value **$0.01/share**), structured as depositary shares traded on the NYSE under ticker **BFH**; offering is subject to market and other conditions.
 - Proceeds may be deployed into **Comenity Capital Bank**, a subsidiary bank, signaling a potential need to bolster bank-level capital; no regulatory trigger or required minimum capitalization threshold was cited.
 
-### 8-K — 2025-11-13
+</details>
+
+<details id="f-000110121525000183">
+<summary><strong>8-K</strong> — 2025-11-13</summary>
 
 #### Key financials
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended October 31, 2025; no financial figures are included in the 8-K body itself.
@@ -479,7 +452,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - On November 13, 2025, Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K under Item 7.01 disclosing a monthly performance update press release covering activity through October 31, 2025.
 - The filing was signed by Joseph L. Motes III (EVP, Chief Administrative Officer, General Counsel & Secretary) on November 13, 2025; content is furnished, not filed, and is therefore not subject to Section 18 liability or automatically incorporated by reference into Securities Act filings.
 
-### 8-K — 2025-11-06
+</details>
+
+<details id="f-000110121525000181">
+<summary><strong>8-K</strong> — 2025-11-06</summary>
 
 #### Key financials
 - On November 6, 2025, Bread Financial Holdings (BFH) closed a $500 million offering of 6.750% Senior Notes due May 15, 2031, issued under an indenture dated November 6, 2025 with U.S. Bank Trust Company, National Association as trustee.
@@ -498,23 +474,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - BFH entered into the Indenture and issued $500 million of 6.750% Senior Notes due 2031 on November 6, 2025, creating a new direct financial obligation (Item 2.03 triggered).
 - Domestic subsidiaries that guarantee the Credit Agreement became guarantors of the Notes on the issue date; future domestic subsidiaries guaranteeing "Non-Funding Debt" will be required to join as guarantors.
 
-### 8-K — 2025-10-29
+</details>
+
+<details id="f-000110121525000178">
+<summary><strong>8-K</strong> — 2025-10-29</summary>
 
 #### Key financials
 - Bread Financial priced **$500 million** of **6.750% Senior Notes due May 15, 2031**, issued at par, generating net proceeds of ~**$493 million** after underwriter discount and estimated expenses (closing expected **November 6, 2025**).
 - Net proceeds plus ~**$275 million** cash on hand will fully redeem the outstanding **9.750% Senior Notes due 2029** (**$719 million** aggregate principal outstanding), including a make-whole premium; transaction lowers coupon rate by ~300 bps.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **October 28, 2025**, Bread Financial entered a Purchase Agreement with **Wells Fargo Securities and BMO Capital Markets** as lead initial purchasers for the Rule 144A / Reg S private placement of the new notes.
 - The full redemption of the 9.750% 2029 Notes will eliminate higher-cost debt and reduce annual interest expense by approximately **$21–22 million** on a net basis (rough estimate: savings of ~$29M on redeemed notes partially offset by ~$34M on new notes, net of lower coupon), materially improving Bread Financial's cost of funds competitiveness in the point-of-sale/credit lending market.
 
-### 8-K — 2025-10-28
+</details>
+
+<details id="f-000110121525000175">
+<summary><strong>8-K</strong> — 2025-10-28</summary>
 
 #### Key financials
 - Bread Financial (BFH) has **$719 million aggregate principal amount** of 9.750% senior notes due 2029 outstanding, targeted for full redemption.
@@ -532,7 +508,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - On **October 28, 2025**, BFH issued a conditional notice of redemption for all outstanding 9.750% senior notes due 2029, with redemption scheduled for **November 7, 2025**.
 - Simultaneously, BFH launched a private (unregistered) senior notes offering on **October 28, 2025** to fund the refinancing; the 2029 notes were originally issued under an indenture dated **December 22, 2023** with U.S. Bank Trust Company as trustee.
 
-### 10-Q — 2025-10-28
+</details>
+
+<details id="f-000110121525000173">
+<summary><strong>10-Q</strong> — 2025-10-28</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 10-Q Summary, Q3 2025 (Filed 2025-10-28)
 
@@ -558,7 +537,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - **Credit rating upgrades**: In October 2025, Moody's upgraded BFH senior unsecured debt to Ba2 (from Ba3) with Positive outlook; Fitch upgraded to BB (from BB-) with Stable outlook; S&P affirmed BB- but changed outlook to Positive from Stable.
 - **Conduit facility changes**: WFNMNT 2009-VFN commitment reduced by $900M to $1.75B and extended to October 2026 (post-period, October 2025); CCAST 2023-VFN1 ($250M) retired October 1, 2025; total conduit capacity reduced from $5.35B to $4.65B during the nine months ended September 30, 2025.
 
-### 8-K — 2025-10-23
+</details>
+
+<details id="f-000110121525000169">
+<summary><strong>8-K</strong> — 2025-10-23</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) – 8-K Filed October 23, 2025
 
@@ -576,7 +558,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - On **October 23, 2025**, Bread Financial Holdings issued a press release providing a quarterly performance update for the period ended **September 30, 2025**, disclosed under Item 7.01 (Reg FD).
 - The filing was signed by **Joseph L. Motes III**, EVP, Chief Administrative Officer, General Counsel and Secretary, on **October 23, 2025**; no executive leadership changes were indicated.
 
-### 8-K — 2025-10-23
+</details>
+
+<details id="f-000110121525000168">
+<summary><strong>8-K</strong> — 2025-10-23</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed October 23, 2025
 
@@ -594,23 +579,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Board approved a **$200 million increase** to the Company's existing share repurchase authorization, announced October 23, 2025.
 - Company filed under Items 2.02 and 7.01 (furnished, not filed) and Item 8.01 (filed), with an investor presentation posted to **www.breadfinancial.com** on October 23, 2025.
 
-### 8-K — 2025-09-09
+</details>
+
+<details id="f-000110121525000154">
+<summary><strong>8-K</strong> — 2025-09-09</summary>
 
 #### Key financials
 - This 8-K (filed September 9, 2025) is a Regulation FD disclosure only; it references a performance update press release (Exhibit 99.1) for the period ended August 31, 2025, but the exhibit text is not included in the filing body — no specific financial figures are available in the filing text provided.
 - No income statement, balance sheet, or credit metric data is presented within the 8-K form itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on September 9, 2025 under Item 7.01 (Regulation FD), disclosing a monthly performance update as of and for the period ended August 31, 2025.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary; the disclosed information is expressly not "filed" for Section 18 liability purposes and is not automatically incorporated by reference into Securities Act filings.
 
-### 8-K — 2025-08-27
+</details>
+
+<details id="f-000110121525000151">
+<summary><strong>8-K</strong> — 2025-08-27</summary>
 
 ## Bread Financial Holdings (BFH) — 8-K Filed 2025-08-27
 
@@ -618,29 +603,20 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Board authorized a new share repurchase program of up to **$200 million** of common stock, announced August 27, 2025.
 - No revenue, earnings, or credit metrics disclosed in this filing.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **August 27, 2025**, Bread Financial's Board of Directors authorized a new **$200 million share buyback plan** for its common stock (NYSE: BFH).
 - Disclosure made under Item 7.01 (Regulation FD); press release attached as Exhibit 99.1 and signed by EVP/General Counsel Joseph L. Motes III.
 
-### 8-K — 2025-08-22
+</details>
+
+<details id="f-000110121525000147">
+<summary><strong>8-K</strong> — 2025-08-22</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed August 22, 2025
 
 #### Key financials
 - Bread Financial announced expiration and results of a cash tender offer capped at **$150,000,000 in aggregate principal amount**, targeting two debt instruments.
 - Securities subject to the offer: **9.750% Senior Notes due 2029** and **8.375% Fixed-Rate Reset Subordinated Notes due 2035**; specific amounts tendered/accepted not disclosed in the filing text provided.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On **August 22, 2025**, Bread Financial (BFH) completed and announced results of a previously announced cash tender offer for up to **$150M** in senior and subordinated notes, filed under Item 8.01 (Other Events).
@@ -649,23 +625,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 ---
 *Note for Snap Finance tracking purposes: Bread Financial is a competing point-of-sale/private-label credit card lender. This tender offer indicates active balance sheet management and potential reduction in high-coupon debt obligations.*
 
-### 8-K — 2025-08-15
+</details>
+
+<details id="f-000110121525000145">
+<summary><strong>8-K</strong> — 2025-08-15</summary>
 
 #### Key financials
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended July 31, 2025; the actual financial figures are contained in the attached exhibit, which is not reproduced in the truncated filing text.
 - No specific revenue, net income, EPS, or credit metrics are visible in the body of the 8-K itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on August 15, 2025, disclosing a mid-quarter performance update as of and for the period ended July 31, 2025 — an intra-quarter data point relevant to competitors tracking consumer credit and point-of-sale lending trends.
 - The filing was signed by Joseph L. Motes III (EVP, Chief Administrative Officer, General Counsel & Secretary); content is furnished under Reg FD and is explicitly not "filed" for Section 18 liability purposes, limiting its legal weight.
 
-### 8-K — 2025-08-07
+</details>
+
+<details id="f-000110121525000142">
+<summary><strong>8-K</strong> — 2025-08-07</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) – 8-K Filed August 7, 2025
 
@@ -673,17 +649,14 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Cash tender offer capped at **$150,000,000 aggregate principal** targeting two note series: **9.750% Senior Notes due 2029** and **8.375% Fixed-Rate Reset Subordinated Notes due 2035**.
 - Early tender results announced **August 7, 2025**; specific tendered amounts not disclosed in the filing text.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial launched a cash tender offer for up to **$150M** in outstanding senior and subordinated debt, signaling active liability management and potential interest cost reduction.
 - The filing (Item 8.01) reports early tender results as of **August 7, 2025**; the offer targets high-coupon instruments (9.750% and 8.375%), suggesting the company may be seeking to refinance at lower rates or reduce leverage.
 
-### 10-Q — 2025-07-29
+</details>
+
+<details id="f-000110121525000135">
+<summary><strong>10-Q</strong> — 2025-07-29</summary>
 
 #### Key financials
 - Q2 2025 net income $139M (+4% YoY); diluted EPS $2.94 (+11%); adjusted diluted EPS $3.15 (+19% YoY, excluding $13M debt-repurchase loss)
@@ -707,23 +680,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - July 24, 2025 (subsequent event): commenced second tender offer (Dutch Auction) for up to $150M of notes—up to $100M of Senior Notes due 2029 and up to $50M of Subordinated Notes due 2035—expected to close August 2025
 - Completed $150M board-authorized share repurchase program (3.2M shares) by April 2025; quarterly dividend of $0.21/share declared July 24, 2025, payable September 12, 2025
 
-### 8-K — 2025-07-24
+</details>
+
+<details id="f-000110121525000131">
+<summary><strong>8-K</strong> — 2025-07-24</summary>
 
 #### Key financials
 - Filing is a Regulation FD disclosure (Item 7.01) referencing a performance update press release for the period ended June 30, 2025; the actual financial figures are contained in Exhibit 99.1, which is not reproduced in the truncated filing text.
 - No specific revenue, net income, EPS, or credit metrics are discernible from the 8-K body alone.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed this 8-K on July 24, 2025, reporting a mid-quarter performance update as of and for the period ended June 30, 2025 via Regulation FD disclosure.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on July 24, 2025; Exhibit 99.1 (the press release) contains the substantive operational and financial data but is not included in the truncated text provided.
 
-### 8-K — 2025-07-24
+</details>
+
+<details id="f-000110121525000130">
+<summary><strong>8-K</strong> — 2025-07-24</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed July 24, 2025
 
@@ -741,7 +714,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Board of Directors declared a **$0.21/share quarterly cash dividend** on July 24, 2025, payable September 12, 2025 (record date August 8, 2025).
 - Company posted an investor presentation (Exhibit 99.2) to its website under "Events & Presentations" on July 24, 2025 for use in analyst and investor meetings; presentation details are not included in the filing text itself.
 
-### 8-K — 2025-07-24
+</details>
+
+<details id="f-000110121525000129">
+<summary><strong>8-K</strong> — 2025-07-24</summary>
 
 ### Bread Financial Holdings, Inc. (BFH) — 8-K Filed July 24, 2025
 
@@ -749,56 +725,44 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Bread Financial launched a cash tender offer on July 24, 2025 to repurchase up to **$150 million aggregate principal** of outstanding debt.
 - The offer covers two instruments: **9.750% Senior Notes due 2029** and/or **8.375% Fixed-Rate Reset Subordinated Notes due 2035**; allocation between the two tranches was not specified in this filing.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **July 24, 2025**, BFH commenced the tender offer via press release (Exhibit 99.1); the filing explicitly states the 8-K does not constitute an offer to sell or solicitation to buy the securities.
 - The transaction, if completed at the full $150 million cap, would reduce high-coupon debt (9.750% and/or 8.375%), potentially lowering BFH's interest expense and improving its cost of capital — relevant context for Snap Finance monitoring competitors in consumer/point-of-sale credit.
 
-### 8-K — 2025-06-11
+</details>
+
+<details id="f-000110121525000096">
+<summary><strong>8-K</strong> — 2025-06-11</summary>
 
 #### Key financials
 - Filing is a Regulation FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) as of and for the period ended May 31, 2025; no financial figures are included in the 8-K body itself.
 - No income statement, balance sheet, or credit metric data is reproduced in the filing text provided; full detail would require review of the attached Exhibit 99.1.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed this 8-K on June 11, 2025, disclosing a monthly performance update press release covering the period through May 31, 2025.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on June 11, 2025; information is furnished under Regulation FD and is not deemed "filed" for Section 18 liability purposes.
 
-### 8-K — 2025-06-05
+</details>
+
+<details id="f-000119312525135322">
+<summary><strong>8-K</strong> — 2025-06-05</summary>
 
 #### Key financials
 - Bread Financial Holdings (NYSE: BFH) announced early tender results for a cash tender offer of up to **$150,000,000** in aggregate principal amount of its **9.750% Senior Notes due 2029**, reported June 5, 2025.
 - No specific dollar amount of notes tendered or accepted is disclosed in the 8-K body; full tender results detail is contained in Exhibit 99.1 (not reproduced in filing text).
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **June 5, 2025**, Bread Financial Holdings filed an 8-K (Item 8.01 – Other Events) disclosing early tender results for its previously announced offer to repurchase up to **$150M** of its **9.750% Senior Notes due 2029** for cash.
 - The filing explicitly states the 8-K and attached press release do not constitute an offer to sell or solicitation to buy securities, indicating standard legal safe-harbor language around the tender process.
 
-### 8-K — 2025-05-21
+</details>
+
+<details id="f-000110121525000092">
+<summary><strong>8-K</strong> — 2025-05-21</summary>
 
 #### Key financials
 - On May 21, 2025, Bread Financial Holdings (NYSE: BFH) announced a cash tender offer to repurchase up to **$150 million aggregate principal amount** of its **9.750% Senior Notes due 2029**.
 - No updated income statement, balance sheet, or credit metrics were included in this filing.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - None noted; no new or amended risk factors were disclosed in this filing.
@@ -807,16 +771,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Bread Financial launched a tender offer on **May 21, 2025** to retire up to **$150M of its 9.750% Senior Notes due 2029**, signaling an intent to reduce high-coupon debt and potentially lower interest expense.
 - The filing (Item 8.01 – Other Events) clarifies the press release does **not** constitute an offer to sell securities and is subject to jurisdictional restrictions.
 
-### 8-K — 2025-05-14
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000110121525000086">
+<summary><strong>8-K</strong> — 2025-05-14</summary>
 
 #### Material events
 - On May 13, 2025, Bread Financial Holdings (NYSE: BFH) held its 2025 annual meeting in virtual-only format; 42,851,128 shares were represented (~88.69% of shares outstanding as of the March 20, 2025 record date).
@@ -824,23 +782,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Advisory say-on-pay vote approved executive compensation: 37,034,075 for vs. 1,857,225 against (approximately 95.2% approval among votes cast, excluding broker non-votes of 3,890,288).
 - Deloitte & Touche LLP ratified as independent auditor for 2025: 41,906,939 for vs. 874,903 against (~97.9% approval).
 
-### 8-K — 2025-05-13
+</details>
+
+<details id="f-000110121525000082">
+<summary><strong>8-K</strong> — 2025-05-13</summary>
 
 #### Key financials
 - Filing is a Reg FD performance update (Item 7.01) for the period ended April 30, 2025; the actual financial data is contained in Exhibit 99.1, which is not reproduced in the truncated filing text — no specific metrics available.
 - No income statement, balance sheet, or credit-quality figures are discernible from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on May 13, 2025 under Item 7.01 (Regulation FD) to disclose a monthly performance update as of and for the period ended April 30, 2025.
 - The update was delivered via press release (Exhibit 99.1) signed by EVP, CAO & General Counsel Joseph L. Motes III; the disclosure is expressly not "filed" for Section 18 liability purposes and is not automatically incorporated by reference into other SEC filings.
 
-### 10-Q — 2025-04-29
+</details>
+
+<details id="f-000110121525000080">
+<summary><strong>10-Q</strong> — 2025-04-29</summary>
 
 #### Key financials
 - Q1 2025 net income $138M ($2.78 diluted EPS) vs. $134M ($2.70) in Q1 2024; income from continuing operations $142M vs. $135M; effective tax rate 28.1% in both periods.
@@ -862,7 +820,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - January 2025: redeemed remaining $100M of 7.000% Senior Notes due 2026 with cash on hand; during Q1 2025 also repurchased $7M principal of 4.25% Convertible Notes for $11M cash (only $3M Convertible Notes remaining outstanding at March 31, 2025).
 - Board authorized $150M share repurchase program on March 5, 2025; 2.1M shares repurchased for $102M in Q1, with an additional 1.1M shares repurchased in April 2025, completing the program (3.2M total shares, ~6.5% of shares outstanding); quarterly dividend of $0.21/share declared April 24, 2025, payable June 13, 2025.
 
-### 8-K — 2025-04-24
+</details>
+
+<details id="f-000110121525000076">
+<summary><strong>8-K</strong> — 2025-04-24</summary>
 
 #### Key financials
 - Filing is an 8-K (Item 7.01 Reg FD) dated April 24, 2025, disclosing a performance update as of and for the period ended March 31, 2025; detailed financials are contained in Exhibit 99.1, which is not included in the truncated text provided.
@@ -878,7 +839,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on April 24, 2025, under Item 7.01 (Regulation FD) to disseminate a quarterly performance update press release covering the period ended March 31, 2025.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on April 24, 2025; the exhibit is explicitly not deemed "filed" for Section 18 liability purposes.
 
-### 8-K — 2025-04-24
+</details>
+
+<details id="f-000110121525000075">
+<summary><strong>8-K</strong> — 2025-04-24</summary>
 
 ## Bread Financial Holdings (BFH) — 8-K Filed April 24, 2025
 
@@ -896,7 +860,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Board declared a **$0.21/share quarterly cash dividend** (Item 8.01), payable June 13, 2025; record date May 9, 2025.
 - Investor presentation (Exhibit 99.2) posted April 24, 2025 to company website for use in analyst/investor meetings; furnished under Reg FD (Item 7.01) but not deemed "filed" for Exchange Act Section 18 liability purposes.
 
-### 8-K — 2025-03-17
+</details>
+
+<details id="f-000110121525000062">
+<summary><strong>8-K</strong> — 2025-03-17</summary>
 
 #### Key financials
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended February 28, 2025; no financial statements or specific metrics are included in the 8-K body itself.
@@ -912,7 +879,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on March 17, 2025, disclosing a monthly performance update via press release for the period ended February 28, 2025.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on March 17, 2025; information is furnished under Reg FD and is not deemed "filed" for Section 18 liability purposes.
 
-### 8-K — 2025-03-10
+</details>
+
+<details id="f-000110121525000054">
+<summary><strong>8-K</strong> — 2025-03-10</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed March 10, 2025
 
@@ -932,7 +902,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Indenture dated **March 10, 2025** executed between Bread Financial Holdings and **U.S. Bank Trust Company, National Association** as trustee (Exhibit 4.1).
 - Company may redeem Notes **in whole only** on **June 17, 2030** or within **90 days** of a regulatory capital treatment event, at **100% of principal** plus accrued interest.
 
-### 8-K — 2025-03-06
+</details>
+
+<details id="f-000110121525000052">
+<summary><strong>8-K</strong> — 2025-03-06</summary>
 
 ### Bread Financial Holdings (BFH) — 8-K Filed 2025-03-06
 
@@ -952,7 +925,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Company entered into a **Purchase Agreement dated March 5, 2025** with **J.P. Morgan Securities LLC** and **BMO Capital Markets Corp.** as representatives of the initial purchaser syndicate.
 - This is a subordinated-note issuance (not senior), which ranks below senior obligations — relevant to Bread Financial's overall debt-stack and leverage profile for competitor tracking purposes.
 
-### 8-K — 2025-03-05
+</details>
+
+<details id="f-000110121525000050">
+<summary><strong>8-K</strong> — 2025-03-05</summary>
 
 #### Key financials
 - Board authorized a share repurchase program of up to **$150 million** of common stock, announced March 5, 2025.
@@ -970,7 +946,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - On **March 5, 2025**, Bread Financial Holdings (NYSE: BFH) declared a new **$150 million share repurchase program** via Board authorization.
 - On **March 5, 2025**, the company launched a private offering of **fixed-rate reset subordinated notes**, with no less than **$250 million** of net proceeds to be downstreamed as subordinated debt to Comenity Capital Bank.
 
-### 10-K — 2025-02-14
+</details>
+
+<details id="f-000110121525000031">
+<summary><strong>10-K</strong> — 2025-02-14</summary>
 
 #### Key financials
 - As of December 31, 2024, total credit card and other loan principal was **$17.4 billion** across approximately **38 million** open/outstanding accounts, with an average balance of **$975** for accounts carrying balances.
@@ -994,39 +973,36 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - BFH issued two new ABS term note series during 2024: **Series 2023-A** (closed May 2024) and **Series 2024-B** (closed August 2024), supporting funding diversification.
 - Two litigation matters noted: **Pirinate Consulting Group LLC v. Bread Financial** (filed **February 20, 2024**) and **LoyaltyOne Co. v. Bread Financial et al.** (filed **October 18, 2024**), both related to the former LoyaltyOne/LVI spin-off and bankruptcy.
 
-### 8-K — 2025-02-11
+</details>
+
+<details id="f-000110121525000026">
+<summary><strong>8-K</strong> — 2025-02-11</summary>
 
 #### Key financials
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) as of and for the period ended January 31, 2025; the actual financial data is contained in the attached exhibit, which is not reproduced in the truncated filing text.
 - No specific revenue, earnings, credit metrics, or balance sheet figures are available from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed this 8-K on February 11, 2025, disclosing a monthly performance update as of January 31, 2025 via press release (Exhibit 99.1).
 - The disclosure was made under Regulation FD (Item 7.01) and is expressly not deemed "filed" for Section 18 liability purposes, limiting its legal weight relative to a full periodic report.
 
-### 8-K — 2025-01-30
+</details>
+
+<details id="f-000110121525000013">
+<summary><strong>8-K</strong> — 2025-01-30</summary>
 
 #### Key financials
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended December 31, 2024; the actual financial figures are contained in the attached exhibit, which is not included in the truncated filing text.
 - No specific revenue, net income, EPS, or credit metrics are presented within the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on January 30, 2025, disclosing a performance update press release covering the period ended December 31, 2024 via Item 7.01 Regulation FD.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on January 30, 2025; the disclosure is expressly non-"filed" for Section 18 liability purposes.
 
-### 8-K — 2025-01-30
+</details>
+
+<details id="f-000110121525000012">
+<summary><strong>8-K</strong> — 2025-01-30</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed January 30, 2025
 
@@ -1044,7 +1020,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Board of Directors declared a $0.21/share quarterly cash dividend on January 30, 2025, payable March 21, 2025 (record date February 14, 2025).
 - Company filed an investor presentation (Exhibit 99.2) posted to its website for use in analyst and investor meetings in connection with Q4 2024 earnings; presentation is furnished under Reg FD (Item 7.01) and is not deemed "filed" for Section 18 liability purposes.
 
-### 8-K — 2024-12-31
+</details>
+
+<details id="f-000110121524000238">
+<summary><strong>8-K</strong> — 2024-12-31</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed December 31, 2024
 
@@ -1052,17 +1031,14 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - On December 31, 2024, Bread Financial issued a notice to redeem all outstanding 7.000% Senior Notes due 2026 ("2026 Notes") at par plus accrued and unpaid interest through January 14, 2025.
 - Redemption date set for January 15, 2025; notes were originally issued under an indenture dated September 22, 2020, with U.S. Bank Trust Company as successor trustee.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Full redemption of the 7.000% Senior Notes due 2026 reduces Bread Financial's outstanding debt obligations and eliminates a near-term maturity; terms specify redemption at par, limiting any premium cost to the company.
 - Filing explicitly clarifies this notice does not constitute a redemption notice for any separate "2024 Notes," suggesting additional debt instruments remain outstanding and are being managed separately.
 
-### 8-K — 2024-12-11
+</details>
+
+<details id="f-000110121524000232">
+<summary><strong>8-K</strong> — 2024-12-11</summary>
 
 #### Key financials
 - Performance update disclosed as of and for the period ended November 30, 2024, filed December 11, 2024; specific financial metrics are contained in Exhibit 99.1 (press release), which is not reproduced in the truncated filing text.
@@ -1072,30 +1048,27 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Bread Financial Holdings (NYSE: BFH) is a point-of-sale / co-brand credit card and lending company; no segment-level breakdown is provided in the 8-K body.
 - Company participated in the Goldman Sachs Financial Services Conference on December 11, 2024, where the investor presentation may have included competitive positioning details not available in this truncated text.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On December 11, 2024, Bread Financial issued a press release (Exhibit 99.1) providing a performance update for the period ended November 30, 2024, disclosed under Regulation FD (Item 7.01).
 - On December 11, 2024, the Company posted an investor presentation to its website in connection with the Goldman Sachs Financial Services Conference; the filing was signed by EVP and General Counsel Joseph L. Motes III.
 
-### 8-K — 2024-12-02
+</details>
+
+<details id="f-000110121524000230">
+<summary><strong>8-K</strong> — 2024-12-02</summary>
 
 #### Key financials
 - On December 2, 2024, Bread Financial Holdings (NYSE: BFH) announced a $25 million increase to its 2024 share repurchase program, expanding the total authorization from $30 million to $55 million.
 - The expanded buyback authorization runs through December 31, 2024.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Board of directors approved the $25 million buyback expansion on December 2, 2024, disclosed via Regulation FD press release (Exhibit 99.1).
 - The accelerated repurchase activity signals management confidence in capital positioning heading into year-end, relevant context for point-of-sale lending competitors monitoring consumer credit market conditions.
 
-### 8-K — 2024-11-14
+</details>
+
+<details id="f-000110121524000226">
+<summary><strong>8-K</strong> — 2024-11-14</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed November 14, 2024
 
@@ -1103,17 +1076,14 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Filing references a performance update as of and for the period ended **October 31, 2024**, attached as Exhibit 99.1, but the exhibit text is not included in the truncated filing.
 - No specific financial metrics (revenue, net income, credit losses, receivables, etc.) are available from the body of the 8-K itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **November 14, 2024**, Bread Financial issued a press release (Exhibit 99.1) providing a monthly performance update through **October 31, 2024**, disclosed under Item 7.01 (Regulation FD) — indicating a routine mid-quarter credit/portfolio update to the market.
 - Filing was signed by **Joseph L. Motes III**, EVP, Chief Administrative Officer, General Counsel and Secretary, on **November 14, 2024**; the disclosure is expressly not "filed" for Section 18 liability purposes and is not automatically incorporated by reference into Securities Act filings.
 
-### 10-Q — 2024-10-31
+</details>
+
+<details id="f-000110121524000224">
+<summary><strong>10-Q</strong> — 2024-10-31</summary>
 
 #### Key financials
 - Q3 2024 total net interest and non-interest income was $983M, down 5% YoY; net interest margin compressed to 18.8% from 20.6% in Q3 2023, driven by lower late fees and higher funding costs.
@@ -1137,23 +1107,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - In January 2024, Bread Financial issued $300M of additional 9.750% Senior Notes due 2029 at 101% of par and used proceeds plus $100M cash to redeem $400M of 7.000% Senior Notes due 2026, extending the debt maturity profile and reducing near-term refinancing risk.
 - In May and August 2024, WF
 
-### 8-K — 2024-10-24
+</details>
+
+<details id="f-000110121524000218">
+<summary><strong>8-K</strong> — 2024-10-24</summary>
 
 #### Key financials
 - Filing is a Regulation FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) as of and for the period ended September 30, 2024; the full financial data is contained in the attached exhibit, which is not included in the truncated filing text.
 - No specific revenue, net income, EPS, or credit metrics are discernible from the 8-K body alone.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on October 24, 2024, disclosing a third-quarter/period-end performance update via press release (Exhibit 99.1) covering the period ended September 30, 2024.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on October 24, 2024; disclosure is furnished under Reg FD and is explicitly not "filed" for Section 18 liability purposes.
 
-### 8-K — 2024-10-24
+</details>
+
+<details id="f-000110121524000217">
+<summary><strong>8-K</strong> — 2024-10-24</summary>
 
 #### Key financials
 - Bread Financial Holdings (NYSE: BFH) reported Q3 2024 results for the quarter ended September 30, 2024, disclosed via press release on October 24, 2024; detailed financials are contained in Exhibit 99.1 (not included in truncated filing text).
@@ -1169,7 +1139,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Board declared a $0.21/share quarterly cash dividend on October 24, 2024, payable December 13, 2024 (record date November 8, 2024).
 - Company released an investor presentation (Exhibit 99.2) posted to its website for use in analyst and investor meetings in connection with Q3 2024 earnings.
 
-### 8-K — 2024-10-21
+</details>
+
+<details id="f-000114036124043815">
+<summary><strong>8-K</strong> — 2024-10-21</summary>
 
 #### Key financials
 - Revolving credit facility size remains **$700 million** senior unsecured; all prior term loans were paid off and terminated in **December 2023**.
@@ -1187,23 +1160,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - On **October 18, 2024**, Bread Financial entered into **Amendment No. 1** to its Credit Agreement (originally dated **June 7, 2023**) with JPMorgan Chase Bank, N.A. as administrative agent, extending maturity and resetting pricing terms.
 - Amendment grants broader covenant flexibility for dividends, equity repurchases, acquisitions, and indebtedness — a meaningful loosening of prior restrictions.
 
-### 8-K — 2024-09-16
+</details>
+
+<details id="f-000110121524000204">
+<summary><strong>8-K</strong> — 2024-09-16</summary>
 
 #### Key financials
 - Filing is a Regulation FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) as of and for the period ended August 31, 2024; specific financial metrics are contained in the attached exhibit, which is not included in the truncated filing text.
 - No income statement, balance sheet, or credit metric figures are extractable from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on September 16, 2024 under Item 7.01 (Regulation FD Disclosure) to disseminate a monthly performance update press release dated September 16, 2024, covering the period ended August 31, 2024.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary; the disclosure is expressly not deemed "filed" for Section 18 liability purposes.
 
-### 8-K — 2024-08-15
+</details>
+
+<details id="f-000110121524000196">
+<summary><strong>8-K</strong> — 2024-08-15</summary>
 
 #### Key financials
 - Filing is a Regulation FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) as of and for the period ended July 31, 2024; the full press release financials are not reproduced in the truncated filing text.
@@ -1213,21 +1186,18 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Bread Financial Holdings (NYSE: BFH) operates as a single-segment consumer credit / point-of-sale financing company; no segment breakdown is disclosed in this filing.
 - No direct competitor or market-share commentary is included in the filing text provided.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On August 15, 2024, Bread Financial Holdings filed an 8-K under Item 7.01 disclosing a mid-period performance update press release covering activity through July 31, 2024 — notable as an intra-quarter update rather than a standard earnings release.
 - The filing is expressly deemed "not filed" for Section 18 liability purposes and is not incorporated by reference into Securities Act filings unless specifically stated.
 
-### 8-K — 2024-08-09
+</details>
+
+<details id="f-000110121524000189">
+<summary><strong>8-K</strong> — 2024-08-09</summary>
 
 #### Key financials
 - Bread Financial (BFH) agreed to repurchase ~$237.6 million aggregate principal of its 4.25% Convertible Senior Notes due 2028 for ~$350.0 million in cash (a premium of ~$112.4 million over par), announced August 9, 2024.
 - Following the repurchases, ~$78.6 million principal amount of the Notes will remain outstanding, down from ~$316.2 million pre-transaction.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Final repurchase price is subject to adjustment based on the daily volume-weighted average price (VWAP) of BFH common stock over a measurement period beginning August 9, 2024, introducing modest mark-to-market pricing risk before close.
@@ -1237,7 +1207,10 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - On August 9, 2024, BFH entered into privately negotiated repurchase agreements with a limited number of noteholders; transactions expected to close before end of Q3 2024, subject to customary closing conditions.
 - The repurchase significantly reduces BFH's convertible debt load, retiring approximately 75% of the original Notes principal outstanding.
 
-### 10-Q — 2024-08-01
+</details>
+
+<details id="f-000110121524000181">
+<summary><strong>10-Q</strong> — 2024-08-01</summary>
 
 #### Key financials
 - Q2 2024 total net interest and non-interest income was $939M, down 1% YoY; H1 2024 was $1,929M, down 14% YoY (H1 2023 included a $230M BJ's portfolio sale gain).
@@ -1259,23 +1232,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - In April 2024, BFH completed the sale of a credit card loan portfolio (proceeds of $100M, gain of $5M); a $30M share repurchase program was approved February 21, 2024, with $11M (0.3M shares) repurchased in H1 2024 and $19M remaining as of June 30, 2024.
 - On July 25, 2024 (post-period), the Board declared a quarterly cash dividend of $0.21 per share, payable September 13, 2024 to holders of record August 9, 2024.
 
-### 8-K — 2024-07-25
+</details>
+
+<details id="f-000110121524000174">
+<summary><strong>8-K</strong> — 2024-07-25</summary>
 
 #### Key financials
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended June 30, 2024; the actual financial figures are contained in the attached exhibit, which is not included in the truncated filing text.
 - No specific revenue, earnings, credit loss, or balance sheet figures are discernible from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On July 25, 2024, Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K under Item 7.01 disclosing a performance update press release for the period ended June 30, 2024.
 - The filing was signed by EVP, Chief Administrative Officer & General Counsel Joseph L. Motes III on July 25, 2024; the exhibit is furnished, not filed, and therefore not subject to Section 18 liability.
 
-### 8-K — 2024-07-25
+</details>
+
+<details id="f-000110121524000173">
+<summary><strong>8-K</strong> — 2024-07-25</summary>
 
 ## Bread Financial Holdings, Inc. (BFH) — 8-K Filed July 25, 2024
 
@@ -1293,23 +1266,23 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Board declared a $0.21/share quarterly cash dividend on July 25, 2024, payable September 13, 2024 (record date August 9, 2024).
 - Company issued an investor presentation (Exhibit 99.2) posted to its website on July 25, 2024 for use in analyst and investor meetings in connection with the Q2 2024 earnings release.
 
-### 8-K — 2024-07-02
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000110121524000160">
+<summary><strong>8-K</strong> — 2024-07-02</summary>
 
 #### Segment & competitive notes
 - Comenity Bank is the sponsor of the World Financial Network Credit Card Master Note Trust, a private-label/co-brand credit card ABS vehicle — a direct competitor to point-of-sale financing providers like Snap Finance in the retail credit space.
 - No portfolio balance, yield, loss, or payment rate data was disclosed in this filing.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On June 30, 2024, Comenity Bank and Comenity Servicing LLC executed the **Third Addendum to Appendix A** of the Fifth Amended and Restated Service Agreement (the base agreement dated April 1, 2024, filed via 8-K on April 4, 2024).
 - The filing was signed by WFN Credit Company, LLC (depositor) and submitted to the SEC on July 2, 2024; no financial terms or operational details of the Third Addendum were disclosed in the body of the 8-K.
 
-### 8-K — 2024-06-18
+</details>
+
+<details id="f-000110121524000141">
+<summary><strong>8-K</strong> — 2024-06-18</summary>
 
 #### Key financials
 - None noted. The 8-K is a Regulation FD disclosure referencing an investor presentation posted June 18, 2024; no financial figures are included in the filing text itself.
@@ -1323,3 +1296,5 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 #### Material events
 - On June 18, 2024, Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K under Item 7.01 (Regulation FD) disclosing that it posted an investor presentation to its website in connection with an investor day hosted by executive leadership on June 18, 2024.
 - The presentation may also be used in ongoing communications with investors, analysts, and other market participants; the filing explicitly notes the website content does not constitute part of the 8-K and is not incorporated by reference.
+
+</details>

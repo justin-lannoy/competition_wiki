@@ -17,60 +17,54 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-06-09 | 2026-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000073/fcfs-20260609.htm) | [file](../../sec-filings/firstcash-holdings/2026-06-09_8-K_0000840489-26-000073.htm) |
-| 8-K | 2026-05-12 | 2026-05-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000061/fcfs-20260511.htm) | [file](../../sec-filings/firstcash-holdings/2026-05-12_8-K_0000840489-26-000061.htm) |
-| 8-K | 2026-05-01 | 2026-05-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000110465926054143/tm2613265d1_8k.htm) | [file](../../sec-filings/firstcash-holdings/2026-05-01_8-K_0001104659-26-054143.htm) |
-| 8-K | 2026-04-29 | 2026-04-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000057/fcfs-20260428.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-29_8-K_0000840489-26-000057.htm) |
-| 8-K | 2026-04-27 | 2026-04-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000053/fcfs-20260427.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-27_8-K_0000840489-26-000053.htm) |
-| 8-K | 2026-04-24 | 2026-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000051/fcfs-20260424.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-24_8-K_0000840489-26-000051.htm) |
-| 10-Q | 2026-04-24 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000049/fcfs-20260331.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-24_10-Q_0000840489-26-000049.htm) |
-| 8-K | 2026-04-23 | 2026-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000047/fcfs-20260423.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-23_8-K_0000840489-26-000047.htm) |
-| 8-K | 2026-03-03 | 2026-03-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000042/fcfs-20260303.htm) | [file](../../sec-filings/firstcash-holdings/2026-03-03_8-K_0000840489-26-000042.htm) |
-| 10-K | 2026-02-09 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000032/fcfs-20251231.htm) | [file](../../sec-filings/firstcash-holdings/2026-02-09_10-K_0000840489-26-000032.htm) |
-| 8-K | 2026-02-05 | 2026-02-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000024/fcfs-20260205.htm) | [file](../../sec-filings/firstcash-holdings/2026-02-05_8-K_0000840489-26-000024.htm) |
-| 8-K | 2025-11-05 | 2025-11-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000123/fcfs-20251105.htm) | [file](../../sec-filings/firstcash-holdings/2025-11-05_8-K_0000840489-25-000123.htm) |
-| 10-Q | 2025-11-03 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000120/fcfs-20250930.htm) | [file](../../sec-filings/firstcash-holdings/2025-11-03_10-Q_0000840489-25-000120.htm) |
-| 8-K | 2025-10-30 | 2025-10-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000117/fcfs-20251030.htm) | [file](../../sec-filings/firstcash-holdings/2025-10-30_8-K_0000840489-25-000117.htm) |
-| 8-K | 2025-08-21 | 2025-08-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000109/fcfs-20250821.htm) | [file](../../sec-filings/firstcash-holdings/2025-08-21_8-K_0000840489-25-000109.htm) |
-| 8-K | 2025-08-14 | 2025-08-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000106/fcfs-20250814.htm) | [file](../../sec-filings/firstcash-holdings/2025-08-14_8-K_0000840489-25-000106.htm) |
-| 8-K | 2025-08-11 | 2025-08-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000104/fcfs-20250811.htm) | [file](../../sec-filings/firstcash-holdings/2025-08-11_8-K_0000840489-25-000104.htm) |
-| 8-K | 2025-07-30 | 2025-07-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000100/fcfs-20250730.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-30_8-K_0000840489-25-000100.htm) |
-| 10-Q | 2025-07-28 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000098/fcfs-20250630.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-28_10-Q_0000840489-25-000098.htm) |
-| 8-K | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000096/fcfs-20250724.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-24_8-K_0000840489-25-000096.htm) |
-| 8-K | 2025-07-14 | 2025-07-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000094/fcfs-20250711.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-14_8-K_0000840489-25-000094.htm) |
-| 8-K | 2025-07-02 | 2025-07-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000089/fcfs-20250702.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-02_8-K_0000840489-25-000089.htm) |
-| 8-K | 2025-06-11 | 2025-06-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000071/fcfs-20250611.htm) | [file](../../sec-filings/firstcash-holdings/2025-06-11_8-K_0000840489-25-000071.htm) |
-| 8-K | 2025-05-14 | 2025-05-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000067/fcfs-20250514.htm) | [file](../../sec-filings/firstcash-holdings/2025-05-14_8-K_0000840489-25-000067.htm) |
-| 8-K | 2025-04-29 | 2025-04-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000063/fcfs-20250429.htm) | [file](../../sec-filings/firstcash-holdings/2025-04-29_8-K_0000840489-25-000063.htm) |
-| 10-Q | 2025-04-28 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000061/fcfs-20250331.htm) | [file](../../sec-filings/firstcash-holdings/2025-04-28_10-Q_0000840489-25-000061.htm) |
-| 8-K | 2025-04-24 | 2025-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000052/fcfs-20250424.htm) | [file](../../sec-filings/firstcash-holdings/2025-04-24_8-K_0000840489-25-000052.htm) |
-| 8-K | 2025-03-05 | 2025-03-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000044/fcfs-20250303.htm) | [file](../../sec-filings/firstcash-holdings/2025-03-05_8-K_0000840489-25-000044.htm) |
-| 8-K | 2025-02-04 | 2025-02-04 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000035/fcfs-20250204.htm) | [file](../../sec-filings/firstcash-holdings/2025-02-04_8-K_0000840489-25-000035.htm) |
-| 10-K | 2025-02-03 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000032/fcfs-20241231.htm) | [file](../../sec-filings/firstcash-holdings/2025-02-03_10-K_0000840489-25-000032.htm) |
-| 8-K | 2025-01-30 | 2025-01-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000002/fcfs-20250130.htm) | [file](../../sec-filings/firstcash-holdings/2025-01-30_8-K_0000840489-25-000002.htm) |
-| 8-K | 2024-12-03 | 2024-12-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000139/fcfs-20241202.htm) | [file](../../sec-filings/firstcash-holdings/2024-12-03_8-K_0000840489-24-000139.htm) |
-| 8-K | 2024-11-18 | 2024-11-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000137/fcfs-20241118.htm) | [file](../../sec-filings/firstcash-holdings/2024-11-18_8-K_0000840489-24-000137.htm) |
-| 10-Q | 2024-10-28 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000127/fcfs-20240930.htm) | [file](../../sec-filings/firstcash-holdings/2024-10-28_10-Q_0000840489-24-000127.htm) |
-| 8-K | 2024-10-24 | 2024-10-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000124/fcfs-20241024.htm) | [file](../../sec-filings/firstcash-holdings/2024-10-24_8-K_0000840489-24-000124.htm) |
-| 8-K | 2024-08-09 | 2024-08-08 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000110465924087857/tm2421249d1_8k.htm) | [file](../../sec-filings/firstcash-holdings/2024-08-09_8-K_0001104659-24-087857.htm) |
-| 8-K | 2024-07-30 | 2024-07-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000110/fcfs-20240730.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-30_8-K_0000840489-24-000110.htm) |
-| 10-Q | 2024-07-29 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000108/fcfs-20240630.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-29_10-Q_0000840489-24-000108.htm) |
-| 8-K | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000105/fcfs-20240725.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-25_8-K_0000840489-24-000105.htm) |
+| [8-K](#f-000084048926000073) | 2026-06-09 | 2026-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000073/fcfs-20260609.htm) | [file](../../sec-filings/firstcash-holdings/2026-06-09_8-K_0000840489-26-000073.htm) |
+| [8-K](#f-000084048926000061) | 2026-05-12 | 2026-05-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000061/fcfs-20260511.htm) | [file](../../sec-filings/firstcash-holdings/2026-05-12_8-K_0000840489-26-000061.htm) |
+| [8-K](#f-000110465926054143) | 2026-05-01 | 2026-05-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000110465926054143/tm2613265d1_8k.htm) | [file](../../sec-filings/firstcash-holdings/2026-05-01_8-K_0001104659-26-054143.htm) |
+| [8-K](#f-000084048926000057) | 2026-04-29 | 2026-04-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000057/fcfs-20260428.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-29_8-K_0000840489-26-000057.htm) |
+| [8-K](#f-000084048926000053) | 2026-04-27 | 2026-04-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000053/fcfs-20260427.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-27_8-K_0000840489-26-000053.htm) |
+| [8-K](#f-000084048926000051) | 2026-04-24 | 2026-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000051/fcfs-20260424.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-24_8-K_0000840489-26-000051.htm) |
+| [10-Q](#f-000084048926000049) | 2026-04-24 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000049/fcfs-20260331.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-24_10-Q_0000840489-26-000049.htm) |
+| [8-K](#f-000084048926000047) | 2026-04-23 | 2026-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000047/fcfs-20260423.htm) | [file](../../sec-filings/firstcash-holdings/2026-04-23_8-K_0000840489-26-000047.htm) |
+| [8-K](#f-000084048926000042) | 2026-03-03 | 2026-03-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000042/fcfs-20260303.htm) | [file](../../sec-filings/firstcash-holdings/2026-03-03_8-K_0000840489-26-000042.htm) |
+| [10-K](#f-000084048926000032) | 2026-02-09 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000032/fcfs-20251231.htm) | [file](../../sec-filings/firstcash-holdings/2026-02-09_10-K_0000840489-26-000032.htm) |
+| [8-K](#f-000084048926000024) | 2026-02-05 | 2026-02-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000024/fcfs-20260205.htm) | [file](../../sec-filings/firstcash-holdings/2026-02-05_8-K_0000840489-26-000024.htm) |
+| [8-K](#f-000084048925000123) | 2025-11-05 | 2025-11-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000123/fcfs-20251105.htm) | [file](../../sec-filings/firstcash-holdings/2025-11-05_8-K_0000840489-25-000123.htm) |
+| [10-Q](#f-000084048925000120) | 2025-11-03 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000120/fcfs-20250930.htm) | [file](../../sec-filings/firstcash-holdings/2025-11-03_10-Q_0000840489-25-000120.htm) |
+| [8-K](#f-000084048925000117) | 2025-10-30 | 2025-10-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000117/fcfs-20251030.htm) | [file](../../sec-filings/firstcash-holdings/2025-10-30_8-K_0000840489-25-000117.htm) |
+| [8-K](#f-000084048925000109) | 2025-08-21 | 2025-08-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000109/fcfs-20250821.htm) | [file](../../sec-filings/firstcash-holdings/2025-08-21_8-K_0000840489-25-000109.htm) |
+| [8-K](#f-000084048925000106) | 2025-08-14 | 2025-08-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000106/fcfs-20250814.htm) | [file](../../sec-filings/firstcash-holdings/2025-08-14_8-K_0000840489-25-000106.htm) |
+| [8-K](#f-000084048925000104) | 2025-08-11 | 2025-08-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000104/fcfs-20250811.htm) | [file](../../sec-filings/firstcash-holdings/2025-08-11_8-K_0000840489-25-000104.htm) |
+| [8-K](#f-000084048925000100) | 2025-07-30 | 2025-07-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000100/fcfs-20250730.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-30_8-K_0000840489-25-000100.htm) |
+| [10-Q](#f-000084048925000098) | 2025-07-28 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000098/fcfs-20250630.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-28_10-Q_0000840489-25-000098.htm) |
+| [8-K](#f-000084048925000096) | 2025-07-24 | 2025-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000096/fcfs-20250724.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-24_8-K_0000840489-25-000096.htm) |
+| [8-K](#f-000084048925000094) | 2025-07-14 | 2025-07-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000094/fcfs-20250711.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-14_8-K_0000840489-25-000094.htm) |
+| [8-K](#f-000084048925000089) | 2025-07-02 | 2025-07-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000089/fcfs-20250702.htm) | [file](../../sec-filings/firstcash-holdings/2025-07-02_8-K_0000840489-25-000089.htm) |
+| [8-K](#f-000084048925000071) | 2025-06-11 | 2025-06-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000071/fcfs-20250611.htm) | [file](../../sec-filings/firstcash-holdings/2025-06-11_8-K_0000840489-25-000071.htm) |
+| [8-K](#f-000084048925000067) | 2025-05-14 | 2025-05-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000067/fcfs-20250514.htm) | [file](../../sec-filings/firstcash-holdings/2025-05-14_8-K_0000840489-25-000067.htm) |
+| [8-K](#f-000084048925000063) | 2025-04-29 | 2025-04-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000063/fcfs-20250429.htm) | [file](../../sec-filings/firstcash-holdings/2025-04-29_8-K_0000840489-25-000063.htm) |
+| [10-Q](#f-000084048925000061) | 2025-04-28 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000061/fcfs-20250331.htm) | [file](../../sec-filings/firstcash-holdings/2025-04-28_10-Q_0000840489-25-000061.htm) |
+| [8-K](#f-000084048925000052) | 2025-04-24 | 2025-04-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000052/fcfs-20250424.htm) | [file](../../sec-filings/firstcash-holdings/2025-04-24_8-K_0000840489-25-000052.htm) |
+| [8-K](#f-000084048925000044) | 2025-03-05 | 2025-03-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000044/fcfs-20250303.htm) | [file](../../sec-filings/firstcash-holdings/2025-03-05_8-K_0000840489-25-000044.htm) |
+| [8-K](#f-000084048925000035) | 2025-02-04 | 2025-02-04 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000035/fcfs-20250204.htm) | [file](../../sec-filings/firstcash-holdings/2025-02-04_8-K_0000840489-25-000035.htm) |
+| [10-K](#f-000084048925000032) | 2025-02-03 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000032/fcfs-20241231.htm) | [file](../../sec-filings/firstcash-holdings/2025-02-03_10-K_0000840489-25-000032.htm) |
+| [8-K](#f-000084048925000002) | 2025-01-30 | 2025-01-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048925000002/fcfs-20250130.htm) | [file](../../sec-filings/firstcash-holdings/2025-01-30_8-K_0000840489-25-000002.htm) |
+| [8-K](#f-000084048924000139) | 2024-12-03 | 2024-12-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000139/fcfs-20241202.htm) | [file](../../sec-filings/firstcash-holdings/2024-12-03_8-K_0000840489-24-000139.htm) |
+| [8-K](#f-000084048924000137) | 2024-11-18 | 2024-11-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000137/fcfs-20241118.htm) | [file](../../sec-filings/firstcash-holdings/2024-11-18_8-K_0000840489-24-000137.htm) |
+| [10-Q](#f-000084048924000127) | 2024-10-28 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000127/fcfs-20240930.htm) | [file](../../sec-filings/firstcash-holdings/2024-10-28_10-Q_0000840489-24-000127.htm) |
+| [8-K](#f-000084048924000124) | 2024-10-24 | 2024-10-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000124/fcfs-20241024.htm) | [file](../../sec-filings/firstcash-holdings/2024-10-24_8-K_0000840489-24-000124.htm) |
+| [8-K](#f-000110465924087857) | 2024-08-09 | 2024-08-08 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000110465924087857/tm2421249d1_8k.htm) | [file](../../sec-filings/firstcash-holdings/2024-08-09_8-K_0001104659-24-087857.htm) |
+| [8-K](#f-000084048924000110) | 2024-07-30 | 2024-07-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000110/fcfs-20240730.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-30_8-K_0000840489-24-000110.htm) |
+| [10-Q](#f-000084048924000108) | 2024-07-29 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000108/fcfs-20240630.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-29_10-Q_0000840489-24-000108.htm) |
+| [8-K](#f-000084048924000105) | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000105/fcfs-20240725.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-25_8-K_0000840489-24-000105.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-06-09
+_Click a filing to expand its summary._
+
+<details id="f-000084048926000073">
+<summary><strong>8-K</strong> — 2026-06-09</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed June 9, 2026
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - **Annual Meeting held June 9, 2026**: 41,687,943 of 43,836,687 eligible shares voted (95.09% participation); three directors elected to three-year terms — Daniel E. Berce (38.1M for), Mikel D. Faulkner (36.4M for), and Randel G. Owen (34.5M for), with Owen drawing the highest withhold vote (~4.8M).
@@ -78,7 +72,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - **Say-on-pay approved** on an advisory basis, 38.8M for vs. 1.3M against (~96.7% of votes cast in favor).
 - **Texas reincorporation approved** by conversion from Delaware, though with notably weaker support — 23.6M for vs. 16.8M against (~58.4% of votes cast), indicating meaningful stockholder opposition to the domicile change.
 
-### 8-K — 2026-05-12
+</details>
+
+<details id="f-000084048926000061">
+<summary><strong>8-K</strong> — 2026-05-12</summary>
 
 #### Key financials
 - None noted. The 8-K (filed May 11, 2026) is a Reg FD disclosure furnishing an investor presentation (Exhibit 99.1); no financial statements or specific financial figures are included in the filing text itself.
@@ -93,15 +90,15 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On May 11, 2026, FirstCash Holdings, Inc. (FCFS, Nasdaq) filed an 8-K under Item 7.01 (Reg FD) to furnish its most recent investor presentation as Exhibit 99.1; the presentation is available at investors.firstcash.com.
 - The filing was signed by Brian D. Hostetler, SVP and Chief Accounting Officer, on May 11, 2026; as a "furnished" item, it is not deemed "filed" for Section 18 liability purposes.
 
-### 8-K — 2026-05-01
+</details>
+
+<details id="f-000110465926054143">
+<summary><strong>8-K</strong> — 2026-05-01</summary>
 
 #### Key financials
 - On May 1, 2026, FirstCash Holdings closed a $750M private offering of 6.125% senior notes due May 1, 2034, issued through wholly-owned subsidiary FirstCash, Inc.
 - Interest accrues from May 1, 2026, payable semi-annually on May 1 and November 1 each year, with first payment due November 1, 2026.
 - Notes are unsecured senior obligations guaranteed by FirstCash Holdings and its domestic subsidiaries that guarantee its revolving credit facility and existing senior unsecured notes.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - The Indenture imposes restrictive covenants limiting additional indebtedness, dividends, stock repurchases, investments, liens, asset transfers, mergers, and affiliate transactions, which could constrain operational and financial flexibility.
@@ -111,16 +108,16 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - Notes were sold via Rule 144A and Regulation S private placement, with Jefferies LLC serving as representative of the initial purchasers; BOKF, NA serves as trustee.
 - Prior to May 1, 2029, the Issuer may redeem all or a portion of the notes at par plus a make-whole premium, or redeem up to 40% using equity offering proceeds; callable at set redemption prices on or after May 1, 2029.
 
-### 8-K — 2026-04-29
+</details>
+
+<details id="f-000084048926000057">
+<summary><strong>8-K</strong> — 2026-04-29</summary>
 
 ### FirstCash Holdings, Inc. (FCFS) — 8-K Filed April 29, 2026
 
 #### Key financials
 - On April 28, 2026, FirstCash priced an upsized private offering of **$750 million in 6.125% senior notes due 2034**.
 - The offering was described as "upsized," indicating demand exceeded the originally contemplated size, though the original target amount was not disclosed in this filing.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - The $750 million senior note issuance increases FirstCash's long-term debt load at a fixed rate of 6.125% through 2034, raising interest expense obligations relevant to competitors benchmarking capital costs in the consumer finance/lease-to-own space.
@@ -130,23 +127,23 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - FirstCash announced and priced a **$750 million, 6.125% senior notes offering** on **April 28, 2026**, maturing in **2034**, via a private (Rule 144A/Reg S) placement; proceeds use was not specified in this filing.
 - The 8-K was filed under **Item 7.01 (Regulation FD)**, meaning the press release (Exhibit 99.1) is furnished but not "filed," limiting Section 18 liability exposure.
 
-### 8-K — 2026-04-27
+</details>
+
+<details id="f-000084048926000053">
+<summary><strong>8-K</strong> — 2026-04-27</summary>
 
 #### Key financials
 - FirstCash Holdings announced a private offering of **$600 million in senior notes due 2034**, disclosed via press release on **April 27, 2026**.
 - No revenue, earnings, or margin figures were included in this filing; it is limited to the debt offering announcement.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **April 27, 2026**, FirstCash (FCFS) commenced a private placement of **$600M senior notes due 2034**, which would add to or refinance existing long-term debt on the balance sheet.
 - The filing was made under Item 7.01 (Regulation FD) and is **not deemed "filed"** for Section 18 liability purposes; Exhibit 99.1 (press release) was furnished but no pricing, use-of-proceeds detail, or covenant terms were disclosed in the body of the 8-K.
 
-### 8-K — 2026-04-24
+</details>
+
+<details id="f-000084048926000051">
+<summary><strong>8-K</strong> — 2026-04-24</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) – 8-K Filed April 24, 2026
 
@@ -164,7 +161,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - The presentation is furnished as Exhibit 99.1 and is expressly **not deemed "filed"** under Section 18 of the Exchange Act, limiting legal liability and precluding automatic incorporation by reference into other SEC filings.
 - Filing was signed by Brian D. Hostetler, SVP and Chief Accounting Officer, as Principal Accounting Officer.
 
-### 10-Q — 2026-04-24
+</details>
+
+<details id="f-000084048926000049">
+<summary><strong>10-Q</strong> — 2026-04-24</summary>
 
 #### Key financials
 - Q1 2026 total revenue was $1.051B vs. $836.4M in Q1 2025 (+26% YoY), driven by pawn loan fees of $266.7M (+39%), retail merchandise sales of $464.8M (+25%), and wholesale scrap jewelry sales of $112.5M (+161%, benefiting from higher gold prices).
@@ -186,7 +186,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - H&T Group plc acquisition closed August 14, 2025; purchase price allocation remains preliminary as of March 31, 2026, expected to be finalized by August 14, 2026; H&T's U.K. debt assumed includes a £45M secured revolving facility (due December 2027) and £45M in secured term loans (due 2027–2031) at rates of SONIA+2.4–3.3%, 8.37%, or 8.43%.
 - Company held gold forward sales contracts as of March 31, 2026 to deliver 51,750 ounces between April 2026 and September 2027 at a weighted-average forward price of $3,614/oz, providing revenue visibility given elevated gold prices.
 
-### 8-K — 2026-04-23
+</details>
+
+<details id="f-000084048926000047">
+<summary><strong>8-K</strong> — 2026-04-23</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed April 23, 2026
 
@@ -194,17 +197,14 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - Q1 2026 earnings release issued April 23, 2026, covering the three-month period ended March 31, 2026; specific revenue, EPS, and net income figures are contained in Exhibit 99.1, which is not included in the truncated filing text.
 - Board declared a Q2 2026 cash dividend of **$0.42 per common share**, announced April 23, 2026.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - FirstCash filed this 8-K under **Item 2.02** (Results of Operations and Financial Condition), signaling a routine quarterly earnings disclosure for Q1 2026.
 - The Earnings Release (Exhibit 99.1) is furnished, not filed, and therefore not subject to Section 18 liability of the Securities Exchange Act of 1934; no Q1 financial details were available in the truncated filing text provided.
 
-### 8-K — 2026-03-03
+</details>
+
+<details id="f-000084048926000042">
+<summary><strong>8-K</strong> — 2026-03-03</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed March 3, 2026
 
@@ -222,7 +222,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - The presentation is attached as Exhibit 99.1; as furnished (not filed) material, it is not subject to Section 18 liability and does not trigger automatic incorporation by reference into Securities Act filings.
 - Filing was signed by CFO R. Douglas Orr, Executive Vice President and Principal Financial Officer, on March 3, 2026.
 
-### 10-K — 2026-02-09
+</details>
+
+<details id="f-000084048926000032">
+<summary><strong>10-K</strong> — 2026-02-09</summary>
 
 **FirstCash Holdings, Inc. (FCFS) — 10-K Summary (FY 2025, filed 2026-02-09)**
 
@@ -257,7 +260,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - **CFPB consent order settlement**: A CFPB matter against AFF was settled in July 2025; the filing indicates a maximum penalty cap associated with the settled CFPB litigation (specific dollar amount referenced in footnotes but not fully disclosed in the truncated text).
 - **
 
-### 8-K — 2026-02-05
+</details>
+
+<details id="f-000084048926000024">
+<summary><strong>8-K</strong> — 2026-02-05</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed February 5, 2026
 
@@ -275,7 +281,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - FirstCash issued a press release on **February 5, 2026** reporting Q4 and full-year 2025 results; the release is furnished as Exhibit 99.1 and is explicitly **not deemed "filed"** for Section 18 Exchange Act liability purposes.
 - CFO **R. Douglas Orr** (EVP and Principal Financial Officer) executed the filing on behalf of the registrant on February 5, 2026.
 
-### 8-K — 2025-11-05
+</details>
+
+<details id="f-000084048925000123">
+<summary><strong>8-K</strong> — 2025-11-05</summary>
 
 #### Key financials
 - None noted. (Filing is a Regulation FD disclosure of an investor presentation via Exhibit 99.1; no financial statements or specific financial metrics are included in the 8-K text itself.)
@@ -284,14 +293,14 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - FirstCash Holdings, Inc. (FCFS) operates pawn and point-of-sale lending businesses, making it a direct competitor in the consumer lending/lease-to-own space; no segment-specific data disclosed in this filing text.
 - The investor presentation (Exhibit 99.1) was made available on investors.firstcash.com on November 5, 2025, but its contents are not reproduced in the truncated filing text provided.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On November 5, 2025, FirstCash Holdings filed an 8-K under Item 7.01 (Regulation FD) to furnish an updated investor presentation as Exhibit 99.1; the presentation is "furnished" and not deemed "filed" under Section 18 of the Exchange Act.
 - The filing was signed by CFO R. Douglas Orr, Executive Vice President, on November 5, 2025; no other corporate actions, transactions, or material developments were disclosed.
 
-### 10-Q — 2025-11-03
+</details>
+
+<details id="f-000084048925000120">
+<summary><strong>10-Q</strong> — 2025-11-03</summary>
 
 **FirstCash Holdings, Inc. (FCFS) — 10-Q Summary, Q3 2025 (Filed 2025-11-03)**
 
@@ -323,7 +332,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 #### Material events
 - **H&T Group plc acquisition closed August 14, 2025** for £289.1M ($392.4M); preliminary goodwill of $140.2M (non-deductible in the U.K.) and intangibles of $56.5M (trade name $22.1M indefinite-life, developed technology $18.1M/2-year, customer relationships $16.3M/5-year); assumed U.K. secured credit facility (£45M, maturing 2027) and term loans (£45M aggregate, ma
 
-### 8-K — 2025-10-30
+</details>
+
+<details id="f-000084048925000117">
+<summary><strong>8-K</strong> — 2025-10-30</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed October 30, 2025
 
@@ -341,7 +353,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - Board authorized a **$150 million share repurchase program** on October 30, 2025; no expiration date set, and the program may be suspended or discontinued at any time.
 - Repurchases may be executed via open market transactions, block purchases, or privately negotiated transactions under Rule 10b5-1 / Rule 10b-18; timing and volume subject to cash balances, debt covenants, market price, and other factors.
 
-### 8-K — 2025-08-21
+</details>
+
+<details id="f-000084048925000109">
+<summary><strong>8-K</strong> — 2025-08-21</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed August 21, 2025
 
@@ -358,7 +373,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On August 21, 2025, FirstCash Holdings, Inc. (NASDAQ: FCFS) filed an 8-K under Item 7.01 (Regulation FD) to furnish its most recent investor presentation as Exhibit 99.1.
 - The presentation is hosted at investors.firstcash.com; the filing was signed by CFO R. Douglas Orr and is explicitly "furnished" (not "filed"), meaning it is not subject to Section 18 Exchange Act liability and is not automatically incorporated by reference into other SEC filings.
 
-### 8-K — 2025-08-14
+</details>
+
+<details id="f-000084048925000106">
+<summary><strong>8-K</strong> — 2025-08-14</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed August 14, 2025
 
@@ -370,14 +388,14 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - H&T Group plc is a UK-based pawnbroking/consumer lending operator; acquisition expands FirstCash's pawn segment into the United Kingdom market.
 - No segment-level financial metrics (revenue, store counts, or purchase price) were disclosed in this 8-K filing.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - FirstCash completed the acquisition of H&T Group plc on August 14, 2025, marking a material international expansion event.
 - The Bridge Term Loan Credit Agreement, originally established May 14, 2025 to satisfy UK "certain funds" requirements, was formally terminated concurrent with closing.
 
-### 8-K — 2025-08-11
+</details>
+
+<details id="f-000084048925000104">
+<summary><strong>8-K</strong> — 2025-08-11</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed August 11, 2025
 
@@ -395,7 +413,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - The presentation is attached as Exhibit 99.1; it is "furnished" rather than "filed," meaning it is not subject to Section 18 liability and is not automatically incorporated by reference into other SEC filings.
 - The filing was signed by CFO R. Douglas Orr (Executive Vice President) on August 11, 2025.
 
-### 8-K — 2025-07-30
+</details>
+
+<details id="f-000084048925000100">
+<summary><strong>8-K</strong> — 2025-07-30</summary>
 
 #### Key financials
 - No financial results or metrics disclosed in this filing; this is a procedural Reg FD update on an M&A transaction.
@@ -413,7 +434,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - FCA approval received July 30, 2025; Acquisition now expected to become effective August 14, 2025, pending High Court sanction on August 12, 2025.
 - Completion remains subject to remaining closing conditions; if consummated, this would represent FirstCash's entry into a new geographic market (United Kingdom).
 
-### 10-Q — 2025-07-28
+</details>
+
+<details id="f-000084048925000098">
+<summary><strong>10-Q</strong> — 2025-07-28</summary>
 
 #### Key financials
 - **H1 2025 revenue** was $1.667B (flat vs. H1 2024 $1.667B); net income rose 30% to $143.4M from $110.4M; diluted EPS $3.21 vs. $2.44.
@@ -438,7 +462,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - **Share buybacks:** $60.2M of treasury stock purchased in Q1 2025 (525K shares); no additional repurchases in Q2 2025; total treasury stock at cost reached $1.045B at June 30, 2025. Dividends of $0.38/share paid each quarter ($33.8M total H1 2025).
 - **Gold forward contracts:** As of June 30, 2025, the company has committed to deliver 72,500 oz of gold between July 2025 and June 2027 at a weighted-average price of $2,826/oz.
 
-### 8-K — 2025-07-24
+</details>
+
+<details id="f-000084048925000096">
+<summary><strong>8-K</strong> — 2025-07-24</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed July 24, 2025
 
@@ -456,16 +483,16 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - FirstCash issued a press release on **July 24, 2025** announcing Q2 2025 earnings results (periods ended June 30, 2025), filed as Exhibit 99.1 and furnished (not filed) under Section 18 of the Exchange Act.
 - Dividend of **$0.42 per share** for Q3 2025 declared by the Board of Directors on July 24, 2025; payment timing/record date not specified in the 8-K body.
 
-### 8-K — 2025-07-14
+</details>
+
+<details id="f-000084048925000094">
+<summary><strong>8-K</strong> — 2025-07-14</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed July 14, 2025 (Event Date: July 11, 2025)
 
 #### Key financials
 - No financial results, guidance, or quantitative settlement terms disclosed in the filing text.
 - Settlement amount (if any) not specified in the 8-K body; details would be in Exhibit 99.1, which was not included in the provided text.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - FirstCash reached a settlement with the CFPB on July 11, 2025 resolving alleged violations of the **Military Lending Act (MLA)** stemming from a lawsuit originally filed in **November 2021**; court approval was granted same day, closing out a ~3.5-year regulatory litigation risk.
@@ -475,7 +502,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On **July 11, 2025**, FirstCash (FCFS) announced and obtained court approval of a settlement with the **Consumer Financial Protection Bureau** over alleged Military Lending Act violations in the case filed **November 2021**.
 - Disclosure made via Regulation FD (Item 7.01); the press release (Exhibit 99.1) is furnished but not "filed," limiting Section 18 liability — no additional financial statements were filed.
 
-### 8-K — 2025-07-02
+</details>
+
+<details id="f-000084048925000089">
+<summary><strong>8-K</strong> — 2025-07-02</summary>
 
 #### Key financials
 - No financial figures disclosed in this 8-K; filing is a Regulation FD disclosure under Item 7.01 only.
@@ -493,18 +523,12 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On July 2, 2025, H&T Group plc shareholders voted to approve the Court-sanctioned scheme of arrangement under Part 26 of the Companies Act 2006, clearing a major milestone for FirstCash's acquisition of 100% of H&T's issued share capital.
 - Acquisition consummation is targeted for H2 2025, subject to remaining conditions; announcement to be published on FirstCash's investor website (investors.firstcash.com) by noon London time the next business day per Rule 26.1 of the UK City Code on Takeovers and Mergers.
 
-### 8-K — 2025-06-11
+</details>
+
+<details id="f-000084048925000071">
+<summary><strong>8-K</strong> — 2025-06-11</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed June 11, 2025
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - FirstCash held its Annual Meeting of Stockholders on June 11, 2025; 41,416,988 of 44,589,564 eligible shares voted (92.88% participation).
@@ -512,7 +536,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - RSM LLP ratified as independent auditor for fiscal year ending December 31, 2025, with 40,181,373 votes for and 1,154,400 against.
 - Advisory "say-on-pay" vote on named executive officer compensation approved with 38,065,293 for and 1,854,017 against (~95% approval among shares voted).
 
-### 8-K — 2025-05-14
+</details>
+
+<details id="f-000084048925000067">
+<summary><strong>8-K</strong> — 2025-05-14</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed May 14, 2025
 
@@ -534,7 +561,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On **May 14, 2025**, FirstCash subsidiary Chess Bidco Limited issued a Rule 2.7 Announcement under the UK City Code on Takeovers and Mergers, disclosing a **recommended final cash offer for 100% of H&T Group plc** via a UK court-sanctioned scheme of arrangement under Part 26 of the UK Companies Act 2006.
 - The Scheme is expected to close in **H2 2025**, subject to H&T shareholder approval (scheme meeting vote expected imminently), High Court of Justice sanction, and FCA/CMA regulatory clearances; long-stop date is **December 31, 2025**.
 
-### 8-K — 2025-04-29
+</details>
+
+<details id="f-000084048925000063">
+<summary><strong>8-K</strong> — 2025-04-29</summary>
 
 #### Key financials
 - None noted. (8-K filed April 29, 2025 is a Reg FD disclosure of an investor presentation only; no financial statements or specific financial figures are included in the filing text.)
@@ -550,7 +580,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On April 29, 2025, FirstCash filed an 8-K under Item 7.01 (Regulation FD) furnishing an updated investor presentation (Exhibit 99.1); the presentation is explicitly "furnished" and not "filed," meaning it is not subject to Section 18 Exchange Act liability.
 - The filing was signed by CFO R. Douglas Orr, Executive Vice President, on April 29, 2025; no acquisitions, debt issuances, leadership changes, or other material corporate actions were disclosed.
 
-### 10-Q — 2025-04-28
+</details>
+
+<details id="f-000084048925000061">
+<summary><strong>10-Q</strong> — 2025-04-28</summary>
 
 #### Key financials
 - Q1 2025 net income was $83.6M ($1.87 diluted EPS) vs. $61.4M ($1.35) in Q1 2024, a 36% increase; total revenue was essentially flat at $836.4M vs. $836.4M.
@@ -574,7 +607,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - The company acquired one U.S. pawn store and opened 11 new locations (10 Latin America, 1 U.S.) in Q1 2025, paying $29.2M net for acquisitions vs. $1.7M in Q1 2024; total store count stood at 3,023 as of March 31, 2025.
 - Gold forward sales contracts as of March 31, 2025 committed delivery of 54,500 oz between April 2025 and December 2026 at a weighted-average price of $2,318/oz, locking in revenue against favorable spot gold prices.
 
-### 8-K — 2025-04-24
+</details>
+
+<details id="f-000084048925000052">
+<summary><strong>8-K</strong> — 2025-04-24</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed April 24, 2025
 
@@ -585,31 +621,28 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 #### Segment & competitive notes
 - None noted. (No segment-level detail provided in the 8-K body; full results contained in the unfurnished Exhibit 99.1.)
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - FirstCash filed under **Item 2.02** (Results of Operations and Financial Condition); the earnings release is furnished, not filed, and therefore not subject to Section 18 liabilities of the Exchange Act.
 - CFO **R. Douglas Orr** signed the filing on April 24, 2025; the company is incorporated in Delaware and listed on **Nasdaq (FCFS)**, headquartered at 1600 West 7th Street, Fort Worth, Texas.
 
-### 8-K — 2025-03-05
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000084048925000044">
+<summary><strong>8-K</strong> — 2025-03-05</summary>
 
 #### Segment & competitive notes
 - Howard F. Hambleton serves as President of AFF (American First Finance), FirstCash's point-of-sale lease-to-own segment — a direct competitor to Snap Finance; his contract was extended through December 31, 2026, with a 2025 base salary of $681,408.
 - No segment-level revenue, volume, or origination figures were disclosed in this filing.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On March 3, 2025, FirstCash amended employment agreements for five named executive officers, extending terms to December 31, 2026 (with automatic one-year extension trigger date also set at December 31, 2026).
 - Effective January 1, 2025, annual base salaries were set as follows: CEO Rick L. Wessel $1,452,946; President/COO T. Brent Stuart $897,592; CFO R. Douglas Orr $807,773; AFF President Howard Hambleton $681,408; SVP Latin American Operations Raul Ramos $549,000.
 - No other changes to existing employment agreement terms were made; all other provisions remain in full force.
 
-### 8-K — 2025-02-04
+</details>
+
+<details id="f-000084048925000035">
+<summary><strong>8-K</strong> — 2025-02-04</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed February 4, 2025
 
@@ -627,7 +660,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - The presentation is attached as Exhibit 99.1; it is "furnished" rather than "filed," meaning it is not subject to Section 18 liability and is not automatically incorporated by reference into other SEC filings.
 - Filing was signed by CFO R. Douglas Orr on February 4, 2025; no other corporate actions, transactions, or guidance updates were disclosed in the 8-K text.
 
-### 10-K — 2025-02-03
+</details>
+
+<details id="f-000084048925000032">
+<summary><strong>10-K</strong> — 2025-02-03</summary>
 
 **FirstCash Holdings, Inc. (FCFS) — 10-K Summary (FY2024, filed 2025-02-03)**
 
@@ -663,7 +699,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On July 3, 2024, trade groups filed for en banc rehearing of the SDL Rule at the Fifth Circuit; petition was denied, leaving the rule on track for a March 30, 2025 effective date — directly affecting AFF's RISA and bank loan products.
 - Supreme Court upheld CFPB's funding structure 7-2 on May 17, 2024, removing a constitutional challenge that had paused certain CFPB rulemakings; the Company noted this allows the CFPB to resume previously paused regulatory initiatives.
 
-### 8-K — 2025-01-30
+</details>
+
+<details id="f-000084048925000002">
+<summary><strong>8-K</strong> — 2025-01-30</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed January 30, 2025
 
@@ -674,30 +713,27 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 #### Segment & competitive notes
 - None noted. (No segment-level detail disclosed in the 8-K filing text itself; Exhibit 99.1 not reproduced here.)
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - FirstCash issued an earnings press release on **January 30, 2025** covering Q4 and full-year 2024 results; filed as Exhibit 99.1 and furnished (not filed) under Item 2.02.
 - Filing signed by CFO **R. Douglas Orr**, Executive Vice President and Principal Financial and Accounting Officer, dated January 30, 2025.
 
-### 8-K — 2024-12-03
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000084048924000139">
+<summary><strong>8-K</strong> — 2024-12-03</summary>
 
 #### Segment & competitive notes
 - Douglas R. Rippel, former owner and Executive Chairman of American First Finance (AFF), retired from the FirstCash Holdings board effective December 2, 2024; AFF is a point-of-sale/lease-to-own lender and a direct competitor to Snap Finance.
 - Rippel joined the FirstCash board following the company's acquisition of AFF in December 2021, serving approximately three years through the integration period.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Rippel's retirement was characterized as voluntary with no disagreement on company operations, policies, or practices, per the Item 5.02 disclosure dated December 2, 2024.
 - Rippel held no committee memberships (Audit, Nominating & Corporate Governance, or Compensation), so no committee restructuring is required or planned.
 
-### 8-K — 2024-11-18
+</details>
+
+<details id="f-000084048924000137">
+<summary><strong>8-K</strong> — 2024-11-18</summary>
 
 #### Key financials
 - None noted. (Filing is a Reg FD disclosure of an investor presentation; no financial statements or specific figures are included in the 8-K text itself.)
@@ -714,7 +750,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - The presentation is attached as Exhibit 99.1; because it is "furnished" rather than "filed," it is not subject to Section 18 liability and is not automatically incorporated by reference into Securities Act filings.
 - The filing was signed by CFO R. Douglas Orr as Principal Financial and Accounting Officer.
 
-### 10-Q — 2024-10-28
+</details>
+
+<details id="f-000084048924000127">
+<summary><strong>10-Q</strong> — 2024-10-28</summary>
 
 #### Key financials
 - Q3 2024 total revenue was $837.3M (+6.5% vs. Q3 2023's $786.3M); net income was $64.8M (+13% vs. $57.1M); diluted EPS was $1.44 vs. $1.26 in Q3 2023.
@@ -737,7 +776,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On August 8, 2024, the revolving credit facility was amended: capacity increased from $640M to $700M, maturity extended from August 2027 to August 8, 2029, and the permitted leverage covenant increased to 3.25x adjusted EBITDA; available capacity at September 30, 2024 was $497.2M.
 - During the nine months ended September 30, 2024, the Company acquired 28 U.S. pawn stores in five transactions for aggregate net consideration of $102.8M ($68.6M cash + $29.3M stock + ~$4.9M payables), adding $82.4M of goodwill; the Company also repurchased $85.0M of common stock (721K shares)
 
-### 8-K — 2024-10-24
+</details>
+
+<details id="f-000084048924000124">
+<summary><strong>8-K</strong> — 2024-10-24</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) – 8-K Filed October 24, 2024
 
@@ -755,7 +797,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - FirstCash Holdings filed under **Item 2.02** (Results of Operations and Financial Condition) on **October 24, 2024**, covering Q3 and nine-month periods ended **September 30, 2024**.
 - The earnings release (Exhibit 99.1) is furnished, not filed, and therefore not subject to Section 18 liability of the Securities Exchange Act of 1934.
 
-### 8-K — 2024-08-09
+</details>
+
+<details id="f-000110465924087857">
+<summary><strong>8-K</strong> — 2024-08-09</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Summary (Filed 2024-08-09)
 
@@ -775,7 +820,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On **August 8, 2024**, FirstCash and subsidiary FirstCash, Inc. executed the **Eighth Amendment** to their Amended and Restated Credit Agreement with Wells Fargo as administrative agent.
 - Press release issued same date (Exhibit 99.1); certain terms redacted from filed Exhibit 10.1 per Regulation S-K Item 601(b)(10)(iv).
 
-### 8-K — 2024-07-30
+</details>
+
+<details id="f-000084048924000110">
+<summary><strong>8-K</strong> — 2024-07-30</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed July 30, 2024
 
@@ -793,7 +841,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - On July 30, 2024, FirstCash filed an 8-K under Item 7.01 (Regulation FD) to furnish an updated investor presentation posted to its corporate website at investors.firstcash.com.
 - The presentation (Exhibit 99.1) is furnished, not filed, and is therefore not subject to Section 18 liability or automatically incorporated by reference into future Securities Act filings; signed by CFO R. Douglas Orr.
 
-### 10-Q — 2024-07-29
+</details>
+
+<details id="f-000084048924000108">
+<summary><strong>10-Q</strong> — 2024-07-29</summary>
 
 #### Key financials
 - H1 2024 total revenue $1.667B (+10% vs. H1 2023 $1.513B); net income $110.4M (+19% vs. $92.6M); diluted EPS $2.44 vs. $2.01 in H1 2023.
@@ -816,7 +867,10 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 - Acquired 27 U.S. pawn stores in four transactions plus one Nevada license in H1 2024 for $99.2M net of cash; consideration mix: $65.0M cash, $29.3M stock (225K shares issued in Q2), ~$4.9M deferred; $79.6M of goodwill recorded, substantially all tax-deductible.
 - Company held gold forward sales contracts as of June 30, 2024 to deliver 84,500 ounces between July 2024 and June 2026 at a weighted-average price of $2,171/oz, providing revenue visibility on scrap jewelry sales.
 
-### 8-K — 2024-07-25
+</details>
+
+<details id="f-000084048924000105">
+<summary><strong>8-K</strong> — 2024-07-25</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed July 25, 2024
 
@@ -833,3 +887,5 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 #### Material events
 - FirstCash filed under **Item 2.02** (Results of Operations and Financial Condition) on July 25, 2024, reporting Q2 and H1 2024 financial results via press release (Exhibit 99.1).
 - Information is furnished, **not filed**, and therefore not subject to Section 18 liabilities of the Securities Exchange Act of 1934.
+
+</details>

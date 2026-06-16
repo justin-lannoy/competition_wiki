@@ -8,7 +8,8 @@
       "published": "2026-06-12",
       "feed": "google-news",
       "snippet": "Capital Bank Appoints Don Busick To Board Leadership Team Pulse 2.0",
-      "summary": "The headline and snippet are too thin to draw meaningful conclusions \u2014 there's no context explaining who Don Busick is, what role he's taking at Capital Bank, or how this connects to Koalafi (which is backed by Capital Bank).\n\nSignificance: low \u00b7 Category: leadership"
+      "summary": "The headline and snippet are too thin to draw meaningful conclusions \u2014 there's no context explaining who Don Busick is, what role he's taking at Capital Bank, or how this connects to Koalafi (which is backed by Capital Bank).\n\nSignificance: low \u00b7 Category: leadership",
+      "significance": "low"
     },
     "af96d4bd9e0c239e": {
       "title": "Capital Bank Announces the Appointment of Don Busick to Its Board Leadership Team",
@@ -17,7 +18,8 @@
       "published": "2026-06-10",
       "feed": "google-news",
       "snippet": "Capital Bank Announces the Appointment of Don Busick to Its Board Leadership Team The Manila Times",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it references a \"Capital Bank\" board appointment for Don Busick, but provides no detail on how this connects to Koalafi, what role Busick will play, or what strategic implications follow. Without that context, no reliable read-through for Snap Finance can be made.\n\nSignificance: low \u00b7 Category: leadership"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it references a \"Capital Bank\" board appointment for Don Busick, but provides no detail on how this connects to Koalafi, what role Busick will play, or what strategic implications follow. Without that context, no reliable read-through for Snap Finance can be made.\n\nSignificance: low \u00b7 Category: leadership",
+      "significance": "low"
     },
     "3add8477cc634dbf": {
       "title": "Why eCommerce retailers are turning to flexible payment options",
@@ -26,7 +28,8 @@
       "published": "2026-04-29",
       "feed": "google-news",
       "snippet": "Why eCommerce retailers are turning to flexible payment options Home Furnishings Association",
-      "summary": "The headline and snippet are too thin to extract meaningful specifics \u2014 no details are provided about Koalafi's role, any announcement, partnership, or product development; it reads as a general industry thought-leadership piece published by the Home Furnishings Association.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline and snippet are too thin to extract meaningful specifics \u2014 no details are provided about Koalafi's role, any announcement, partnership, or product development; it reads as a general industry thought-leadership piece published by the Home Furnishings Association.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     }
   }
 }

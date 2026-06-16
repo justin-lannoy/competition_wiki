@@ -1,15 +1,6 @@
 {
   "slug": "sezzle",
   "items": {
-    "77ce764577d22153": {
-      "title": "SoFi, Sezzle, and Affirm Shares Skyrocket, What You Need To Know",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXZtREtXNW5xSU1aamt0ZzhpZFFhV2hfanQxNzNudUh0UUFuV0paeFNMWGpjY2c0N0JBMldNZ0ktcVJSVnZ2S2NleFY0M1o4Sy10YWpqN0JwdnN2MDA5YkwzLUJkczVwTm1iV09HbThyNmllOHRhSXlVUXNmSDZONHdST0hYaXFyXzlyMURiaXdhY3ItQUw2NGVQZXpXQlpqYlA4Smt6cWphZndqeTMwOXdrTHlXMHcxMUowMXZtS0c?oc=5",
-      "source": "StockStory",
-      "published": "2026-06-15",
-      "feed": "google-news",
-      "snippet": "SoFi, Sezzle, and Affirm Shares Skyrocket, What You Need To Know StockStory",
-      "summary": "The headline/snippet is too thin to determine *why* shares skyrocketed \u2014 no specifics on earnings beats, guidance, macro catalysts, or company-specific news are provided. Without knowing the driver, it's difficult to assess whether this reflects sector-wide BNPL/POS tailwinds that would be relevant to Snap Finance or something company-specific to those three firms.\n\nSignificance: medium \u00b7 Category: other"
-    },
     "49352ed661df5e95": {
       "title": "SoFi, Sezzle, and Affirm Shares Skyrocket, What You Need To Know",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVBnODlFOUV0M0JLNEVvSVFvX3lhc2xmdzN0VldnblRRZEFTTHFGZjhFaml2ZnZ6aW0yLXFsb0VkZlcybjhGSWEwZVFXbFhCVjhrbzN5WWdZTS1MSzZYZGJ6THBvMWVOUHVRUDRUNXhNelRLZWowbVpEUXRYZkVJUTB1QmNvNnNYcmlid291Mm03R3VZYVplaEVUSTZydTJDZ0pDUlNPUmxQMVJaZXNfZUxZSWgxVjJxOVpaUThWRQ?oc=5",
@@ -17,7 +8,8 @@
       "published": "2026-06-15",
       "feed": "google-news",
       "snippet": "SoFi, Sezzle, and Affirm Shares Skyrocket, What You Need To Know TradingView",
-      "summary": "The headline and snippet are too thin to determine *why* shares skyrocketed \u2014 no catalyst (earnings beat, partnership, macro shift, etc.) is specified. Without knowing the driver, it's difficult to draw a reliable read-through for Snap Finance beyond a general observation that positive sentiment is building around BNPL/point-of-sale financing players.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline and snippet are too thin to determine *why* shares skyrocketed \u2014 no catalyst (earnings beat, partnership, macro shift, etc.) is specified. Without knowing the driver, it's difficult to draw a reliable read-through for Snap Finance beyond a general observation that positive sentiment is building around BNPL/point-of-sale financing players.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "efc8a9d5d4322779": {
       "title": "Sezzle Expands Beyond BNPL As New Features Meet Rich Valuation",
@@ -26,7 +18,8 @@
       "published": "2026-06-14",
       "feed": "google-news",
       "snippet": "Sezzle Expands Beyond BNPL As New Features Meet Rich Valuation Yahoo Finance",
-      "summary": "The headline and snippet are too thin to determine what specific new features Sezzle is launching or what metrics are driving its \"rich valuation\" \u2014 no actionable detail is provided beyond the directional signal that Sezzle is diversifying beyond core BNPL.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "The headline and snippet are too thin to determine what specific new features Sezzle is launching or what metrics are driving its \"rich valuation\" \u2014 no actionable detail is provided beyond the directional signal that Sezzle is diversifying beyond core BNPL.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "a777a3e155e259ac": {
       "title": "Sezzle (SEZL) Is Up 14.4% After Launching Expanded Rewards Hub And New Lending Options",
@@ -35,25 +28,8 @@
       "published": "2026-06-14",
       "feed": "google-news",
       "snippet": "Sezzle (SEZL) Is Up 14.4% After Launching Expanded Rewards Hub And New Lending Options Yahoo Finance",
-      "summary": "Sezzle's stock surged 14.4% following the launch of an expanded rewards hub and new lending options, signaling the company is actively broadening its product ecosystem to drive engagement and capture more of the consumer financing market. For Snap Finance, this is a reminder that BNPL competitors are layering loyalty/rewards features and diversified lending products to increase stickiness \u2014 areas Snap may need to address to remain competitive in the lease-to-own and point-of-sale financing space.\n\nSignificance: medium \u00b7 Category: product"
-    },
-    "41276f7b8bc614cb": {
-      "title": "Sezzle (SEZL) Stock After New AI Tools And Rewards Push Is The Valuation Too Rich",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY1BaQkI5T2xQSXh5Q3RsNzhvNUdyOS1STHhZSE1WZVJFV1M2WWw3ZG1FV0xrZEYtMG8xd3Jia2dHd1ctcmVUZTh2U3hiNVJHOG9qczRNWkwwT19jS1IySjZNOXRTdkRiNjMwSU1Xa1YwN1hVelhnQU1aSG84eE9ZNjhUZlBiUFY2eVo3c202bjA3R0piV1lZOXBUS0JaVUhwT0NBTW91TW1CNUhzamxKbThzMWQ4dWtJQU5xRkJGSjZKVVVrQk8wUFdvMVZBUHVXT3NKeUlB0gHbAUFVX3lxTE05UVNiaDFNSF8yVEZaOWRBb0VidGhCV25KSjd3QXdBWnpLeS1zdFdoZV9Nb1NFbVRtN3QzTGhocVhNdEpIUklRdE9MZEhmRmtiTlR5MkZzNXk2bGpLR3pXbmVDc1lVTnc5NUpNS25malM0SjdZcUtTOWhMbjZKSzNnNDFfTEdvbDVVcmNjSTRCc2VIM2x1Y0I4SV9ieTdIV01fYkNiS2RYNElaSDRVYzJjN25iQ3JoV1hkc3FiMXk4VzJtZGt1bGxiQzZub2dNV3A3ZVo0SW5rdThsNA?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-14",
-      "feed": "google-news",
-      "snippet": "Sezzle (SEZL) Stock After New AI Tools And Rewards Push Is The Valuation Too Rich simplywall.st",
-      "summary": "The headline/snippet is too thin to draw concrete conclusions \u2014 it raises a valuation question about Sezzle following an AI tools and rewards program push, but provides no financial data, product details, or outcomes. The read-through for Snap Finance is that Sezzle appears to be investing in AI-driven features and loyalty rewards to drive growth, which could signal intensifying competition in the BNPL/POS financing space, but the details are insufficient to assess materiality.\n\nSignificance: low \u00b7 Category: product"
-    },
-    "7a232207169735d2": {
-      "title": "Sezzle Stock Sizzles 16% After The Bell As Investors And Retail Traders Cheer Record GMV Growth",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2hkbDdvOVlIUFhxZTVFRHFaVGZqRmo2SnpLeXlDdkNfZU5XbnlBUXBNR3Q4MUxBN1NUQ3BsQVBrcGI0OGRDRVNmSWdodEtIY1gwZmgyekZHMWdxZlZzaEtfeW1yQUpBVFFpQ2p3NTg0NUt6SjFqXzhjMF9ISS0zUWg4RUNyeC1wQmhhZlJsS204SmJRWWlhcmdsREdoeWtsMU1FUEFLVmRNa0laNlJGd1BVQWxKYmdreWppazFnckdHa0pEaFB4LW1NRlkwOGR3OXVRQmpTbldyYzJt?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-06-12",
-      "feed": "google-news",
-      "snippet": "Sezzle Stock Sizzles 16% After The Bell As Investors And Retail Traders Cheer Record GMV Growth Stocktwits",
-      "summary": "Sezzle's stock jumped 16% after hours following a report of record GMV (Gross Merchandise Volume) growth, signaling strong consumer demand for BNPL/installment financing \u2014 a space adjacent to Snap's lease-to-own model. This suggests the broader POS financing market remains robust, which could indicate both healthy consumer appetite and intensifying competition for retail partnerships.\n\nSignificance: medium \u00b7 Category: earnings"
+      "summary": "Sezzle's stock surged 14.4% following the launch of an expanded rewards hub and new lending options, signaling the company is actively broadening its product ecosystem to drive engagement and capture more of the consumer financing market. For Snap Finance, this is a reminder that BNPL competitors are layering loyalty/rewards features and diversified lending products to increase stickiness \u2014 areas Snap may need to address to remain competitive in the lease-to-own and point-of-sale financing space.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "a64a5fe17e578e2a": {
       "title": "Is Sezzle Inc. (SEZL) Stock Outpacing Its Business Services Peers This Year?",
@@ -62,7 +38,8 @@
       "published": "2026-06-12",
       "feed": "google-news",
       "snippet": "Is Sezzle Inc. (SEZL) Stock Outpacing Its Business Services Peers This Year? Yahoo Finance",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it only poses a question about Sezzle's relative stock performance versus business services peers without providing actual data, context, or outcomes. No actionable competitive intelligence can be extracted from this alone.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it only poses a question about Sezzle's relative stock performance versus business services peers without providing actual data, context, or outcomes. No actionable competitive intelligence can be extracted from this alone.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "2fa963bf5180bd4e": {
       "title": "Sezzle Spend Promo Codes and Discounts",
@@ -71,34 +48,8 @@
       "published": "2026-06-12",
       "feed": "google-news",
       "snippet": "Sezzle Spend Promo Codes and Discounts Sacramento Bee",
-      "summary": "The headline and snippet are too thin to draw meaningful conclusions \u2014 this appears to be a promotional/coupon aggregator article listing Sezzle discount codes, with no substantive news about the company's strategy, financials, or operations.\n\nSignificance: low \u00b7 Category: other"
-    },
-    "9e05721d48a4fddf": {
-      "title": "[144] Sezzle Inc. SEC Filing",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHlHcjM4Q21VSm9TdkgyQmw5R2pDQXl6SU1sa0poaWppR1dUOHlCdjdUQ1AtWFdMU2dPa01BRDFDOTJibmJMc0ltMm5hTVFhUkJHM0FTV29ZOUxCa1g4NXQweUxTbVNadmlIVjZxQ0tCT285Z0hySnpNT3Z1SlpDWXlqSHFMWUNXTWx6aW5sTDE?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-06-12",
-      "feed": "google-news",
-      "snippet": "[144] Sezzle Inc. SEC Filing Stock Titan",
-      "summary": "The snippet provides only the SEC filing form type (\"[144]\") and source, with no detail about the filing's content \u2014 this is too thin to draw any meaningful conclusions about what Sezzle disclosed or its implications for Snap Finance.\n\nSignificance: low \u00b7 Category: other"
-    },
-    "c4180a84ec05aa38": {
-      "title": "Sezzle (SEZL) Is Up 6.5% After Expanding Beyond BNPL With AI Rewards Ecosystem - What's Changed",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMmpjVkxSM0JIUkhGR2V2RHRKSGtWbXhEeWRhWWpZbU5rMUhldVkzT09xXzcwUTJUc0l2UUVmWWhjR0JRczlZVzVNZV9OdnY0ZFpjemswQm5PVnNWb01KVmVVQTdIaTFIUXFLaDVYRlZzM1EzSEJFM0phMy00VGQzVm9WRnJrb0ZtOGVBVE45V1AtTlFYek1Kdk5XQWotckZySjJBU1N2OXNjVmRudURFVmpxcGRZWGlwdDVpdVVvdTl0cVVsbElHeDh6dkFzc1BCejVtVlh30gHbAUFVX3lxTFBMTjUzN2drcEpQSlp3bTZQRmpRbTdXUjFJcWh5MHVzc1N3WnBtRmFnYW1WZm9fdVZNWDFhQkZOR1ZIMVhCR0NpZjFaZU4wYW9CSU81aGhXQkQ3Q0puQ3RCdEcwa0lTd2JEd2hXNXFTeHhiX3luOUFOWjllcEc3MjBJcHVMdHVzck4yZndTM3lWamdiZ3dRczQ5OWd4QUJrdHBCaHBWOURhLWhvdW5jQVZlTUZkWVdXeWZPZWg3ajZfLVgwYUZZVWRNSjJhYU9vQS1pOV9oelFnb1M5Zw?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-12",
-      "feed": "google-news",
-      "snippet": "Sezzle (SEZL) Is Up 6.5% After Expanding Beyond BNPL With AI Rewards Ecosystem - What's Changed simplywall.st",
-      "summary": "The headline and snippet are too thin to assess specifics \u2014 we only know Sezzle's stock rose 6.5% tied to an \"AI rewards ecosystem\" expansion beyond core BNPL, but no details on the product, partners, or mechanics are provided. At a high level, this signals Sezzle is diversifying its value proposition with AI-driven loyalty features, which could increase customer stickiness and differentiate it from both BNPL peers and lease-to-own players like Snap \u2014 but the actual competitive impact is unclear without more detail.\n\nSignificance: medium \u00b7 Category: product"
-    },
-    "39cf4f0b3f35ae46": {
-      "title": "Is Sezzle Inc (SEZL) Overvalued After 3.0% Rally? GF Value Says",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlNORGVEQ0RISXpxWGJuOUlveGw0RHgzVk1hN3RDLTdmNkNVMzRRNmRiR3FtdEVpcXZaQVJjemRudkwyTG85cC10cWpqaDB2ODU1OTF4Z3d6MlRsRFV6WlNRcm5XNzF2UzRxck5HNXlPdkx1enFha0VLRTdBRGwyelhjT1BBS2NrWHIzV2ZqS2tvcE8yS2loQkNiT2owUkl2RkVxTzRIOTN4M3lsOE1Xb0IyQzFLaFJtTFcwZw?oc=5",
-      "source": "GuruFocus",
-      "published": "2026-06-12",
-      "feed": "google-news",
-      "snippet": "Is Sezzle Inc (SEZL) Overvalued After 3.0% Rally? GF Value Says GuruFocus",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it only indicates Sezzle's stock rallied ~3% and GuruFocus flagged it as potentially overvalued, but provides no detail on the valuation metrics, business drivers, or underlying fundamentals. No actionable read-through for Snap Finance can be reliably derived from this alone.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline and snippet are too thin to draw meaningful conclusions \u2014 this appears to be a promotional/coupon aggregator article listing Sezzle discount codes, with no substantive news about the company's strategy, financials, or operations.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "d68c3f5130b6f048": {
       "title": "Does Sezzle Do Monthly Payments? What Shoppers Need To Know",
@@ -107,7 +58,8 @@
       "published": "2026-06-09",
       "feed": "google-news",
       "snippet": "Does Sezzle Do Monthly Payments? What Shoppers Need To Know Charlotte Observer",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it appears to be an explainer or FAQ-style article about Sezzle's payment options, but no actual product changes, launches, or announcements are described.\n\nSignificance: low \u00b7 Category: product"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it appears to be an explainer or FAQ-style article about Sezzle's payment options, but no actual product changes, launches, or announcements are described.\n\nSignificance: low \u00b7 Category: product",
+      "significance": "low"
     },
     "5ede2d487a22bcef": {
       "title": "Personal Loan Stocks Q1 Earnings Review: Sezzle (NASDAQ:SEZL) Shines",
@@ -116,7 +68,8 @@
       "published": "2026-06-08",
       "feed": "google-news",
       "snippet": "Personal Loan Stocks Q1 Earnings Review: Sezzle (NASDAQ:SEZL) Shines Yahoo Finance",
-      "summary": "The headline indicates Sezzle had a strong Q1 earnings performance, standing out among personal loan/BNPL peers, but the snippet provides no specifics on revenue, margins, or growth drivers to assess what's actually driving the outperformance. The read-through for Snap is limited without those details \u2014 though a thriving Sezzle signals continued consumer demand for alternative financing, keeping competitive pressure relevant.\n\nSignificance: medium \u00b7 Category: earnings"
+      "summary": "The headline indicates Sezzle had a strong Q1 earnings performance, standing out among personal loan/BNPL peers, but the snippet provides no specifics on revenue, margins, or growth drivers to assess what's actually driving the outperformance. The read-through for Snap is limited without those details \u2014 though a thriving Sezzle signals continued consumer demand for alternative financing, keeping competitive pressure relevant.\n\nSignificance: medium \u00b7 Category: earnings",
+      "significance": "medium"
     },
     "e2f6a1de7372c7cd": {
       "title": "How To Increase Your Sezzle Limit: Practical Tips",
@@ -125,7 +78,8 @@
       "published": "2026-06-08",
       "feed": "google-news",
       "snippet": "How To Increase Your Sezzle Limit: Practical Tips Charlotte Observer",
-      "summary": "The headline/snippet is too thin to tell \u2014 this appears to be a generic consumer-advice article about raising Sezzle spending limits, with no news about a product change, policy update, or company announcement. There is no meaningful competitive intelligence to extract.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline/snippet is too thin to tell \u2014 this appears to be a generic consumer-advice article about raising Sezzle spending limits, with no news about a product change, policy update, or company announcement. There is no meaningful competitive intelligence to extract.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "dece1d4f4338250d": {
       "title": "Personal Loan Stocks Q1 Earnings Review: Sezzle (NASDAQ:SEZL) Shines",
@@ -134,25 +88,8 @@
       "published": "2026-06-08",
       "feed": "google-news",
       "snippet": "Personal Loan Stocks Q1 Earnings Review: Sezzle (NASDAQ:SEZL) Shines TradingView",
-      "summary": "The headline indicates Sezzle had a strong Q1 earnings performance, but the snippet provides no specific metrics (revenue, GMV, margins, etc.) to assess the nature or magnitude of that outperformance. The read-through for Snap is directionally cautious \u2014 a thriving Sezzle signals continued consumer demand for BNPL/alternative financing, but without detail it's unclear whether Sezzle is gaining share in segments that overlap with Snap's lease-to-own customer base.\n\nSignificance: medium \u00b7 Category: earnings"
-    },
-    "27b059a05460e9e5": {
-      "title": "Personal Loan Stocks Q1 Earnings Review: Sezzle (NASDAQ:SEZL) Shines",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWU55cjE0NmROaExndlpqOFhfYlJ3SkE1MVpHMTFRUTAzTG1iTC1GcWZWN21VQU1xVUtjbXZMWkkzTmNjQkRFNktEYmgzTjBrVjFhRl9xeEh4dmx6TDgwUnBpazRJQnQ5bmpxN09UZFdraXNKMDlyQWdtQ2M0NWZINWVnQVZJSXQzTGNSWVBocFVlQUJYQXYwUkhsTXF0X2RuTlZsWWdFYkdvVTRa?oc=5",
-      "source": "Barchart.com",
-      "published": "2026-06-08",
-      "feed": "google-news",
-      "snippet": "Personal Loan Stocks Q1 Earnings Review: Sezzle (NASDAQ:SEZL) Shines Barchart.com",
-      "summary": "The headline indicates Sezzle had a standout Q1 earnings performance relative to personal loan sector peers, but the snippet provides no specific metrics (revenue, growth, profitability) to assess the magnitude. For Snap Finance, strong Sezzle results generally signal continued consumer demand for alternative financing, but without details this is difficult to act on competitively.\n\nSignificance: medium \u00b7 Category: earnings"
-    },
-    "bb09735092dfafc4": {
-      "title": "Sezzle (SEZL) Valuation Check As AI First Shift And New Features Redefine Its Business Model",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1VhUzQ3anJxQkMyaVZJR1FCYmphR2paZTBOQmU0M2ZFWFd0ZGtuM1YtclkzcE1vUW0zTUM0WnFBcXU5ZDRDQmFzSnNJRFVEZ284ZzhZOWVUWXU5RGZya25xUkxYc3hkRkxwWXJ3Z2wtbDVEb0d0T1VFZzhoeXBzX21iV2ZaOFpkSER4UnNLb0xZZ3F4dUtnVTNuZFA4Rm5PMnJySklOaENka1ZyV2EtWVBVNU02R2hIa1pDVDB5Uk5vX2RnRFFhNEhwYk9vbDk4TEIwQk5B0gHbAUFVX3lxTE0xYWFzanNDbS05d3NOMy0tSEJGNy0yR0RiZVNJT1NGMlBKWmszY211YWJsdklxazJLWlk4alRyZm83WDdXOUlqd3YyYktUTTJfVElaWUFYYVczb015dFdxUzFBYjRBUkJuVkZBV2k3VGFhdDQ3RnFKMnJqWVpBS0phb0F6TUYzMTJfYXFRaUFvUXV3VWhSQXp2QjM5RmMxTnYxcHdQZE5EU3BjaGdkOUtCMzhEUHE4Z2lhbW9YRkczdEd5QnpvYnN5RW1Fa042dXdQdjNMM3JQaXJhdw?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-07",
-      "feed": "google-news",
-      "snippet": "Sezzle (SEZL) Valuation Check As AI First Shift And New Features Redefine Its Business Model simplywall.st",
-      "summary": "The headline/snippet is too thin to extract meaningful detail \u2014 it signals that Sezzle is repositioning around AI and new features, prompting a valuation reassessment, but no specifics on what those features are, financial metrics, or strategic direction are provided. For Snap Finance, the broad takeaway is that Sezzle is actively evolving its product and tech stack, which warrants monitoring but requires more substantive reporting to assess competitive impact.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "The headline indicates Sezzle had a strong Q1 earnings performance, but the snippet provides no specific metrics (revenue, GMV, margins, etc.) to assess the nature or magnitude of that outperformance. The read-through for Snap is directionally cautious \u2014 a thriving Sezzle signals continued consumer demand for BNPL/alternative financing, but without detail it's unclear whether Sezzle is gaining share in segments that overlap with Snap's lease-to-own customer base.\n\nSignificance: medium \u00b7 Category: earnings",
+      "significance": "medium"
     },
     "73ee152102991738": {
       "title": "Sezzle, Payoneer, and Shift4 Shares Plummet, What You Need To Know",
@@ -161,16 +98,8 @@
       "published": "2026-06-05",
       "feed": "google-news",
       "snippet": "Sezzle, Payoneer, and Shift4 Shares Plummet, What You Need To Know Yahoo Finance",
-      "summary": "The headline/snippet is too thin to determine the cause of the share price decline for Sezzle (or the others) \u2014 no specific driver such as earnings miss, regulatory issue, or macro factor is provided.\n\nSignificance: low \u00b7 Category: other"
-    },
-    "de525bc4660e597a": {
-      "title": "Should Sezzle\u2019s (SEZL) Expanded Rewards and AI Features Require Action From BNPL-Focused Investors?",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWUtYXhfcmFEd2JzdloxY3poX3IwWEoyV1NHNkQ0MkNKdE5QVzNWUXc0VjV2NnFTaEtQUWNPUlpkLVZtVUI5bVM3QlBDbDR3STJrWGJaUXZ6blQwbUVqcUs2RUNEY2tOeGlIc3B5Z29naEJFRnpkTll6V2UxMzNfV2tGd25CREg3elB3YzlsQ1lONTM3dERUMUtid1RHdWd5RjBmUVFoMVBBNFhQYlhkM2IyUUpkNFV0NVNvdUE0YlJMT3NXLTU5LTAtMU10NXQxREs4OFpR0gHbAUFVX3lxTE1YYzNfdDBMRHIxSmg5LTdkV3h1Zm9kRkxKQ2ZkX190aWJzX1ZWSTJOSk5Ddnl6eUVJcktaS2U2dk91WkdyYk1IalNRTFJvRE1kVXFScmVWZ2VGejhkQWlGSUotYmpydWlqYU5teGlQRDdndEhfZGRZLWJFSkVGOTFLeWdUVEttNjUzNUQzcFhLWGRieWJPMEZmb29lZ0V0MWNZcHlCbWVrMGVEbm1KR0ZNMWZkU2FadmZMUy1tMEhSRU1SMnBua00wLU1hdDBXY0FLUjhhekNnX2lEOA?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-05",
-      "feed": "google-news",
-      "snippet": "Should Sezzle\u2019s (SEZL) Expanded Rewards and AI Features Require Action From BNPL-Focused Investors? simplywall.st",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it poses a question about Sezzle's expanded rewards and AI features but provides no details on what those features are, their scale, or financial impact.\n\nSignificance: low \u00b7 Category: product"
+      "summary": "The headline/snippet is too thin to determine the cause of the share price decline for Sezzle (or the others) \u2014 no specific driver such as earnings miss, regulatory issue, or macro factor is provided.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "3732036dbdb3578c": {
       "title": "Sezzle, Payoneer, and Shift4 Shares Plummet, What You Need To Know",
@@ -179,7 +108,8 @@
       "published": "2026-06-05",
       "feed": "google-news",
       "snippet": "Sezzle, Payoneer, and Shift4 Shares Plummet, What You Need To Know TradingView",
-      "summary": "The headline and snippet are too thin to determine *why* Sezzle's shares plummeted \u2014 no cause, magnitude, or context is provided beyond the price decline itself.\n\nSignificance: medium \u00b7 Category: other"
+      "summary": "The headline and snippet are too thin to determine *why* Sezzle's shares plummeted \u2014 no cause, magnitude, or context is provided beyond the price decline itself.\n\nSignificance: medium \u00b7 Category: other",
+      "significance": "medium"
     },
     "18286f15229830d9": {
       "title": "Sezzle (SEZL) Valuation Check After Surpassing $1b GMV And Raising FY2026 Guidance",
@@ -188,7 +118,8 @@
       "published": "2026-06-04",
       "feed": "google-news",
       "snippet": "Sezzle (SEZL) Valuation Check After Surpassing $1b GMV And Raising FY2026 Guidance Yahoo Finance",
-      "summary": "Sezzle surpassed $1B in GMV and raised its FY2026 guidance, signaling strong consumer demand for BNPL/installment financing and improving unit economics for the company. For Snap Finance, this confirms the lease-to-own/POS financing space remains competitively active and growing, suggesting Sezzle is gaining consumer and merchant traction that could pressure Snap's market share.\n\nSignificance: high \u00b7 Category: earnings"
+      "summary": "Sezzle surpassed $1B in GMV and raised its FY2026 guidance, signaling strong consumer demand for BNPL/installment financing and improving unit economics for the company. For Snap Finance, this confirms the lease-to-own/POS financing space remains competitively active and growing, suggesting Sezzle is gaining consumer and merchant traction that could pressure Snap's market share.\n\nSignificance: high \u00b7 Category: earnings",
+      "significance": "high"
     },
     "fa647fa165252714": {
       "title": "Sezzle Jumps 6.3% After B. Riley Securities Maintains Buy",
@@ -197,7 +128,8 @@
       "published": "2026-06-04",
       "feed": "google-news",
       "snippet": "Sezzle Jumps 6.3% After B. Riley Securities Maintains Buy AlphaStreet",
-      "summary": "B. Riley Securities maintained its Buy rating on Sezzle, triggering a 6.3% stock price jump \u2014 but the headline/snippet provides no detail on the rationale, price target, or underlying business developments. The read-through for Snap Finance is limited without knowing what drove the analyst's conviction (e.g., growth metrics, new products, or market expansion).\n\nSignificance: low \u00b7 Category: other"
+      "summary": "B. Riley Securities maintained its Buy rating on Sezzle, triggering a 6.3% stock price jump \u2014 but the headline/snippet provides no detail on the rationale, price target, or underlying business developments. The read-through for Snap Finance is limited without knowing what drove the analyst's conviction (e.g., growth metrics, new products, or market expansion).\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "9de46e57cbc44fbc": {
       "title": "Sezzle Expands Super App Platform Following Strong 1Q26 Results",
@@ -206,7 +138,8 @@
       "published": "2026-06-03",
       "feed": "google-news",
       "snippet": "Sezzle Expands Super App Platform Following Strong 1Q26 Results Yahoo Finance",
-      "summary": "The headline/snippet is too thin to draw substantive conclusions \u2014 it signals Sezzle had a strong Q1 2026 and is expanding its \"Super App\" platform, but no financials, specific features, or strategic details are provided. For Snap Finance, a competitor gaining momentum and broadening its platform is worth monitoring, but the lack of detail prevents a meaningful read-through.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "The headline/snippet is too thin to draw substantive conclusions \u2014 it signals Sezzle had a strong Q1 2026 and is expanding its \"Super App\" platform, but no financials, specific features, or strategic details are provided. For Snap Finance, a competitor gaining momentum and broadening its platform is worth monitoring, but the lack of detail prevents a meaningful read-through.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "ab47f3691f7dabff": {
       "title": "Sezzle Expands Super App Platform Following Strong 1Q26 Results",
@@ -215,7 +148,8 @@
       "published": "2026-06-03",
       "feed": "google-news",
       "snippet": "Sezzle Expands Super App Platform Following Strong 1Q26 Results The Killeen Daily Herald",
-      "summary": "The headline and snippet are too thin to determine specifics \u2014 no financial metrics, merchant counts, or super app feature details are disclosed, making it impossible to assess the actual scope of Sezzle's expansion or what \"strong 1Q26 results\" entailed. For Snap Finance, a growing Sezzle super app could signal increased competition for shared retail partners and subprime/near-prime consumers, but this cannot be confirmed from the available information.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "The headline and snippet are too thin to determine specifics \u2014 no financial metrics, merchant counts, or super app feature details are disclosed, making it impossible to assess the actual scope of Sezzle's expansion or what \"strong 1Q26 results\" entailed. For Snap Finance, a growing Sezzle super app could signal increased competition for shared retail partners and subprime/near-prime consumers, but this cannot be confirmed from the available information.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "af8b3c4fb1f35e53": {
       "title": "Sezzle Drops 6.7% Amid Sector-Wide Selling",
@@ -224,7 +158,8 @@
       "published": "2026-06-03",
       "feed": "google-news",
       "snippet": "Sezzle Drops 6.7% Amid Sector-Wide Selling AlphaStreet",
-      "summary": "Sezzle's stock dropped 6.7% as part of broader sector-wide selling, suggesting macro or market-driven pressure rather than a company-specific event \u2014 the snippet provides no detail on the underlying cause. This offers limited actionable intelligence for Snap Finance beyond noting that the BNPL/fintech sector broadly faced selling pressure on this date.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "Sezzle's stock dropped 6.7% as part of broader sector-wide selling, suggesting macro or market-driven pressure rather than a company-specific event \u2014 the snippet provides no detail on the underlying cause. This offers limited actionable intelligence for Snap Finance beyond noting that the BNPL/fintech sector broadly faced selling pressure on this date.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "e2382b66cc88a57c": {
       "title": "Sezzle Jumps 8.7% Amid Sector-Wide Rally",
@@ -233,7 +168,178 @@
       "published": "2026-06-15",
       "feed": "google-news",
       "snippet": "Sezzle Jumps 8.7% Amid Sector-Wide Rally AlphaStreet",
-      "summary": "Sezzle's stock rose 8.7% as part of a broader sector-wide rally, meaning the move appears market-driven rather than company-specific \u2014 the snippet provides no details on underlying business developments. This is too thin to draw meaningful competitive read-throughs for Snap Finance beyond general positive sentiment toward the BNPL/fintech space.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "Sezzle's stock rose 8.7% as part of a broader sector-wide rally, meaning the move appears market-driven rather than company-specific \u2014 the snippet provides no details on underlying business developments. This is too thin to draw meaningful competitive read-throughs for Snap Finance beyond general positive sentiment toward the BNPL/fintech space.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "7eb20b908cbba50f": {
+      "title": "SEZL Q1 2026 Earnings: Strong EPS Beat of 16.58% Despite Stock Pullback - Earnings Volatility Report",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXczSzUyQW9ISHM4QlNvX3lwUU5nSnNCcHhBLS1NY25zVU1uQXRZUFdHWVZjd28yM3ZHSHFfcE1WMVVkTFRKSUNpVDlneGVNMGRJcWRrVVVVWGRHYkZhTHAxUmx0QUNhTElKeVh5UWgyTUFxQnh1Ni1uLTBMNXNiNG8yWC12M3F2S3IyLUFwbHMyeFdFY0N2cF9pTEZaQXBqY3FmbmF0YnBiVTNi?oc=5",
+      "source": "newsline.com",
+      "published": "2026-06-06",
+      "feed": "google-news",
+      "snippet": "SEZL Q1 2026 Earnings: Strong EPS Beat of 16.58% Despite Stock Pullback - Earnings Volatility Report newsline.com",
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it confirms Sezzle beat Q1 2026 EPS estimates by ~16.6% but provides no revenue figures, GMV trends, or guidance context to assess underlying business health or competitive positioning. The stock pullback despite the beat may signal investor concern about growth or macro headwinds, but that's speculative without more detail.\n\nSignificance: medium \u00b7 Category: earnings",
+      "significance": "medium"
+    },
+    "51d08bfa56f75719": {
+      "title": "Sezzle Inc. (SEZL) Faces Steep Decline, Testing Key Support Levels - Opening Range Breakout",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXVHSlotUUJBMFlGWThtVlNzR2pqTjdLMmpodWN4bEh3SmlWMVFTS1ZFaEtuOEFxc2N3STFtUU85YUY2cGNVbHh2SHJ5UUc1bmY0V2lfRlpGLXI0NXowTmowNjRONzI0NnoyVk1ZN2RSX1g1QmVmVkI1NS14TUFXb3QyZG9lOW9EVWM5WWtQdGMxTm5mbF9PTkpTZ0VzTUVoNnBB?oc=5",
+      "source": "newsline.com",
+      "published": "2026-06-05",
+      "feed": "google-news",
+      "snippet": "Sezzle Inc. (SEZL) Faces Steep Decline, Testing Key Support Levels - Opening Range Breakout newsline.com",
+      "summary": "The headline and snippet are too thin to draw meaningful conclusions \u2014 they indicate Sezzle's stock (SEZL) is experiencing a notable price decline and testing support levels, but provide no detail on the cause (earnings miss, macro pressure, sector selloff, etc.). Without knowing the driver, the competitive read-through for Snap Finance is unclear.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "82dc655891550a1d": {
+      "title": "Sezzle (SEZL) Under Scrutiny: Could the Stock Be a Mispriced Opportunity? - Energy Earnings Report",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0kzV1J1TU9KcEJrWGJsb2YzZkUtT3V6dnE3Zm02aDRWQzgzekFrVWZKNmlEOWpRcTVqWVM4d0xuVXBSVkx2QVdDaGFieElVcHpqbjdfbEZwZEZ1XzFPTktaZUxzdm9OZVMxbC1JRjZxOHgxUndhVUowV2dXc3hTa25PMmNrNHJ6YnE5dHU4YlVycXRJNDk5VEszcnFHZVhhVkVCRFZLVXhVSlhobjRr?oc=5",
+      "source": "newsline.com",
+      "published": "2026-06-02",
+      "feed": "google-news",
+      "snippet": "Sezzle (SEZL) Under Scrutiny: Could the Stock Be a Mispriced Opportunity? - Energy Earnings Report newsline.com",
+      "summary": "The headline and snippet are too thin to draw any substantive conclusions \u2014 it raises a valuation question about Sezzle's stock but provides no actual financial data, events, or developments to analyze. The \"Energy Earnings Report\" source label also raises credibility questions about the relevance of the coverage.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "26717d83c8a93b1c": {
+      "title": "Sezzle (SEZL): A Mispriced Opportunity?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWJEYWt4UjJNUVFFdU0zS1l6NWVRODNYTnZseTBoRFB0Mm84OXA2cW42dVpXX0gxUGFESzZtR04zT2o1QVlJcDU5RzFMWlBxSXpGejJ6V1RxRklyZDhXcEM5dzBwQzhsTktqejVVRkpiSFdhM2cyM3FaSHZ6YzV4QndPd01RQllqNmFEMWNBVjdGeGhFZjc1UVhUM0dMTTA?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-06-01",
+      "feed": "google-news",
+      "snippet": "Sezzle (SEZL): A Mispriced Opportunity? Yahoo Finance",
+      "summary": "The headline and snippet are too thin to determine what specifically happened \u2014 it appears to be an investment thesis or analyst opinion piece suggesting Sezzle may be undervalued, but no concrete financial results, events, or developments are disclosed. No actionable competitive read-through for Snap Finance can be drawn from this alone.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "459917e3a8beddb3": {
+      "title": "Why Sezzle (SEZL) Is Up 10.6% After Raising 2026 Outlook And Highlighting Insider Alignment",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzZpRFVwaUdIUEkxdFpwbDJyQzNYajdLblN5b3J2b1JoYjg2OTk5MjgxLUxkQzY1UHI4SUVMU0RocXk1QTdveDREX1N2OTRyUTFBem8wUE51ZFdXVVpYTm0yVE15WnZhenk4S3l3YWxMcUdhRHR2SUFQOEhaNGxpZl9IeWtqMlZLZk5LblRR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-05-28",
+      "feed": "google-news",
+      "snippet": "Why Sezzle (SEZL) Is Up 10.6% After Raising 2026 Outlook And Highlighting Insider Alignment Yahoo Finance",
+      "summary": "Sezzle raised its 2026 financial outlook, driving a 10.6% stock surge, while also emphasizing insider ownership alignment \u2014 suggesting management confidence in sustained growth. For Snap Finance, this signals a strengthening BNPL competitor with positive momentum, though the snippet lacks specifics on what metrics were revised upward.\n\nSignificance: medium \u00b7 Category: earnings",
+      "significance": "medium"
+    },
+    "06b1385563b92c47": {
+      "title": "Klarna vs. Sezzle: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWxvamZHM0VZZzROaHQzWC1mVl9CcV9JbHQ4TTh1S2JrYVBHZl90eDYwYkNfZjZRbVBZRTFMVUppNFZRQ2hiLVRRUWFnU2tNTUNsdFI1UHgyYXFjS3VSMV9zWlU2eHpxN09HNGdyQXhiSWd5YXB3cDhXaHN6eVBSN2FJZHJhd1IzVkE1eGVWQ2U4MUJGT1F2cnlKWG15MU5oLUlhbzRRZDVPSTNscUZiUUZQenloWEE?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-05-27",
+      "feed": "google-news",
+      "snippet": "Klarna vs. Sezzle: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it only frames Klarna and Sezzle as competing investment options without disclosing financials, strategy, or specific developments. The read-through for Snap Finance is unclear without knowing the substance of the comparison.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "c6662477e4372c9b": {
+      "title": "Sezzle Inc. (SEZL) Q1 2026 Earnings: EPS Surpasses Estimates, Shares Rally - Healthcare Earnings Report",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEtNbFIyQ3dTcFdCaXhyN1ZCR1YyMXlxWTF0Nlh0eTZubHNOVEtVeU1RbFQ1X2x1LTl0YXNVeGRwX2NSck1JZTJGQmVPV0luUXdpdG5jbkpHUURLQjVZTHBHQXZTS18tQU1aTDNHVkpkZXF2TnRXS0tWU3d1d0FhYWJBOVBRTUVXeFdDSktPZ2txamh4YnllSmpzcXRVWHphUkhrRDduYUpFRTdxY3poeQ?oc=5",
+      "source": "newsline.com",
+      "published": "2026-05-27",
+      "feed": "google-news",
+      "snippet": "Sezzle Inc. (SEZL) Q1 2026 Earnings: EPS Surpasses Estimates, Shares Rally - Healthcare Earnings Report newsline.com",
+      "summary": "The headline indicates Sezzle beat EPS estimates in Q1 2026 and shares rallied, but the snippet provides no specifics on revenue, GMV, margins, or operational details to draw meaningful competitive conclusions. The \"Healthcare Earnings Report\" source label also raises questions about data reliability.\n\nSignificance: low \u00b7 Category: earnings",
+      "significance": "low"
+    },
+    "789e7daf8e37390e": {
+      "title": "Sezzle, LendingClub, and Atlanticus Holdings Stocks Trade Up, What You Need To Know",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWV5QVdNeHdGSzJLa0NuNVA5MDlMbFlUSjdYZFlpcmQ5VXRBTTBLYUVWTjFXelVuMUlUZ0VVM2QtVWNpSlJCdFFVeW1fNDBhdS1QNUxsWk1GS0JpSFhuNE1fUFROUkNlZ2N5ZnJaV2c5OHJZNml0U0pnbXNFNHpwNDNlZ1VLcmpHSTdQVTJ5bV82OE1zYnpUTHJjSUEwWDYxN2dGajI5ZWwweHpyZWlR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-05-26",
+      "feed": "google-news",
+      "snippet": "Sezzle, LendingClub, and Atlanticus Holdings Stocks Trade Up, What You Need To Know Yahoo Finance",
+      "summary": "The headline/snippet is too thin to draw any meaningful conclusions \u2014 it only notes that Sezzle's stock traded up alongside LendingClub and Atlanticus Holdings, with no detail on the catalyst, magnitude, or underlying news driving the move.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "ae8e80bf4ccaa595": {
+      "title": "Is Sezzle Inc. (SEZL) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYkt6UDdRejdEaFI0VTNfZjB5LWREUWpJckRKMVg3QXFxdDZaTmVfWmRVTDJ5Qm9mR0c2d25NUW5ORGhUdkxvSjRMT2J1dVA1SzZ5QWFqZ3dBZTJKaU5YMUphZWY4REE0ZkRJOXZuRG9nWmEyc1VqbE9xQnFoM3AwXzFZbkRtdUJKRF9HenJiYUpJOUxHa2wtVw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-05-25",
+      "feed": "google-news",
+      "snippet": "Is Sezzle Inc. (SEZL) a Solid Growth Stock? 3 Reasons to Think \"Yes\" Yahoo Finance",
+      "summary": "The headline/snippet is too thin to extract the specific three reasons cited or any concrete financial/operational details \u2014 it's essentially just a headline teasing a bullish analyst or editorial piece on Sezzle's growth prospects. The read-through for Snap Finance is that Sezzle is attracting positive investor attention as a growth story in the BNPL space, but no actionable specifics can be drawn from this snippet alone.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "7f4aa4420988e55b": {
+      "title": "Sezzle Inc. (SEZL) Slides 2.5% as Fintech Sector Headwinds Weigh on Sentiment - Tick Index",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0RaN0tDX1FsX1M2THU0QnkzQTMxTlZtQl8yWVdEMzB5NVlRcUFLYzlGVmxWelVlbTF4QVdWUFNiQ0VGZ1J3N0R6dzJLTURxeEY2TnhoRFB5WkdZWDVHNmNJdDRZSldwZUJhLUVVZjdFQlh1eHY0dGtGeDE4ZVRWdHBwNURBYXdoNGdiY1lEZVhBUllqc2ttTmJ0cWhQRHFKU1F0U3lhajZzbGVXbEd2WGM4WQ?oc=5",
+      "source": "newsline.com",
+      "published": "2026-05-25",
+      "feed": "google-news",
+      "snippet": "Sezzle Inc. (SEZL) Slides 2.5% as Fintech Sector Headwinds Weigh on Sentiment - Tick Index newsline.com",
+      "summary": "The headline and snippet are too thin to draw meaningful conclusions \u2014 the 2.5% slide is attributed vaguely to \"fintech sector headwinds,\" with no specifics on Sezzle's fundamentals, volume, or strategy. This appears to be routine market noise rather than a company-specific event.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "db74c87b8a094ba6": {
+      "title": "Sezzle Inc. (SEZL) Slides 2.5% as Fintech Sector Headwinds Weigh on Sentiment - Size Factor",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlh0ejB0WGZlbVNkQVJkOURUR1VDT1ZLTW5nTTNzZTZCeUR4blE0RlZuQjgxd0R6d28tYmJ2ZUFPRjZBbVk2VGZoaDJqQnN6Mk5aM3RxQVhITWhaSVh3SlV6aXZ6MFZaMUdDcjNjbGRsYkp2YWV1Znczc0RKNlFJX29ORTgxZVAwTTBwTUtndGxGbGtCeUtxa21sS242S2d5blhqSDZoOUwyTjM2Z0t3OQ?oc=5",
+      "source": "newsline.com",
+      "published": "2026-05-25",
+      "feed": "google-news",
+      "snippet": "Sezzle Inc. (SEZL) Slides 2.5% as Fintech Sector Headwinds Weigh on Sentiment - Size Factor newsline.com",
+      "summary": "The headline reports a 2.5% single-day stock decline for Sezzle, attributed broadly to sector-wide fintech sentiment headwinds rather than any Sezzle-specific news or event. The snippet is too thin to draw meaningful competitive insights \u2014 this appears to be routine market movement coverage with no disclosed operational or strategic developments relevant to Snap Finance.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "4792cc90c44ea42d": {
+      "title": "What Is Sezzle Spend? How It Works Inside the App",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjhBNFBVU0lVRVhfZXhsWWtFQ25RWXJubTR0emZOUENHaDEwWEI2Y3JUZDBWazUxOXZqSzFoRnpDY1BqMmpLcTJvaHpQWHc0Xy1MdDhxSVNCbm51cHB1Wkg5bzVRR3FuSldyMVZVSGFOWkllZkJOVk9Ea0ZEajhtbA?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-05-19",
+      "feed": "google-news",
+      "snippet": "What Is Sezzle Spend? How It Works Inside the App Sacramento Bee",
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it appears to be a SEO/explainer article about a feature called \"Sezzle Spend\" within their app, but no details about the feature's functionality, scope, or strategic intent are provided. Without more context, the read-through for Snap Finance is unclear.\n\nSignificance: low \u00b7 Category: product",
+      "significance": "low"
+    },
+    "68dd6dac2e7ce06a": {
+      "title": "Sezzle Mobile Review: Can This Plan Actually Compete?",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmb0NYcGt2dC15ejAtcEU3SFc5aFZiWHZDbTlKMFRvS0tzYTdjazJvUllCVHhKajV1TF8zNDhRaDk1Y0ZDM2N3dDBHcWJ2WHJWWmRPc0tNUG93ZTB1VzBVYmM1TlBXenV1clBSMGJpOA?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-05-19",
+      "feed": "google-news",
+      "snippet": "Sezzle Mobile Review: Can This Plan Actually Compete? Sacramento Bee",
+      "summary": "The headline and snippet are too thin to determine what \"Sezzle Mobile\" is, what the review concluded, or whether this represents a new product launch, a partnership, or an existing offering \u2014 no substantive details are provided beyond the title.\n\nSignificance: low \u00b7 Category: product",
+      "significance": "low"
+    },
+    "42ffb8272188084f": {
+      "title": "What Is Sezzle Anywhere? How This Subscription Works",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OeHFnNXV5dXBTSjNlLUY1Y0YwRXN1ZHNNZURzWkFVQVRnaVRka0xzUjQ4OWpMR3l1dkdEZmdRSU81R1psTnNZbWM5cmV6dWdaZm9hQklGWUhuRW1UMF9sLUFPaU1jeUVKQ3lCLUJRa3FUQ3M?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-05-19",
+      "feed": "google-news",
+      "snippet": "What Is Sezzle Anywhere? How This Subscription Works Sacramento Bee",
+      "summary": "The headline and snippet are too thin to determine the specifics of how \"Sezzle Anywhere\" works or what changed \u2014 it appears to be an explainer article about an existing or updated subscription product, but no details are provided to assess scope or impact on Snap Finance.\n\nSignificance: low \u00b7 Category: product",
+      "significance": "low"
+    },
+    "79e4b79520cb03a8": {
+      "title": "Who Accepts Sezzle Virtual Cards? Online + In-Store",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZEJxcnRxTHlmeXE4QUhlallFUjFfc3ZnYjMyYzQ2TEdrQW5EOUFZRmN5MnFRVXpFckF3R2FBWW9NTWRiZlkyZGRIMU9iNHRPaXFZaXdrQWhPZk9scjFLSTg2UlRBOFd6Z3NGRHhRblZqelhSTUdVX3ZvSEJGaGc?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-05-19",
+      "feed": "google-news",
+      "snippet": "Who Accepts Sezzle Virtual Cards? Online + In-Store Sacramento Bee",
+      "summary": "The headline/snippet is too thin to extract meaningful detail \u2014 it appears to be a general consumer guide about Sezzle virtual card acceptance, but no specific new partnerships, merchant wins, or product changes are disclosed.\n\nSignificance: low \u00b7 Category: product",
+      "significance": "low"
+    },
+    "0196376c3deff8d3": {
+      "title": "Does Sezzle Report To Credit Bureaus? What Users Should Know",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHdLd0NrZURUNGxzcWd1NFhZdGNaV0J4U0dwd2VRbTRBUEJzdTRCYV9DdU1NcUhRZW5ZUzNLeHgzRS1MZ0JObXBVUzRLeFZvbzBfRGkyX0dKR0wwYW5qeHJ2VWVOb2V3TU5VMDh0dFliV1U1ZmEyckgzQXlnTGxfMVNpLWk?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-05-19",
+      "feed": "google-news",
+      "snippet": "Does Sezzle Report To Credit Bureaus? What Users Should Know Sacramento Bee",
+      "summary": "The headline/snippet is too thin to tell \u2014 it indicates an informational/educational article about Sezzle's credit bureau reporting practices, but provides no details on what Sezzle actually does or any policy changes. Without the article body, no meaningful competitive read-through can be drawn.\n\nSignificance: low \u00b7 Category: product",
+      "significance": "low"
+    },
+    "d99e96908b040234": {
+      "title": "How The Sezzle (SEZL) Story Is Shifting As Analysts Rethink Growth And Valuation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2J0SjNyd3h1YmFZSF9wVjdRLUlGTXAyQzBtUzVsZnl2VVV1WE90U2U4akdCZ1ZlMm5TckFFMmpNNHg1bzRueVh5SlJRRTRjdXJCX0t2Z2VQMlJqWnNoUEVMSzR4R0d2T1lWSzYzSFpDMDE4LU5KMWR3Y3hUWkpoWjNGU0hSME5JZ3lsZjBsMjRKTk9VeGdNNUY0bUlJcnBpN1E?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-05-17",
+      "feed": "google-news",
+      "snippet": "How The Sezzle (SEZL) Story Is Shifting As Analysts Rethink Growth And Valuation Yahoo Finance",
+      "summary": "The headline/snippet is too thin to draw specific conclusions \u2014 it signals only that analysts are reassessing Sezzle's growth trajectory and valuation, but provides no detail on direction (upgrade/downgrade), magnitude, or the underlying drivers. The read-through for Snap Finance is unclear without knowing whether sentiment is turning positive or negative.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     }
   }
 }

@@ -12,6 +12,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import os
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -61,6 +62,32 @@ def summarize_filing(client, form: str, filing_date: str, text: str,
 def _rows_newest_first(sidecar: dict) -> list[dict]:
     rows = list(sidecar.get("filings", {}).values())
     return sorted(rows, key=lambda r: r.get("filing_date", ""), reverse=True)
+
+
+def _clean_summary(text: str) -> str:
+    """Drop level-4 summary sections whose only content is 'None noted',
+    so tracker pages aren't padded with boilerplate."""
+    sections: list[tuple[str | None, list[str]]] = []
+    head, body = None, []
+    for ln in (text or "").splitlines():
+        if ln.startswith("#### "):
+            sections.append((head, body)); head, body = ln, []
+        else:
+            body.append(ln)
+    sections.append((head, body))
+    keep: list[str] = []
+    for head, body in sections:
+        content = [b for b in body if b.strip()]
+        only_none = bool(content) and all(
+            re.sub(r"^[-*]\s*", "", b).strip().lower().rstrip(".") in ("none noted", "none")
+            for b in content)
+        if head is None:
+            keep.extend(body)
+        elif only_none or not content:
+            continue
+        else:
+            keep.append(head); keep.extend(body)
+    return "\n".join(keep).strip()
 
 
 def _cell(value: str) -> str:
@@ -115,17 +142,27 @@ def render_filer_page(filer: CompetitorFiler, sidecar: dict,
         else:
             local = "—"
         period = r.get("report_date") or "—"
+        anchor = r["accession"].replace("-", "")
+        form_cell = (f"[{_cell(r['form'])}](#f-{anchor})"
+                     if r.get("summary") else _cell(r["form"]))
         parts.append(
-            f"| {_cell(r['form'])} | {_cell(r['filing_date'])} | "
+            f"| {form_cell} | {_cell(r['filing_date'])} | "
             f"{_cell(period)} | {doc} | {local} |"
         )
     parts.append("")
 
     summarized = [r for r in rows if r.get("summary")]
     if summarized:
-        parts += ["## Filing summaries", ""]
+        parts += ["## Filing summaries", "",
+                  "_Click a filing to expand its summary._", ""]
         for r in summarized:
-            parts += [f"### {r['form']} — {r['filing_date']}", "", r["summary"], ""]
+            anchor = r["accession"].replace("-", "")
+            body = _clean_summary(r["summary"])
+            parts += [
+                f'<details id="f-{anchor}">',
+                f'<summary><strong>{r["form"]}</strong> — {r["filing_date"]}</summary>',
+                "", body, "", "</details>", "",
+            ]
     return fm, "\n".join(parts)
 
 

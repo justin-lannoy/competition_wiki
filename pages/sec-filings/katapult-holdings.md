@@ -17,54 +17,57 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-06-08 | 2026-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326008665/dp248120_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-06-08_8-K_0000950103-26-008665.htm) |
-| 8-K | 2026-06-03 | 2026-06-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326008473/dp247764_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-06-03_8-K_0000950103-26-008473.htm) |
-| 10-Q | 2026-05-08 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026032985/kplt-20260331.htm) | [file](../../sec-filings/katapult-holdings/2026-05-08_10-Q_0001628280-26-032985.htm) |
-| 8-K | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026031645/kplt-20260507.htm) | [file](../../sec-filings/katapult-holdings/2026-05-07_8-K_0001628280-26-031645.htm) |
-| 8-K | 2026-05-05 | 2026-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326006873/dp246346_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-05-05_8-K_0000950103-26-006873.htm) |
-| 8-K | 2026-04-16 | 2026-04-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326005778/dp245242_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-04-16_8-K_0000950103-26-005778.htm) |
-| 10-K | 2026-03-11 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026016661/kplt-20251231.htm) | [file](../../sec-filings/katapult-holdings/2026-03-11_10-K_0001628280-26-016661.htm) |
-| 8-K | 2026-03-11 | 2026-03-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026016659/kplt-20260311.htm) | [file](../../sec-filings/katapult-holdings/2026-03-11_8-K_0001628280-26-016659.htm) |
-| 8-K | 2026-02-20 | 2026-02-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326002455/dp241900_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-02-20_8-K_0000950103-26-002455.htm) |
-| 8-K | 2026-01-15 | 2026-01-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326000562/dp240034_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-01-15_8-K_0000950103-26-000562.htm) |
-| 8-K | 2026-01-12 | 2026-01-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326000342/dp239826_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-01-12_8-K_0000950103-26-000342.htm) |
-| 8-K | 2025-12-15 | 2025-12-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325016129/dp238690_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-12-15_8-K_0000950103-25-016129.htm) |
-| 8-K | 2025-11-26 | 2025-11-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325015360/dp237997_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-11-26_8-K_0000950103-25-015360.htm) |
-| 8-K | 2025-11-14 | 2025-11-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325014784/dp237389_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-11-14_8-K_0000950103-25-014784.htm) |
-| 10-Q | 2025-11-12 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025051372/kplt-20250930.htm) | [file](../../sec-filings/katapult-holdings/2025-11-12_10-Q_0001628280-25-051372.htm) |
-| 8-K | 2025-11-12 | 2025-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025051329/kplt-20251112.htm) | [file](../../sec-filings/katapult-holdings/2025-11-12_8-K_0001628280-25-051329.htm) |
-| 8-K | 2025-11-03 | 2025-11-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325014154/dp236791_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-11-03_8-K_0000950103-25-014154.htm) |
-| 8-K | 2025-10-29 | 2025-10-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013817/dp236488_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-29_8-K_0000950103-25-013817.htm) |
-| 8-K | 2025-10-27 | 2025-10-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013675/dp236339_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-27_8-K_0000950103-25-013675.htm) |
-| 8-K | 2025-10-20 | 2025-10-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013412/dp236084_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-20_8-K_0000950103-25-013412.htm) |
-| 8-K | 2025-10-14 | 2025-10-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013098/dp235807_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-14_8-K_0000950103-25-013098.htm) |
-| 8-K | 2025-09-29 | 2025-09-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325012458/dp235143_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-09-29_8-K_0000950103-25-012458.htm) |
-| 8-K | 2025-09-16 | 2025-09-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325011678/dp234385_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-09-16_8-K_0000950103-25-011678.htm) |
-| 10-Q | 2025-08-13 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025040169/kplt-20250630.htm) | [file](../../sec-filings/katapult-holdings/2025-08-13_10-Q_0001628280-25-040169.htm) |
-| 8-K | 2025-08-13 | 2025-08-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025039999/kplt-20250813.htm) | [file](../../sec-filings/katapult-holdings/2025-08-13_8-K_0001628280-25-039999.htm) |
-| 8-K | 2025-08-08 | 2025-08-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325010121/dp232878_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-08-08_8-K_0000950103-25-010121.htm) |
-| 8-K | 2025-08-05 | 2025-08-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325009941/dp232739_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-08-05_8-K_0000950103-25-009941.htm) |
-| 8-K | 2025-06-13 | 2025-06-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325007354/dp230096_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-06-13_8-K_0000950103-25-007354.htm) |
-| 8-K | 2025-06-09 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325007155/dp229959_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-06-09_8-K_0000950103-25-007155.htm) |
-| 8-K | 2025-06-06 | 2025-06-04 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025029806/kplt-20250604.htm) | [file](../../sec-filings/katapult-holdings/2025-06-06_8-K_0001628280-25-029806.htm) |
-| 8-K | 2025-06-04 | 2025-06-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325006977/dp229809_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-06-04_8-K_0000950103-25-006977.htm) |
-| 10-Q | 2025-05-15 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025026057/kplt-20250331.htm) | [file](../../sec-filings/katapult-holdings/2025-05-15_10-Q_0001628280-25-026057.htm) |
-| 8-K | 2025-05-15 | 2025-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025025669/kplt-20250515.htm) | [file](../../sec-filings/katapult-holdings/2025-05-15_8-K_0001628280-25-025669.htm) |
-| 8-K | 2025-04-11 | 2025-04-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025017577/kplt-20250411.htm) | [file](../../sec-filings/katapult-holdings/2025-04-11_8-K_0001628280-25-017577.htm) |
-| 10-K | 2025-03-28 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025015331/kplt-20241231.htm) | [file](../../sec-filings/katapult-holdings/2025-03-28_10-K_0001628280-25-015331.htm) |
-| 8-K | 2025-03-28 | 2025-03-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025015329/kplt-20250328.htm) | [file](../../sec-filings/katapult-holdings/2025-03-28_8-K_0001628280-25-015329.htm) |
-| 8-K | 2025-02-26 | 2025-02-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025008236/kplt-20250220.htm) | [file](../../sec-filings/katapult-holdings/2025-02-26_8-K_0001628280-25-008236.htm) |
-| 8-K | 2024-11-26 | 2024-11-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024049191/kplt-20241121.htm) | [file](../../sec-filings/katapult-holdings/2024-11-26_8-K_0001628280-24-049191.htm) |
-| 10-Q | 2024-11-06 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024045451/kplt-20240930.htm) | [file](../../sec-filings/katapult-holdings/2024-11-06_10-Q_0001628280-24-045451.htm) |
-| 8-K | 2024-11-06 | 2024-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024045449/kplt-20241106.htm) | [file](../../sec-filings/katapult-holdings/2024-11-06_8-K_0001628280-24-045449.htm) |
-| 8-K | 2024-08-22 | 2024-08-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024038105/kplt-20240816.htm) | [file](../../sec-filings/katapult-holdings/2024-08-22_8-K_0001628280-24-038105.htm) |
-| 10-Q | 2024-08-14 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024037035/kplt-20240630.htm) | [file](../../sec-filings/katapult-holdings/2024-08-14_10-Q_0001628280-24-037035.htm) |
-| 8-K | 2024-08-14 | 2024-08-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024037033/kplt-20240814.htm) | [file](../../sec-filings/katapult-holdings/2024-08-14_8-K_0001628280-24-037033.htm) |
-| 8-K | 2024-07-18 | 2024-07-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024032234/kplt-20240715.htm) | [file](../../sec-filings/katapult-holdings/2024-07-18_8-K_0001628280-24-032234.htm) |
+| [8-K](#f-000095010326008665) | 2026-06-08 | 2026-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326008665/dp248120_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-06-08_8-K_0000950103-26-008665.htm) |
+| [8-K](#f-000095010326008473) | 2026-06-03 | 2026-06-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326008473/dp247764_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-06-03_8-K_0000950103-26-008473.htm) |
+| [10-Q](#f-000162828026032985) | 2026-05-08 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026032985/kplt-20260331.htm) | [file](../../sec-filings/katapult-holdings/2026-05-08_10-Q_0001628280-26-032985.htm) |
+| [8-K](#f-000162828026031645) | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026031645/kplt-20260507.htm) | [file](../../sec-filings/katapult-holdings/2026-05-07_8-K_0001628280-26-031645.htm) |
+| [8-K](#f-000095010326006873) | 2026-05-05 | 2026-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326006873/dp246346_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-05-05_8-K_0000950103-26-006873.htm) |
+| [8-K](#f-000095010326005778) | 2026-04-16 | 2026-04-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326005778/dp245242_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-04-16_8-K_0000950103-26-005778.htm) |
+| [10-K](#f-000162828026016661) | 2026-03-11 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026016661/kplt-20251231.htm) | [file](../../sec-filings/katapult-holdings/2026-03-11_10-K_0001628280-26-016661.htm) |
+| [8-K](#f-000162828026016659) | 2026-03-11 | 2026-03-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026016659/kplt-20260311.htm) | [file](../../sec-filings/katapult-holdings/2026-03-11_8-K_0001628280-26-016659.htm) |
+| [8-K](#f-000095010326002455) | 2026-02-20 | 2026-02-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326002455/dp241900_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-02-20_8-K_0000950103-26-002455.htm) |
+| [8-K](#f-000095010326000562) | 2026-01-15 | 2026-01-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326000562/dp240034_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-01-15_8-K_0000950103-26-000562.htm) |
+| [8-K](#f-000095010326000342) | 2026-01-12 | 2026-01-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326000342/dp239826_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-01-12_8-K_0000950103-26-000342.htm) |
+| [8-K](#f-000095010325016129) | 2025-12-15 | 2025-12-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325016129/dp238690_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-12-15_8-K_0000950103-25-016129.htm) |
+| [8-K](#f-000095010325015360) | 2025-11-26 | 2025-11-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325015360/dp237997_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-11-26_8-K_0000950103-25-015360.htm) |
+| [8-K](#f-000095010325014784) | 2025-11-14 | 2025-11-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325014784/dp237389_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-11-14_8-K_0000950103-25-014784.htm) |
+| [10-Q](#f-000162828025051372) | 2025-11-12 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025051372/kplt-20250930.htm) | [file](../../sec-filings/katapult-holdings/2025-11-12_10-Q_0001628280-25-051372.htm) |
+| [8-K](#f-000162828025051329) | 2025-11-12 | 2025-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025051329/kplt-20251112.htm) | [file](../../sec-filings/katapult-holdings/2025-11-12_8-K_0001628280-25-051329.htm) |
+| [8-K](#f-000095010325014154) | 2025-11-03 | 2025-11-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325014154/dp236791_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-11-03_8-K_0000950103-25-014154.htm) |
+| [8-K](#f-000095010325013817) | 2025-10-29 | 2025-10-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013817/dp236488_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-29_8-K_0000950103-25-013817.htm) |
+| [8-K](#f-000095010325013675) | 2025-10-27 | 2025-10-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013675/dp236339_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-27_8-K_0000950103-25-013675.htm) |
+| [8-K](#f-000095010325013412) | 2025-10-20 | 2025-10-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013412/dp236084_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-20_8-K_0000950103-25-013412.htm) |
+| [8-K](#f-000095010325013098) | 2025-10-14 | 2025-10-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325013098/dp235807_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-10-14_8-K_0000950103-25-013098.htm) |
+| [8-K](#f-000095010325012458) | 2025-09-29 | 2025-09-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325012458/dp235143_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-09-29_8-K_0000950103-25-012458.htm) |
+| [8-K](#f-000095010325011678) | 2025-09-16 | 2025-09-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325011678/dp234385_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-09-16_8-K_0000950103-25-011678.htm) |
+| [10-Q](#f-000162828025040169) | 2025-08-13 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025040169/kplt-20250630.htm) | [file](../../sec-filings/katapult-holdings/2025-08-13_10-Q_0001628280-25-040169.htm) |
+| [8-K](#f-000162828025039999) | 2025-08-13 | 2025-08-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025039999/kplt-20250813.htm) | [file](../../sec-filings/katapult-holdings/2025-08-13_8-K_0001628280-25-039999.htm) |
+| [8-K](#f-000095010325010121) | 2025-08-08 | 2025-08-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325010121/dp232878_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-08-08_8-K_0000950103-25-010121.htm) |
+| [8-K](#f-000095010325009941) | 2025-08-05 | 2025-08-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325009941/dp232739_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-08-05_8-K_0000950103-25-009941.htm) |
+| [8-K](#f-000095010325007354) | 2025-06-13 | 2025-06-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325007354/dp230096_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-06-13_8-K_0000950103-25-007354.htm) |
+| [8-K](#f-000095010325007155) | 2025-06-09 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325007155/dp229959_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-06-09_8-K_0000950103-25-007155.htm) |
+| [8-K](#f-000162828025029806) | 2025-06-06 | 2025-06-04 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025029806/kplt-20250604.htm) | [file](../../sec-filings/katapult-holdings/2025-06-06_8-K_0001628280-25-029806.htm) |
+| [8-K](#f-000095010325006977) | 2025-06-04 | 2025-06-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010325006977/dp229809_8k.htm) | [file](../../sec-filings/katapult-holdings/2025-06-04_8-K_0000950103-25-006977.htm) |
+| [10-Q](#f-000162828025026057) | 2025-05-15 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025026057/kplt-20250331.htm) | [file](../../sec-filings/katapult-holdings/2025-05-15_10-Q_0001628280-25-026057.htm) |
+| [8-K](#f-000162828025025669) | 2025-05-15 | 2025-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025025669/kplt-20250515.htm) | [file](../../sec-filings/katapult-holdings/2025-05-15_8-K_0001628280-25-025669.htm) |
+| [8-K](#f-000162828025017577) | 2025-04-11 | 2025-04-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025017577/kplt-20250411.htm) | [file](../../sec-filings/katapult-holdings/2025-04-11_8-K_0001628280-25-017577.htm) |
+| [10-K](#f-000162828025015331) | 2025-03-28 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025015331/kplt-20241231.htm) | [file](../../sec-filings/katapult-holdings/2025-03-28_10-K_0001628280-25-015331.htm) |
+| [8-K](#f-000162828025015329) | 2025-03-28 | 2025-03-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025015329/kplt-20250328.htm) | [file](../../sec-filings/katapult-holdings/2025-03-28_8-K_0001628280-25-015329.htm) |
+| [8-K](#f-000162828025008236) | 2025-02-26 | 2025-02-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828025008236/kplt-20250220.htm) | [file](../../sec-filings/katapult-holdings/2025-02-26_8-K_0001628280-25-008236.htm) |
+| [8-K](#f-000162828024049191) | 2024-11-26 | 2024-11-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024049191/kplt-20241121.htm) | [file](../../sec-filings/katapult-holdings/2024-11-26_8-K_0001628280-24-049191.htm) |
+| [10-Q](#f-000162828024045451) | 2024-11-06 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024045451/kplt-20240930.htm) | [file](../../sec-filings/katapult-holdings/2024-11-06_10-Q_0001628280-24-045451.htm) |
+| [8-K](#f-000162828024045449) | 2024-11-06 | 2024-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024045449/kplt-20241106.htm) | [file](../../sec-filings/katapult-holdings/2024-11-06_8-K_0001628280-24-045449.htm) |
+| [8-K](#f-000162828024038105) | 2024-08-22 | 2024-08-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024038105/kplt-20240816.htm) | [file](../../sec-filings/katapult-holdings/2024-08-22_8-K_0001628280-24-038105.htm) |
+| [10-Q](#f-000162828024037035) | 2024-08-14 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024037035/kplt-20240630.htm) | [file](../../sec-filings/katapult-holdings/2024-08-14_10-Q_0001628280-24-037035.htm) |
+| [8-K](#f-000162828024037033) | 2024-08-14 | 2024-08-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024037033/kplt-20240814.htm) | [file](../../sec-filings/katapult-holdings/2024-08-14_8-K_0001628280-24-037033.htm) |
+| [8-K](#f-000162828024032234) | 2024-07-18 | 2024-07-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024032234/kplt-20240715.htm) | [file](../../sec-filings/katapult-holdings/2024-07-18_8-K_0001628280-24-032234.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-06-08
+_Click a filing to expand its summary._
+
+<details id="f-000095010326008665">
+<summary><strong>8-K</strong> — 2026-06-08</summary>
 
 #### Key financials
 - Settlement requires Katapult to pay a lump-sum amount to Flexshopper; the exact dollar figure was not disclosed in the filing.
@@ -82,16 +85,16 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On June 5, 2026, Katapult reached a settlement agreement resolving Flexshopper, Inc. v. Katapult Holdings, Inc.; claims were dismissed with prejudice on June 8, 2026.
 - The settlement entity included ReadySett LLC, the third-party purchaser of the Flexshopper patents, ensuring the license and covenant not to sue extend to the current patent owner.
 
-### 8-K — 2026-06-03
+</details>
+
+<details id="f-000095010326008473">
+<summary><strong>8-K</strong> — 2026-06-03</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed June 3, 2026
 
 #### Key financials
 - No financial results disclosed in this filing.
 - The Third Amendment reduces the advance rate under the Amended and Restated Loan and Security Agreement (originally dated June 12, 2025); specific advance rate levels are not disclosed in the filing text.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Katapult has executed **eleven separate limited waivers** under its credit facility since September 15, 2025, indicating sustained and repeated covenant compliance issues over an approximately eight-month period.
@@ -101,7 +104,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **June 2, 2026**, Katapult SPV-1 LLC, Katapult Group, Inc., and Katapult Holdings, Inc. entered into the **Third Amendment and Limited Waiver** to their Amended and Restated Loan and Security Agreement with lender/agent **Midtown Madison Management LLC**.
 - Key changes: (1) removal of the Minimum Trailing Net Three-Month Originations requirement and (2) reduction of the advance rate — both terms suggesting the lender accommodated deteriorating operating performance in exchange for tighter collateral coverage.
 
-### 10-Q — 2026-05-08
+</details>
+
+<details id="f-000162828026032985">
+<summary><strong>10-Q</strong> — 2026-05-08</summary>
 
 #### Key financials
 - Q1 2026 total revenue was $79.0M (+9.8% vs. $71.9M in Q1 2025); gross profit was $18.2M (23.0% margin) vs. $14.3M (19.9%) in Q1 2025; net income was $5.7M vs. net loss of $(5.7)M in Q1 2025.
@@ -124,7 +130,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On November 3, 2025, Katapult issued 35,000 shares of Series A and 30,000 shares of Series B Convertible Preferred Stock to Hawthorn for $65.0M aggregate proceeds, used to extinguish the term loan; a compound embedded derivative (Convertible Preferred Derivative) was bifurcated and carried at $9.3M fair value as of March 31, 2026, down from $13.6M at December 31, 2025, generating a $4.3M non-cash gain in Q1 2026.
 - Subsequent to quarter-end, the Company entered into covenant waiver agreements on April 15, 2026 and May 5, 2026, each waiving failures to meet the Minimum Trailing Three-Month Net Originations covenant, underscoring ongoing liquidity pressure ahead of the December 2026 facility maturity.
 
-### 8-K — 2026-05-07
+</details>
+
+<details id="f-000162828026031645">
+<summary><strong>8-K</strong> — 2026-05-07</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed May 7, 2026
 
@@ -132,27 +141,18 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Filing announces Q1 2026 financial results (three months ended March 31, 2026) via press release (Exhibit 99.1), but the exhibit text is not included in the truncated filing; specific figures are not available.
 - No revenue, net income, EPS, or balance sheet metrics are disclosed in the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On May 7, 2026, Katapult Holdings issued a press release reporting Q1 2026 results; the 8-K is filed under Item 2.02 (Results of Operations and Financial Condition) and is **furnished**, not filed, meaning it is not subject to Section 18 Exchange Act liability.
 - The filing is also checked as a **Rule 425 written communication** under the Securities Act, signaling a potential pending transaction or registration statement; this is notable as it goes beyond a routine earnings release.
 - CEO Orlando Zayas signed the filing on May 7, 2026; company is headquartered at 5360 Legacy Drive, Building 2, Plano, TX 75024 and trades on Nasdaq (KPLT / KPLTW).
 
-### 8-K — 2026-05-05
+</details>
+
+<details id="f-000095010326006873">
+<summary><strong>8-K</strong> — 2026-05-05</summary>
 
 #### Key financials
 - None noted. (This 8-K covers only annual meeting voting results; no financial data disclosed.)
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - **Annual Meeting held April 30, 2026** (virtual/webcast); record date March 16, 2026; 4,402,543 shares outstanding; quorum of 3,544,589 shares (~80.51%) present or by proxy.
@@ -160,7 +160,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **Proposal 2 – Auditor Ratification:** Grant Thornton LLP ratified as independent auditor for fiscal year ending December 31, 2026 with 3,400,543 votes for, 133,379 against, and 10,667 abstentions.
 - **Proposal 3 – Say-on-Pay:** Non-binding advisory approval of named executive officer compensation passed with 2,464,158 votes for, 215,402 against, and 86,164 abstentions.
 
-### 8-K — 2026-04-16
+</details>
+
+<details id="f-000095010326005778">
+<summary><strong>8-K</strong> — 2026-04-16</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed April 16, 2026
 
@@ -168,9 +171,6 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Katapult failed to maintain the **Minimum Trailing Three-Month Net Originations** covenant as of the last business day of **March 31, 2026**, triggering a default under the Amended and Restated Loan and Security Agreement.
 - Charged-off leases within the collateral pool exceeded contractually defined thresholds as of the same period, constituting a second concurrent default event.
 - No specific dollar figures, origination levels, or charge-off rates were disclosed in the filing.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - This is the **tenth consecutive limited waiver** since September 15, 2025, indicating persistent and recurring covenant breaches across a ~7-month period, signaling ongoing stress in origination volume and credit quality.
@@ -180,7 +180,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **April 15, 2026**, Katapult entered into the **Tenth Limited Waiver** to its Amended and Restated Loan and Security Agreement (originally dated June 12, 2025) with Midtown Madison Management LLC as agent and lenders.
 - The waiver permanently waives the existing default and prevents any reduction to the advance rate stemming from the identified trigger events, preserving borrowing capacity under the facility for now.
 
-### 10-K — 2026-03-11
+</details>
+
+<details id="f-000162828026016661">
+<summary><strong>10-K</strong> — 2026-03-11</summary>
 
 #### Key financials
 - Total aggregate indebtedness under the Loan Agreement was approximately **$78.7 million** principal outstanding as of December 31, 2025; minimum liquidity covenant requires at least **$5.0 million** in unrestricted cash at all times.
@@ -202,7 +205,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **November 3, 2025**, Katapult issued **35,000 shares** of Series A and **30,000 shares** of Series B Convertible Preferred Stock to Hawthorn via separate Investment Agreements, with an ownership conversion cap of **19.99%** of outstanding common stock until stockholder approval is obtained.
 - On **June 12, 2025**, Katapult entered the 2025 Loan Agreement (Amended and Restated), establishing the New Revolving Facility with Midtown Madison Management LLC; total principal outstanding under this facility was approximately **$78.7 million** as of December 31, 2025, with two subsequent limited waivers granted (November 2 and December 11, 2025) for origination covenant breaches.
 
-### 8-K — 2026-03-11
+</details>
+
+<details id="f-000162828026016659">
+<summary><strong>8-K</strong> — 2026-03-11</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed March 11, 2026
 
@@ -210,27 +216,21 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Filing references Q4 and full-year results for the period ended December 31, 2025, disclosed via press release (Exhibit 99.1) dated March 11, 2026; specific financial figures are contained in the exhibit, which is not included in the truncated filing text.
 - No discrete revenue, net income, or EPS figures are provided within the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On March 11, 2026, Katapult Holdings issued a press release reporting Q4 and full-year 2025 financial results; the 8-K was filed under Item 2.02 (Results of Operations and Financial Condition).
 - The filing is also checked as a **Rule 425 written communication** under the Securities Act, indicating it may relate to a pending transaction or registration statement requiring investor disclosure beyond a standard earnings release.
 - The report was signed by CEO Orlando Zayas; the company is headquartered at 5360 Legacy Drive, Building 2, Plano, TX 75024 and lists Common Stock (KPLT) and Redeemable Warrants (KPLTW) on Nasdaq.
 
-### 8-K — 2026-02-20
+</details>
+
+<details id="f-000095010326002455">
+<summary><strong>8-K</strong> — 2026-02-20</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed February 20, 2026
 
 #### Key financials
 - Katapult failed to maintain the required **Minimum Trailing Three-Month Net Originations** covenant as of **January 31, 2026** under its Amended and Restated Loan and Security Agreement.
 - No specific origination figures or dollar thresholds for the breached covenant were disclosed in this filing.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - This is the **eighth covenant waiver** since the loan agreement was amended and restated on **June 12, 2025**, indicating a persistent and recurring inability to meet net originations minimums; prior waivers span September 15, 2025 through January 15, 2026.
@@ -240,7 +240,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **February 13, 2026**, Katapult entered into the **Eighth Limited Waiver** to its loan agreement with lender/agent **Midtown Madison Management LLC**, permanently waiving the January 31, 2026 net originations default.
 - The waiver involves Credit Parties **Katapult SPV-1 LLC**, **Katapult Group, Inc.**, and **Katapult Holdings, Inc.**; the full waiver text was filed as **Exhibit 10.1**.
 
-### 8-K — 2026-01-15
+</details>
+
+<details id="f-000095010326000562">
+<summary><strong>8-K</strong> — 2026-01-15</summary>
 
 #### Key financials
 - No financial results or metrics disclosed in this filing.
@@ -258,7 +261,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **January 15, 2026**, Katapult Holdings entered into the **Seventh Limited Waiver** to its Amended and Restated Loan and Security Agreement (originally dated June 12, 2025), permanently waiving the default stemming from failure to meet minimum net originations at month-end December 2025.
 - The waiver involves credit parties **Katapult SPV-1 LLC**, **Katapult Group, Inc.**, and **Katapult Holdings, Inc.**, with Midtown Madison Management LLC acting as administrative, payment, and collateral agent and lender.
 
-### 8-K — 2026-01-12
+</details>
+
+<details id="f-000095010326000342">
+<summary><strong>8-K</strong> — 2026-01-12</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed January 12, 2026 (Event Date: January 6, 2026)
 
@@ -278,7 +284,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **Chief Accounting Officer Kaitlin Folan resigned** effective **January 19, 2026** (notified January 9, 2026); resignation stated as not related to any disagreement with management or board.
 - **Art Goss appointed interim CAO** effective **January 19, 2026**; previously served as interim CAO from **April–July 2024** and has been VP of Internal Audit since **March 2024**.
 
-### 8-K — 2025-12-15
+</details>
+
+<details id="f-000095010325016129">
+<summary><strong>8-K</strong> — 2025-12-15</summary>
 
 #### Key financials
 - No current-period revenue, earnings, or balance-sheet figures reported; filing is solely a transaction announcement.
@@ -301,7 +310,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Lock-up agreements restrict selling for key equityholders: **0%** transferable at close, **50%** at six months, **75%** at nine months, fully released at **12 months** post-close.
 - Katapult must file a Form S-4 registration statement/proxy with the SEC and hold a special stockholder meeting; registration statement must be filed and declared effective before closing.
 
-### 8-K — 2025-11-26
+</details>
+
+<details id="f-000095010325015360">
+<summary><strong>8-K</strong> — 2025-11-26</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed November 26, 2025
 
@@ -310,27 +322,21 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Zink received a prorated RSU grant with a grant date fair value of $150,000 under the Company's 2021 Incentive Plan, vesting at the next annual meeting of stockholders, subject to continued service.
 - No financial results, revenue, or earnings data disclosed in this filing.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Jeffrey Rubin resigned from the Board effective November 25, 2025, after serving only ~22 days (appointed November 3, 2025); resignation was stated to be without disagreement with management or the Board.
 - Gregory L. Zink, age 69, was appointed as a Class I director effective November 26, 2025, to fill Rubin's vacancy, with an initial term expiring at the 2027 annual meeting; he was simultaneously appointed to all three Board committees (Audit, Compensation, and Nominating and Corporate Governance).
 - Both Rubin and Zink were designated by Hawthorn (HHCF Series 21 Sub, LLC, a subsidiary of Hawthorn Horizon Credit Fund, LLC) pursuant to a Director Nomination Agreement dated November 3, 2025, indicating Hawthorn retains board nomination rights.
 
-### 8-K — 2025-11-14
+</details>
+
+<details id="f-000095010325014784">
+<summary><strong>8-K</strong> — 2025-11-14</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed November 14, 2025
 
 #### Key financials
 - No financial results reported in this filing.
 - The Waiver adjusts the dividend mechanics on the Preferred Stock: the Regular Dividend Rate increases by 1% per annum only if Requisite Stockholder Approval is not obtained by the Company's first annual meeting following the November 3, 2025 Initial Issue Date; the waiver also eliminates any retroactive accumulation of that additional 1% that would otherwise have accrued.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - The Waiver removes the 10-calendar-day deadline (from the November 3, 2025 Initial Issue Date) for filing a preliminary proxy statement, reducing near-term compliance risk around that covenant.
@@ -340,7 +346,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On November 13, 2025, Katapult entered into a Waiver agreement with HHCF Series 21 Sub, LLC (sole holder of all Series A and Series B Convertible Preferred Stock, originally issued November 3, 2025) modifying the Certificate of Designations filed with the Delaware Secretary of State.
 - A proxy statement will be filed with the SEC to solicit stockholder approval for common stock issuance upon Preferred Stock conversion above the Ownership Limitation; the filing is marked as soliciting material under Rule 14a-12.
 
-### 10-Q — 2025-11-12
+</details>
+
+<details id="f-000162828025051372">
+<summary><strong>10-Q</strong> — 2025-11-12</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 10-Q Summary (Filed 2025-11-12, Period Ended September 30, 2025)
 
@@ -366,16 +375,16 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **Debt refinancing (June 12, 2025)**: Company entered an Amended and Restated Loan and Security Agreement ("Refinancing Agreement") with Blue Owl, establishing a New Revolving Facility of $110M (up from $90M) and a New Term Loan of $32.7M at 18.0% PIK; the existing credit facility was extinguished, triggering a $1.0M loss on extinguishment; 486,264 warrants at $0.01/share (expiring June 12, 2032) were issued to Blue Owl, valued at $3.9M.
 - **Preferred stock capital raise (November 3, 2025)**: Post-quarter, Company issued $35.0M of Series A Convertible Preferred Stock (conversion price $12.32
 
-### 8-K — 2025-11-12
+</details>
+
+<details id="f-000162828025051329">
+<summary><strong>8-K</strong> — 2025-11-12</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed November 12, 2025
 
 #### Key financials
 - Filing announces Q3 2025 and YTD (nine months ended September 30, 2025) financial results via press release (Exhibit 99.1), but the press release text is not included in the truncated filing; specific revenue, earnings, or loss figures are not available from this document.
 - No standalone financial statements or numerical metrics are presented within the 8-K body itself.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Katapult is pursuing a **preferred stock issuance** requiring stockholder approval; equity dilution risk is flagged, with the company indicating it will file a proxy statement with the SEC soliciting that approval.
@@ -385,7 +394,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **November 12, 2025**, Katapult issued a press release covering Q3 and nine-month 2025 financial results (Item 2.02); details are contained in Exhibit 99.1, which is furnished (not filed) with the SEC.
 - Company disclosed plans for a **preferred stock issuance and conversion** to common equity, subject to stockholder vote; a proxy statement has not yet been filed as of the report date but is forthcoming.
 
-### 8-K — 2025-11-03
+</details>
+
+<details id="f-000095010325014154">
+<summary><strong>8-K</strong> — 2025-11-03</summary>
 
 #### Key financials
 - On November 3, 2025, Katapult raised **$65.0 million** in aggregate gross proceeds via two private placements: **35,000 shares of Series A Convertible Preferred Stock at $1,000/share ($35.0M)** and **30,000 shares of Series B Convertible Preferred Stock at $1,000/share ($30.0M)**, both sold to HHCF Series 21 Sub, LLC (subsidiary of Hawthorn Horizon Credit Fund).
@@ -407,7 +419,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - The Company received six successive limited waivers on the originations covenant between **September 15 and October 29, 2025**, before the permanent waiver and formal amendment were executed on **November 3, 2025** (effective November 2, 2025 for the amendment).
 - The Company must file a **resale registration statement** for the common shares underlying the Preferred Stock within **45 days** of November 3, 2025 closing, and must hold a stockholder meeting to remove the Nasdaq ownership limitation **no later than February 27, 2026**.
 
-### 8-K — 2025-10-29
+</details>
+
+<details id="f-000095010325013817">
+<summary><strong>8-K</strong> — 2025-10-29</summary>
 
 ## Katapult Holdings, Inc. (KPLT) – 8-K Filed October 29, 2025
 
@@ -427,7 +442,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **October 29, 2025**, Katapult entered into the **Sixth Limited Waiver** to its Loan Agreement, temporarily waiving the existing originations covenant default until **October 31, 2025**; prior waivers were dated September 15, September 29, October 13, October 20, and October 27, 2025.
 - Despite the waiver, the default is expressly **deemed continuing** for purposes of Conversion Rights, meaning lender conversion of the full Term Loan balance into KPLT common stock at ~$12.85 (20-day VWAP) is immediately actionable.
 
-### 8-K — 2025-10-27
+</details>
+
+<details id="f-000095010325013675">
+<summary><strong>8-K</strong> — 2025-10-27</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed October 27, 2025
 
@@ -447,7 +465,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **October 27, 2025**, Katapult entered into the **Fifth Limited Waiver** to its Amended and Restated Loan and Security Agreement (originally dated June 12, 2025) with Midtown Madison Management LLC as agent and the syndicate lenders.
 - Despite the temporary waiver, the existing default is deemed **continuing for purposes of Conversion Rights**, meaning Class B Lenders can convert Term Loan debt into KPLT common stock at any time, creating immediate dilution risk for equity holders.
 
-### 8-K — 2025-10-20
+</details>
+
+<details id="f-000095010325013412">
+<summary><strong>8-K</strong> — 2025-10-20</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed October 20, 2025
 
@@ -467,7 +488,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **October 20, 2025**, KPLT entered into the **Fourth Limited Waiver** to its Loan Agreement, temporarily waiving the existing originations covenant default until **October 27, 2025**.
 - Despite the waiver, the default is explicitly deemed "occurred and continuing" for purposes of **Conversion Rights**, meaning lenders may immediately begin converting Term Loan principal into KPLT common stock at a price based on the 20-day VWAP, subject to a specified discount.
 
-### 8-K — 2025-10-14
+</details>
+
+<details id="f-000095010325013098">
+<summary><strong>8-K</strong> — 2025-10-14</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed October 14, 2025
 
@@ -487,7 +511,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **October 13, 2025**, Katapult entered into the **Third Limited Waiver** to its Loan Agreement with administrative agent Midtown Madison Management LLC, temporarily waiving the existing default only until **October 20, 2025**.
 - The Existing Default is explicitly deemed continuing for purposes of Conversion Rights, meaning lender conversion of term loan debt to equity is immediately actionable regardless of the waiver's temporary relief.
 
-### 8-K — 2025-09-29
+</details>
+
+<details id="f-000095010325012458">
+<summary><strong>8-K</strong> — 2025-09-29</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed September 29, 2025
 
@@ -507,16 +534,16 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **September 29, 2025**, Katapult entered into a **Second Limited Waiver** to its Loan Agreement with Midtown Madison Management LLC (agent) and lenders, temporarily continuing the waiver first granted on **September 15, 2025** (First Limited Waiver).
 - The waiver extends only through **October 13, 2025**, leaving a narrow window for the company to cure or renegotiate the originations covenant before the default becomes actionable beyond conversion rights.
 
-### 8-K — 2025-09-16
+</details>
+
+<details id="f-000095010325011678">
+<summary><strong>8-K</strong> — 2025-09-16</summary>
 
 ## Katapult Holdings, Inc. (KPLT) – 8-K Filed September 16, 2025
 
 #### Key financials
 - No revenue, earnings, or balance sheet figures disclosed in this filing.
 - The triggering event was Katapult's failure to maintain **Minimum Trailing Three-Month Origination** levels required under its Amended and Restated Loan and Security Agreement (dated June 12, 2025), indicating origination volumes fell below a contractually required threshold; specific dollar amount not disclosed.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Katapult breached a financial covenant (minimum origination requirement) under its senior credit facility with **Midtown Madison Management LLC** as agent/lender, signaling deterioration in core lease origination activity.
@@ -526,7 +553,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **September 15, 2025**, Katapult entered into a **Limited Waiver** to its Amended and Restated Loan and Security Agreement, temporarily waiving an existing default through **September 29, 2025** (Exhibit 10.1).
 - Parties to the waiver include **Katapult SPV-1 LLC**, **Katapult Group, Inc.**, **Katapult Holdings, Inc.**, and **Midtown Madison Management LLC** (administrative, payment, and collateral agent); the filing was signed by CEO **Orlando Zayas**.
 
-### 10-Q — 2025-08-13
+</details>
+
+<details id="f-000162828025040169">
+<summary><strong>10-Q</strong> — 2025-08-13</summary>
 
 #### Key financials
 - **Q2 2025 revenue** $71.9M (+22.1% vs. Q2 2024 $58.9M); **H1 2025 revenue** $143.8M (+16.1% vs. H1 2024 $123.9M), driven by gross origination growth and Katapult Pay expansion.
@@ -549,7 +579,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **August 6, 2025 stockholder vote**: special meeting approved Nasdaq-required share issuances for Blue Owl Warrants and Term Loan Conversion; maturity date formally became December 31, 2026 and warrants became immediately exercisable.
 - **Shareholder litigation settlements ongoing**: Delaware Action—54,024 shares delivered April 10, 2025 (first installment); second installment of ~54,024 shares or cash equivalent due October 10, 2025. New York Action—29,793 shares delivered June 13, 2025; second installment due December 13, 2025. DCA litigation: $0.3M installment paid June 30, 2025; ~$1.1M remaining over next ~18 months.
 
-### 8-K — 2025-08-13
+</details>
+
+<details id="f-000162828025039999">
+<summary><strong>8-K</strong> — 2025-08-13</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed August 13, 2025
 
@@ -557,28 +590,19 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Filing announces Q2 2025 and H1 2025 financial results via press release (Exhibit 99.1) dated August 13, 2025; specific revenue, earnings, and balance sheet figures are contained in the attached press release, which is not included in the truncated filing text.
 - No quantitative financial metrics (revenue, net income/loss, EPS, or gross originations) are extractable from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On August 13, 2025, Katapult Holdings filed an Item 2.02 8-K disclosing results of operations and financial condition for the three and six months ended June 30, 2025.
 - The press release (Exhibit 99.1) is furnished, not filed, and therefore not subject to Section 18 Exchange Act liability; no restatements or going-concern disclosures are indicated in the filing body.
 
-### 8-K — 2025-08-08
+</details>
+
+<details id="f-000095010325010121">
+<summary><strong>8-K</strong> — 2025-08-08</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed August 8, 2025
 
 #### Key financials
 - None noted. (Filing contains no income statement, balance sheet, or revenue data.)
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On August 6, 2025, Katapult held a virtual Special Meeting of stockholders; record date was June 16, 2025, with 4,266,753 shares eligible to vote and a quorum of 2,922,298 shares (~68.48%) present.
@@ -586,16 +610,16 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **Proposal 2 (Adjournment Proposal)** — approved 2,903,774 For vs. 17,793 Against (731 abstentions), but rendered moot because Proposal 1 passed; no adjournment was required.
 - Filing signed by CEO Orlando Zayas on August 8, 2025; no other corporate actions or financial disclosures were included.
 
-### 8-K — 2025-08-05
+</details>
+
+<details id="f-000095010325009941">
+<summary><strong>8-K</strong> — 2025-08-05</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed August 5, 2025
 
 #### Key financials
 - Katapult failed to maintain the required **Minimum Trailing Three Month Net Originations** covenant as of **July 31, 2025**, triggering a Default and/or Event of Default under its Amended and Restated Loan and Security Agreement (the "Refinancing Agreement").
 - A **Limited Waiver** was executed on **August 5, 2025** by lenders (administered by Midtown Madison Management LLC) to waive this specific covenant breach; no financial cure amount or revised threshold was disclosed in the filing.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - The covenant breach signals deteriorating originations volume through **July 31, 2025**, representing a material operational stress indicator relevant to Snap Finance's core lease-to-own competitive landscape.
@@ -605,7 +629,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **August 5, 2025**, KPLT entered into a Limited Waiver to its Refinancing Agreement (originally dated **June 12, 2025**) with Katapult SPV-1 LLC, Katapult Group, Inc., and lender group to cure the July 31, 2025 covenant default; full waiver text to be filed as an exhibit to the next **Form 10-Q**.
 - A Definitive Proxy Statement (Schedule 14A) has been filed and mailed to stockholders of record as of **June 16, 2025** seeking approval for equity issuance in connection with the Refinancing Transaction.
 
-### 8-K — 2025-06-13
+</details>
+
+<details id="f-000095010325007354">
+<summary><strong>8-K</strong> — 2025-06-13</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed June 13, 2025
 
@@ -613,9 +640,6 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - New revolving credit facility upsized to **$110M** committed (vs. prior facility), including **$20M** of new commitments, with advances capped at **91% advance rate** initially, stepping up to **99%** by November 1, 2025, contingent on stockholder approval milestones.
 - New term loan carried forward at **$32,654,469.23** (cashless conversion of existing term loans including OID and accrued PIK interest) at **18% PIK interest**; revolving facility priced at SOFR + **7.00%** (3% floor, 0.10% credit adjustment spread).
 - Warrants issued June 12, 2025 to Blue Owl Capital-affiliated entities covering **486,264 shares** of common stock at **$0.01/share** exercise price, expiring **June 12, 2032**.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Company filed supplemental risk factor disclosure (Exhibit 99.1) alongside this 8-K, supplementing risk factors from the **10-Q filed May 15, 2025** (Q1 2025), specifically addressing risks arising from the refinancing transaction.
@@ -626,16 +650,16 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **June 12, 2025**, Katapult entered into an Amended and Restated Loan and Security Agreement with Midtown Madison Management LLC (agent) and lenders, refinancing the existing credit agreement originally dated **May 14, 2019**; lenders concurrently waived certain existing defaults, conditional on stockholder approval by **September 1, 2025**.
 - Company is pursuing a special stockholder meeting to authorize: (1) term loan-to-equity conversion, (2) warrant share issuance, and (3) potential charter amendment to increase authorized common stock; failure to obtain approval by September 1, 2025 accelerates term loan maturity to that date (vs. the otherwise applicable **December 4, 2026** maturity).
 
-### 8-K — 2025-06-09
+</details>
+
+<details id="f-000095010325007155">
+<summary><strong>8-K</strong> — 2025-06-09</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed June 9, 2025
 
 #### Key financials
 - No financial results disclosed in this filing.
 - Credit Agreement originally dated May 14, 2019; maturity date extended via the Third Limited Waiver from June 9, 2025 to June 13, 2025 — a four-day short-term extension only.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Company explicitly warned that failure to complete a comprehensive maturity extension amendment could have a **material adverse effect** on its business, financial condition, results of operations, and prospects.
@@ -645,18 +669,12 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On **June 9, 2025**, Katapult entered into the Third Limited Waiver and Amendment Agreement to its Loan and Security Agreement with Katapult SPV-1 LLC, Katapult Group, Inc., Midtown Madison Management LLC (administrative, payment, and collateral agent), and associated lenders, extending the Maturity Date and Limited Waiver Termination Date to **June 13, 2025**.
 - Company disclosed it is actively negotiating a **comprehensive maturity extension** that would adjust covenants and advance rates to align with its current business plan, but cautioned no assurance of completion on favorable terms or at all.
 
-### 8-K — 2025-06-06
+</details>
+
+<details id="f-000162828025029806">
+<summary><strong>8-K</strong> — 2025-06-06</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed June 6, 2025
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - Annual Meeting held June 6, 2025 as a virtual webcast; record date was April 10, 2025, with 4,186,207 shares of common stock outstanding and 3,238,260 shares (approximately 77.35%) present or by proxy, constituting a quorum.
@@ -664,16 +682,16 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **Proposal 2:** Grant Thornton LLP ratified as independent auditor for fiscal year ending December 31, 2025; received 3,229,953 votes for, 7,754 against, and 553 abstentions — near-unanimous approval.
 - **Proposals 3 & 4:** Executive compensation approved on a non-binding advisory basis (2,428,108 for vs. 139,832 against); stockholders voted 2,552,994 to 1,836 in favor of annual (vs. biennial) frequency for future say-on-pay votes.
 
-### 8-K — 2025-06-04
+</details>
+
+<details id="f-000095010325006977">
+<summary><strong>8-K</strong> — 2025-06-04</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed June 4, 2025
 
 #### Key financials
 - No financial results reported in this filing.
 - The filing relates solely to a short-term extension of the Credit Agreement maturity date and waiver termination date, from June 4, 2025 to June 9, 2025 — a 5-day extension only.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Company explicitly warned that failure to complete a comprehensive maturity extension amendment to its Credit Agreement "could have a material adverse effect on its business, financial condition, results of operations and prospects."
@@ -683,7 +701,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On June 3, 2025, Katapult entered into a Second Limited Waiver and Amendment Agreement to its Loan and Security Agreement (originally dated May 14, 2019), extending both the Maturity Date and the Limited Waiver Termination Date from June 4, 2025 to June 9, 2025.
 - This follows a First Limited Waiver executed May 14, 2025, indicating the company has now required two short-term waivers in rapid succession while negotiating a broader covenant and advance-rate restructuring aligned with its current business plan.
 
-### 10-Q — 2025-05-15
+</details>
+
+<details id="f-000162828025026057">
+<summary><strong>10-Q</strong> — 2025-05-15</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 10-Q Summary (Q1 2025, filed 2025-05-15)
 
@@ -709,7 +730,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **Borrowing base correction:** In Q1 2025, KPLT corrected a prior borrowing base calculation error, requiring a ~$5.8M repayment to lenders and contributing to $10.1M in RLOC principal repayments during the quarter vs. only $2.8M in Q1 2024.
 - **New SPV formed:** Katapult SPV-2 LLC (Delaware) was formed in 2025, potentially in preparation for a new financing structure, though no further details are disclosed.
 
-### 8-K — 2025-05-15
+</details>
+
+<details id="f-000162828025025669">
+<summary><strong>8-K</strong> — 2025-05-15</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed May 15, 2025
 
@@ -717,32 +741,23 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Filing references Q1 2025 financial results (three months ended March 31, 2025) announced via press release dated May 15, 2025 (Exhibit 99.1), but the press release text is not included in the truncated filing.
 - No specific revenue, earnings, or balance sheet figures are available from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On May 15, 2025, Katapult Holdings filed an Item 2.02 8-K to disclose Q1 2025 earnings results; the press release (Exhibit 99.1) is furnished but not deemed "filed" under Section 18 of the Exchange Act, limiting legal liability.
 - The filing was signed by CEO Orlando Zayas; the company is headquartered at 5360 Legacy Drive, Building 2, Plano, TX 75024 and trades on Nasdaq under tickers KPLT (common stock, $0.0001 par value) and KPLTW (redeemable warrants).
 
-### 8-K — 2025-04-11
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000162828025017577">
+<summary><strong>8-K</strong> — 2025-04-11</summary>
 
 #### Material events
 - On April 11, 2025, director Joyce Phillips notified Katapult Holdings, Inc. (KPLT) that she will not stand for reelection at the company's 2025 Annual Meeting of Shareholders.
 - Phillips will continue serving through the remainder of her current board term; her decision was explicitly stated as unrelated to any disagreement with the company on operations, policies, or practices.
 
-### 10-K — 2025-03-28
+</details>
+
+<details id="f-000162828025015331">
+<summary><strong>10-K</strong> — 2025-03-28</summary>
 
 #### Key financials
 - Net loss of **$25.9 million** for FY2024 vs. **$36.7 million** for FY2023; accumulated deficit of approximately **$148.5 million** as of December 31, 2024.
@@ -763,7 +778,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Shareholder litigation active as of December 31, 2024: Delaware action filed **August 7, 2024** (preliminary injunction denied **October 10, 2024**; appeal withdrawn **October 24, 2024**) and New York action filed **August 20, 2024** (motion to dismiss filed **December 13, 2024**; hearing set **December 20, 2024**); accrued litigation reserve balance disclosed but quantum not specified in the truncated text.
 - **Katapult SPV-2 LLC** formed in **January 2025** as a new wholly-owned subsidiary, suggesting preparatory steps for a new financing vehicle or credit facility refinancing structure.
 
-### 8-K — 2025-03-28
+</details>
+
+<details id="f-000162828025015329">
+<summary><strong>8-K</strong> — 2025-03-28</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed March 28, 2025
 
@@ -771,27 +789,21 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Filing announces Q4 and full-year results for the period ended December 31, 2024, via press release (Exhibit 99.1) dated March 28, 2025.
 - Specific financial figures (revenue, net income/loss, EPS, etc.) are contained in the attached press release (Exhibit 99.1), which is furnished but not filed; no financial data is disclosed in the body of the 8-K itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On March 28, 2025, Katapult Holdings issued a press release reporting financial results for Q4 and full-year 2024 (Item 2.02 filing).
 - The filing was signed by CEO Orlando Zayas; company is headquartered at 5360 Legacy Drive, Building 2, Plano, TX 75024 and listed on Nasdaq (ticker: KPLT; warrants: KPLTW).
 - Exhibit 99.1 is furnished (not filed) and therefore not subject to Section 18 Exchange Act liability nor incorporated by reference into other filings unless expressly stated.
 
-### 8-K — 2025-02-26
+</details>
+
+<details id="f-000162828025008236">
+<summary><strong>8-K</strong> — 2025-02-26</summary>
 
 ## Katapult Holdings, Inc. (KPLT) – 8-K Filed 2025-02-26 (Event Date: 2025-02-20)
 
 #### Key financials
 - Minimum liquidity covenant was temporarily reduced from $10 million to $7 million through December 31, 2024, then restored to $10 million as of January 1, 2025.
 - Maximum total advance rate under the Credit Agreement increased from 120% to 125% for Q1 2025.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Data application errors caused the outstanding principal balance of revolving loans under the Credit Agreement to exceed permitted limits; the Eighteenth Amendment (dated February 20, 2025) waived all resulting defaults or events of default.
@@ -801,7 +813,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - On February 20, 2025, Katapult entered into the Eighteenth Amendment to its Loan and Security Agreement (originally dated May 14, 2019) with Midtown Madison Management LLC as administrative agent; amendment expanded eligible liquidity assets to include deposit payments to the Katapult Pay service provider, in addition to the covenant and advance-rate changes noted above.
 - The amendment restored the company to full compliance with the Credit Agreement following discovery of borrowing base certificate errors identified during due diligence for the Potential New Loan Facilities.
 
-### 8-K — 2024-11-26
+</details>
+
+<details id="f-000162828024049191">
+<summary><strong>8-K</strong> — 2024-11-26</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Summary (Filed: 2024-11-26; Event Date: 2024-11-21)
 
@@ -814,14 +829,14 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - The amended credit facility is administered by **Midtown Madison Management LLC** as administrative, payment, and collateral agent; borrowing entity is **Katapult SPV-1 LLC**.
 - This amendment is **separate and distinct** from a previously disclosed non-binding letter of intent for a new revolving line of credit, working capital line, and term loan announced in the Q3 2024 earnings release.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Katapult entered into the **Seventeenth Amendment to its Loan and Security Agreement** on November 21, 2024, creating a direct financial obligation disclosed under Item 2.03.
 - The filing was signed by CEO **Orlando Zayas** on November 25, 2024.
 
-### 10-Q — 2024-11-06
+</details>
+
+<details id="f-000162828024045451">
+<summary><strong>10-Q</strong> — 2024-11-06</summary>
 
 #### Key financials
 - Q3 2024 total revenue: $60.3M (+10.0% YoY); 9M 2024 revenue: $184.2M (+12.3% YoY), driven by rental revenue growth and Katapult Pay expansion.
@@ -844,7 +859,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Shareholder class action (New York + Delaware actions) settled for $12.0M aggregate ($8.5M cash + up to $3.5M in stock/cash); Delaware Court of Chancery approved settlement October 10, 2024, with 167,797 shares delivered October 24, 2024; New York Action final approval hearing scheduled December 13, 2024.
 - Prior-period restatements finalized: 9M 2023 net loss restated from $18.4M to $22.0M (adjustment of $3.6M) due to sales tax payable miscalculation ($1.5M revenue reduction) and lease depreciation errors ($2.7M additional cost of revenue); accumulated deficit increased $12.8M as of September 30, 2023.
 
-### 8-K — 2024-11-06
+</details>
+
+<details id="f-000162828024045449">
+<summary><strong>8-K</strong> — 2024-11-06</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed November 6, 2024
 
@@ -852,18 +870,15 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Filing announces Q3 2024 and YTD (nine months ended September 30, 2024) financial results via press release (Exhibit 99.1), but the underlying financial figures are not included in the 8-K body text itself.
 - No specific revenue, net income, EPS, or balance sheet figures are present in the filed document text provided.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On November 6, 2024, Katapult Holdings, Inc. issued a press release reporting financial results for the three and nine months ended September 30, 2024, filed under Item 2.02 (Results of Operations and Financial Condition).
 - The filing was signed by CEO Orlando Zayas on November 6, 2024; Katapult is headquartered at 5360 Legacy Drive, Building 2, Plano, TX 75024 and remains listed on Nasdaq (common stock: KPLT; redeemable warrants: KPLTW).
 - Katapult retains emerging growth company status and has **not** elected to opt out of the extended transition period for new accounting standards.
 
-### 8-K — 2024-08-22
+</details>
+
+<details id="f-000162828024038105">
+<summary><strong>8-K</strong> — 2024-08-22</summary>
 
 ### Katapult Holdings, Inc. (KPLT) — 8-K Filed 2024-08-22
 
@@ -871,17 +886,14 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Derek Medlin's base salary increased from $472,500 to $520,000, effective August 16, 2024.
 - Short-term incentive bonus target for 2024 raised from 75% to 100% of base salary.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Derek Medlin, age 41, promoted from Chief Operating Officer to President and Chief Growth Officer, effective August 16, 2024; will oversee business development, marketing, and operations.
 - As part of the reorganization, the technology and legal/compliance teams will now report directly to CEO Orlando Zayas rather than to Medlin.
 
-### 10-Q — 2024-08-14
+</details>
+
+<details id="f-000162828024037035">
+<summary><strong>10-Q</strong> — 2024-08-14</summary>
 
 #### Key financials
 - **Q2 2024 revenue:** $58.9M (+8.7% YoY); **H1 2024 revenue:** $123.9M (+13.5% YoY); net loss narrowed to $7.5M in H1 2024 vs. $18.0M (restated) in H1 2023.
@@ -904,7 +916,10 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - **Financial statement restatement:** Prior-period H1 2023 figures restated for sales tax payable understatement (~$6.2M added to accrued liabilities as of June 30, 2023) and lease depreciation errors ($1.8M additional cost of revenue in H1 2023), increasing restated H1 2023 net loss by $2.5M to $18.0M.
 - **DCA litigation:** Trial scheduled for **October 2024** on breach-of-contract claims related to a 2018 advisory agreement; damages remain undetermined; company intends to defend vigorously.
 
-### 8-K — 2024-08-14
+</details>
+
+<details id="f-000162828024037033">
+<summary><strong>8-K</strong> — 2024-08-14</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed August 14, 2024
 
@@ -912,17 +927,14 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - Filing covers results for the three and six months ended June 30, 2024; financial details are contained in Exhibit 99.1 (press release), which is not reproduced in the truncated filing text.
 - No specific revenue, net income, EPS, or balance sheet figures are available from the filing text provided.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On August 14, 2024, Katapult Holdings, Inc. issued a press release reporting Q2 and H1 2024 financial results (Item 2.02).
 - The 8-K was signed by CEO Orlando Zayas; Katapult is headquartered at 5360 Legacy Drive, Building 2, Plano, TX 75024 and trades on Nasdaq under ticker KPLT (common stock) and KPLTW (redeemable warrants).
 
-### 8-K — 2024-07-18
+</details>
+
+<details id="f-000162828024032234">
+<summary><strong>8-K</strong> — 2024-07-18</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed July 18, 2024
 
@@ -931,12 +943,8 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 - One-time cash sign-on bonus of $50,000 payable in two equal installments: 50% within 30 days of start date, 50% in Q2 2025.
 - One-time RSU grant of 10,000 units (subject to Board approval), vesting 33.3% on first anniversary, remainder in eight equal quarterly installments over the following two years.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Kaitlin A. Folan (age 41) appointed Chief Accounting Officer effective July 22, 2024, joining from BJ's Wholesale Club where she served as VP, Financial Accounting from April 2021 to July 2024; prior to that, Managing Director and various roles at PricewaterhouseCoopers from October 2012 to April 2021.
 - Interim Chief Accounting Officer Arthur Goss reverts to his prior role as VP, Internal Audit upon Folan's start; no new compensation arrangements for Goss disclosed as of the filing date.
+
+</details>

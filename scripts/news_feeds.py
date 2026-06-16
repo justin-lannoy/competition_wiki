@@ -147,6 +147,37 @@ def parse_rss(xml_bytes: "bytes | str", *, feed: str = "google-news") -> list[Ne
 # Selection + de-duplication (pure)
 # ---------------------------------------------------------------------------
 
+# Low-signal aggregators and insider-filing/stock-rating noise that dominate a
+# Google-News query on a public ticker. Filtered before items reach a sidecar.
+DENY_SOURCES = (
+    "gurufocus", "stocktitan", "stock titan", "simplywall", "chartmill", "zacks",
+    "tipranks", "marketbeat", "insider monkey", "insidermonkey", "kalkine",
+    "247 wall st", "247wallst", "quiver quantitative", "defense world",
+    "etf daily news", "the globe and mail", "barchart", "stockstory",
+)
+DENY_TITLE = (
+    "rsu", "gf value", "zacks rank", "stock to buy", "stocks to buy",
+    "good stock", "momentum stock", "price target", "13f", "p/e ratio",
+    "options trading", "shares withheld", "tax withholding", "vest",
+    "should you buy", "is it a buy", "best stock", "hold or sell",
+)
+
+
+def is_noise(item: NewsItem) -> bool:
+    """True for low-signal stock-blog / insider-filing items (deny-listed)."""
+    src = (item.source or "").lower()
+    title = (item.title or "").lower()
+    if any(d in src for d in DENY_SOURCES):
+        return True
+    return any(p in title for p in DENY_TITLE)
+
+
+def parse_significance(summary: str) -> str:
+    """Extract the 'Significance: low|medium|high' tag from an AI summary."""
+    m = re.search(r"significance:\s*(low|medium|high)", summary or "", re.I)
+    return m.group(1).lower() if m else ""
+
+
 def item_id(item: NewsItem) -> str:
     """Stable id from the URL (falls back to title) for idempotent sidecars."""
     key = item.url or item.title

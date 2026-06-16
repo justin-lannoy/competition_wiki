@@ -164,10 +164,15 @@ _REGISTRY_COLUMNS: dict[str, tuple[str, ...]] = {
     "parent": ("parent", "issuer"),
     "ticker": ("ticker", "symbol"),
     "category": ("category",),
+    "tier": ("tier", "threat"),
+    "product": ("product", "structure"),
     "query": ("search query", "query", "search"),
     "pr_feed": ("pr feed", "newsroom", "pr_feed"),
     "notes": ("note",),
 }
+
+VALID_CATEGORIES = {"lto", "bnpl", "pos-financing", "medical-financing"}
+VALID_TIERS = {"direct-lto", "adjacent-bnpl", "prime-card", "medical"}
 
 
 def _split_md_row(line: str) -> list[str]:
@@ -219,7 +224,22 @@ def parse_competitor_registry(path: Path | None = None) -> list[dict]:
         }
         if row.get("slug"):
             rows.append(row)
+    _validate_registry(rows)
     return rows
+
+
+def _validate_registry(rows: list[dict]) -> None:
+    """Warn (non-fatal) on unknown category/tier values so typos surface."""
+    import sys
+    for r in rows:
+        cat = (r.get("category") or "").strip().lower()
+        tier = (r.get("tier") or "").strip().lower()
+        if cat and cat not in VALID_CATEGORIES:
+            print(f"  ! registry: {r['slug']} has unknown category '{cat}' "
+                  f"(expected {sorted(VALID_CATEGORIES)})", file=sys.stderr)
+        if tier and tier not in VALID_TIERS:
+            print(f"  ! registry: {r['slug']} has unknown tier '{tier}' "
+                  f"(expected {sorted(VALID_TIERS)})", file=sys.stderr)
 
 
 def parse_competitors(registry_path: Path | None = None) -> list[CompetitorFiler]:

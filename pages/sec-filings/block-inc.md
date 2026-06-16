@@ -17,42 +17,39 @@ _Updated: June 15, 2026_  ·  Filer for [[afterpay]] (XYZ)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-06-05 | 2026-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526259540/d140803d8k.htm) | [file](../../sec-filings/block-inc/2026-06-05_8-K_0001193125-26-259540.htm) |
-| 10-Q | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828026032200/xyz-20260331.htm) | [file](../../sec-filings/block-inc/2026-05-07_10-Q_0001628280-26-032200.htm) |
-| 8-K | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526212032/d132441d8k.htm) | [file](../../sec-filings/block-inc/2026-05-07_8-K_0001193125-26-212032.htm) |
-| 8-K | 2026-05-04 | 2026-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526204101/d112286d8k.htm) | [file](../../sec-filings/block-inc/2026-05-04_8-K_0001193125-26-204101.htm) |
-| 10-K | 2026-02-26 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828026012254/xyz-20251231.htm) | [file](../../sec-filings/block-inc/2026-02-26_10-K_0001628280-26-012254.htm) |
-| 8-K | 2026-02-26 | 2026-02-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/d108590d8k.htm) | [file](../../sec-filings/block-inc/2026-02-26_8-K_0001193125-26-076557.htm) |
-| 8-K | 2026-01-23 | 2026-01-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526021035/d78925d8k.htm) | [file](../../sec-filings/block-inc/2026-01-23_8-K_0001193125-26-021035.htm) |
-| 8-K | 2026-01-14 | 2026-01-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526012944/d943166d8k.htm) | [file](../../sec-filings/block-inc/2026-01-14_8-K_0001193125-26-012944.htm) |
-| 8-K | 2025-11-19 | 2025-11-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525287114/d34021d8k.htm) | [file](../../sec-filings/block-inc/2025-11-19_8-K_0001193125-25-287114.htm) |
-| 10-Q | 2025-11-06 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025050234/sq-20250930.htm) | [file](../../sec-filings/block-inc/2025-11-06_10-Q_0001628280-25-050234.htm) |
-| 8-K | 2025-11-06 | 2025-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525269715/d48712d8k.htm) | [file](../../sec-filings/block-inc/2025-11-06_8-K_0001193125-25-269715.htm) |
-| 8-K | 2025-08-21 | 2025-08-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525185305/d926223d8k.htm) | [file](../../sec-filings/block-inc/2025-08-21_8-K_0001193125-25-185305.htm) |
-| 8-K | 2025-08-18 | 2025-08-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525182661/d76379d8k.htm) | [file](../../sec-filings/block-inc/2025-08-18_8-K_0001193125-25-182661.htm) |
-| 10-Q | 2025-08-07 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025038920/sq-20250630.htm) | [file](../../sec-filings/block-inc/2025-08-07_10-Q_0001628280-25-038920.htm) |
-| 8-K | 2025-08-07 | 2025-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525175456/d942331d8k.htm) | [file](../../sec-filings/block-inc/2025-08-07_8-K_0001193125-25-175456.htm) |
-| 8-K | 2025-06-20 | 2025-06-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525143634/d949823d8k.htm) | [file](../../sec-filings/block-inc/2025-06-20_8-K_0001193125-25-143634.htm) |
-| 10-Q | 2025-05-01 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025021538/sq-20250331.htm) | [file](../../sec-filings/block-inc/2025-05-01_10-Q_0001628280-25-021538.htm) |
-| 8-K | 2025-05-01 | 2025-05-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525109972/d943129d8k.htm) | [file](../../sec-filings/block-inc/2025-05-01_8-K_0001193125-25-109972.htm) |
-| 10-K | 2025-02-24 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025007376/sq-20241231.htm) | [file](../../sec-filings/block-inc/2025-02-24_10-K_0001628280-25-007376.htm) |
-| 8-K | 2025-02-20 | 2025-02-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525030738/d834054d8k.htm) | [file](../../sec-filings/block-inc/2025-02-20_8-K_0001193125-25-030738.htm) |
-| 8-K | 2025-02-06 | 2025-02-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525021783/d843940d8k.htm) | [file](../../sec-filings/block-inc/2025-02-06_8-K_0001193125-25-021783.htm) |
-| 10-Q | 2024-11-07 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828024046294/sq-20240930.htm) | [file](../../sec-filings/block-inc/2024-11-07_10-Q_0001628280-24-046294.htm) |
-| 8-K | 2024-11-07 | 2024-11-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312524253135/d835206d8k.htm) | [file](../../sec-filings/block-inc/2024-11-07_8-K_0001193125-24-253135.htm) |
-| 10-Q | 2024-08-01 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828024034157/sq-20240630.htm) | [file](../../sec-filings/block-inc/2024-08-01_10-Q_0001628280-24-034157.htm) |
-| 8-K | 2024-08-01 | 2024-08-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312524191530/d750402d8k.htm) | [file](../../sec-filings/block-inc/2024-08-01_8-K_0001193125-24-191530.htm) |
-| 8-K | 2024-06-21 | 2024-06-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312524165661/d851990d8k.htm) | [file](../../sec-filings/block-inc/2024-06-21_8-K_0001193125-24-165661.htm) |
+| [8-K](#f-000119312526259540) | 2026-06-05 | 2026-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526259540/d140803d8k.htm) | [file](../../sec-filings/block-inc/2026-06-05_8-K_0001193125-26-259540.htm) |
+| [10-Q](#f-000162828026032200) | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828026032200/xyz-20260331.htm) | [file](../../sec-filings/block-inc/2026-05-07_10-Q_0001628280-26-032200.htm) |
+| [8-K](#f-000119312526212032) | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526212032/d132441d8k.htm) | [file](../../sec-filings/block-inc/2026-05-07_8-K_0001193125-26-212032.htm) |
+| [8-K](#f-000119312526204101) | 2026-05-04 | 2026-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526204101/d112286d8k.htm) | [file](../../sec-filings/block-inc/2026-05-04_8-K_0001193125-26-204101.htm) |
+| [10-K](#f-000162828026012254) | 2026-02-26 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828026012254/xyz-20251231.htm) | [file](../../sec-filings/block-inc/2026-02-26_10-K_0001628280-26-012254.htm) |
+| [8-K](#f-000119312526076557) | 2026-02-26 | 2026-02-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/d108590d8k.htm) | [file](../../sec-filings/block-inc/2026-02-26_8-K_0001193125-26-076557.htm) |
+| [8-K](#f-000119312526021035) | 2026-01-23 | 2026-01-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526021035/d78925d8k.htm) | [file](../../sec-filings/block-inc/2026-01-23_8-K_0001193125-26-021035.htm) |
+| [8-K](#f-000119312526012944) | 2026-01-14 | 2026-01-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526012944/d943166d8k.htm) | [file](../../sec-filings/block-inc/2026-01-14_8-K_0001193125-26-012944.htm) |
+| [8-K](#f-000119312525287114) | 2025-11-19 | 2025-11-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525287114/d34021d8k.htm) | [file](../../sec-filings/block-inc/2025-11-19_8-K_0001193125-25-287114.htm) |
+| [10-Q](#f-000162828025050234) | 2025-11-06 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025050234/sq-20250930.htm) | [file](../../sec-filings/block-inc/2025-11-06_10-Q_0001628280-25-050234.htm) |
+| [8-K](#f-000119312525269715) | 2025-11-06 | 2025-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525269715/d48712d8k.htm) | [file](../../sec-filings/block-inc/2025-11-06_8-K_0001193125-25-269715.htm) |
+| [8-K](#f-000119312525185305) | 2025-08-21 | 2025-08-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525185305/d926223d8k.htm) | [file](../../sec-filings/block-inc/2025-08-21_8-K_0001193125-25-185305.htm) |
+| [8-K](#f-000119312525182661) | 2025-08-18 | 2025-08-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525182661/d76379d8k.htm) | [file](../../sec-filings/block-inc/2025-08-18_8-K_0001193125-25-182661.htm) |
+| [10-Q](#f-000162828025038920) | 2025-08-07 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025038920/sq-20250630.htm) | [file](../../sec-filings/block-inc/2025-08-07_10-Q_0001628280-25-038920.htm) |
+| [8-K](#f-000119312525175456) | 2025-08-07 | 2025-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525175456/d942331d8k.htm) | [file](../../sec-filings/block-inc/2025-08-07_8-K_0001193125-25-175456.htm) |
+| [8-K](#f-000119312525143634) | 2025-06-20 | 2025-06-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525143634/d949823d8k.htm) | [file](../../sec-filings/block-inc/2025-06-20_8-K_0001193125-25-143634.htm) |
+| [10-Q](#f-000162828025021538) | 2025-05-01 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025021538/sq-20250331.htm) | [file](../../sec-filings/block-inc/2025-05-01_10-Q_0001628280-25-021538.htm) |
+| [8-K](#f-000119312525109972) | 2025-05-01 | 2025-05-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525109972/d943129d8k.htm) | [file](../../sec-filings/block-inc/2025-05-01_8-K_0001193125-25-109972.htm) |
+| [10-K](#f-000162828025007376) | 2025-02-24 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828025007376/sq-20241231.htm) | [file](../../sec-filings/block-inc/2025-02-24_10-K_0001628280-25-007376.htm) |
+| [8-K](#f-000119312525030738) | 2025-02-20 | 2025-02-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525030738/d834054d8k.htm) | [file](../../sec-filings/block-inc/2025-02-20_8-K_0001193125-25-030738.htm) |
+| [8-K](#f-000119312525021783) | 2025-02-06 | 2025-02-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312525021783/d843940d8k.htm) | [file](../../sec-filings/block-inc/2025-02-06_8-K_0001193125-25-021783.htm) |
+| [10-Q](#f-000162828024046294) | 2024-11-07 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828024046294/sq-20240930.htm) | [file](../../sec-filings/block-inc/2024-11-07_10-Q_0001628280-24-046294.htm) |
+| [8-K](#f-000119312524253135) | 2024-11-07 | 2024-11-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312524253135/d835206d8k.htm) | [file](../../sec-filings/block-inc/2024-11-07_8-K_0001193125-24-253135.htm) |
+| [10-Q](#f-000162828024034157) | 2024-08-01 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828024034157/sq-20240630.htm) | [file](../../sec-filings/block-inc/2024-08-01_10-Q_0001628280-24-034157.htm) |
+| [8-K](#f-000119312524191530) | 2024-08-01 | 2024-08-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312524191530/d750402d8k.htm) | [file](../../sec-filings/block-inc/2024-08-01_8-K_0001193125-24-191530.htm) |
+| [8-K](#f-000119312524165661) | 2024-06-21 | 2024-06-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312524165661/d851990d8k.htm) | [file](../../sec-filings/block-inc/2024-06-21_8-K_0001193125-24-165661.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-06-05
+_Click a filing to expand its summary._
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
+<details id="f-000119312526259540">
+<summary><strong>8-K</strong> — 2026-06-05</summary>
 
 #### Risk-factor changes
 - Engineering leadership now consolidated directly under CEO Jack Dorsey as of June 5, 2026, following the departure of Engineering Lead Arnaud Weber; potential execution risk if engineering velocity or talent retention is disrupted during the transition.
@@ -61,7 +58,10 @@ _Updated: June 15, 2026_  ·  Filer for [[afterpay]] (XYZ)
 - Arnaud Weber, Block, Inc.'s Engineering Lead, departed the company effective June 5, 2026 (disclosed under Item 5.02).
 - The engineering organization will report directly to Jack Dorsey ("Block Head") on an interim basis following Weber's exit; no successor appointment was announced in this filing.
 
-### 10-Q — 2026-05-07
+</details>
+
+<details id="f-000162828026032200">
+<summary><strong>10-Q</strong> — 2026-05-07</summary>
 
 #### Key financials
 - Q1 2026 total net revenue of $6.06B vs. $5.77B in Q1 2025 (+5%); gross profit rose to $2.91B from $2.29B (+27%), driven by Bitcoin ecosystem cost reductions (Bitcoin costs fell to $1.73B from $2.24B).
@@ -87,7 +87,10 @@ _Updated: June 15, 2026_  ·  Filer for [[afterpay]] (XYZ)
 - April 2026: Block accrued $240M related to DOJ matter and made a counterproposal; separately reached an in-principle agreement with state AGs on Cash App complaint-handling investigation (terms not material).
 - Bitcoin investment remeasurement loss of $172.8M recognized in Q1 2026 (vs. $93.4M in Q1 2025), reflecting mark-to-market decline on 9,032 bitcoins (cost basis $305.2M, fair value $617.3M at March 31, 2026); 2026 Convertible Notes ($575M) mature May 1, 2026
 
-### 8-K — 2026-05-07
+</details>
+
+<details id="f-000119312526212032">
+<summary><strong>8-K</strong> — 2026-05-07</summary>
 
 #### Key financials
 - 8-K filed May 7, 2026 references Q1 2026 results (quarter ended March 31, 2026); specific revenue, gross profit, and earnings figures are contained in Exhibit 99.1 (Shareholder Letter), which is not reproduced in the filing text provided.
@@ -104,7 +107,10 @@ _Updated: June 15, 2026_  ·  Filer for [[afterpay]] (XYZ)
 - Block, Inc. (NYSE: XYZ) filed this 8-K on May 7, 2026 under Item 2.02 to furnish its Q1 2026 Shareholder Letter (Exhibit 99.1); the filing is expressly "furnished" and not "filed," limiting Section 18 Exchange Act liability.
 - Signed by Chrysty Esperanza, Chief Legal Officer and Corporate Secretary, on May 7, 2026; no executive leadership changes, M&A, or other reportable events disclosed in this filing.
 
-### 8-K — 2026-05-04
+</details>
+
+<details id="f-000119312526204101">
+<summary><strong>8-K</strong> — 2026-05-04</summary>
 
 ## Block, Inc. (XYZ) – 8-K Filed May 4, 2026 (Event Date: April 30, 2026)
 
@@ -112,17 +118,14 @@ _Updated: June 15, 2026_  ·  Filer for [[afterpay]] (XYZ)
 - New CAO Andrea Acosta will receive an annual base salary of $550,000 and a one-time sign-on cash bonus of $250,000 (subject to two-year clawback upon voluntary termination).
 - Acosta will receive an RSU grant with an aggregate grant date value of $8.0 million under Block's 2025 Equity Incentive Plan, vesting over four years.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On April 30, 2026, Block's Board appointed Andrea Acosta (age 47) as Chief Accounting Officer (principal accounting officer), effective May 26, 2026; she reports to CFO/COO Amrita Ahuja.
 - Ahuja had been serving as interim principal accounting officer; she retains her CFO and COO roles following Acosta's appointment.
 
-### 10-K — 2026-02-26
+</details>
+
+<details id="f-000162828026012254">
+<summary><strong>10-K</strong> — 2026-02-26</summary>
 
 Based on the XBRL metadata and narrative text in this 10-K filing for **Block, Inc. (NYSE: XYZ)**, filed 2026-02-26 for FY ended December 31, 2025:
 
@@ -158,14 +161,14 @@ Based on the XBRL metadata and narrative text in this 10-K filing for **Block, I
 - Convertible Senior Notes due **2025 matured/settled on or around March 1, 2025** (originally issued March 5, 2020); no balance remains at December 31, 2025.
 - **November 2025**: Board authorized a new Class A common stock repurchase program; repurchases occurred in Q4 2025 per insider trading plan disclosures for directors Anthony Eisen and James McKelvey.
 
-### 8-K — 2026-02-26
+</details>
+
+<details id="f-000119312526076557">
+<summary><strong>8-K</strong> — 2026-02-26</summary>
 
 #### Key financials
 - Block, Inc. filed Q4 and full-year fiscal 2025 results via Shareholder Letter (Exhibit 99.1) on February 26, 2026; specific revenue, gross profit, and EPS figures are contained in the attached letter, not reproduced in the 8-K body.
 - Company references non-GAAP financial measures with GAAP reconciliations provided in the Shareholder Letter; no standalone figures disclosed in the 8-K text itself.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Workforce reduction of more than 40% of total headcount announced February 26, 2026, representing a significant operational restructuring that materially alters the company's cost structure and execution risk profile.
@@ -175,13 +178,10 @@ Based on the XBRL metadata and narrative text in this 10-K filing for **Block, I
 - Block, Inc. announced a formal Workforce Reduction Plan (Item 2.05) on February 26, 2026, targeting better alignment of organizational structure with strategic priorities, cutting more than 40% of current workforce.
 - Q4 and fiscal year ended December 31, 2025 earnings released simultaneously via Shareholder Letter on February 26, 2026, with an accompanying conference call/webcast held at **2:00 p.m. Pacific Time** on the same date.
 
-### 8-K — 2026-01-23
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
+<details id="f-000119312526021035">
+<summary><strong>8-K</strong> — 2026-01-23</summary>
 
 #### Risk-factor changes
 - Interim leadership gap in Principal Accounting Officer role: CFO/COO Amrita Ahuja will serve as Interim Principal Accounting Officer effective February 26, 2026, until a permanent replacement is hired, creating temporary concentration of financial oversight responsibilities.
@@ -190,7 +190,10 @@ Based on the XBRL metadata and narrative text in this 10-K filing for **Block, I
 - Chief Accounting Officer (Principal Accounting Officer) Ajmere Dale resigned on January 21, 2026, with an effective departure date of February 26, 2026, to pursue another opportunity; Dale had been with Block for nearly ten years.
 - Amrita Ahuja, Block's CFO & COO, appointed Interim Principal Accounting Officer effective February 26, 2026; background details incorporated by reference from the proxy statement filed April 25, 2025.
 
-### 8-K — 2026-01-14
+</details>
+
+<details id="f-000119312526012944">
+<summary><strong>8-K</strong> — 2026-01-14</summary>
 
 ## Block, Inc. (XYZ) – 8-K Filed January 14, 2026
 
@@ -198,9 +201,6 @@ Based on the XBRL metadata and narrative text in this 10-K filing for **Block, I
 - Unsecured revolving credit facility upsized from **$775.0 million to $900.0 million** as of January 14, 2026; no borrowings or letters of credit outstanding at signing.
 - Interest on Term SOFR loans priced at **SOFR + 1.25%–1.75%** (leverage-dependent); base rate loans at prime/fed funds/Term SOFR floor **+ 0.25%–0.75%**.
 - Facility matures **January 14, 2031**, subject to an earlier springing maturity if liquidity falls below **$250 million** within 91 days of any existing convertible note or senior note maturity.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Cross-acceleration covenant ties revolver default to Block's other **material indebtedness** (existing convertible notes and senior notes), creating linkage risk across the capital structure.
@@ -210,23 +210,23 @@ Based on the XBRL metadata and narrative text in this 10-K filing for **Block, I
 - Block entered into an **Amended and Restated Revolving Credit Agreement** on **January 14, 2026**, with Goldman Sachs Bank USA as administrative agent, amending the original May 1, 2020 facility.
 - Proceeds designated for **working capital and general corporate purposes**; Block may borrow, prepay without penalty, and reborrow freely subject to customary conditions.
 
-### 8-K — 2025-11-19
+</details>
+
+<details id="f-000119312525287114">
+<summary><strong>8-K</strong> — 2025-11-19</summary>
 
 #### Key financials
 - Board approved a **$5.0 billion increase** to Block's share repurchase program on November 19, 2025.
 - As of **September 30, 2025**, approximately **$1.1 billion** remained under the prior **$4.0 billion** repurchase authorization, bringing total available capacity to ~$6.1 billion combined.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **November 19, 2025**, Block, Inc. (NYSE: XYZ) announced the board-approved **$5.0 billion buyback increase**, structured to allow open market purchases (Rule 10b-18 compliant) and/or privately negotiated transactions, with optional Rule 10b5-1 plans.
 - The program carries no obligation to repurchase any specific amount and may be suspended at management's discretion; timing will depend on stock price, market conditions, regulatory requirements, and alternative capital deployment opportunities.
 
-### 10-Q — 2025-11-06
+</details>
+
+<details id="f-000162828025050234">
+<summary><strong>10-Q</strong> — 2025-11-06</summary>
 
 I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Block operates Square (merchant POS/commerce) and Cash App (consumer fintech), which are relevant competitors/ecosystem players to Snap Finance in the point-of-sale financing and BNPL space. Summary follows.
 
@@ -258,38 +258,32 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - **Share repurchases:** Block repurchased $1.54B of common stock in the nine months ended September 30, 2025 (vs. $987.2M in 9M 2024), reducing diluted share count; $403.0M repurchased in Q3 2025 alone.
 - **Non-marketable equity investment mark-up:** In Q3 2025, one portfolio company closed a new financing round; Block recorded a $171.6M upward fair-value adjustment
 
-### 8-K — 2025-11-06
+</details>
+
+<details id="f-000119312525269715">
+<summary><strong>8-K</strong> — 2025-11-06</summary>
 
 #### Key financials
 - Filing references Q3 2025 financial results (quarter ended September 30, 2025), announced via Shareholder Letter (Exhibit 99.1) on November 6, 2025; specific revenue, earnings, and margin figures are contained in the exhibit, which is not reproduced in the filing text provided.
 - Non-GAAP financial measures were used; GAAP reconciliation stated to be included in the Shareholder Letter (Exhibit 99.1), but no figures are available in the truncated filing text.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Block, Inc. (NYSE: XYZ) filed an 8-K on November 6, 2025 under Item 2.02, disclosing Q3 2025 operating results via a Shareholder Letter furnished as Exhibit 99.1.
 - An earnings conference call and webcast was held November 6, 2025 at 2:00 p.m. Pacific Time to discuss Q3 2025 results; filing signed by Chief Legal Officer Chrysty Esperanza.
 
-### 8-K — 2025-08-21
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000119312525185305">
+<summary><strong>8-K</strong> — 2025-08-21</summary>
 
 #### Material events
 - On August 21, 2025, Block, Inc. (NYSE: XYZ) announced that Dhanji R. Prasanna is stepping down as Engineering + Technology Lead and will no longer serve as an executive officer; he transitions to a narrower Technology Lead role focused on technology strategy and frontier technologies.
 - Arnaud Weber, current head of Cash Engineering, will succeed Prasanna as Engineering Lead, pending receipt of required regulatory approvals; no effective date for Weber's assumption of the role was specified.
 
-### 8-K — 2025-08-18
+</details>
+
+<details id="f-000119312525182661">
+<summary><strong>8-K</strong> — 2025-08-18</summary>
 
 #### Key financials
 - Block, Inc. priced a two-tranche senior notes offering totaling **$2.2 billion** aggregate principal (upsized from the initially announced **~$1.5 billion**): **$1.2 billion** of 5.625% Senior Notes due **August 15, 2030** and **$1.0 billion** of 6.000% Senior Notes due **August 15, 2033**.
@@ -308,7 +302,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Purchase Agreement signed **August 13, 2025**; both indentures (with Bank of New York Mellon Trust Company, N.A. as trustee) executed and notes issued **August 18, 2025**.
 - Block filed two press releases on **August 13, 2025** — first announcing the ~$1.5 billion intended offering, second confirming the upsized $2.2 billion pricing — both incorporated by reference into this 8-K.
 
-### 10-Q — 2025-08-07
+</details>
+
+<details id="f-000162828025038920">
+<summary><strong>10-Q</strong> — 2025-08-07</summary>
 
 **Note:** This is a Block, Inc. (ticker: XYZ) 10-Q for Q2 2025. Block is a payments/fintech company (Square + Cash App), not Snap Finance. The filing contains no information about Snap Finance as a competitor or about the lease-to-own/point-of-sale financing sector. Summary provided below based on the filing's actual content.
 
@@ -344,7 +341,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - **New 2025 Equity Incentive Plan** effective June 17, 2025, replacing the 2015 Plan; 80.0M shares reserved for future issuance.
 - **Bitcoin investment**: Block held 8,692 BTC at June 30, 2025 (cost basis $272.0M, fair value $931.7M), up from 8,485 BTC at Dec 31, 2024; recorded a $212.2M remeasurement gain in Q2 2025 vs. a $70.1M loss in Q2 2
 
-### 8-K — 2025-08-07
+</details>
+
+<details id="f-000119312525175456">
+<summary><strong>8-K</strong> — 2025-08-07</summary>
 
 #### Key financials
 - Filing references Q2 2025 results (quarter ended June 30, 2025) announced via Shareholder Letter (Exhibit 99.1) on August 7, 2025; specific revenue, gross profit, and EPS figures are contained in the attached exhibit, which is not reproduced in this 8-K body.
@@ -360,16 +360,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Block, Inc. (NYSE: XYZ) filed an 8-K on August 7, 2025 under Item 2.02 to furnish Q2 2025 earnings results via Shareholder Letter dated August 7, 2025.
 - An earnings conference call and webcast was held August 7, 2025 at 2:00 p.m. Pacific Time to discuss Q2 2025 results; filing signed by Chief Legal Officer Chrysty Esperanza.
 
-### 8-K — 2025-06-20
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000119312525143634">
+<summary><strong>8-K</strong> — 2025-06-20</summary>
 
 #### Material events
 - On June 17, 2025, Block, Inc. held its 2025 Annual Meeting with 86.52% of voting power present (402,392,097 Class A votes; 597,846,410 Class B votes, with Class B carrying 10 votes per share).
@@ -377,7 +371,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Three Class I directors (Jack Dorsey, Paul Deighton, Neha Narula) were elected to serve until the 2028 annual meeting; Neha Narula received the most withheld votes (140,281,506).
 - Ernst & Young LLP was ratified as independent auditor for fiscal year ending December 31, 2025 (1,004,542,945 for vs. 4,009,683 against).
 
-### 10-Q — 2025-05-01
+</details>
+
+<details id="f-000162828025021538">
+<summary><strong>10-Q</strong> — 2025-05-01</summary>
 
 #### Key financials
 - Q1 2025 total net revenue was $5.77B vs. $5.96B in Q1 2024, down ~3% YoY, primarily due to lower Bitcoin revenue ($2.30B vs. $2.73B); gross profit rose to $2.29B from $2.09B (+9.3% YoY).
@@ -400,24 +397,24 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Block paid $71.4M in January 2025 as a deposit to contest a San Francisco gross receipts tax assessment on bitcoin sales (covering FY2020–2022); the company estimates potential aggregate exposure of $0–$92M through Q1 2025, with further periods potentially material if the Tax Collector prevails.
 - The company disclosed plans to cap its employee base as part of ongoing cost discipline; advertising costs increased to $90.7M in Q1 2025 from $61.6M in Q1 2024 (+47%), reflecting stepped-up Cash App customer acquisition spending.
 
-### 8-K — 2025-05-01
+</details>
+
+<details id="f-000119312525109972">
+<summary><strong>8-K</strong> — 2025-05-01</summary>
 
 #### Key financials
 - 8-K filed May 1, 2025 references Q1 2025 (quarter ended March 31, 2025) results; specific revenue, gross profit, and EPS figures are contained in Exhibit 99.1 (Shareholder Letter), which is not reproduced in the filing text provided.
 - Non-GAAP financial measures were referenced with reconciliations to GAAP equivalents included in the Shareholder Letter; no specific figures extractable from this filing shell.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - Block, Inc. (ticker: XYZ, NYSE) issued its Q1 2025 Shareholder Letter and filed this 8-K on May 1, 2025 under Item 2.02 (Results of Operations and Financial Condition).
 - An earnings conference call and webcast was held May 1, 2025 at 2:00 p.m. Pacific Time to discuss Q1 2025 results.
 - Filing was signed by Chrysty Esperanza, Chief Legal Officer and Corporate Secretary, on May 1, 2025; Exhibit 99.1 is furnished (not "filed") and thus not subject to Section 18 Exchange Act liability.
 
-### 10-K — 2025-02-24
+</details>
+
+<details id="f-000162828025007376">
+<summary><strong>10-K</strong> — 2025-02-24</summary>
 
 **Note:** This is Block, Inc.'s (ticker: XYZ) 10-K for FY2024, not a Snap Finance filing. The filing text provided is for Block, Inc. (formerly Square, Inc.), the fintech company operating Square and Cash App. Summary below reflects the actual filing content.
 
@@ -445,7 +442,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - **AML consent order** (subsequent event, **January 2025**): Block settled with MTL Regulators related to its Anti-Money Laundering program deficiencies.
 - Block issued **$500M 2032 Senior Unsecured Notes on May 9, 2024** and authorized an expanded **share repurchase program** (Class A common stock) with a new tranche approved **July 25, 2024**, following an earlier authorization in **October 2023**.
 
-### 8-K — 2025-02-20
+</details>
+
+<details id="f-000119312525030738">
+<summary><strong>8-K</strong> — 2025-02-20</summary>
 
 #### Key financials
 - Block, Inc. (NYSE: XYZ) reported Q4 and full-year fiscal 2024 results via Shareholder Letter issued February 20, 2025; specific revenue, gross profit, and earnings figures are contained in Exhibit 99.1, which is not reproduced in the filing text provided.
@@ -455,30 +455,27 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Block operates two primary segments relevant to Snap Finance's competitive landscape: Square (merchant/POS) and Cash App (consumer fintech/BNPL via Afterpay); no segment-specific metrics are disclosed in the 8-K body.
 - Conference call to discuss Q4 and FY2024 results was scheduled for February 20, 2025 at 2:00 p.m. Pacific Time; further competitive detail would require review of Exhibit 99.1.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Block, Inc. filed this 8-K on February 20, 2025 under Item 2.02 (Results of Operations) to announce Q4 and FY2024 financial results for the period ended December 31, 2024.
 - Shareholder Letter (Exhibit 99.1) is furnished but not "filed" under Section 18 of the Exchange Act, limiting its use for liability purposes.
 
-### 8-K — 2025-02-06
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000119312525021783">
+<summary><strong>8-K</strong> — 2025-02-06</summary>
 
 #### Segment & competitive notes
 - Anthony Eisen, co-founder and former co-CEO of Afterpay (acquired by Block in January 2022), joined the Block Board on February 6, 2025; Afterpay is a direct Buy Now, Pay Later (BNPL) competitor to Snap Finance's lease-to-own point-of-sale financing model.
 - Eisen has served as CEO of Reshop (a privately held fintech) since January 2025, signaling continued activity in the alternative consumer financing space by a key BNPL industry figure.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Block's Board expanded from nine to ten directors on February 6, 2025, with Eisen elected as a Class III director; he served as Block's co-lead of Afterpay from January 2022 to November 2024 before transitioning in a consulting capacity.
 - Eisen will receive standard non-employee director compensation per Block's Outside Director Compensation Policy and has executed the company's standard indemnification agreement; no committee assignments were designated at this time.
 
-### 10-Q — 2024-11-07
+</details>
+
+<details id="f-000162828024046294">
+<summary><strong>10-Q</strong> — 2024-11-07</summary>
 
 **Note:** This 10-Q is filed by **Block, Inc. (ticker: SQ)** — the parent of Square and Cash App — not Snap Finance. The filing contains no information about Snap Finance or its direct competitors. The summary below reflects Block's filing as presented.
 
@@ -503,7 +500,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - **$2.0B 2032 Senior Notes issuance** closed May 9, 2024 at 6.50% interest, maturing May 15, 2032; proceeds increased cash and cash equivalents to **$8.300B** at September 30, 2024 (vs. $4.996B at December 31, 2023).
 - Board authorized share repurchase program; Block repurchased **$987.2M** of common stock in the nine months ended September 30, 2024 ($252.1M in Q1, $389.5M in Q2, $345.6M in Q3), with a new repurchase authorization announced **July 25, 2024**.
 
-### 8-K — 2024-11-07
+</details>
+
+<details id="f-000119312524253135">
+<summary><strong>8-K</strong> — 2024-11-07</summary>
 
 ## Block, Inc. (SQ) — 8-K Filed November 7, 2024
 
@@ -521,7 +521,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Block held an earnings conference call and webcast on November 7, 2024 at 2:00 p.m. Pacific Time to discuss Q3 2024 results.
 - Chief Legal Officer Chrysty Esperanza signed the filing on November 7, 2024; no leadership changes or other material corporate events were disclosed.
 
-### 10-Q — 2024-08-01
+</details>
+
+<details id="f-000162828024034157">
+<summary><strong>10-Q</strong> — 2024-08-01</summary>
 
 #### Key financials
 - Q2 2024 total net revenue $6.16B (+11% YoY vs. $5.53B Q2 2023); H1 2024 total net revenue $12.11B (+15% YoY vs. $10.53B H1 2023); Bitcoin revenue alone was $2.61B in Q2 2024 and $5.34B in H1 2024.
@@ -543,7 +546,10 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - The $1.0B 2025 Convertible Notes (0.125%, issued March 5, 2020) mature March 1, 2025 and are now classified as current debt ($998.0M carrying value at June 30, 2024), creating a near-term refinancing obligation; conversion conditions were not met during H1 2024.
 - Block's bitcoin investment grew to 8,211 BTC ($514.6M fair value) at June 30, 2024 from 8,038 BTC ($339.9M) at December 31, 2023, reflecting $163.3M in H1 2024 remeasurement gains recognized under ASU 2023-08; the company also custodies ~22,982 BTC ($1.44B) for Cash App customers under SAB 121 safeguarding asset/liability treatment.
 
-### 8-K — 2024-08-01
+</details>
+
+<details id="f-000119312524191530">
+<summary><strong>8-K</strong> — 2024-08-01</summary>
 
 ## Block, Inc. (SQ) – 8-K Filed August 1, 2024
 
@@ -555,26 +561,19 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Block operates two primary consumer/merchant-facing segments (Square and Cash App/Afterpay); no segment-specific metrics are disclosed in the 8-K body itself.
 - As a BNPL/POS financing competitor via Afterpay, Block's capital return posture and earnings cadence are relevant benchmarks for lease-to-own and POS financing peers including Snap Finance.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Board approved a new $3.0 billion share repurchase authorization on August 1, 2024, expanding upon the previously completed $1.0 billion program (now fully exhausted).
 - Repurchases may be executed via open market purchases, privately negotiated transactions, or Rule 10b5-1 plans; program carries no minimum acquisition obligation and may be suspended at any time.
 
-### 8-K — 2024-06-21
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000119312524165661">
+<summary><strong>8-K</strong> — 2024-06-21</summary>
 
 #### Material events
 - Block, Inc. (NYSE: SQ) held its 2024 Annual Meeting on June 18, 2024; quorum represented 89.06% of voting power (434,568,984 Class A votes + 601,036,410 Class B votes).
 - Both Class III director nominees elected: Mary Meeker (948,708,327 for vs. 11,929,217 withheld) and Randall Garutti (840,783,307 for vs. 119,854,237 withheld); both to serve until the 2027 annual meeting.
 - Advisory say-on-pay vote approved: 939,399,385 for vs. 20,783,583 against (74,972,831 broker non-votes).
 - Ernst & Young LLP ratified as independent auditor for fiscal year ending December 31, 2024: 1,033,493,000 for vs. 1,594,743 against.
+
+</details>

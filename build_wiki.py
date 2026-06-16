@@ -121,7 +121,8 @@ COMPETITOR_REGISTRY = BASE / "competitors.md"
 _REG_COLS = {
     "slug": ("slug",), "title": ("competitor", "name", "title"),
     "parent": ("parent", "issuer"), "ticker": ("ticker", "symbol"),
-    "category": ("category",), "notes": ("note",),
+    "category": ("category",), "tier": ("tier", "threat"),
+    "product": ("product", "structure"), "notes": ("note",),
 }
 
 
@@ -162,6 +163,7 @@ def _blank_competitor(slug: str) -> dict:
         "sae": "", "partner": "", "competitor": "", "date": "", "parent": "",
         "ticker": "", "publisher": "", "url": "", "owner_name": "",
         "owner_slug": "", "count": "", "tags": [], "sources": [], "content": "",
+        "tier": "", "product": "",
     }
 
 
@@ -213,15 +215,30 @@ def merge_competitor_registry(pages: list[dict]) -> list[dict]:
         slug = r["slug"]
         p = dict(existing.get(slug) or _blank_competitor(slug))
         p["type"], p["slug"] = "competitor", slug
-        for field in ("title", "parent", "ticker", "category"):
+        for field in ("title", "parent", "ticker", "category", "tier", "product"):
             if r.get(field):
                 p[field] = r[field]
-        if not (p.get("content") or "").strip():
+        synthesized = not (p.get("content") or "").strip()
+        if synthesized:
             p["content"] = _synth_competitor_body(p)
+        p["stub"] = synthesized          # no editorial page yet → light coverage
         p["recent_news"] = _recent_news(slug)
         merged.append(p)
     others = [p for p in pages if p.get("type") != "competitor"]
     return others + merged
+
+
+def check_app_js(js: str) -> str | None:
+    """Heuristic JSX/JS sanity gate: a dropped `{`/`}` (the typo that silently
+    ships a blank SPA) shows up as an off-by-one in the raw brace count. A full
+    parse needs a JS toolchain (intentionally avoided here); this catches the
+    common breakage without false positives from regex/string parsing. Returns
+    an error message, or None if balanced. (Only `{}` — `()`/`[]` legitimately
+    appear unbalanced inside regex literals.)"""
+    opens, closes = js.count("{"), js.count("}")
+    if opens != closes:
+        return f"unbalanced braces in wiki_app.js ({opens} '{{' vs {closes} '}}')"
+    return None
 
 
 def load_env_vars() -> tuple[str, str]:
@@ -271,6 +288,10 @@ def main(argv: list[str] | None = None) -> int:
         print("ERROR: wiki_app.js not found — run after porting it.", file=sys.stderr)
         return 2
     app_js = app_js_path.read_text(encoding="utf-8")
+    js_err = check_app_js(app_js)
+    if js_err:
+        print(f"ERROR: {js_err} — refusing to build a broken SPA.", file=sys.stderr)
+        return 2
 
     css_path = BASE / "wiki_styles.css"
     if not css_path.exists():

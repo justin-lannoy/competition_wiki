@@ -1,0 +1,65 @@
+name: Weekly competitor refresh
+
+# Automates the previously-manual weekly pull (CLAUDE.md). Runs the SEC + news
+# pipelines, then commits the regenerated pages/sidecars/wiki.html.
+#
+# Setup required once:
+#   - Repo secret ANTHROPIC_API_KEY (Settings → Secrets and variables → Actions).
+#   - Actions must have write permission (Settings → Actions → Workflow permissions).
+
+on:
+  schedule:
+    - cron: '17 9 * * 1'   # Mondays 09:17 UTC
+  workflow_dispatch: {}    # allow manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps (anthropic only; pipeline is otherwise stdlib)
+        run: python3 -m pip install --quiet anthropic openpyxl
+
+      - name: Refresh SEC filings (24-month window)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/refresh_sec_filings.py --use-anthropic-api | tee sec.log
+
+      - name: Refresh news + PR coverage
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/refresh_news.py --use-anthropic-api | tee news.log
+
+      - name: Health summary
+        if: always()
+        run: |
+          {
+            echo '## Weekly refresh'
+            echo '### SEC'; echo '```'; tail -n 20 sec.log 2>/dev/null; echo '```'
+            echo '### News'; echo '```'; tail -n 25 news.log 2>/dev/null; echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit & push if changed
+        run: |
+          rm -f sec.log news.log
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes this run."
+          else
+            git commit -m "Weekly refresh: SEC filings + news ($(date -u +%F))"
+            git push
+          fi

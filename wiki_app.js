@@ -781,6 +781,16 @@ function SearchBox({ openPalette }) {
 }
 
 // ─── Competitor Watch View ───────────────────────────────────────────────────
+// Competitive-proximity grouping for the Competitor Watch view.
+const TIER_ORDER = ['direct-lto', 'adjacent-bnpl', 'prime-card', 'medical', 'other'];
+const TIER_LABELS = {
+  'direct-lto': 'Direct LTO competitors',
+  'adjacent-bnpl': 'Adjacent BNPL',
+  'prime-card': 'Prime card issuers',
+  'medical': 'Medical / patient financing',
+  'other': 'Other',
+};
+
 function CompetitorView({ navigateTo }) {
   const cards = useMemo(() => COMPETITOR_PAGES.map(c => {
     const moves = movesForCompetitor(c.slug).slice(0, 4);
@@ -825,7 +835,13 @@ function CompetitorView({ navigateTo }) {
             </span>
           )}
         </p>
-        {cards.map(({ c, moves, recentNews, tracker, filings, news, newsCount }) => (
+        {TIER_ORDER.map(tier => {
+          const group = cards.filter(x => (x.c.tier || 'other') === tier);
+          if (!group.length) return null;
+          return (
+          <div key={tier} className="tier-group">
+            <h2 className="tier-heading">{TIER_LABELS[tier] || tier}<span style={{ color: 'var(--muted)', fontWeight: 400, fontSize: 13, marginLeft: 8 }}>{group.length}</span></h2>
+            {group.map(({ c, moves, recentNews, tracker, filings, news, newsCount }) => (
           <div key={c.slug} style={{ marginBottom: 28 }}>
             <hr className="section-divider" />
             <h2 style={{ display: 'inline-block', cursor: 'pointer', color: 'var(--accent)' }}
@@ -834,6 +850,8 @@ function CompetitorView({ navigateTo }) {
               {c.parent && c.parent !== c.title && <span>Parent: {c.parent}</span>}
               {c.ticker && c.ticker !== 'private' && <span>Ticker: {c.ticker}</span>}
               {c.category && <span>{c.category.toUpperCase()}</span>}
+              {c.product && <span>{c.product}</span>}
+              {c.stub && <span style={{ color: 'var(--muted)' }}>· profile stub</span>}
             </div>
             {moves.length > 0 && (
               <div style={{ marginBottom: 10 }}>
@@ -864,11 +882,13 @@ function CompetitorView({ navigateTo }) {
             <div style={{ background: 'var(--bg-soft)', border: '1px solid var(--line)',
                           borderRadius: 6, padding: '10px 14px', fontSize: 13,
                           display: 'flex', gap: 18, flexWrap: 'wrap' }}>
-              {tracker ? (
+              {tracker && filings > 0 ? (
                 <span style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 600 }}
                       onClick={() => navigateTo(tracker.slug)}>
                   View {filings} SEC filing{filings !== 1 ? 's' : ''} →
                 </span>
+              ) : tracker ? (
+                <span style={{ color: 'var(--muted)' }}>No SEC filings in 24-mo window</span>
               ) : (
                 <span style={{ color: 'var(--muted)' }}>Private — no SEC filings tracked</span>
               )}
@@ -880,7 +900,10 @@ function CompetitorView({ navigateTo }) {
               )}
             </div>
           </div>
-        ))}
+            ))}
+          </div>
+          );
+        })}
       </div>
     </div>
   );

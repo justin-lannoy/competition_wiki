@@ -17,61 +17,64 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-06-09 | 2026-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000023/syf-20260609.htm) | [file](../../sec-filings/synchrony-financial/2026-06-09_8-K_0001601712-26-000023.htm) |
-| 8-K | 2026-06-05 | 2026-06-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312526259868/d244139d8k.htm) | [file](../../sec-filings/synchrony-financial/2026-06-05_8-K_0001193125-26-259868.htm) |
-| 8-K | 2026-05-15 | 2026-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000021/syf-20260515.htm) | [file](../../sec-filings/synchrony-financial/2026-05-15_8-K_0001601712-26-000021.htm) |
-| 10-Q | 2026-04-23 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000016/syf-20260331.htm) | [file](../../sec-filings/synchrony-financial/2026-04-23_10-Q_0001601712-26-000016.htm) |
-| 8-K | 2026-04-21 | 2026-04-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000014/syf-20260421.htm) | [file](../../sec-filings/synchrony-financial/2026-04-21_8-K_0001601712-26-000014.htm) |
-| 8-K | 2026-04-21 | 2026-04-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000013/syf-20260421.htm) | [file](../../sec-filings/synchrony-financial/2026-04-21_8-K_0001601712-26-000013.htm) |
-| 8-K | 2026-03-10 | 2026-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000010/syf-20260310.htm) | [file](../../sec-filings/synchrony-financial/2026-03-10_8-K_0001601712-26-000010.htm) |
-| 8-K | 2026-02-25 | 2026-02-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312526071785/d107776d8k.htm) | [file](../../sec-filings/synchrony-financial/2026-02-25_8-K_0001193125-26-071785.htm) |
-| 8-K | 2026-02-10 | 2026-02-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000008/syf-20260210.htm) | [file](../../sec-filings/synchrony-financial/2026-02-10_8-K_0001601712-26-000008.htm) |
-| 10-K | 2026-02-06 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000006/syf-20251231.htm) | [file](../../sec-filings/synchrony-financial/2026-02-06_10-K_0001601712-26-000006.htm) |
-| 8-K | 2026-01-27 | 2026-01-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000004/syf-20260127.htm) | [file](../../sec-filings/synchrony-financial/2026-01-27_8-K_0001601712-26-000004.htm) |
-| 8-K | 2026-01-27 | 2026-01-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000003/syf-20260127.htm) | [file](../../sec-filings/synchrony-financial/2026-01-27_8-K_0001601712-26-000003.htm) |
-| 8-K | 2025-12-09 | 2025-12-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000264/syf-20251209.htm) | [file](../../sec-filings/synchrony-financial/2025-12-09_8-K_0001601712-25-000264.htm) |
-| 8-K | 2025-11-12 | 2025-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000262/syf-20251112.htm) | [file](../../sec-filings/synchrony-financial/2025-11-12_8-K_0001601712-25-000262.htm) |
-| 10-Q | 2025-10-22 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000259/syf-20250930.htm) | [file](../../sec-filings/synchrony-financial/2025-10-22_10-Q_0001601712-25-000259.htm) |
-| 8-K | 2025-10-15 | 2025-10-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000257/syf-20251015.htm) | [file](../../sec-filings/synchrony-financial/2025-10-15_8-K_0001601712-25-000257.htm) |
-| 8-K | 2025-10-15 | 2025-10-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000256/syf-20251015.htm) | [file](../../sec-filings/synchrony-financial/2025-10-15_8-K_0001601712-25-000256.htm) |
-| 8-K | 2025-09-29 | 2025-09-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000253/syf-20250926.htm) | [file](../../sec-filings/synchrony-financial/2025-09-29_8-K_0001601712-25-000253.htm) |
-| 8-K | 2025-09-10 | 2025-09-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000251/syf-20250910.htm) | [file](../../sec-filings/synchrony-financial/2025-09-10_8-K_0001601712-25-000251.htm) |
-| 8-K | 2025-08-15 | 2025-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000249/syf-20250815.htm) | [file](../../sec-filings/synchrony-financial/2025-08-15_8-K_0001601712-25-000249.htm) |
-| 8-K | 2025-08-05 | 2025-08-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000239/syf-20250805.htm) | [file](../../sec-filings/synchrony-financial/2025-08-05_8-K_0001601712-25-000239.htm) |
-| 8-K | 2025-07-29 | 2025-07-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312525168055/d78610d8k.htm) | [file](../../sec-filings/synchrony-financial/2025-07-29_8-K_0001193125-25-168055.htm) |
-| 10-Q | 2025-07-23 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000231/syf-20250630.htm) | [file](../../sec-filings/synchrony-financial/2025-07-23_10-Q_0001601712-25-000231.htm) |
-| 8-K | 2025-07-22 | 2025-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000229/syf-20250722.htm) | [file](../../sec-filings/synchrony-financial/2025-07-22_8-K_0001601712-25-000229.htm) |
-| 8-K | 2025-07-22 | 2025-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000228/syf-20250722.htm) | [file](../../sec-filings/synchrony-financial/2025-07-22_8-K_0001601712-25-000228.htm) |
-| 8-K | 2025-06-20 | 2025-06-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000200/syf-20250617.htm) | [file](../../sec-filings/synchrony-financial/2025-06-20_8-K_0001601712-25-000200.htm) |
-| 8-K | 2025-06-10 | 2025-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000198/syf-20250610.htm) | [file](../../sec-filings/synchrony-financial/2025-06-10_8-K_0001601712-25-000198.htm) |
-| 8-K | 2025-06-09 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000196/syf-20250609.htm) | [file](../../sec-filings/synchrony-financial/2025-06-09_8-K_0001601712-25-000196.htm) |
-| 8-K | 2025-05-15 | 2025-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000153/syf-20250515.htm) | [file](../../sec-filings/synchrony-financial/2025-05-15_8-K_0001601712-25-000153.htm) |
-| 10-Q | 2025-04-24 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000144/syf-20250331.htm) | [file](../../sec-filings/synchrony-financial/2025-04-24_10-Q_0001601712-25-000144.htm) |
-| 8-K | 2025-04-22 | 2025-04-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000139/syf-20250422.htm) | [file](../../sec-filings/synchrony-financial/2025-04-22_8-K_0001601712-25-000139.htm) |
-| 8-K | 2025-04-22 | 2025-04-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000138/syf-20250422.htm) | [file](../../sec-filings/synchrony-financial/2025-04-22_8-K_0001601712-25-000138.htm) |
-| 8-K | 2025-03-17 | 2025-03-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000114/syf-20250317.htm) | [file](../../sec-filings/synchrony-financial/2025-03-17_8-K_0001601712-25-000114.htm) |
-| 8-K | 2025-03-06 | 2025-03-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312525048508/d917361d8k.htm) | [file](../../sec-filings/synchrony-financial/2025-03-06_8-K_0001193125-25-048508.htm) |
-| 8-K | 2025-02-10 | 2025-02-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000046/syf-20250210.htm) | [file](../../sec-filings/synchrony-financial/2025-02-10_8-K_0001601712-25-000046.htm) |
-| 10-K | 2025-02-07 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000044/syf-20241231.htm) | [file](../../sec-filings/synchrony-financial/2025-02-07_10-K_0001601712-25-000044.htm) |
-| 8-K | 2025-01-28 | 2025-01-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000042/syf-20250128.htm) | [file](../../sec-filings/synchrony-financial/2025-01-28_8-K_0001601712-25-000042.htm) |
-| 8-K | 2025-01-28 | 2025-01-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000041/syf-20250128.htm) | [file](../../sec-filings/synchrony-financial/2025-01-28_8-K_0001601712-25-000041.htm) |
-| 8-K | 2024-12-10 | 2024-12-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000381/syf-20241210.htm) | [file](../../sec-filings/synchrony-financial/2024-12-10_8-K_0001601712-24-000381.htm) |
-| 8-K | 2024-11-15 | 2024-11-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000340/syf-20241115.htm) | [file](../../sec-filings/synchrony-financial/2024-11-15_8-K_0001601712-24-000340.htm) |
-| 10-Q | 2024-10-23 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000336/syf-20240930.htm) | [file](../../sec-filings/synchrony-financial/2024-10-23_10-Q_0001601712-24-000336.htm) |
-| 8-K | 2024-10-16 | 2024-10-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000334/syf-20241016.htm) | [file](../../sec-filings/synchrony-financial/2024-10-16_8-K_0001601712-24-000334.htm) |
-| 8-K | 2024-10-16 | 2024-10-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000333/syf-20241016.htm) | [file](../../sec-filings/synchrony-financial/2024-10-16_8-K_0001601712-24-000333.htm) |
-| 8-K | 2024-09-17 | 2024-09-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000310/syf-20240912.htm) | [file](../../sec-filings/synchrony-financial/2024-09-17_8-K_0001601712-24-000310.htm) |
-| 8-K | 2024-09-09 | 2024-09-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000308/syf-20240909.htm) | [file](../../sec-filings/synchrony-financial/2024-09-09_8-K_0001601712-24-000308.htm) |
-| 8-K | 2024-08-15 | 2024-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000268/syf-20240815.htm) | [file](../../sec-filings/synchrony-financial/2024-08-15_8-K_0001601712-24-000268.htm) |
-| 8-K | 2024-08-02 | 2024-08-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312524192917/d850633d8k.htm) | [file](../../sec-filings/synchrony-financial/2024-08-02_8-K_0001193125-24-192917.htm) |
-| 10-Q | 2024-07-19 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000250/syf-20240630.htm) | [file](../../sec-filings/synchrony-financial/2024-07-19_10-Q_0001601712-24-000250.htm) |
-| 8-K | 2024-07-17 | 2024-07-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000248/syf-20240717.htm) | [file](../../sec-filings/synchrony-financial/2024-07-17_8-K_0001601712-24-000248.htm) |
-| 8-K | 2024-07-17 | 2024-07-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000247/syf-20240717.htm) | [file](../../sec-filings/synchrony-financial/2024-07-17_8-K_0001601712-24-000247.htm) |
-| 8-K | 2024-07-01 | 2024-06-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000229/syf-20240628.htm) | [file](../../sec-filings/synchrony-financial/2024-07-01_8-K_0001601712-24-000229.htm) |
+| [8-K](#f-000160171226000023) | 2026-06-09 | 2026-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000023/syf-20260609.htm) | [file](../../sec-filings/synchrony-financial/2026-06-09_8-K_0001601712-26-000023.htm) |
+| [8-K](#f-000119312526259868) | 2026-06-05 | 2026-06-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312526259868/d244139d8k.htm) | [file](../../sec-filings/synchrony-financial/2026-06-05_8-K_0001193125-26-259868.htm) |
+| [8-K](#f-000160171226000021) | 2026-05-15 | 2026-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000021/syf-20260515.htm) | [file](../../sec-filings/synchrony-financial/2026-05-15_8-K_0001601712-26-000021.htm) |
+| [10-Q](#f-000160171226000016) | 2026-04-23 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000016/syf-20260331.htm) | [file](../../sec-filings/synchrony-financial/2026-04-23_10-Q_0001601712-26-000016.htm) |
+| [8-K](#f-000160171226000014) | 2026-04-21 | 2026-04-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000014/syf-20260421.htm) | [file](../../sec-filings/synchrony-financial/2026-04-21_8-K_0001601712-26-000014.htm) |
+| [8-K](#f-000160171226000013) | 2026-04-21 | 2026-04-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000013/syf-20260421.htm) | [file](../../sec-filings/synchrony-financial/2026-04-21_8-K_0001601712-26-000013.htm) |
+| [8-K](#f-000160171226000010) | 2026-03-10 | 2026-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000010/syf-20260310.htm) | [file](../../sec-filings/synchrony-financial/2026-03-10_8-K_0001601712-26-000010.htm) |
+| [8-K](#f-000119312526071785) | 2026-02-25 | 2026-02-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312526071785/d107776d8k.htm) | [file](../../sec-filings/synchrony-financial/2026-02-25_8-K_0001193125-26-071785.htm) |
+| [8-K](#f-000160171226000008) | 2026-02-10 | 2026-02-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000008/syf-20260210.htm) | [file](../../sec-filings/synchrony-financial/2026-02-10_8-K_0001601712-26-000008.htm) |
+| [10-K](#f-000160171226000006) | 2026-02-06 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000006/syf-20251231.htm) | [file](../../sec-filings/synchrony-financial/2026-02-06_10-K_0001601712-26-000006.htm) |
+| [8-K](#f-000160171226000004) | 2026-01-27 | 2026-01-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000004/syf-20260127.htm) | [file](../../sec-filings/synchrony-financial/2026-01-27_8-K_0001601712-26-000004.htm) |
+| [8-K](#f-000160171226000003) | 2026-01-27 | 2026-01-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000003/syf-20260127.htm) | [file](../../sec-filings/synchrony-financial/2026-01-27_8-K_0001601712-26-000003.htm) |
+| [8-K](#f-000160171225000264) | 2025-12-09 | 2025-12-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000264/syf-20251209.htm) | [file](../../sec-filings/synchrony-financial/2025-12-09_8-K_0001601712-25-000264.htm) |
+| [8-K](#f-000160171225000262) | 2025-11-12 | 2025-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000262/syf-20251112.htm) | [file](../../sec-filings/synchrony-financial/2025-11-12_8-K_0001601712-25-000262.htm) |
+| [10-Q](#f-000160171225000259) | 2025-10-22 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000259/syf-20250930.htm) | [file](../../sec-filings/synchrony-financial/2025-10-22_10-Q_0001601712-25-000259.htm) |
+| [8-K](#f-000160171225000257) | 2025-10-15 | 2025-10-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000257/syf-20251015.htm) | [file](../../sec-filings/synchrony-financial/2025-10-15_8-K_0001601712-25-000257.htm) |
+| [8-K](#f-000160171225000256) | 2025-10-15 | 2025-10-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000256/syf-20251015.htm) | [file](../../sec-filings/synchrony-financial/2025-10-15_8-K_0001601712-25-000256.htm) |
+| [8-K](#f-000160171225000253) | 2025-09-29 | 2025-09-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000253/syf-20250926.htm) | [file](../../sec-filings/synchrony-financial/2025-09-29_8-K_0001601712-25-000253.htm) |
+| [8-K](#f-000160171225000251) | 2025-09-10 | 2025-09-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000251/syf-20250910.htm) | [file](../../sec-filings/synchrony-financial/2025-09-10_8-K_0001601712-25-000251.htm) |
+| [8-K](#f-000160171225000249) | 2025-08-15 | 2025-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000249/syf-20250815.htm) | [file](../../sec-filings/synchrony-financial/2025-08-15_8-K_0001601712-25-000249.htm) |
+| [8-K](#f-000160171225000239) | 2025-08-05 | 2025-08-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000239/syf-20250805.htm) | [file](../../sec-filings/synchrony-financial/2025-08-05_8-K_0001601712-25-000239.htm) |
+| [8-K](#f-000119312525168055) | 2025-07-29 | 2025-07-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312525168055/d78610d8k.htm) | [file](../../sec-filings/synchrony-financial/2025-07-29_8-K_0001193125-25-168055.htm) |
+| [10-Q](#f-000160171225000231) | 2025-07-23 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000231/syf-20250630.htm) | [file](../../sec-filings/synchrony-financial/2025-07-23_10-Q_0001601712-25-000231.htm) |
+| [8-K](#f-000160171225000229) | 2025-07-22 | 2025-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000229/syf-20250722.htm) | [file](../../sec-filings/synchrony-financial/2025-07-22_8-K_0001601712-25-000229.htm) |
+| [8-K](#f-000160171225000228) | 2025-07-22 | 2025-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000228/syf-20250722.htm) | [file](../../sec-filings/synchrony-financial/2025-07-22_8-K_0001601712-25-000228.htm) |
+| [8-K](#f-000160171225000200) | 2025-06-20 | 2025-06-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000200/syf-20250617.htm) | [file](../../sec-filings/synchrony-financial/2025-06-20_8-K_0001601712-25-000200.htm) |
+| [8-K](#f-000160171225000198) | 2025-06-10 | 2025-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000198/syf-20250610.htm) | [file](../../sec-filings/synchrony-financial/2025-06-10_8-K_0001601712-25-000198.htm) |
+| [8-K](#f-000160171225000196) | 2025-06-09 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000196/syf-20250609.htm) | [file](../../sec-filings/synchrony-financial/2025-06-09_8-K_0001601712-25-000196.htm) |
+| [8-K](#f-000160171225000153) | 2025-05-15 | 2025-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000153/syf-20250515.htm) | [file](../../sec-filings/synchrony-financial/2025-05-15_8-K_0001601712-25-000153.htm) |
+| [10-Q](#f-000160171225000144) | 2025-04-24 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000144/syf-20250331.htm) | [file](../../sec-filings/synchrony-financial/2025-04-24_10-Q_0001601712-25-000144.htm) |
+| [8-K](#f-000160171225000139) | 2025-04-22 | 2025-04-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000139/syf-20250422.htm) | [file](../../sec-filings/synchrony-financial/2025-04-22_8-K_0001601712-25-000139.htm) |
+| [8-K](#f-000160171225000138) | 2025-04-22 | 2025-04-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000138/syf-20250422.htm) | [file](../../sec-filings/synchrony-financial/2025-04-22_8-K_0001601712-25-000138.htm) |
+| [8-K](#f-000160171225000114) | 2025-03-17 | 2025-03-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000114/syf-20250317.htm) | [file](../../sec-filings/synchrony-financial/2025-03-17_8-K_0001601712-25-000114.htm) |
+| [8-K](#f-000119312525048508) | 2025-03-06 | 2025-03-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312525048508/d917361d8k.htm) | [file](../../sec-filings/synchrony-financial/2025-03-06_8-K_0001193125-25-048508.htm) |
+| [8-K](#f-000160171225000046) | 2025-02-10 | 2025-02-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000046/syf-20250210.htm) | [file](../../sec-filings/synchrony-financial/2025-02-10_8-K_0001601712-25-000046.htm) |
+| [10-K](#f-000160171225000044) | 2025-02-07 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000044/syf-20241231.htm) | [file](../../sec-filings/synchrony-financial/2025-02-07_10-K_0001601712-25-000044.htm) |
+| [8-K](#f-000160171225000042) | 2025-01-28 | 2025-01-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000042/syf-20250128.htm) | [file](../../sec-filings/synchrony-financial/2025-01-28_8-K_0001601712-25-000042.htm) |
+| [8-K](#f-000160171225000041) | 2025-01-28 | 2025-01-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171225000041/syf-20250128.htm) | [file](../../sec-filings/synchrony-financial/2025-01-28_8-K_0001601712-25-000041.htm) |
+| [8-K](#f-000160171224000381) | 2024-12-10 | 2024-12-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000381/syf-20241210.htm) | [file](../../sec-filings/synchrony-financial/2024-12-10_8-K_0001601712-24-000381.htm) |
+| [8-K](#f-000160171224000340) | 2024-11-15 | 2024-11-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000340/syf-20241115.htm) | [file](../../sec-filings/synchrony-financial/2024-11-15_8-K_0001601712-24-000340.htm) |
+| [10-Q](#f-000160171224000336) | 2024-10-23 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000336/syf-20240930.htm) | [file](../../sec-filings/synchrony-financial/2024-10-23_10-Q_0001601712-24-000336.htm) |
+| [8-K](#f-000160171224000334) | 2024-10-16 | 2024-10-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000334/syf-20241016.htm) | [file](../../sec-filings/synchrony-financial/2024-10-16_8-K_0001601712-24-000334.htm) |
+| [8-K](#f-000160171224000333) | 2024-10-16 | 2024-10-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000333/syf-20241016.htm) | [file](../../sec-filings/synchrony-financial/2024-10-16_8-K_0001601712-24-000333.htm) |
+| [8-K](#f-000160171224000310) | 2024-09-17 | 2024-09-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000310/syf-20240912.htm) | [file](../../sec-filings/synchrony-financial/2024-09-17_8-K_0001601712-24-000310.htm) |
+| [8-K](#f-000160171224000308) | 2024-09-09 | 2024-09-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000308/syf-20240909.htm) | [file](../../sec-filings/synchrony-financial/2024-09-09_8-K_0001601712-24-000308.htm) |
+| [8-K](#f-000160171224000268) | 2024-08-15 | 2024-08-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000268/syf-20240815.htm) | [file](../../sec-filings/synchrony-financial/2024-08-15_8-K_0001601712-24-000268.htm) |
+| [8-K](#f-000119312524192917) | 2024-08-02 | 2024-08-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000119312524192917/d850633d8k.htm) | [file](../../sec-filings/synchrony-financial/2024-08-02_8-K_0001193125-24-192917.htm) |
+| [10-Q](#f-000160171224000250) | 2024-07-19 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000250/syf-20240630.htm) | [file](../../sec-filings/synchrony-financial/2024-07-19_10-Q_0001601712-24-000250.htm) |
+| [8-K](#f-000160171224000248) | 2024-07-17 | 2024-07-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000248/syf-20240717.htm) | [file](../../sec-filings/synchrony-financial/2024-07-17_8-K_0001601712-24-000248.htm) |
+| [8-K](#f-000160171224000247) | 2024-07-17 | 2024-07-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000247/syf-20240717.htm) | [file](../../sec-filings/synchrony-financial/2024-07-17_8-K_0001601712-24-000247.htm) |
+| [8-K](#f-000160171224000229) | 2024-07-01 | 2024-06-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000229/syf-20240628.htm) | [file](../../sec-filings/synchrony-financial/2024-07-01_8-K_0001601712-24-000229.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-06-09
+_Click a filing to expand its summary._
+
+<details id="f-000160171226000023">
+<summary><strong>8-K</strong> — 2026-06-09</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed June 9, 2026
 
@@ -79,27 +82,21 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13-month period ended May 31, 2026** (Exhibit 99.1); actual data tables are in the exhibit, which is not included in the truncated text.
 - No income statement, balance sheet, or revenue figures disclosed in the body of the 8-K itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony disclosed (via **Item 7.01 Regulation FD**) its routine monthly credit-quality statistics; these are furnished, not filed, and therefore not subject to Section 18 liability.
 - Company confirmed it will **continue monthly disclosure** of charge-off and delinquency data, with the final month of each calendar quarter released concurrently with quarterly earnings announcements.
 - Filing signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer, on **June 9, 2026**; no change in executive leadership noted.
 
-### 8-K — 2026-06-05
+</details>
+
+<details id="f-000119312526259868">
+<summary><strong>8-K</strong> — 2026-06-05</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed June 5, 2026
 
 #### Key financials
 - Issued 500,000 depositary shares on June 5, 2026, each representing a 1/100th interest in a share of Series C Preferred Stock, at a fixed rate of 7.250% (Fixed Rate Reset, Non-Cumulative, Perpetual).
 - Underwriting agreement signed June 2, 2026, with BofA Securities, Barclays Capital, and Morgan Stanley as joint book-runners; no aggregate proceeds figure disclosed in the filing text.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - New dividend stopper provision: if Synchrony fails to declare and pay (or set aside) Series C preferred dividends for the immediately preceding period, it is restricted from paying dividends on, or repurchasing, common stock and parity/junior preferred stock — a subordination constraint not present before this issuance.
@@ -109,7 +106,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Deposit Agreement entered June 5, 2026, with Computershare Inc. and Computershare Trust Company, N.A. as depositary, governing issuance and transfer of depositary receipts evidencing the Series C shares.
 - Public offering conducted under existing shelf Registration Statement on Form S-3 (File No. 333-288729); legal opinion provided by Sidley Austin LLP (Exhibit 5.1).
 
-### 8-K — 2026-05-15
+</details>
+
+<details id="f-000160171226000021">
+<summary><strong>8-K</strong> — 2026-05-15</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed May 15, 2026
 
@@ -117,18 +117,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **thirteen months ended April 30, 2026** (Exhibit 99.1); specific rate figures are contained in the exhibit, which is not reproduced in the filing text.
 - No income statement, balance sheet, or earnings data disclosed in this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony disclosed its **routine monthly Regulation FD charge-off and delinquency data release** as of and for the period ended **April 30, 2026**, consistent with its stated practice of furnishing these statistics monthly.
 - The company noted that for the **last month of each calendar quarter**, these statistics will be released **contemporaneously with quarterly earnings announcements**, signaling the next such combined release would coincide with Q2 2026 results.
 - Filing signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer, on **May 15, 2026**; information is furnished under Item 7.01 and is explicitly **not deemed "filed"** for Section 18 liability purposes.
 
-### 10-Q — 2026-04-23
+</details>
+
+<details id="f-000160171226000016">
+<summary><strong>10-Q</strong> — 2026-04-23</summary>
 
 #### Key financials
 - Q1 2026 net earnings of $805M vs. $757M in Q1 2025; diluted EPS $2.27 vs. $1.89; net interest margin expanded to 15.50% from 14.74% YoY as interest expense fell $118M (–10.9%) to $968M.
@@ -153,7 +150,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Synchrony participated in its first-ever Federal Reserve supervisory stress test cycle in 2026 (biennial requirement triggered by >$100B assets); Fed voted in February 2026 to maintain current stress capital buffer (2.5% for Synchrony) through at least 2027; next new buffer expected in 2028.
 - Subsequent event: credit card receivables sale activity noted in April 2026 (disclosed via subsequent event tag in XBRL); liquidity portfolio rose to $22.8B at March 31, 2026 from $16.6B at December 31, 2025, partly reflecting seasonal deposit inflows and new debt issuance.
 
-### 8-K — 2026-04-21
+</details>
+
+<details id="f-000160171226000014">
+<summary><strong>8-K</strong> — 2026-04-21</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed April 21, 2026
 
@@ -165,14 +165,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Disclosure is limited to consumer credit quality metrics (charge-offs and delinquencies) relevant to Synchrony's core private-label and general-purpose credit card portfolio — a direct read-across for lease-to-own and point-of-sale financing credit performance benchmarks.
 - None noted beyond the above.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony reaffirmed its practice of furnishing monthly charge-off and delinquency statistics on a **recurring monthly basis**, with the final month of each calendar quarter released **contemporaneously with quarterly earnings**.
 - Filing signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer, on **April 21, 2026**; data is furnished under Regulation FD (Item 7.01) and is explicitly **not deemed "filed"** for Section 18 liability purposes.
 
-### 8-K — 2026-04-21
+</details>
+
+<details id="f-000160171226000013">
+<summary><strong>8-K</strong> — 2026-04-21</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed April 21, 2026
 
@@ -190,7 +190,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - On April 21, 2026, Synchrony Financial filed an Item 2.02 8-K reporting Q1 2026 results, with four exhibits furnished (99.1 press release, 99.2 data supplement, 99.3 results presentation, 99.4 non-GAAP explanation).
 - Filing was signed by Jonathan Mothner, Executive Vice President and Chief Risk and Legal Officer, on April 21, 2026; exhibits are furnished (not "filed") and therefore not subject to Section 18 Exchange Act liability.
 
-### 8-K — 2026-03-10
+</details>
+
+<details id="f-000160171226000010">
+<summary><strong>8-K</strong> — 2026-03-10</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed March 10, 2026
 
@@ -198,18 +201,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the thirteen months ended February 28, 2026 (Exhibit 99.1); specific rate figures are contained in the exhibit, which is not reproduced in the filing text.
 - No income statement, balance sheet, or revenue figures are disclosed in the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under Item 7.01 (Regulation FD) on March 10, 2026, disclosing routine monthly credit-quality statistics (charge-off and delinquency data) through February 28, 2026.
 - The company confirmed it will continue furnishing these statistics monthly; for quarter-end months, release will be concurrent with quarterly earnings announcements.
 - Filing signed by Jonathan Mothner, EVP and Chief Risk and Legal Officer, indicating the disclosure is framed as a risk/credit-monitoring data release rather than a financial results announcement.
 
-### 8-K — 2026-02-25
+</details>
+
+<details id="f-000119312526071785">
+<summary><strong>8-K</strong> — 2026-02-25</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed February 25, 2026
 
@@ -217,17 +217,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Synchrony Financial priced a $750,000,000 aggregate principal amount of 4.947% Fixed-to-Floating Rate Senior Notes due 2032, via underwriting agreement dated February 18, 2026.
 - Underwriters led by BofA Securities, J.P. Morgan Securities, and Mizuho Securities USA; offering conducted under Registration Statement No. 333-288729.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Fifteenth Supplemental Indenture executed February 25, 2026, between Synchrony and trustee The Bank of New York Mellon, governing the new Notes under the Base Indenture dated August 11, 2014.
 - Notes carry a fixed-to-floating rate structure at 4.947% with a 2032 maturity, representing a new senior unsecured debt issuance that increases Synchrony's funding obligations; legal validity opinion provided by Sidley Austin LLP.
 
-### 8-K — 2026-02-10
+</details>
+
+<details id="f-000160171226000008">
+<summary><strong>8-K</strong> — 2026-02-10</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed February 10, 2026
 
@@ -239,14 +236,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Synchrony is a large private-label/co-brand credit card and point-of-sale financing provider — a direct competitor to Snap Finance in the consumer installment/lease-to-own space; credit quality trends disclosed here are a relevant industry read-across.
 - No segment-level revenue or purchase volume data provided in this filing.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under **Item 7.01 (Regulation FD)** on **February 10, 2026**, furnishing monthly charge-off and delinquency statistics; the data is expressly **not "filed"** for Section 18 liability purposes.
 - The company confirmed it will continue publishing these monthly credit quality statistics, with the final month of each calendar quarter released concurrently with quarterly earnings — signaling ongoing transparency on consumer credit performance through 2026.
 
-### 10-K — 2026-02-06
+</details>
+
+<details id="f-000160171226000006">
+<summary><strong>10-K</strong> — 2026-02-06</summary>
 
 **Synchrony Financial (SYF) — 10-K for Fiscal Year Ended December 31, 2025**
 *Filed February 6, 2026 | Relevant to Snap Finance as a point-of-sale financing competitor*
@@ -282,19 +279,16 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - **2025**: Extended program agreement with **Amazon** and announced acquisition of **Lowe's commercial co-branded credit card portfolio**, expected to close in **first half of 2026**.
 - **July 2025**: Renewed/amended **unsecured revolving credit facility**; also established **new share repurchase authorization in April 2025** with an incremental authorization added **September 2025**, reflecting capital return activity during the year.
 
-### 8-K — 2026-01-27
+</details>
+
+<details id="f-000160171226000004">
+<summary><strong>8-K</strong> — 2026-01-27</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed January 27, 2026
 
 #### Key financials
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13 months ended December 31, 2025** (Exhibit 99.1); underlying data not reproduced in the filing text.
 - No income statement, balance sheet, or earnings figures are included in this 8-K.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - Synchrony disclosed via **Item 7.01 (Regulation FD)** that it is furnishing updated charge-off and delinquency statistics on a monthly cadence; for quarter-end months, disclosure will be made concurrently with quarterly earnings announcements.
@@ -303,7 +297,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 ---
 *Analyst note for Snap Finance: SYF's monthly credit-quality disclosures (charge-offs, delinquencies) are a useful leading indicator for consumer credit stress in the point-of-sale/private-label financing space — a direct competitive read-across. Monitor Exhibit 99.1 data when available.*
 
-### 8-K — 2026-01-27
+</details>
+
+<details id="f-000160171226000003">
+<summary><strong>8-K</strong> — 2026-01-27</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed January 27, 2026
 
@@ -311,18 +308,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing references Q4 2025 earnings press release (Exhibit 99.1) and Financial Data Supplement for the quarter ended December 31, 2025 (Exhibit 99.2); specific figures are contained in attached exhibits not reproduced in the filing text.
 - No income statement, balance sheet, or loan performance metrics are disclosed within the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On January 27, 2026, Synchrony Financial issued its Q4 2025 earnings results via press release (Exhibit 99.1), filed under Item 2.02 (Results of Operations and Financial Condition).
 - Accompanying materials include a Financial Results Presentation (Exhibit 99.3) and an Explanation of Non-GAAP Measures (Exhibit 99.4) for the quarter ended December 31, 2025.
 - Filing was signed by Jonathan Mothner, Executive Vice President, Chief Risk and Legal Officer, on January 27, 2026; exhibits are furnished (not filed) and therefore not subject to Section 18 liability.
 
-### 8-K — 2025-12-09
+</details>
+
+<details id="f-000160171225000264">
+<summary><strong>8-K</strong> — 2025-12-09</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed December 9, 2025
 
@@ -330,18 +324,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the 13-month period ended November 30, 2025 (Exhibit 99.1); actual data tables are in the exhibit, which is not reproduced in the filing text.
 - No income statement, balance sheet, or revenue figures disclosed in the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On December 9, 2025, Synchrony Financial filed an Item 7.01 Regulation FD disclosure furnishing its routine monthly charge-off and delinquency statistics as of/for each of the 13 months ended November 30, 2025.
 - The company confirmed it intends to continue furnishing these statistics monthly, with the final month of each calendar quarter released contemporaneously with quarterly earnings.
 - Filing signed by Jonathan Mothner, Executive Vice President and Chief Risk and Legal Officer, indicating this disclosure falls under risk/legal oversight.
 
-### 8-K — 2025-11-12
+</details>
+
+<details id="f-000160171225000262">
+<summary><strong>8-K</strong> — 2025-11-12</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed November 12, 2025
 
@@ -349,19 +340,16 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **thirteen months ended October 31, 2025** (Exhibit 99.1); underlying data not reproduced in the filing text.
 - No income statement, balance sheet, or revenue figures disclosed in this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under **Item 7.01 (Regulation FD)** to furnish monthly credit quality metrics (charge-off and delinquency rates) as of October 31, 2025, consistent with its ongoing monthly disclosure practice.
 - Company confirmed it will **continue furnishing these statistics monthly**, with Q4-ending month data released concurrently with quarterly earnings announcements.
 - Exhibit is furnished (not filed), meaning it is **not subject to Section 18 liability** and is not automatically incorporated by reference into other SEC filings.
 - Signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer, on November 12, 2025.
 
-### 10-Q — 2025-10-22
+</details>
+
+<details id="f-000160171225000259">
+<summary><strong>10-Q</strong> — 2025-10-22</summary>
 
 #### Key financials
 - Q3 2025 net earnings rose to $1.1B from $789M in Q3 2024; 9M 2025 net earnings were $2.8B vs. $2.7B in 9M 2024, with the 9M 2024 figure boosted by an $802M after-tax Pets Best gain.
@@ -385,7 +373,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - During Q2 2025 Synchrony agreed to sell ~$0.2B of Home & Auto loan receivables; that sale completed in October 2025, and the related portfolio was reclassified to held-for-sale in Q2 2025.
 - Synchrony closed the Ally Lending point-of-sale financing acquisition on March 1, 2024 (deepening home improvement exposure); the filing notes a $45M reserve build in Q3 2025 for off-balance-sheet credit exposures tied to the pending Lowe's commercial co-branded portfolio acquisition.
 
-### 8-K — 2025-10-15
+</details>
+
+<details id="f-000160171225000257">
+<summary><strong>8-K</strong> — 2025-10-15</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed October 15, 2025
 
@@ -393,17 +384,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13-month period ended September 30, 2025** (Exhibit 99.1); actual data tables are in the exhibit, which is not included in the truncated text.
 - No income statement, balance sheet, or earnings figures were disclosed in the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under **Item 7.01 (Regulation FD)** on **October 15, 2025**, furnishing its routine monthly credit-quality disclosure; data is not "filed" for Section 18 liability purposes.
 - The company confirmed it will **continue monthly disclosures**, with the final month of each calendar quarter released concurrently with quarterly earnings results — a recurring cadence relevant to tracking consumer credit trends at a major point-of-sale lender competing with Snap Finance.
 
-### 8-K — 2025-10-15
+</details>
+
+<details id="f-000160171225000256">
+<summary><strong>8-K</strong> — 2025-10-15</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed October 15, 2025
 
@@ -421,25 +409,22 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - On October 15, 2025, Synchrony Financial filed under Item 2.02 (Results of Operations and Financial Condition), furnishing Q3 2025 earnings materials including a press release, Financial Data Supplement, Financial Results Presentation, and Explanation of Non-GAAP Measures.
 - Filing was signed by Jonathan Mothner, Executive Vice President, Chief Risk and Legal Officer, on October 15, 2025; exhibits are furnished (not filed) and therefore not subject to Section 18 Exchange Act liability.
 
-### 8-K — 2025-09-29
+</details>
+
+<details id="f-000160171225000253">
+<summary><strong>8-K</strong> — 2025-09-29</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed 2025-09-29
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On September 26, 2025, Synchrony Financial's Board elected **Deborah Ellinger** as a new independent director, effective **October 1, 2025**; she was appointed to the Risk and Technology Committees.
 - Ellinger's annual director compensation totals **$355,000**: $100,000 cash + $220,000 in restricted stock units (base) + $20,000 Risk Committee retainer + $15,000 Technology Committee retainer.
 - Ellinger entered into the company's standard indemnification agreement (original form filed August 1, 2014, Exhibit 10.89, Form S-1 No. 333-197244); no related-party transactions or outside arrangements disclosed.
 
-### 8-K — 2025-09-10
+</details>
+
+<details id="f-000160171225000251">
+<summary><strong>8-K</strong> — 2025-09-10</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed September 10, 2025
 
@@ -451,14 +436,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Synchrony is a large-scale private-label/co-brand credit card and consumer financing provider — a direct competitor to Snap Finance in the point-of-sale/consumer lending space.
 - No segment-level data or partner/retailer commentary included in this filing.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On September 10, 2025, Synchrony filed under Item 7.01 (Reg FD) to disclose monthly credit performance statistics; the company confirms it will continue furnishing these statistics monthly, with quarter-end months released concurrently with quarterly earnings.
 - Signed by Jonathan Mothner, EVP, Chief Risk and Legal Officer, indicating the disclosure is risk/credit-function driven rather than a strategic or M&A event.
 
-### 8-K — 2025-08-15
+</details>
+
+<details id="f-000160171225000249">
+<summary><strong>8-K</strong> — 2025-08-15</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed August 15, 2025
 
@@ -477,7 +462,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - On **August 15, 2025**, Synchrony furnished Exhibit 99.1 under **Item 7.01 (Reg FD)** containing thirteen months of charge-off and delinquency data through **July 31, 2025**; data is not "filed" and carries no Section 18 liability.
 - Company confirms it will continue furnishing monthly credit statistics, with Q3 month-end data to be released **contemporaneously with quarterly earnings**.
 
-### 8-K — 2025-08-05
+</details>
+
+<details id="f-000160171225000239">
+<summary><strong>8-K</strong> — 2025-08-05</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed 2025-08-05
 
@@ -497,7 +485,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - On **August 4, 2025**, Synchrony entered into agreements to acquire the Lowe's commercial co-branded credit card portfolio (~**$0.8B** in loan receivables), a discrete inorganic growth transaction in the home improvement vertical.
 - The filing is furnished under **Item 7.01 (Regulation FD)** and is not deemed "filed" for Section 18 liability purposes; signed by EVP and Chief Risk and Legal Officer Jonathan Mothner on August 5, 2025.
 
-### 8-K — 2025-07-29
+</details>
+
+<details id="f-000119312525168055">
+<summary><strong>8-K</strong> — 2025-07-29</summary>
 
 #### Key financials
 - Synchrony Financial priced **$500M of 5.019% Fixed-to-Floating Rate Senior Notes due 2029** and **$500M of 6.000% Fixed-to-Floating Rate Senior Notes due 2036**, for a combined **$1.0B debt issuance**.
@@ -507,14 +498,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Offering conducted under existing S-3 shelf registration (File No. 333-288729); joint bookrunners are BofA Securities, Mizuho Securities USA, and Wells Fargo Securities — indicating broad institutional demand for consumer-finance paper.
 - As a large-scale point-of-sale/consumer credit competitor to Snap Finance, Synchrony's ability to raise $1.0B in senior unsecured debt at these rates signals continued access to low-cost wholesale funding, reinforcing its competitive funding advantage over smaller LTO/POS lenders.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony executed the **Fourteenth Supplemental Indenture** on July 29, 2025, under the Base Indenture originally dated August 11, 2014 (trustee: The Bank of New York Mellon), governing both new note series.
 - Legal validity opinion provided by **Sidley Austin LLP** and incorporated into the Registration Statement (Exhibit 5.1).
 
-### 10-Q — 2025-07-23
+</details>
+
+<details id="f-000160171225000231">
+<summary><strong>10-Q</strong> — 2025-07-23</summary>
 
 #### Key financials
 - Q2 2025 net earnings of $967M vs. $643M in Q2 2024 (+50%); H1 2025 net earnings of $1.724B vs. $1.936B in H1 2024 (-11%, prior year included $1.1B Pets Best gain).
@@ -538,7 +529,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Board approved new $2.5B share repurchase program in April 2025 (through June 30, 2026); $1.1B repurchased in H1 2025; $2.0B authorization remaining at June 30, 2025; quarterly dividend increased to $0.30/share commencing Q2 2025 (from prior rate), with $211M total common dividends paid H1 2025.
 - In March 2024, completed acquisition of Ally Financial's point-of-sale financing business (Ally Lending) and sold Pets Best pet insurance business (generating $1.1B pre-tax gain in H1 2024); Independence Pet Holdings equity investment carried on balance sheet as of June 30, 2025.
 
-### 8-K — 2025-07-22
+</details>
+
+<details id="f-000160171225000229">
+<summary><strong>8-K</strong> — 2025-07-22</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed July 22, 2025
 
@@ -546,17 +540,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the 13-month period ended June 30, 2025 (Exhibit 99.1); underlying data not reproduced in filing text.
 - No income statement, balance sheet, or EPS figures disclosed in this 8-K; data is Reg FD disclosure only and not "filed" for Section 18 liability purposes.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony disclosed (via Item 7.01 Regulation FD) its routine monthly charge-off and delinquency statistics as of and for each of the 13 months ended June 30, 2025, filed July 22, 2025.
 - Company confirmed it will continue furnishing these statistics monthly; for quarter-end months, release will be concurrent with quarterly earnings announcements.
 
-### 8-K — 2025-07-22
+</details>
+
+<details id="f-000160171225000228">
+<summary><strong>8-K</strong> — 2025-07-22</summary>
 
 # Synchrony Financial (SYF) – 8-K Filed July 22, 2025
 
@@ -574,16 +565,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Item 2.02 triggered on July 22, 2025: Synchrony reported Q2 2025 financial results via press release; information is furnished (not filed) and therefore not subject to Section 18 Exchange Act liability.
 - Four exhibits furnished: press release (99.1), Financial Data Supplement (99.2), Financial Results Presentation (99.3), and Non-GAAP Measures explanation (99.4).
 
-### 8-K — 2025-06-20
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000160171225000200">
+<summary><strong>8-K</strong> — 2025-06-20</summary>
 
 #### Material events
 - Synchrony Financial (SYF) held its 2025 Annual Meeting on June 17, 2025; all 11 director nominees were elected, with Fernando Aguirre receiving the lowest support (274.7M for vs. 45.2M against, ~85.8% approval) and Kamila Chytil receiving the highest (319.9M for, ~99.9% approval).
@@ -591,19 +576,16 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Say-on-pay advisory vote approved named executive officer compensation with 287.7M for and 29.8M against (approximately 90.6% approval), with ~17.3M broker non-votes.
 - 8-K filed June 20, 2025 and signed by Jonathan Mothner, EVP, Chief Risk and Legal Officer.
 
-### 8-K — 2025-06-10
+</details>
+
+<details id="f-000160171225000198">
+<summary><strong>8-K</strong> — 2025-06-10</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed June 10, 2025
 
 #### Key financials
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13 months ended May 31, 2025** (Exhibit 99.1); actual data tables are not reproduced in the filing text.
 - No income statement, balance sheet, or revenue figures disclosed in this 8-K.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - Synchrony disclosed its **monthly charge-off and delinquency statistics** via Regulation FD (Item 7.01) on **June 10, 2025**, covering the period through **May 31, 2025**.
@@ -613,7 +595,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 ---
 **Analyst note for Snap Finance:** Synchrony's routine monthly credit data release is relevant as a directional read on consumer credit health in the point-of-sale/private-label financing space. Actual charge-off and delinquency rates from Exhibit 99.1 (not provided in the filing text) would be the key competitive data points to extract and monitor against Snap's own portfolio performance.
 
-### 8-K — 2025-06-09
+</details>
+
+<details id="f-000160171225000196">
+<summary><strong>8-K</strong> — 2025-06-09</summary>
 
 #### Key financials
 - None noted. This 8-K (Item 7.01 Reg FD) contains no financial statements or quantitative disclosures.
@@ -629,7 +614,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - On June 9, 2025, SYF filed an 8-K (Item 7.01) disclosing the Walmart/OnePay credit card partnership via press release (Exhibit 99.1).
 - CFO Brian J. Wenzel was scheduled to participate in a fireside chat at the Morgan Stanley US Financials Conference on June 10, 2025 at 8:15 a.m. ET, with a live webcast available at investors.synchrony.com.
 
-### 8-K — 2025-05-15
+</details>
+
+<details id="f-000160171225000153">
+<summary><strong>8-K</strong> — 2025-05-15</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed May 15, 2025
 
@@ -637,17 +625,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **thirteen months ended April 30, 2025** (Exhibit 99.1); actual data tables are in the exhibit, which is not included in the truncated text.
 - No income statement, balance sheet, or revenue figures disclosed in the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under **Item 7.01 (Regulation FD)** on May 15, 2025, furnishing its routine monthly credit-quality statistics; the filing is expressly **not "filed"** for Section 18 liability purposes and is not incorporated by reference into other filings unless explicitly stated.
 - Company confirmed it will **continue furnishing these statistics monthly**, with the final month of each calendar quarter released concurrently with quarterly earnings announcements.
 
-### 10-Q — 2025-04-24
+</details>
+
+<details id="f-000160171225000144">
+<summary><strong>10-Q</strong> — 2025-04-24</summary>
 
 #### Key financials
 - Q1 2025 net earnings were $757 million, down from $1.293 billion in Q1 2024; prior-year result included an $802 million after-tax gain on the Pets Best sale (pre-tax gain $1.1 billion recorded in Q1 2024).
@@ -672,7 +657,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Board approved a new $2.5 billion share repurchase program through June 30, 2026 (announced April 2025) after completing the prior program at March 31, 2025; quarterly common dividend increased to $0.30/share from $0.25/share starting Q2 2025.
 - Liquidity portfolio grew to $23.8 billion at March 31, 2025 from $17.2 billion at December 31, 2024, driven by deposit growth, new debt issuance, and seasonal loan receivable runoff; Federal Reserve discount window capacity stood at $11.5 billion.
 
-### 8-K — 2025-04-22
+</details>
+
+<details id="f-000160171225000139">
+<summary><strong>8-K</strong> — 2025-04-22</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed April 22, 2025
 
@@ -680,17 +668,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13 months ended March 31, 2025** (Exhibit 99.1); actual data tables are in the exhibit, which is not reproduced in the filing text.
 - No income statement, balance sheet, or EPS figures are included in this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony disclosed (under **Item 7.01, Regulation FD**) its routine monthly credit-quality statistics as of **March 31, 2025**; the company states it will continue furnishing these statistics monthly, with the final month of each quarter released concurrently with quarterly earnings.
 - Filing signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer, on **April 22, 2025**; data is furnished (not "filed") and therefore not subject to Section 18 Exchange Act liability.
 
-### 8-K — 2025-04-22
+</details>
+
+<details id="f-000160171225000138">
+<summary><strong>8-K</strong> — 2025-04-22</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed April 22, 2025
 
@@ -708,7 +693,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - On April 22, 2025, Synchrony Financial issued its Q1 2025 earnings press release (Exhibit 99.1), accompanied by a Financial Data Supplement and a Financial Results Presentation (Exhibits 99.2 and 99.3) for the quarter ended March 31, 2025.
 - The filing was signed by Jonathan Mothner, Executive Vice President, Chief Risk and Legal Officer, on April 22, 2025; filed under Item 2.02 (Results of Operations) and Item 9.01 (Financial Statements and Exhibits).
 
-### 8-K — 2025-03-17
+</details>
+
+<details id="f-000160171225000114">
+<summary><strong>8-K</strong> — 2025-03-17</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed March 17, 2025
 
@@ -720,14 +708,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Synchrony is a broad-based consumer credit/private-label card issuer; monthly charge-off and delinquency trends are a direct read-through to credit quality at point-of-sale financing competitors including lease-to-own and BNPL players.
 - No segment-specific commentary or partner/retailer disclosures were included in this filing.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony confirmed it will **continue furnishing monthly charge-off and delinquency statistics**, with the caveat that end-of-quarter months will be released concurrently with quarterly earnings announcements.
 - Filing signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer, on **March 17, 2025**; data furnished under Item 7.01 (Regulation FD) and is expressly **not "filed"** for Section 18 liability purposes.
 
-### 8-K — 2025-03-06
+</details>
+
+<details id="f-000119312525048508">
+<summary><strong>8-K</strong> — 2025-03-06</summary>
 
 #### Key financials
 - Synchrony Financial priced a public debt offering of **$800,000,000** aggregate principal amount of **5.450% Fixed-to-Floating Rate Senior Notes due 2031**, per underwriting agreement dated **March 3, 2025**.
@@ -737,14 +725,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Synchrony (SYF) is a major point-of-sale/consumer financing competitor to Snap Finance, operating across home, auto, health, and retail verticals; this capital raise increases its funding capacity and financial flexibility.
 - Underwriters were **J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC, and RBC Capital Markets, LLC**, indicating broad institutional demand for Synchrony's debt.
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **March 3, 2025**, Synchrony entered into the Underwriting Agreement for the $800M notes offering; closing and issuance settled **March 6, 2025**.
 - The fixed-to-floating rate structure introduces rate reset risk post the fixed-rate period, potentially affecting Synchrony's cost of funds as benchmark rates shift post-2031.
 
-### 8-K — 2025-02-10
+</details>
+
+<details id="f-000160171225000046">
+<summary><strong>8-K</strong> — 2025-02-10</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed February 10, 2025
 
@@ -752,18 +740,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing discloses monthly charge-off and delinquency statistics covering the thirteen months ended January 31, 2025 (Exhibit 99.1); specific rate figures are contained in the exhibit, which is not reproduced in the filing text provided.
 - No income statement, balance sheet, or revenue figures were included in the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under Item 7.01 (Regulation FD) on February 10, 2025, furnishing monthly credit quality statistics (charge-off and delinquency rates) as of and for each of the thirteen months ended January 31, 2025.
 - Company confirmed it intends to continue furnishing these statistics monthly, with the final month of each calendar quarter released concurrently with quarterly earnings announcements.
 - Filing signed by Jonathan Mothner, Executive Vice President, Chief Risk and Legal Officer, indicating routine disclosure governance rather than a significant corporate event.
 
-### 10-K — 2025-02-07
+</details>
+
+<details id="f-000160171225000044">
+<summary><strong>10-K</strong> — 2025-02-07</summary>
 
 #### Key financials
 - FY2024 purchase volume was $182.2 billion; total loan receivables were $104.7 billion at December 31, 2024, supporting 71.5 million active accounts.
@@ -788,7 +773,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Sam's Club program agreement extended, with renewal completed in January 2025; JCPenney program agreement extended during 2024; current expiration dates for the five largest partner programs range from 2026 through 2034.
 - Series B Preferred Stock (8.250% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock) was outstanding and listed on NYSE under ticker SYFPrB as of the filing date, representing a capital structure addition relative to prior periods that carried only Series A preferred.
 
-### 8-K — 2025-01-28
+</details>
+
+<details id="f-000160171225000042">
+<summary><strong>8-K</strong> — 2025-01-28</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed January 28, 2025
 
@@ -796,17 +784,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13-month period ended December 31, 2024** (Exhibit 99.1); underlying data not reproduced in filing text.
 - No income statement, balance sheet, or EPS figures disclosed in this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony disclosed it will **continue furnishing monthly charge-off and delinquency statistics**; for quarter-end months, data will be released concurrently with quarterly earnings announcements.
 - Filing signed by **Jonathan Mothner, EVP, Chief Risk and Legal Officer**, on **January 28, 2025**; filed under Item 7.01 (Regulation FD) and is expressly **not deemed "filed"** for Section 18 Exchange Act liability purposes.
 
-### 8-K — 2025-01-28
+</details>
+
+<details id="f-000160171225000041">
+<summary><strong>8-K</strong> — 2025-01-28</summary>
 
 ## Synchrony Financial (SYF) — 8-K Summary (Filed 2025-01-28)
 
@@ -814,18 +799,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing announces Q4 2024 earnings results via press release (Exhibit 99.1) and Financial Data Supplement (Exhibit 99.2), both dated January 28, 2025; specific financial figures are contained in the attached exhibits, not the 8-K body itself.
 - Securities outstanding include Common Stock ($0.001 par, NYSE: SYF), Series A Preferred (5.625% Fixed Rate Non-Cumulative Perpetual, NYSE: SYFPrA), and Series B Preferred (8.250% Fixed Rate Reset Non-Cumulative Perpetual, NYSE: SYFPrB).
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony Financial reported Q4 2024 earnings on January 28, 2025, filed under Item 2.02 (Results of Operations and Financial Condition); results are furnished, not "filed," and thus not subject to Section 18 Exchange Act liability.
 - Supporting materials furnished include a Financial Results Presentation (Exhibit 99.3) and an Explanation of Non-GAAP Measures (Exhibit 99.4) for the quarter ended December 31, 2024.
 - Filing was signed by Jonathan Mothner, Executive Vice President, Chief Risk and Legal Officer, on January 28, 2025.
 
-### 8-K — 2024-12-10
+</details>
+
+<details id="f-000160171224000381">
+<summary><strong>8-K</strong> — 2024-12-10</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed December 10, 2024
 
@@ -833,18 +815,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13 months ended November 30, 2024** (Exhibit 99.1); actual data tables were not included in the truncated filing text.
 - No income statement, balance sheet, or earnings figures disclosed in this filing.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **December 10, 2024**, Synchrony filed under Item 7.01 (Regulation FD) to furnish monthly credit-quality metrics (charge-off and delinquency rates) through **November 30, 2024**.
 - Company confirmed it will **continue monthly disclosure** of these statistics, with the final month of each calendar quarter released concurrently with quarterly earnings announcements.
 - Filing signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer; no other corporate actions or transactions were announced.
 
-### 8-K — 2024-11-15
+</details>
+
+<details id="f-000160171224000340">
+<summary><strong>8-K</strong> — 2024-11-15</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed November 15, 2024
 
@@ -852,18 +831,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13 months ended October 31, 2024** (Exhibit 99.1); specific rate figures are contained in the exhibit, which is not included in the truncated text.
 - No income statement, balance sheet, or earnings figures disclosed in the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under **Item 7.01 (Regulation FD)** on **November 15, 2024**, disclosing monthly credit-quality statistics; the data is furnished (not filed) and therefore not subject to Section 18 liability.
 - Company confirms it will **continue furnishing these statistics monthly**, with the final month of each calendar quarter released concurrently with quarterly earnings announcements.
 - Filing signed by **Jonathan Mothner**, EVP, Chief Risk and Legal Officer, indicating routine credit-monitoring disclosure rather than a strategic or operational event.
 
-### 10-Q — 2024-10-23
+</details>
+
+<details id="f-000160171224000336">
+<summary><strong>10-Q</strong> — 2024-10-23</summary>
 
 #### Key financials
 - Q3 2024 net earnings: $789M vs. $628M in Q3 2023 (+25.6%); YTD net earnings: $2.725B vs. $1.798B, boosted by $802M after-tax gain on Pets Best sale (March 2024).
@@ -888,7 +864,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - **Capital return**: YTD September 30, 2024, repurchased $900M in common stock; declared/paid $301M in common dividends ($0.75/share); Board approved incremental $1.0B buyback program in April 2024 through June 30, 2025; $700M of authorization remaining at September 30, 2024.
 - **Series B preferred stock** (8.250% fixed rate reset non-cumulative perpetual): issued during 2024 (first appears in Q2 2024 equity roll-forward); dividends paid on both Series A and Series B totaled $51M in 9M 2024.
 
-### 8-K — 2024-10-16
+</details>
+
+<details id="f-000160171224000334">
+<summary><strong>8-K</strong> — 2024-10-16</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed October 16, 2024
 
@@ -896,17 +875,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13 months ended September 30, 2024** (Exhibit 99.1); underlying data tables were not included in the truncated filing text.
 - No income statement, balance sheet, or EPS figures were disclosed in this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony disclosed via **Item 7.01 (Regulation FD)** its routine monthly credit-quality data release; the filing is expressly **not "filed"** under Section 18 of the Exchange Act and carries no Section 18 liability.
 - The company stated it will **continue furnishing these statistics monthly**, with the final month of each calendar quarter released concurrently with quarterly earnings — a practice relevant to monitoring consumer credit trends at a major point-of-sale lender competing with Snap Finance.
 
-### 8-K — 2024-10-16
+</details>
+
+<details id="f-000160171224000333">
+<summary><strong>8-K</strong> — 2024-10-16</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed October 16, 2024
 
@@ -914,36 +890,27 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing references Q3 2024 earnings press release (Exhibit 99.1) and Financial Data Supplement for the quarter ended September 30, 2024 (Exhibit 99.2), but no specific financial figures are included in the 8-K body text itself.
 - None of the attached exhibits (99.1–99.4) were reproduced in the truncated filing text provided; quantitative results are not extractable from this document.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On October 16, 2024, Synchrony Financial issued a Q3 2024 earnings press release, filed as Exhibit 99.1 under Item 2.02 (Results of Operations and Financial Condition).
 - Supporting materials furnished alongside the press release include a Financial Data Supplement (Exhibit 99.2), a Financial Results Presentation (Exhibit 99.3), and an Explanation of Non-GAAP Measures (Exhibit 99.4), all for the quarter ended September 30, 2024.
 - The 8-K was signed by Jonathan Mothner, Executive Vice President, Chief Risk and Legal Officer, on October 16, 2024; exhibits are furnished (not "filed") and therefore not subject to Section 18 Exchange Act liability.
 
-### 8-K — 2024-09-17
+</details>
+
+<details id="f-000160171224000310">
+<summary><strong>8-K</strong> — 2024-09-17</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed 2024-09-17
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On September 12, 2024, Synchrony Financial's Board elected Daniel Colao as a new independent director, effective October 1, 2024.
 - Colao was appointed to both the Risk Committee and Technology Committee; total annual compensation set at $265,000 ($100,000 cash + $165,000 in RSUs), plus $20,000 cash for Risk Committee service and $15,000 cash for Technology Committee service.
 - Colao entered into the company's standard indemnification agreement covering indemnification and expense advancement rights consistent with Synchrony's bylaws.
 
-### 8-K — 2024-09-09
+</details>
+
+<details id="f-000160171224000308">
+<summary><strong>8-K</strong> — 2024-09-09</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed September 9, 2024
 
@@ -951,18 +918,15 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing discloses monthly charge-off and delinquency statistics covering the **13 months ended August 31, 2024** (Exhibit 99.1); actual data tables are in the exhibit, which is not reproduced in the filing text.
 - No income statement, balance sheet, or revenue figures are presented in the body of this 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony furnished (not filed) its **Monthly Charge-Off and Delinquency Statistics** under Item 7.01 (Regulation FD) on **September 9, 2024**, covering data through **August 31, 2024**.
 - Company states it will continue publishing these statistics **monthly**, with the final month of each calendar quarter released concurrently with quarterly earnings announcements.
 - Filing signed by **Jonathan Mothner**, Executive Vice President, Chief Risk and Legal Officer; securities registered include common stock (SYF), Series A preferred (5.625%, SYFPrA), and Series B preferred (8.250% fixed rate reset, SYFPrB), all on the NYSE.
 
-### 8-K — 2024-08-15
+</details>
+
+<details id="f-000160171224000268">
+<summary><strong>8-K</strong> — 2024-08-15</summary>
 
 ## Synchrony Financial (SYF) — 8-K Filed August 15, 2024
 
@@ -970,34 +934,28 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13-month period ended July 31, 2024** (Exhibit 99.1); actual data tables were not included in the filing text provided.
 - No income statement, balance sheet, or revenue figures disclosed in this filing.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Synchrony filed under **Item 7.01 (Regulation FD)** on **August 15, 2024**, furnishing monthly credit quality metrics (charge-off and delinquency rates) as part of its ongoing monthly disclosure practice.
 - Company confirmed it will **continue monthly disclosures**, with the final month of each calendar quarter published concurrently with quarterly earnings announcements; data is furnished, not filed, and thus not subject to Section 18 liability.
 
-### 8-K — 2024-08-02
+</details>
+
+<details id="f-000119312524192917">
+<summary><strong>8-K</strong> — 2024-08-02</summary>
 
 #### Key financials
 - Synchrony Financial priced a $750,000,000 aggregate principal amount senior notes offering on July 30, 2024, with settlement/closing dated August 2, 2024.
 - Notes carry a 5.935% Fixed-to-Floating Rate and mature in 2030; underwriters were Barclays Capital, BofA Securities, and Mizuho Securities USA.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On July 30, 2024, Synchrony entered an Underwriting Agreement for the public offering of $750M in senior notes under Registration Statement No. 333-266264.
 - The Twelfth Supplemental Indenture was executed August 2, 2024, with The Bank of New York Mellon as trustee, governing the new notes under the Base Indenture originally dated August 11, 2014.
 - Legal validity opinion provided by Sidley Austin LLP, incorporated by reference into the Registration Statement (filed as Exhibit 5.1).
 
-### 10-Q — 2024-07-19
+</details>
+
+<details id="f-000160171224000250">
+<summary><strong>10-Q</strong> — 2024-07-19</summary>
 
 #### Key financials
 - **Q2 2024 net earnings** rose to $643M from $569M (+13.0% YoY); H1 2024 net earnings were $1.936B vs. $1.170B, boosted by an $802M after-tax gain on the Pets Best sale in March 2024.
@@ -1018,16 +976,16 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - **Ally Lending acquisition closed March 1, 2024** for $2.0B cash; acquired ~$2.2B unpaid principal balance of consumer installment loans (primarily home improvement and health/wellness POS financing); added $180M to reserve build in H1 2024.
 - **Pets Best sale completed March 2024:** Synchrony sold its pet insurance subsidiary to Independence Pet Holdings, Inc. for cash plus an equity stake, recognizing a pre-tax gain of $1.1B ($802M net of tax); Synchrony retained an equity interest in Independence Pet Holdings valued on the balance sheet at June 30, 2024.
 
-### 8-K — 2024-07-17
+</details>
+
+<details id="f-000160171224000248">
+<summary><strong>8-K</strong> — 2024-07-17</summary>
 
 ## Synchrony Financial (SYF) – 8-K Filed July 17, 2024
 
 #### Key financials
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13-month period ended June 30, 2024** (Exhibit 99.1); detailed figures are in the attached exhibit, not reproduced in the filing text.
 - No income statement, balance sheet, or revenue figures disclosed in the body of this 8-K.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - None noted; no new or amended risk factors disclosed in this filing.
@@ -1036,7 +994,10 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - Synchrony filed under **Item 7.01 (Regulation FD)** on **July 17, 2024** to furnish monthly credit quality data; the data is not deemed "filed" for Section 18 liability purposes.
 - Company states it will **continue furnishing these statistics monthly**, with the final month of each calendar quarter released concurrently with quarterly earnings results, signaling an ongoing disclosure cadence relevant for monitoring consumer credit deterioration trends.
 
-### 8-K — 2024-07-17
+</details>
+
+<details id="f-000160171224000247">
+<summary><strong>8-K</strong> — 2024-07-17</summary>
 
 #### Key financials
 - Filing references Q2 2024 earnings press release (Exhibit 99.1) and Financial Data Supplement for quarter ended June 30, 2024, but no specific financial figures are included in the 8-K body text itself.
@@ -1052,18 +1013,14 @@ _Updated: June 15, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 - On July 17, 2024, Synchrony Financial (ticker: SYF; CIK: 0001601712) filed an 8-K under Item 2.02 to report Q2 2024 results of operations and financial condition.
 - Filing was signed by Jonathan Mothner, EVP and Chief Risk and Legal Officer, on July 17, 2024; four exhibits furnished (press release, financial data supplement, results presentation, and non-GAAP explanation).
 
-### 8-K — 2024-07-01
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000160171224000229">
+<summary><strong>8-K</strong> — 2024-07-01</summary>
 
 #### Material events
 - David P. Melito, Chief Accounting Officer and Controller of Synchrony Financial (SYF), retired effective July 2, 2024; CFO Brian J. Wenzel, Sr. assumed the interim principal accounting officer role through July 31, 2024 with no additional compensation.
 - Amy Tiliakos, age 42, appointed Senior Vice President, Chief Accounting Officer and Controller effective August 1, 2024; joining from American Express, where she most recently served as U.S. Regulatory Reporting Vice President (2023–2024).
 - Tiliakos will receive an annual base salary, eligibility for equity and non-equity incentive compensation under SYF's 2024 Long-Term Incentive Plan and Annual Incentive Plan, and sign-on awards (cash and equity) to offset forfeited compensation from American Express.
+
+</details>

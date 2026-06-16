@@ -96,18 +96,22 @@ def render_news_page(row: dict, sidecar: dict, today: dt.date) -> tuple[dict, st
     parts += [
         "## Coverage",
         "",
-        "| Date | Source | Headline |",
-        "| --- | --- | --- |",
+        "| Date | Signal | Source | Headline |",
+        "| --- | --- | --- | --- |",
     ]
     for r in items:
         date = r.get("published") or "—"
         src = r.get("source") or "—"
         tag = " · PR" if r.get("feed") == "pr" else ""
+        sig = r.get("significance") or "—"
         headline = f"[{_cell(r.get('title',''))}]({r.get('url','')})"
-        parts.append(f"| {_cell(date)} | {_cell(src)}{tag} | {headline} |")
+        parts.append(f"| {_cell(date)} | {sig} | {_cell(src)}{tag} | {headline} |")
     parts.append("")
 
-    summarized = [r for r in items if r.get("summary")]
+    # Coverage notes only for material (high/medium) items — low-signal stock
+    # chatter stays in the table above but doesn't clutter the read-through.
+    summarized = [r for r in items
+                  if r.get("summary") and r.get("significance") in ("high", "medium")]
     if summarized:
         parts += ["## Coverage notes", ""]
         for r in summarized:
@@ -188,13 +192,24 @@ def _process_competitor(row: dict, news_client: "nf.NewsClient", anthropic_clien
         except Exception as e:
             print(f"\n    ! PR feed failed for {slug}: {e}", end="")
 
-    items = nf.sort_newest_first(nf.dedupe(items))
+    items = [it for it in nf.sort_newest_first(nf.dedupe(items)) if not nf.is_noise(it)]
     if len(items) > max_items:
         print(f"\n    · {slug}: capping {len(items)} -> {max_items} most recent", end="")
         items = items[:max_items]
     print(f"  · {title}: {len(items)} items", end=" ")
 
     sidecar = nf.merge_sidecar(sidecar, slug, items)
+    # Prune any previously-stored deny-listed noise so re-runs clean history.
+    sidecar["items"] = {
+        iid: r for iid, r in sidecar.get("items", {}).items()
+        if not nf.is_noise(nf.NewsItem(
+            title=r.get("title", ""), url=r.get("url", ""), source=r.get("source", ""),
+            published=r.get("published", ""), feed=r.get("feed", "")))
+    }
+    # Backfill the structured significance tag from any existing summaries.
+    for r in sidecar["items"].values():
+        if r.get("summary") and not r.get("significance"):
+            r["significance"] = nf.parse_significance(r["summary"])
 
     if use_api and anthropic_client and not dry_run:
         new_count = 0
@@ -206,6 +221,7 @@ def _process_competitor(row: dict, news_client: "nf.NewsClient", anthropic_clien
                 summary = summarize_item(anthropic_client, title,
                                          sidecar["items"][iid])
                 sidecar["items"][iid]["summary"] = summary
+                sidecar["items"][iid]["significance"] = nf.parse_significance(summary)
                 new_count += 1
             except Exception as e:
                 print(f"\n    ! summary failed for {iid}: {e}", end="")

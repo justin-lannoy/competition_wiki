@@ -17,63 +17,66 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-05-13 | 2026-05-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000075/sezl-20260513.htm) | [file](../../sec-filings/sezzle-inc/2026-05-13_8-K_0001662991-26-000075.htm) |
-| 8-K | 2026-05-12 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000071/sezl-20260507.htm) | [file](../../sec-filings/sezzle-inc/2026-05-12_8-K_0001662991-26-000071.htm) |
-| 10-Q | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000065/szl-20260331.htm) | [file](../../sec-filings/sezzle-inc/2026-05-07_10-Q_0001662991-26-000065.htm) |
-| 8-K | 2026-05-06 | 2026-05-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000064/sezl-20260506.htm) | [file](../../sec-filings/sezzle-inc/2026-05-06_8-K_0001662991-26-000064.htm) |
-| 8-K | 2026-04-15 | 2026-04-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000058/sezl-20260415.htm) | [file](../../sec-filings/sezzle-inc/2026-04-15_8-K_0001662991-26-000058.htm) |
-| 8-K | 2026-04-09 | 2026-04-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000056/sezl-20260403.htm) | [file](../../sec-filings/sezzle-inc/2026-04-09_8-K_0001662991-26-000056.htm) |
-| 8-K | 2026-03-20 | 2026-03-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000036/sezl-20260316.htm) | [file](../../sec-filings/sezzle-inc/2026-03-20_8-K_0001662991-26-000036.htm) |
-| 8-K | 2026-03-06 | 2026-03-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000032/sezl-20260306.htm) | [file](../../sec-filings/sezzle-inc/2026-03-06_8-K_0001662991-26-000032.htm) |
-| 10-K | 2026-02-26 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000016/szl-20251231.htm) | [file](../../sec-filings/sezzle-inc/2026-02-26_10-K_0001662991-26-000016.htm) |
-| 8-K | 2026-02-25 | 2026-02-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000014/sezl-20260219.htm) | [file](../../sec-filings/sezzle-inc/2026-02-25_8-K_0001662991-26-000014.htm) |
-| 8-K | 2026-02-02 | 2026-02-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000008/sezl-20260202.htm) | [file](../../sec-filings/sezzle-inc/2026-02-02_8-K_0001662991-26-000008.htm) |
-| 8-K | 2026-01-29 | 2026-01-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000006/sezl-20260123.htm) | [file](../../sec-filings/sezzle-inc/2026-01-29_8-K_0001662991-26-000006.htm) |
-| 8-K | 2025-12-15 | 2025-12-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000276/sezl-20251212.htm) | [file](../../sec-filings/sezzle-inc/2025-12-15_8-K_0001662991-25-000276.htm) |
-| 8-K | 2025-11-14 | 2025-11-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000274/sezl-20251114.htm) | [file](../../sec-filings/sezzle-inc/2025-11-14_8-K_0001662991-25-000274.htm) |
-| 10-Q | 2025-11-06 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000257/szl-20250930.htm) | [file](../../sec-filings/sezzle-inc/2025-11-06_10-Q_0001662991-25-000257.htm) |
-| 8-K | 2025-11-05 | 2025-11-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000255/szl-20251105.htm) | [file](../../sec-filings/sezzle-inc/2025-11-05_8-K_0001662991-25-000255.htm) |
-| 8-K | 2025-10-21 | 2025-10-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000253/szl-20251021.htm) | [file](../../sec-filings/sezzle-inc/2025-10-21_8-K_0001662991-25-000253.htm) |
-| 8-K | 2025-08-11 | 2025-08-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000217/szl-20250811.htm) | [file](../../sec-filings/sezzle-inc/2025-08-11_8-K_0001662991-25-000217.htm) |
-| 10-Q | 2025-08-08 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000215/szl-20250630.htm) | [file](../../sec-filings/sezzle-inc/2025-08-08_10-Q_0001662991-25-000215.htm) |
-| 8-K | 2025-08-07 | 2025-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000213/szl-20250807.htm) | [file](../../sec-filings/sezzle-inc/2025-08-07_8-K_0001662991-25-000213.htm) |
-| 8-K | 2025-08-04 | 2025-07-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000209/szl-20250731.htm) | [file](../../sec-filings/sezzle-inc/2025-08-04_8-K_0001662991-25-000209.htm) |
-| 8-K | 2025-07-22 | 2025-07-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000203/szl-20250721.htm) | [file](../../sec-filings/sezzle-inc/2025-07-22_8-K_0001662991-25-000203.htm) |
-| 8-K | 2025-06-13 | 2025-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000145/szl-20250610.htm) | [file](../../sec-filings/sezzle-inc/2025-06-13_8-K_0001662991-25-000145.htm) |
-| 8-K | 2025-06-11 | 2025-06-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000138/szl-20250611.htm) | [file](../../sec-filings/sezzle-inc/2025-06-11_8-K_0001662991-25-000138.htm) |
-| 8-K | 2025-06-11 | 2025-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000136/szl-20250610.htm) | [file](../../sec-filings/sezzle-inc/2025-06-11_8-K_0001662991-25-000136.htm) |
-| 8-K | 2025-06-09 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000132/szl-20250609.htm) | [file](../../sec-filings/sezzle-inc/2025-06-09_8-K_0001662991-25-000132.htm) |
-| 8-K | 2025-05-09 | 2025-05-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000090/szl-20250509.htm) | [file](../../sec-filings/sezzle-inc/2025-05-09_8-K_0001662991-25-000090.htm) |
-| 10-Q | 2025-05-08 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000085/szl-20250331.htm) | [file](../../sec-filings/sezzle-inc/2025-05-08_10-Q_0001662991-25-000085.htm) |
-| 8-K | 2025-05-07 | 2025-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000084/szl-20250507.htm) | [file](../../sec-filings/sezzle-inc/2025-05-07_8-K_0001662991-25-000084.htm) |
-| 8-K | 2025-04-30 | 2025-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000080/szl-20250430.htm) | [file](../../sec-filings/sezzle-inc/2025-04-30_8-K_0001662991-25-000080.htm) |
-| 8-K | 2025-04-14 | 2025-04-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000076/szl-20250414.htm) | [file](../../sec-filings/sezzle-inc/2025-04-14_8-K_0001662991-25-000076.htm) |
-| 8-K | 2025-03-24 | 2025-03-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000062/szl-20250320.htm) | [file](../../sec-filings/sezzle-inc/2025-03-24_8-K_0001662991-25-000062.htm) |
-| 8-K | 2025-03-10 | 2025-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000045/szl-20250310.htm) | [file](../../sec-filings/sezzle-inc/2025-03-10_8-K_0001662991-25-000045.htm) |
-| 10-K | 2025-02-27 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000041/szl-20241231.htm) | [file](../../sec-filings/sezzle-inc/2025-02-27_10-K_0001662991-25-000041.htm) |
-| 8-K | 2025-02-25 | 2025-02-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000038/szl-20250225.htm) | [file](../../sec-filings/sezzle-inc/2025-02-25_8-K_0001662991-25-000038.htm) |
-| 8-K | 2025-02-12 | 2025-02-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000034/szl-20250212.htm) | [file](../../sec-filings/sezzle-inc/2025-02-12_8-K_0001662991-25-000034.htm) |
-| 8-K | 2025-02-06 | 2024-04-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000029/szl-20240401.htm) | [file](../../sec-filings/sezzle-inc/2025-02-06_8-K_0001662991-25-000029.htm) |
-| 8-K | 2025-01-15 | 2025-01-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000021/szl-20250115.htm) | [file](../../sec-filings/sezzle-inc/2025-01-15_8-K_0001662991-25-000021.htm) |
-| 8-K | 2024-11-22 | 2024-11-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000308/szl-20241119.htm) | [file](../../sec-filings/sezzle-inc/2024-11-22_8-K_0001662991-24-000308.htm) |
-| 8-K | 2024-11-19 | 2024-11-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000302/szl-20241119.htm) | [file](../../sec-filings/sezzle-inc/2024-11-19_8-K_0001662991-24-000302.htm) |
-| 8-K | 2024-11-12 | 2024-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000296/szl-20241112.htm) | [file](../../sec-filings/sezzle-inc/2024-11-12_8-K_0001662991-24-000296.htm) |
-| 10-Q | 2024-11-08 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000294/szl-20240930.htm) | [file](../../sec-filings/sezzle-inc/2024-11-08_10-Q_0001662991-24-000294.htm) |
-| 8-K | 2024-11-07 | 2024-11-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000292/szl-20241107.htm) | [file](../../sec-filings/sezzle-inc/2024-11-07_8-K_0001662991-24-000292.htm) |
-| 8-K | 2024-10-18 | 2024-10-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000290/szl-20241015.htm) | [file](../../sec-filings/sezzle-inc/2024-10-18_8-K_0001662991-24-000290.htm) |
-| 8-K | 2024-10-17 | 2024-10-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000287/szl-20241017.htm) | [file](../../sec-filings/sezzle-inc/2024-10-17_8-K_0001662991-24-000287.htm) |
-| 8-K | 2024-10-02 | 2024-09-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000273/szl-20240926.htm) | [file](../../sec-filings/sezzle-inc/2024-10-02_8-K_0001662991-24-000273.htm) |
-| 8-K | 2024-08-28 | 2024-08-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000242/szl-20240826.htm) | [file](../../sec-filings/sezzle-inc/2024-08-28_8-K_0001662991-24-000242.htm) |
-| 8-K | 2024-08-13 | 2024-08-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000234/szl-20240813.htm) | [file](../../sec-filings/sezzle-inc/2024-08-13_8-K_0001662991-24-000234.htm) |
-| 10-Q | 2024-08-08 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000226/szl-20240630.htm) | [file](../../sec-filings/sezzle-inc/2024-08-08_10-Q_0001662991-24-000226.htm) |
-| 8-K | 2024-08-07 | 2024-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000224/szl-20240807.htm) | [file](../../sec-filings/sezzle-inc/2024-08-07_8-K_0001662991-24-000224.htm) |
-| 8-K | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000212/szl-20240725.htm) | [file](../../sec-filings/sezzle-inc/2024-07-25_8-K_0001662991-24-000212.htm) |
-| 8-K | 2024-07-22 | 2024-07-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000205/szl-20240718.htm) | [file](../../sec-filings/sezzle-inc/2024-07-22_8-K_0001662991-24-000205.htm) |
-| 8-K | 2024-06-24 | 2024-06-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000176/szl-20240619.htm) | [file](../../sec-filings/sezzle-inc/2024-06-24_8-K_0001662991-24-000176.htm) |
+| [8-K](#f-000166299126000075) | 2026-05-13 | 2026-05-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000075/sezl-20260513.htm) | [file](../../sec-filings/sezzle-inc/2026-05-13_8-K_0001662991-26-000075.htm) |
+| [8-K](#f-000166299126000071) | 2026-05-12 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000071/sezl-20260507.htm) | [file](../../sec-filings/sezzle-inc/2026-05-12_8-K_0001662991-26-000071.htm) |
+| [10-Q](#f-000166299126000065) | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000065/szl-20260331.htm) | [file](../../sec-filings/sezzle-inc/2026-05-07_10-Q_0001662991-26-000065.htm) |
+| [8-K](#f-000166299126000064) | 2026-05-06 | 2026-05-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000064/sezl-20260506.htm) | [file](../../sec-filings/sezzle-inc/2026-05-06_8-K_0001662991-26-000064.htm) |
+| [8-K](#f-000166299126000058) | 2026-04-15 | 2026-04-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000058/sezl-20260415.htm) | [file](../../sec-filings/sezzle-inc/2026-04-15_8-K_0001662991-26-000058.htm) |
+| [8-K](#f-000166299126000056) | 2026-04-09 | 2026-04-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000056/sezl-20260403.htm) | [file](../../sec-filings/sezzle-inc/2026-04-09_8-K_0001662991-26-000056.htm) |
+| [8-K](#f-000166299126000036) | 2026-03-20 | 2026-03-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000036/sezl-20260316.htm) | [file](../../sec-filings/sezzle-inc/2026-03-20_8-K_0001662991-26-000036.htm) |
+| [8-K](#f-000166299126000032) | 2026-03-06 | 2026-03-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000032/sezl-20260306.htm) | [file](../../sec-filings/sezzle-inc/2026-03-06_8-K_0001662991-26-000032.htm) |
+| [10-K](#f-000166299126000016) | 2026-02-26 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000016/szl-20251231.htm) | [file](../../sec-filings/sezzle-inc/2026-02-26_10-K_0001662991-26-000016.htm) |
+| [8-K](#f-000166299126000014) | 2026-02-25 | 2026-02-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000014/sezl-20260219.htm) | [file](../../sec-filings/sezzle-inc/2026-02-25_8-K_0001662991-26-000014.htm) |
+| [8-K](#f-000166299126000008) | 2026-02-02 | 2026-02-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000008/sezl-20260202.htm) | [file](../../sec-filings/sezzle-inc/2026-02-02_8-K_0001662991-26-000008.htm) |
+| [8-K](#f-000166299126000006) | 2026-01-29 | 2026-01-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000006/sezl-20260123.htm) | [file](../../sec-filings/sezzle-inc/2026-01-29_8-K_0001662991-26-000006.htm) |
+| [8-K](#f-000166299125000276) | 2025-12-15 | 2025-12-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000276/sezl-20251212.htm) | [file](../../sec-filings/sezzle-inc/2025-12-15_8-K_0001662991-25-000276.htm) |
+| [8-K](#f-000166299125000274) | 2025-11-14 | 2025-11-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000274/sezl-20251114.htm) | [file](../../sec-filings/sezzle-inc/2025-11-14_8-K_0001662991-25-000274.htm) |
+| [10-Q](#f-000166299125000257) | 2025-11-06 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000257/szl-20250930.htm) | [file](../../sec-filings/sezzle-inc/2025-11-06_10-Q_0001662991-25-000257.htm) |
+| [8-K](#f-000166299125000255) | 2025-11-05 | 2025-11-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000255/szl-20251105.htm) | [file](../../sec-filings/sezzle-inc/2025-11-05_8-K_0001662991-25-000255.htm) |
+| [8-K](#f-000166299125000253) | 2025-10-21 | 2025-10-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000253/szl-20251021.htm) | [file](../../sec-filings/sezzle-inc/2025-10-21_8-K_0001662991-25-000253.htm) |
+| [8-K](#f-000166299125000217) | 2025-08-11 | 2025-08-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000217/szl-20250811.htm) | [file](../../sec-filings/sezzle-inc/2025-08-11_8-K_0001662991-25-000217.htm) |
+| [10-Q](#f-000166299125000215) | 2025-08-08 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000215/szl-20250630.htm) | [file](../../sec-filings/sezzle-inc/2025-08-08_10-Q_0001662991-25-000215.htm) |
+| [8-K](#f-000166299125000213) | 2025-08-07 | 2025-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000213/szl-20250807.htm) | [file](../../sec-filings/sezzle-inc/2025-08-07_8-K_0001662991-25-000213.htm) |
+| [8-K](#f-000166299125000209) | 2025-08-04 | 2025-07-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000209/szl-20250731.htm) | [file](../../sec-filings/sezzle-inc/2025-08-04_8-K_0001662991-25-000209.htm) |
+| [8-K](#f-000166299125000203) | 2025-07-22 | 2025-07-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000203/szl-20250721.htm) | [file](../../sec-filings/sezzle-inc/2025-07-22_8-K_0001662991-25-000203.htm) |
+| [8-K](#f-000166299125000145) | 2025-06-13 | 2025-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000145/szl-20250610.htm) | [file](../../sec-filings/sezzle-inc/2025-06-13_8-K_0001662991-25-000145.htm) |
+| [8-K](#f-000166299125000138) | 2025-06-11 | 2025-06-11 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000138/szl-20250611.htm) | [file](../../sec-filings/sezzle-inc/2025-06-11_8-K_0001662991-25-000138.htm) |
+| [8-K](#f-000166299125000136) | 2025-06-11 | 2025-06-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000136/szl-20250610.htm) | [file](../../sec-filings/sezzle-inc/2025-06-11_8-K_0001662991-25-000136.htm) |
+| [8-K](#f-000166299125000132) | 2025-06-09 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000132/szl-20250609.htm) | [file](../../sec-filings/sezzle-inc/2025-06-09_8-K_0001662991-25-000132.htm) |
+| [8-K](#f-000166299125000090) | 2025-05-09 | 2025-05-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000090/szl-20250509.htm) | [file](../../sec-filings/sezzle-inc/2025-05-09_8-K_0001662991-25-000090.htm) |
+| [10-Q](#f-000166299125000085) | 2025-05-08 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000085/szl-20250331.htm) | [file](../../sec-filings/sezzle-inc/2025-05-08_10-Q_0001662991-25-000085.htm) |
+| [8-K](#f-000166299125000084) | 2025-05-07 | 2025-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000084/szl-20250507.htm) | [file](../../sec-filings/sezzle-inc/2025-05-07_8-K_0001662991-25-000084.htm) |
+| [8-K](#f-000166299125000080) | 2025-04-30 | 2025-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000080/szl-20250430.htm) | [file](../../sec-filings/sezzle-inc/2025-04-30_8-K_0001662991-25-000080.htm) |
+| [8-K](#f-000166299125000076) | 2025-04-14 | 2025-04-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000076/szl-20250414.htm) | [file](../../sec-filings/sezzle-inc/2025-04-14_8-K_0001662991-25-000076.htm) |
+| [8-K](#f-000166299125000062) | 2025-03-24 | 2025-03-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000062/szl-20250320.htm) | [file](../../sec-filings/sezzle-inc/2025-03-24_8-K_0001662991-25-000062.htm) |
+| [8-K](#f-000166299125000045) | 2025-03-10 | 2025-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000045/szl-20250310.htm) | [file](../../sec-filings/sezzle-inc/2025-03-10_8-K_0001662991-25-000045.htm) |
+| [10-K](#f-000166299125000041) | 2025-02-27 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000041/szl-20241231.htm) | [file](../../sec-filings/sezzle-inc/2025-02-27_10-K_0001662991-25-000041.htm) |
+| [8-K](#f-000166299125000038) | 2025-02-25 | 2025-02-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000038/szl-20250225.htm) | [file](../../sec-filings/sezzle-inc/2025-02-25_8-K_0001662991-25-000038.htm) |
+| [8-K](#f-000166299125000034) | 2025-02-12 | 2025-02-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000034/szl-20250212.htm) | [file](../../sec-filings/sezzle-inc/2025-02-12_8-K_0001662991-25-000034.htm) |
+| [8-K](#f-000166299125000029) | 2025-02-06 | 2024-04-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000029/szl-20240401.htm) | [file](../../sec-filings/sezzle-inc/2025-02-06_8-K_0001662991-25-000029.htm) |
+| [8-K](#f-000166299125000021) | 2025-01-15 | 2025-01-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299125000021/szl-20250115.htm) | [file](../../sec-filings/sezzle-inc/2025-01-15_8-K_0001662991-25-000021.htm) |
+| [8-K](#f-000166299124000308) | 2024-11-22 | 2024-11-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000308/szl-20241119.htm) | [file](../../sec-filings/sezzle-inc/2024-11-22_8-K_0001662991-24-000308.htm) |
+| [8-K](#f-000166299124000302) | 2024-11-19 | 2024-11-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000302/szl-20241119.htm) | [file](../../sec-filings/sezzle-inc/2024-11-19_8-K_0001662991-24-000302.htm) |
+| [8-K](#f-000166299124000296) | 2024-11-12 | 2024-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000296/szl-20241112.htm) | [file](../../sec-filings/sezzle-inc/2024-11-12_8-K_0001662991-24-000296.htm) |
+| [10-Q](#f-000166299124000294) | 2024-11-08 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000294/szl-20240930.htm) | [file](../../sec-filings/sezzle-inc/2024-11-08_10-Q_0001662991-24-000294.htm) |
+| [8-K](#f-000166299124000292) | 2024-11-07 | 2024-11-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000292/szl-20241107.htm) | [file](../../sec-filings/sezzle-inc/2024-11-07_8-K_0001662991-24-000292.htm) |
+| [8-K](#f-000166299124000290) | 2024-10-18 | 2024-10-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000290/szl-20241015.htm) | [file](../../sec-filings/sezzle-inc/2024-10-18_8-K_0001662991-24-000290.htm) |
+| [8-K](#f-000166299124000287) | 2024-10-17 | 2024-10-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000287/szl-20241017.htm) | [file](../../sec-filings/sezzle-inc/2024-10-17_8-K_0001662991-24-000287.htm) |
+| [8-K](#f-000166299124000273) | 2024-10-02 | 2024-09-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000273/szl-20240926.htm) | [file](../../sec-filings/sezzle-inc/2024-10-02_8-K_0001662991-24-000273.htm) |
+| [8-K](#f-000166299124000242) | 2024-08-28 | 2024-08-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000242/szl-20240826.htm) | [file](../../sec-filings/sezzle-inc/2024-08-28_8-K_0001662991-24-000242.htm) |
+| [8-K](#f-000166299124000234) | 2024-08-13 | 2024-08-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000234/szl-20240813.htm) | [file](../../sec-filings/sezzle-inc/2024-08-13_8-K_0001662991-24-000234.htm) |
+| [10-Q](#f-000166299124000226) | 2024-08-08 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000226/szl-20240630.htm) | [file](../../sec-filings/sezzle-inc/2024-08-08_10-Q_0001662991-24-000226.htm) |
+| [8-K](#f-000166299124000224) | 2024-08-07 | 2024-08-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000224/szl-20240807.htm) | [file](../../sec-filings/sezzle-inc/2024-08-07_8-K_0001662991-24-000224.htm) |
+| [8-K](#f-000166299124000212) | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000212/szl-20240725.htm) | [file](../../sec-filings/sezzle-inc/2024-07-25_8-K_0001662991-24-000212.htm) |
+| [8-K](#f-000166299124000205) | 2024-07-22 | 2024-07-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000205/szl-20240718.htm) | [file](../../sec-filings/sezzle-inc/2024-07-22_8-K_0001662991-24-000205.htm) |
+| [8-K](#f-000166299124000176) | 2024-06-24 | 2024-06-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000176/szl-20240619.htm) | [file](../../sec-filings/sezzle-inc/2024-06-24_8-K_0001662991-24-000176.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-05-13
+_Click a filing to expand its summary._
+
+<details id="f-000166299126000075">
+<summary><strong>8-K</strong> — 2026-05-13</summary>
 
 #### Key financials
 - None noted. The 8-K filed May 13, 2026 is a Regulation FD disclosure (Item 7.01) furnishing an investor presentation (Exhibit 99.1); no financial statements or specific financial figures are included in the filing text itself.
@@ -88,7 +91,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On May 13, 2026, Sezzle Inc. (Nasdaq: SEZL) filed an 8-K under Item 7.01 (Regulation FD) indicating it may commence investor and analyst presentations using a slide deck dated May 13, 2026 (Exhibit 99.1).
 - The filing was signed by Justin Krause, SVP Finance and Controller, and the furnished information is explicitly not deemed "filed" for Section 18 Exchange Act liability purposes and is not incorporated by reference into other filings unless expressly stated.
 
-### 8-K — 2026-05-12
+</details>
+
+<details id="f-000166299126000071">
+<summary><strong>8-K</strong> — 2026-05-12</summary>
 
 #### Key financials
 - As of May 7, 2026, Sezzle had **$153.5 million outstanding** under its prior revolving credit facility with Bastion Funding VI, LP; no amounts were repaid at closing and obligations were carried forward into the amended facility.
@@ -107,7 +113,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On **May 7, 2026**, Sezzle Funding SPE II, LLC executed the Amended and Restated Revolving Credit and Security Agreement with Bastion Funding VI, LP as administrative agent, replacing the prior facility.
 - On **May 7, 2026**, Sezzle executed **Amendment No. 3** to the Limited Guaranty and Indemnity Agreement, updating restricted payment covenants to permit shareholder returns subject to net income and aggregate cap conditions.
 
-### 10-Q — 2026-05-07
+</details>
+
+<details id="f-000166299126000065">
+<summary><strong>10-Q</strong> — 2026-05-07</summary>
 
 #### Key financials
 - Q1 2026 total revenue of $135.5M (+29.2% vs. $104.9M in Q1 2025), driven by subscription revenue up 41.7% to $33.2M and income from other sources up 57.0% to $36.6M; operating income was $69.0M vs. $49.9M prior year.
@@ -130,7 +139,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - Sezzle launched "Sezzle Mobile" in 2026—an MVNO mobile phone plan (unlimited talk/text/5G on AT&T's network) embedded within the Sezzle app—representing a new product extension beyond core BNPL.
 - New CFO Lee Brading joined under an employment agreement dated January 26, 2026 (incorporated by reference via 8-K filed January 29, 2026).
 
-### 8-K — 2026-05-06
+</details>
+
+<details id="f-000166299126000064">
+<summary><strong>8-K</strong> — 2026-05-06</summary>
 
 ## Sezzle Inc. (SEZL) 8-K Filed May 6, 2026 — Summary
 
@@ -138,39 +150,27 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - 8-K filed May 6, 2026 under Item 2.02, announcing Q1 2026 financial results for the period ending March 31, 2026; full details contained in Exhibit 99.1 (press release), which is furnished but not filed.
 - No specific revenue, earnings, or balance sheet figures are included in the 8-K body itself; quantitative results are embedded solely in the attached press release not reproduced in this filing text.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle Inc. (Nasdaq: SEZL) issued a Q1 2026 earnings press release on May 6, 2026, signed by CEO Charles Youakim.
 - The filing was made under Item 2.02 (Results of Operations and Financial Conditions); Exhibit 99.1 is furnished, not filed, and therefore not subject to Section 18 Exchange Act liabilities nor incorporated by reference into other filings unless explicitly stated.
 
-### 8-K — 2026-04-15
+</details>
+
+<details id="f-000166299126000058">
+<summary><strong>8-K</strong> — 2026-04-15</summary>
 
 #### Key financials
 - No financial results disclosed in this filing; Q1 2026 results are scheduled for release on May 6, 2026.
 - Conference call to discuss Q1 2026 results will be held at 5:00 p.m. Eastern Time on May 6, 2026.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle Inc. (SEZL) filed this 8-K on April 15, 2026 under Item 2.02 solely to announce the upcoming Q1 2026 earnings release date of May 6, 2026.
 - Filing was signed by Justin Krause, SVP Finance and Controller; information is furnished (not filed) and is not subject to Section 18 liability of the Exchange Act.
 
-### 8-K — 2026-04-09
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
+<details id="f-000166299126000056">
+<summary><strong>8-K</strong> — 2026-04-09</summary>
 
 #### Risk-factor changes
 - Director Karen Webster's resignation letter (effective April 3, 2026) cited "a growing difference in perspective with management concerning the Company's direction, key decisions, and governance," signaling a potential board-level governance concern worth monitoring.
@@ -180,13 +180,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - Bryan Hunt (age 57), General Partner of Relevance Ventures and former 24-year Wells Fargo analyst, was appointed to the Board effective April 9, 2026, filling Webster's vacancy and joining all three of the same committees.
 - Hunt's compensation includes an annual cash retainer of $65,000, plus $7,500 for Audit and Risk Committee service and $3,750 each for the Compensation and Nominating/Governance Committees, along with a prorated grant of 935 restricted stock units vesting 25% on April 1, 2027 with the remainder in quarterly installments over ~3.7 years.
 
-### 8-K — 2026-03-20
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
+<details id="f-000166299126000036">
+<summary><strong>8-K</strong> — 2026-03-20</summary>
 
 #### Risk-factor changes
 - Baker Tilly's audit report on internal controls as of December 31, 2025 identified a material weakness related to the design and maintenance of effective controls for classifying cash flows related to notes receivable; this weakness was previously disclosed in Sezzle's 10-K for FY2025.
@@ -196,7 +193,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On March 16, 2026, Sezzle's Audit Committee dismissed Baker Tilly US, LLP as its independent registered public accounting firm, with no disagreements on accounting principles, disclosure, or audit scope during FY2024, FY2025, or the interim period through March 16, 2026.
 - On March 16, 2026, the Audit Committee approved the engagement of PricewaterhouseCoopers LLP (PwC) as the new independent auditor for the fiscal year ending December 31, 2026, subject to PwC completing its standard client acceptance procedures.
 
-### 8-K — 2026-03-06
+</details>
+
+<details id="f-000166299126000032">
+<summary><strong>8-K</strong> — 2026-03-06</summary>
 
 #### Key financials
 - None noted. (The 8-K body contains no financial figures; quantitative data, if any, resides in the attached Exhibit 99.1 Investor Presentation, which is not reproduced in the filing text.)
@@ -212,7 +212,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - The filing is furnished, not filed, meaning it is not subject to Section 18 Exchange Act liability and is not automatically incorporated by reference into other SEC filings unless expressly specified.
 - CEO Charles Youakim signed the filing; the company is headquartered at 700 Nicollet Mall, Suite 640, Minneapolis, MN 55402 and trades on Nasdaq under ticker SEZL.
 
-### 10-K — 2026-02-26
+</details>
+
+<details id="f-000166299126000016">
+<summary><strong>10-K</strong> — 2026-02-26</summary>
 
 #### Key financials
 - Aggregate market cap of non-affiliate shares was **$3,165.9 million** as of June 30, 2025, based on a closing price of **$179.25/share**; total shares outstanding were **33,801,675** as of February 24, 2026.
@@ -238,14 +241,14 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - **B Corp decertification**: Sezzle elected **not to renew** its Certified B Corporation status (originally granted March 22, 2021) effective **August 7, 2025**, citing ongoing evaluation of corporate governance and sustainability initiatives.
 - **Insider trading plan disclosures**: Two executives—**Paul Paradis** and **Amin Sabzivand**—adopted or modified Rule 10b5-1 trading arrangements during Q4 2025 (October 1 – December 31, 2025), with plans remaining in effect as of December 31, 2025.
 
-### 8-K — 2026-02-25
+</details>
+
+<details id="f-000166299126000014">
+<summary><strong>8-K</strong> — 2026-02-25</summary>
 
 #### Key financials
 - Sezzle (SEZL) issued a press release on Feb 25, 2026 announcing Q4 and full-year results for the period ending Dec 31, 2025; specific revenue/earnings figures are contained in Exhibit 99.1, which is not reproduced in the filing text.
 - Restatement of FY2024 cash flow statement: Net Cash from Operating Activities restated from $40.9M to $130.6M (+$89.7M); Net Cash Used for Investing Activities restated from ($1.5M) to ($91.2M) (-$89.7M), reflecting reclassification of notes receivable purchases/originations and repayments.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Cash flow statements for eight periods are now unreliable and should not be relied upon: FY2024, Q1 2024 & 2025, H1 2024 & 2025, and 9-month periods ended Sep 30, 2024 & 2025 (Item 4.02 determination made Feb 19, 2026).
@@ -255,55 +258,46 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On Feb 19, 2026, management, auditor Baker Tilly US LLP, and the Audit Committee concluded that previously reported Consolidated Statements of Cash Flows should no longer be relied upon due to misclassification of notes receivable activity (operating vs. investing), triggering Item 4.02 disclosure.
 - The misclassification had **no impact** on the Balance Sheet, Income Statement, Statement of Stockholders' Equity, or footnotes — effect was limited solely to cash flow classification.
 
-### 8-K — 2026-02-02
+</details>
+
+<details id="f-000166299126000008">
+<summary><strong>8-K</strong> — 2026-02-02</summary>
 
 #### Key financials
 - No financial results disclosed in this filing; Q4 and full-year 2025 results are scheduled for release on February 25, 2026.
 - Conference call to discuss Q4 and full-year 2025 results will be held at 5:00 p.m. Eastern Time on February 25, 2026.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On February 2, 2026, Sezzle Inc. (SEZL) filed an 8-K under Item 2.02 announcing the upcoming earnings release date of February 25, 2026.
 - The filing was signed by CEO Charles Youakim; exhibit 99.1 (press release dated February 2, 2026) is incorporated by reference but no substantive financial data was included in the filing text.
 
-### 8-K — 2026-01-29
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000166299126000006">
+<summary><strong>8-K</strong> — 2026-01-29</summary>
 
 #### Material events
 - Effective February 1, 2026, Lee Brading (age 58) was appointed CFO of Sezzle Inc.; incumbent CFO Karen Hartje stepped down January 31, 2026 and transitioned to a consulting role under a Consulting Agreement dated November 1, 2025.
 - Brading's compensation package includes an annual base salary of $450,000, RSU grant with a target value of $2,000,000 vesting over four years (one-year cliff, then equal quarterly installments), and a target bonus of 50% of base salary (prorated for 2026) under the company's profit-sharing incentive plan (PSIP).
 - Brading has been with Sezzle since April 2020, most recently as SVP of Corporate Development and Investor Relations; prior experience includes Managing Director and Global Head of Credit Research at Wells Fargo Securities and audit manager at BDO Seidman.
 
-### 8-K — 2025-12-15
+</details>
+
+<details id="f-000166299125000276">
+<summary><strong>8-K</strong> — 2025-12-15</summary>
 
 #### Key financials
 - No revenue, earnings, or balance sheet data disclosed in this filing.
 - Board authorized a share repurchase program of up to **$100 million** of outstanding common stock, announced via press release on **December 15, 2025**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **December 12, 2025** (event date) / **December 15, 2025** (announcement date), Sezzle Inc. (Nasdaq: SEZL) disclosed a **$100 million share buyback authorization** approved by its Board of Directors.
 - Filing made under Item 8.01 (Other Events); no acquisition, disposition, or financing transaction disclosed alongside the repurchase program.
 
-### 8-K — 2025-11-14
+</details>
+
+<details id="f-000166299125000274">
+<summary><strong>8-K</strong> — 2025-11-14</summary>
 
 #### Key financials
 - None noted. (The 8-K is a Regulation FD disclosure attaching an investor presentation slide deck; no financial statements or specific financial figures are included in the filing text provided.)
@@ -319,7 +313,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - The filing is furnished, not filed, and therefore is not subject to Section 18 liability of the Exchange Act and will not be automatically incorporated by reference into other SEC filings.
 - Sezzle is classified as an emerging growth company and has **not** elected to opt out of the extended transition period for new/revised accounting standards.
 
-### 10-Q — 2025-11-06
+</details>
+
+<details id="f-000166299125000257">
+<summary><strong>10-Q</strong> — 2025-11-06</summary>
 
 #### Key financials
 - Q3 2025 total revenue $116.8M (+67.0% vs. Q3 2024 $70.0M); 9M 2025 total revenue $320.4M (+85.3% vs. 9M 2024 $172.9M), driven by consumer fees ($33.5M vs. $14.5M in Q3) and late payment fees ($21.0M vs. $6.8M in Q3).
@@ -340,14 +337,14 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On October 30, 2025, Sezzle exercised the $75.0M accordion feature under Amendment No. 3 to its Revolving Credit and Security Agreement, increasing borrowing capacity from $150.0M to $225.0M via subsidiary Sezzle Funding SPE II, LLC.
 - Effective March 28, 2025, Sezzle executed a 6-for-1 stock split via stock dividend; all share and per-share figures retroactively restated; shares outstanding at November 3, 2025 were 34,153,102.
 
-### 8-K — 2025-11-05
+</details>
+
+<details id="f-000166299125000255">
+<summary><strong>8-K</strong> — 2025-11-05</summary>
 
 #### Key financials
 - Q3 2025 results announced via press release on November 5, 2025 (period ending September 30, 2025); full financials furnished as Exhibit 99.1 but not detailed in the 8-K body.
 - Borrowing capacity under the Revolving Credit and Security Agreement increased from $150.0 million to $225.0 million via exercise of a $75.0 million accordion feature, effective October 30, 2025.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - CFO Karen Hartje transitioned from employee to consultant effective November 1, 2025, introducing key-person/leadership continuity risk; she will remain CFO and principal financial officer during the consulting period at $10,000/month (vs. prior employment agreement terms), with healthcare coverage extended through June 30, 2026.
@@ -357,7 +354,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On October 30, 2025, Sezzle Funding SPE II, LLC executed Amendment No. 3 to its Revolving Credit and Security Agreement, raising the borrowing limit by $75.0 million to $225.0 million to support ongoing business needs.
 - On November 1, 2025, Sezzle and CFO Karen Hartje mutually terminated her Employment Agreement (originally dated June 20, 2019) and entered into a 12-month Consulting Agreement; she will continue serving as CFO reporting directly to CEO Charlie Youakim during the transition.
 
-### 8-K — 2025-10-21
+</details>
+
+<details id="f-000166299125000253">
+<summary><strong>8-K</strong> — 2025-10-21</summary>
 
 ## Sezzle Inc. (SEZL) — 8-K Filed October 21, 2025
 
@@ -365,17 +365,14 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - No financial results disclosed in this filing; Q3 2025 earnings are scheduled for release on **November 5, 2025**.
 - Conference call to discuss Q3 2025 results set for **5:00 p.m. ET on November 5, 2025**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle Inc. (Nasdaq: SEZL) filed this 8-K on **October 21, 2025** solely to announce the date of its Q3 2025 earnings release and investor conference call.
 - Press release (Exhibit 99.1, dated **October 21, 2025**) is furnished but explicitly **not deemed "filed"** under Section 18 of the Exchange Act, limiting legal liability.
 
-### 8-K — 2025-08-11
+</details>
+
+<details id="f-000166299125000217">
+<summary><strong>8-K</strong> — 2025-08-11</summary>
 
 #### Key financials
 - None noted. The 8-K is a Regulation FD disclosure furnishing an investor presentation (Exhibit 99.1) dated August 11, 2025; no financial statements or specific financial figures are included in the filing text itself.
@@ -390,7 +387,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On August 11, 2025, Sezzle Inc. (Nasdaq: SEZL) filed an 8-K under Item 7.01 (Regulation FD) indicating it may commence investor and analyst presentations using an attached slide deck (Exhibit 99.1) beginning that same date.
 - The filing was signed by CEO Charles Youakim; the presentation is expressly "furnished" (not "filed") and is therefore not subject to Section 18 liability nor automatically incorporated by reference into other SEC filings.
 
-### 10-Q — 2025-08-08
+</details>
+
+<details id="f-000166299125000215">
+<summary><strong>10-Q</strong> — 2025-08-08</summary>
 
 #### Key financials
 - Q2 2025 total revenue was $98.7M (+76.4% vs. $56.0M Q2 2024); H1 2025 total revenue was $203.6M (+97.8% vs. $102.9M H1 2024), driven by consumer fees (+170% to $27.8M in Q2), late payment fees (+293% to $15.7M in Q2), and subscription revenue (+13.8% to $22.6M in Q2).
@@ -411,14 +411,14 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - 6-for-1 stock split via stock dividend was effective March 28, 2025; all share and per-share figures retroactively restated; shares outstanding were 34,023,465 as of August 4, 2025.
 - Five-year strategic originating bank partnership (Loan and Receivables Sale Agreement executed September 27, 2024) generated $820.7M in loan purchase order value in Q2 2025 and $1,527.6M in H1 2025; obligation to purchase receivables stood at $48.9M order value ($36.0M carrying value) at June 30, 2025.
 
-### 8-K — 2025-08-07
+</details>
+
+<details id="f-000166299125000213">
+<summary><strong>8-K</strong> — 2025-08-07</summary>
 
 #### Key financials
 - Q2 2025 financial results announced via press release dated August 7, 2025 (for period ending June 30, 2025); specific figures are contained in Exhibit 99.1, which is not reproduced in the 8-K body.
 - No income statement, balance sheet, or cash flow figures are included in the 8-K text itself; quantitative detail requires review of the attached press release.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Sezzle's B Corporation certification expired effectively immediately on August 7, 2025, after the company elected to forego recertification; certification had been in place since March 22, 2021 and was subject to a three-year renewal cycle.
@@ -428,62 +428,47 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On August 7, 2025, B Lab acknowledged Sezzle's decision to forego B Corp recertification, terminating the certification (Item 1.02 — Termination of a Material Definitive Agreement).
 - Q2 2025 earnings press release filed as Exhibit 99.1 on August 7, 2025 under Item 2.02; furnished (not filed) and therefore not subject to Section 18 Exchange Act liability.
 
-### 8-K — 2025-08-04
+</details>
+
+<details id="f-000166299125000209">
+<summary><strong>8-K</strong> — 2025-08-04</summary>
 
 ## Sezzle Inc. (SEZL) — 8-K Filed August 4, 2025
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On July 31, 2025, Sezzle's Board approved an amendment to the **2021 Equity Incentive Plan** enabling "sell-to-cover" transactions, allowing a third-party administrator to sell shares upon vesting to satisfy participants' tax withholding obligations.
 - The amendment also permits the company to **delay equity award settlements** that fall during blackout periods until the next permissible trading day (subject to IRS short-term deferral rules), rather than requiring cash payment of taxes at vesting.
 - All holders of outstanding Plan awards — including the CEO, CFO, and other named executive officers — **acknowledged in writing** that the Plan Amendment applies to their existing awards; exhibits 10.1 and 10.2 filed as attachments.
 
-### 8-K — 2025-07-22
+</details>
+
+<details id="f-000166299125000203">
+<summary><strong>8-K</strong> — 2025-07-22</summary>
 
 #### Key financials
 - No financial results disclosed in this filing; Q2 2025 earnings are scheduled for release on August 7, 2025.
 - Conference call to discuss Q2 2025 results will be held at 5:00 p.m. ET on August 7, 2025.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle Inc. (SEZL) filed this 8-K on July 21, 2025 under Item 2.02 solely to announce the upcoming Q2 2025 earnings release date of August 7, 2025.
 - Filing is furnished (not filed) for Exchange Act Section 18 purposes and is therefore not subject to liability under that section nor incorporated by reference into other filings.
 
-### 8-K — 2025-06-13
+</details>
+
+<details id="f-000166299125000145">
+<summary><strong>8-K</strong> — 2025-06-13</summary>
 
 ## Sezzle Inc. (SEZL) 8-K Filed June 13, 2025 — Annual Meeting Voting Results
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - **Annual Meeting held June 10, 2025:** All five director nominees elected; Charles Youakim received the strongest support at 22,229,486 votes FOR (78,468 withheld), while Karen Webster received the lowest support at 20,715,760 FOR (1,592,194 withheld); 5,998,762 broker non-votes on all director seats.
 - **Auditor ratified:** Baker Tilly US, LLP approved as independent auditor for fiscal year ending December 31, 2025, with 28,279,470 FOR, 7,510 AGAINST, and 19,736 abstentions — near-unanimous approval.
 - **Say-on-pay passed:** Advisory vote on executive compensation approved 22,065,307 FOR vs. 195,097 AGAINST (roughly 99% of votes cast in favor, excluding non-votes).
 
-### 8-K — 2025-06-11
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000166299125000138">
+<summary><strong>8-K</strong> — 2025-06-11</summary>
 
 #### Segment & competitive notes
 - Sezzle filed a lawsuit against Shopify Inc. on June 9, 2025 in the U.S. District Court for the District of Minnesota, asserting federal and state antitrust violations; relevant as Shopify's Shop Pay Installments (powered by Affirm) competes directly in the BNPL/POS financing space.
@@ -497,7 +482,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On June 9, 2025, Sezzle filed a federal antitrust complaint against Shopify Inc. in the District of Minnesota; the 8-K was filed June 11, 2025 under Item 7.01 (Regulation FD Disclosure).
 - The full complaint was made available on Sezzle's investor relations website (investors.sezzle.com); filing is furnished, not deemed "filed" under Section 18 of the Exchange Act.
 
-### 8-K — 2025-06-11
+</details>
+
+<details id="f-000166299125000136">
+<summary><strong>8-K</strong> — 2025-06-11</summary>
 
 ## Sezzle Inc. (SEZL) — 8-K Filed June 11, 2025
 
@@ -505,21 +493,15 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - No financial statements or specific financial metrics were included in the 8-K body; quantitative data, if any, is contained solely in Exhibit 99.1 (Annual Meeting Presentation, dated June 10, 2025), which is furnished but not filed.
 - Filing is explicitly non-binding for Section 18 liability purposes and is not incorporated by reference into other filings unless specifically stated.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle held its 2025 Annual Meeting of Stockholders on **June 10, 2025**, at its Minneapolis, MN headquarters (700 Nicollet Mall, Suite 640).
 - Annual Meeting presentation materials were furnished as **Exhibit 99.1** under Items 2.02 and 7.01 (Regulation FD); the filing was signed by CEO **Charles Youakim** on June 10, 2025.
 - No disclosure of specific stockholder vote results, director elections, or other meeting outcomes was included in the 8-K text itself.
 
-### 8-K — 2025-06-09
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000166299125000132">
+<summary><strong>8-K</strong> — 2025-06-09</summary>
 
 #### Segment & competitive notes
 - On June 9, 2025, Sezzle Inc. (SEZL) filed a lawsuit against Shopify Inc. in the U.S. District Court for the District of Minnesota; no financial terms or damages quantified in the 8-K text.
@@ -533,7 +515,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - June 9, 2025: Sezzle filed suit against Shopify Inc. in U.S. District Court, District of Minnesota; complaint details and alleged damages not disclosed in the filing body.
 - The 8-K was signed by CEO Charles Youakim and filed under Item 8.01 (Other Events); Sezzle remains classified as an emerging growth company on Nasdaq (ticker: SEZL).
 
-### 8-K — 2025-05-09
+</details>
+
+<details id="f-000166299125000090">
+<summary><strong>8-K</strong> — 2025-05-09</summary>
 
 #### Key financials
 - None noted. The 8-K body contains no financial statements or quantitative results; it solely references an attached investor presentation (Exhibit 99.1) not included in the filing text.
@@ -549,7 +534,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On May 9, 2025, Sezzle filed an 8-K under Item 7.01 (Regulation FD) to furnish an investor presentation (Exhibit 99.1) for use in analyst and investor meetings beginning that same date.
 - The filing is furnished, not filed, meaning it is not subject to Section 18 liability and is not automatically incorporated by reference into other SEC filings; CEO Charles Youakim signed the report on May 9, 2025.
 
-### 10-Q — 2025-05-08
+</details>
+
+<details id="f-000166299125000085">
+<summary><strong>10-Q</strong> — 2025-05-08</summary>
 
 #### Key financials
 - Q1 2025 total revenue was $104.9M, up 123.3% from $47.0M in Q1 2024; net income was $36.2M vs. $8.0M in Q1 2024; diluted EPS was $1.00 vs. $0.22 (post 6-for-1 split).
@@ -571,23 +559,23 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - Board authorized a $50M share repurchase program on March 10, 2025, commencing April 7, 2025 and expiring April 7, 2026; 56,778 shares were repurchased in Q1 2025 (all tax-withholding surrenders, $2.4M), with no open-market buybacks executed under the new program yet.
 - Revolving credit facility capacity increased to $150M (from $100M previously); as of Mar 31, 2025, $70.8M was outstanding vs. $105.0M at Dec 31, 2024, reflecting $34.2M in net repayments during Q1 2025.
 
-### 8-K — 2025-05-07
+</details>
+
+<details id="f-000166299125000084">
+<summary><strong>8-K</strong> — 2025-05-07</summary>
 
 #### Key financials
 - This 8-K (filed May 7, 2025) announces Q1 2025 results (period ending March 31, 2025) via press release (Exhibit 99.1), but the exhibit text is not included in the truncated filing; no specific revenue, earnings, or balance sheet figures are available from the filing body itself.
 - No quantitative financial metrics (revenue, net income, GMV, etc.) can be extracted from the 8-K form text alone.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On May 7, 2025, Sezzle Inc. (SEZL, Nasdaq) filed an 8-K under Item 2.02 to announce Q1 2025 financial results via press release; results are furnished (not filed) and thus not subject to Section 18 Exchange Act liability.
 - Sezzle is classified as an emerging growth company and has not elected to opt out of the extended transition period for new accounting standards, which may affect comparability of its financial statements with larger BNPL peers.
 
-### 8-K — 2025-04-30
+</details>
+
+<details id="f-000166299125000080">
+<summary><strong>8-K</strong> — 2025-04-30</summary>
 
 #### Key financials
 - None noted. (Filing contains no financial results; Q1 2025 earnings are scheduled to be released with an investor presentation available May 7, 2025.)
@@ -602,7 +590,10 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On April 30, 2025, Sezzle Inc. (SEZL) filed an 8-K under Items 7.01 and 8.01 announcing its 2025 Annual Meeting of Stockholders, the upcoming Q1 2025 earnings release, and an investor presentation to be posted to investor.sezzle.com on May 7, 2025 in conjunction with the Q1 2025 earnings call.
 - The company announced plans to participate in investor and analyst conferences between May 12, 2025 and June 25, 2025; no specific conference names, venues, or financial guidance were disclosed in the filing.
 
-### 8-K — 2025-04-14
+</details>
+
+<details id="f-000166299125000076">
+<summary><strong>8-K</strong> — 2025-04-14</summary>
 
 #### Key financials
 - None noted. This 8-K contains no financial results; it solely announces that Q1 2025 earnings will be released on May 7, 2025.
@@ -617,41 +608,35 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 - On April 14, 2025, Sezzle Inc. (SEZL) filed an 8-K under Item 2.02 announcing it will release Q1 2025 financial results on **May 7, 2025**, followed by a conference call at **5:00 p.m. Eastern Time** the same day.
 - The filing was signed by CEO Charles Youakim and is furnished (not filed) for Exchange Act Section 18 purposes, meaning it carries no Section 18 liability and is not automatically incorporated by reference into other SEC filings.
 
-### 8-K — 2025-03-24
+</details>
+
+<details id="f-000166299125000062">
+<summary><strong>8-K</strong> — 2025-03-24</summary>
 
 ## Sezzle Inc. (SEZL) – 8-K Filed March 24, 2025
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On March 20, 2025, the Compensation Committee approved equity awards to six named executive officers under the 2021 Equity Incentive Plan, comprising both unrestricted stock (PSIP) and restricted stock units (RSUs).
 - PSIP unrestricted stock grants (March 20, 2025): CEO Charles Youakim – 2,000 shares; COO Amin Sabzivand – 4,019 shares; President Paul Paradis – 1,000 shares; CFO Karen Hartje – 1,000 shares; total PSIP shares awarded: 8,019.
 - RSU grants (March 20, 2025) with 4-year vesting (25% cliff at one year, quarterly thereafter): COO Sabzivand – 2,000 RSUs; General Counsel Kerissa Hollis – 600 RSUs; SVP Finance/Controller Justin Krause – 400 RSUs; total RSUs granted: 3,000.
 
-### 8-K — 2025-03-10
+</details>
+
+<details id="f-000166299125000045">
+<summary><strong>8-K</strong> — 2025-03-10</summary>
 
 #### Key financials
 - Board authorized a share repurchase program of up to **$50 million** of outstanding common stock, announced **March 10, 2025**.
 - No revenue, earnings, or balance sheet figures disclosed in this filing.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle (SEZL) announced a **6-for-1 stock split** via stock dividend on **March 10, 2025**; record date is **March 21, 2025**, payable after market close **March 28, 2025**, with split-adjusted trading commencing **March 31, 2025**.
 - Each shareholder of record receives **five additional shares** for every one share held as of the record date.
 
-### 10-K — 2025-02-27
+</details>
+
+<details id="f-000166299125000041">
+<summary><strong>10-K</strong> — 2025-02-27</summary>
 
 I was only able to extract the XBRL metadata, narrative business description, and risk factor text from this filing — the actual financial statement tables (income statement, balance sheet, cash flow) were not included in the truncated text provided. I will report what is quantifiable from the narrative and flag where numbers are absent.
 
@@ -687,50 +672,38 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - An obligation to purchase receivables was entered into as of **September 27, 2024** (referenced in XBRL disclosures); specific dollar amount not determinable from the truncated text.
 - Sezzle filed a **Form S-3 shelf registration on November 13, 2024**, providing flexibility to issue equity or debt securities subject to applicable SEC rules.
 
-### 8-K — 2025-02-25
+</details>
+
+<details id="f-000166299125000038">
+<summary><strong>8-K</strong> — 2025-02-25</summary>
 
 #### Key financials
 - Sezzle (SEZL) reported Q4 and full-year 2024 financial results via press release dated February 25, 2025, covering the period ending December 31, 2024; specific revenue, net income, and EPS figures are contained in Exhibit 99.1, which is not reproduced in the 8-K body.
 - No quantitative financial data (GMV, revenue, margins, or loss rates) was included in the 8-K filing text itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On February 25, 2025, Sezzle filed an 8-K under Items 2.02 and 7.01 to furnish Q4 and full-year 2024 earnings results (Exhibit 99.1) and an investor/analyst slide presentation (Exhibit 99.2), both dated February 25, 2025.
 - The company, an emerging growth company listed on Nasdaq (ticker: SEZL), noted it has elected to use the extended transition period for new/revised accounting standards under Section 13(a) of the Exchange Act; exhibits are furnished (not filed) and thus not subject to Section 18 liability.
 
-### 8-K — 2025-02-12
+</details>
+
+<details id="f-000166299125000034">
+<summary><strong>8-K</strong> — 2025-02-12</summary>
 
 #### Key financials
 - No financial results disclosed in this filing; Q4 2024 earnings release scheduled for February 25, 2025.
 - Conference call to discuss Q4 2024 results set for 5:00 p.m. ET on February 25, 2025.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle Inc. (SEZL) filed this 8-K on February 12, 2025, solely to announce the upcoming Q4 2024 earnings release date of February 25, 2025.
 - Filing is furnished (not filed) under Item 2.02 and is not subject to Section 18 liability or incorporation by reference into other filings.
 
-### 8-K — 2025-02-06
+</details>
+
+<details id="f-000166299125000029">
+<summary><strong>8-K</strong> — 2025-02-06</summary>
 
 ## Sezzle Inc. (SEZL) – 8-K Filed February 6, 2025 (Event Date: April 1, 2024)
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On April 1, 2024, Sezzle granted RSUs to three executive officers under its 2021 Equity Incentive Plan: CFO Karen Hartje (10,000 RSUs), President Paul Paradis (10,000 RSUs), and COO Amin Sabzivand (25,000 RSUs); all carry a four-year vest (25% on April 1, 2025, then 6.25%/quarter).
@@ -738,7 +711,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - CEO/Executive Chairman Charles Youakim received a stock option to purchase 10,803 shares at an exercise price of $68.26/share, granted April 1, 2024, expiring April 1, 2034, with the same four-year vesting schedule.
 - All awards include accelerated full vesting upon a change of control, termination without cause, or resignation for "good reason" following a change of control.
 
-### 8-K — 2025-01-15
+</details>
+
+<details id="f-000166299125000021">
+<summary><strong>8-K</strong> — 2025-01-15</summary>
 
 ## Sezzle Inc. (SEZL) — 8-K Filed January 15, 2025
 
@@ -746,27 +722,15 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - On January 15, 2025, Sezzle issued a press release providing an update to its full-year 2024 guidance (Exhibit 99.1); specific revised guidance figures are not reproduced in the 8-K body text.
 - No income statement, balance sheet, or cash flow figures are included in the filing itself; quantitative details are contained solely in the attached exhibits.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle (SEZL, Nasdaq) filed an 8-K on January 15, 2025 under Items 2.02 and 7.01, disclosing a 2024 guidance update via press release and authorizing the release of a new investor/analyst slide presentation (Exhibit 99.2) beginning the same date.
 - Both exhibits are furnished (not filed) and therefore not subject to Section 18 liability or automatic incorporation by reference into future SEC filings.
 - The filing was signed by CEO Charles Youakim; notably, the signature block contains a typographical error, dating it "January 15, 2024" rather than 2025.
 
-### 8-K — 2024-11-22
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000166299124000308">
+<summary><strong>8-K</strong> — 2024-11-22</summary>
 
 #### Material events
 - **Annual Meeting held November 19, 2024:** All five director nominees (Kyle Brehm, Stephen East, Paul Paradis, Karen Webster, Charles Youakim) elected; votes in favor ranged from ~3.49M to ~3.54M with 1,016,176 non-votes each.
@@ -774,7 +738,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - **Fifth Restated Certificate of Incorporation adopted:** Approved 3,008,381 FOR vs. 530,565 AGAINST; became effective upon filing with Delaware Secretary of State on November 20, 2024.
 - **Charter amendments:** (1) Stockholders may now act by written consent (per DGCL §228(a)), reversing a prior prohibition; and (2) 300 million authorized shares of "common prime stock" (originally tied to Sezzle's 2019 ASX listing, from which it delisted in 2023) were eliminated from the authorized capital structure.
 
-### 8-K — 2024-11-19
+</details>
+
+<details id="f-000166299124000302">
+<summary><strong>8-K</strong> — 2024-11-19</summary>
 
 #### Key financials
 - None noted. (Filing furnishes Annual Meeting presentation slides as Exhibit 99.1 but contains no standalone financial figures in the 8-K text itself.)
@@ -790,7 +757,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - The 2024 Annual Meeting of Stockholders was scheduled for November 19, 2024 at the company's Minneapolis, MN headquarters (700 Nicollet Mall, Suite 640).
 - The filing was signed by CEO Charles Youakim; Sezzle is classified as an emerging growth company and has not opted out of the extended transition period for new accounting standards.
 
-### 8-K — 2024-11-12
+</details>
+
+<details id="f-000166299124000296">
+<summary><strong>8-K</strong> — 2024-11-12</summary>
 
 #### Key financials
 - None noted. (The 8-K filed November 12, 2024 contains only a Regulation FD disclosure referencing an investor presentation as Exhibit 99.1; no financial statements or specific financial figures are included in the filing text.)
@@ -805,7 +775,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - On November 12, 2024, Sezzle Inc. (SEZL, Nasdaq) filed an 8-K under Item 7.01 (Regulation FD) disclosing that it may commence investor and analyst presentations using a slide deck (Exhibit 99.1) beginning that same date.
 - The filing explicitly states the information is "furnished" and not "filed" for purposes of Section 18 of the Exchange Act, meaning it carries no Section 18 liability and is not automatically incorporated by reference into other SEC filings unless expressly specified.
 
-### 10-Q — 2024-11-08
+</details>
+
+<details id="f-000166299124000294">
+<summary><strong>10-Q</strong> — 2024-11-08</summary>
 
 #### Key financials
 - Q3 2024 total revenue was $69.96M, up 71.3% YoY from $40.84M in Q3 2023; nine-month revenue was $172.90M, up 56.5% from $110.46M in the prior-year period.
@@ -828,7 +801,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - Sezzle repurchased and retired 294,959 shares for $19.98M and held an additional 39,125 shares as treasury stock ($2.18M) during the nine months ended September 30, 2024, for total share repurchase activity of ~$22.17M.
 - Effective September 27, 2024, Sezzle entered a five-year strategic partnership with an originating chartered financial institution; as of September 30, 2024, Sezzle had a direct obligation to purchase $17.71M of receivables originated by this partner.
 
-### 8-K — 2024-11-07
+</details>
+
+<details id="f-000166299124000292">
+<summary><strong>8-K</strong> — 2024-11-07</summary>
 
 ## Sezzle Inc. (SEZL) – 8-K Filed November 7, 2024
 
@@ -836,26 +812,20 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - Filing announces Q3 2024 financial results for the period ending September 30, 2024, via press release (Exhibit 99.1); specific figures are contained in the attached press release, not reproduced in the 8-K body.
 - No quantitative metrics (revenue, net income, UMS, etc.) are included in the 8-K text itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On November 7, 2024, Sezzle Inc. issued a press release disclosing Q3 2024 results; the information is furnished (not filed) under Item 2.02 and is therefore not subject to Section 18 Exchange Act liability.
 - The filing is signed by CEO Charles Youakim; Sezzle remains listed on Nasdaq (ticker: SEZL) and retains emerging-growth-company status as of the filing date.
 
-### 8-K — 2024-10-18
+</details>
+
+<details id="f-000166299124000290">
+<summary><strong>8-K</strong> — 2024-10-18</summary>
 
 ## Sezzle Inc. (SEZL) – 8-K Filed October 18, 2024
 
 #### Key financials
 - Amendment permits restricted payments (dividends/buybacks) up to **50% of consolidated net income** accrued between October 14, 2021 and October 15, 2022, plus **50% of monthly consolidated net income** thereafter (or 100% of monthly net losses thereafter).
 - Restricted payments are only permissible if Sezzle's **trailing twelve months of consolidated net income is positive** at the time of payment.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Amendment No. 2 to the Limited Guaranty and Indemnity Agreement (with **Bastion Funding VI LP** as administrative agent) updates **minimum tangible net worth covenants**, which could tighten balance sheet constraints if net worth falls below revised thresholds.
@@ -865,23 +835,23 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - On **October 15, 2024**, Sezzle executed **Amendment No. 2** to its Limited Guaranty and Indemnity Agreement under the existing Revolving Credit and Security Agreement with Bastion Funding VI LP.
 - Full amendment text will not be immediately available; it is to be filed as an exhibit to Sezzle's **Form 10-K for the year ended December 31, 2024**.
 
-### 8-K — 2024-10-17
+</details>
+
+<details id="f-000166299124000287">
+<summary><strong>8-K</strong> — 2024-10-17</summary>
 
 #### Key financials
 - No financial results disclosed; this 8-K solely announces the upcoming Q3 2024 earnings release scheduled for November 7, 2024.
 - Conference call to discuss Q3 2024 results set for 5:00 p.m. Eastern Time on November 7, 2024.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle Inc. (SEZL, Nasdaq) filed this 8-K on October 17, 2024 under Item 2.02 to announce the Q3 2024 results date; no actual operating or financial data was furnished.
 - Filing signed by CEO Charles Youakim; company remains classified as an emerging growth company and has not opted out of the extended transition period for new accounting standards.
 
-### 8-K — 2024-10-02
+</details>
+
+<details id="f-000166299124000273">
+<summary><strong>8-K</strong> — 2024-10-02</summary>
 
 ## Sezzle Inc. (SEZL) – 8-K Filed October 2, 2024
 
@@ -893,14 +863,14 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - Sezzle's five-year exclusive banking partnership with WebBank (a Utah-chartered industrial bank), first announced August 26, 2024, officially launched September 27, 2024; WebBank serves as exclusive originator for Pay-in-2 and Pay-in-4 products.
 - Sezzle retains issuer status for its subscription products (Sezzle Anywhere and Sezzle Premium), a carve-out added via the September 26, 2024 amended and restated agreements; WebBank remains exclusive issuer of card products including the Sezzle Virtual Card (subject to up to a one-year transition period).
 
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On September 26, 2024, Sezzle and WebBank amended and restated their Loan and Receivables Sale Agreement and Marketing and Servicing Agreement to reallocate issuer responsibilities for subscription products back to Sezzle.
 - Sezzle Funding SPE II, LLC (wholly owned indirect subsidiary) entered into Amendment Nos. 1 and 2 to its Revolving Credit and Security Agreement with Bastion Funding VI LP as administrative agent on September 26, 2024; full exhibit details to be filed with the 10-Q for the quarter ending September 30, 2024.
 
-### 8-K — 2024-08-28
+</details>
+
+<details id="f-000166299124000242">
+<summary><strong>8-K</strong> — 2024-08-28</summary>
 
 #### Key financials
 - No financial results or updated guidance disclosed in this filing; Sezzle stated it is still assessing the economic impact of the WebBank program on existing guidance.
@@ -919,7 +889,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - Execution of Loan and Receivables Sale Agreement and Marketing and Servicing Agreement with WebBank on August 26, 2024, representing a significant structural change to Sezzle's origination model.
 - Full agreement texts will not be publicly available until filed as exhibits to the Form 10-Q for the quarter ended September 30, 2024.
 
-### 8-K — 2024-08-13
+</details>
+
+<details id="f-000166299124000234">
+<summary><strong>8-K</strong> — 2024-08-13</summary>
 
 #### Key financials
 - None noted. (Filing is a Regulation FD disclosure attaching an investor presentation; no financial statements or specific figures are included in the 8-K text itself.)
@@ -934,7 +907,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - On August 13, 2024, Sezzle Inc. (SEZL, Nasdaq) filed an 8-K under Item 7.01 (Regulation FD) to furnish an investor presentation (Exhibit 99.1) for use in analyst and investor meetings commencing that date.
 - The filing is furnished, not filed, and is therefore not subject to Section 18 liability nor automatically incorporated by reference into future SEC filings unless explicitly cited.
 
-### 10-Q — 2024-08-08
+</details>
+
+<details id="f-000166299124000226">
+<summary><strong>10-Q</strong> — 2024-08-08</summary>
 
 #### Key financials
 - **Revenue:** Q2 2024 total revenue was $55.97M (+60.2% vs. $34.94M in Q2 2023); H1 2024 revenue was $102.95M (+47.9% vs. $69.61M in H1 2023), driven primarily by subscription revenue growth of +274.6% YoY for the half.
@@ -956,7 +932,10 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - On **February 23, 2024**, in connection with delisting from the Australian Securities Exchange (ASX), Sezzle amended all outstanding warrants from AUD-denominated to USD-denominated, triggering reclassification of $2.23M in warrant liabilities to stockholders' equity; 24,575 warrants were exercised into 20,162 shares in H1 2024, leaving 30,035 warrants outstanding at June 30, 2024.
 - In **Q2 2024**, Sezzle released substantially all of its U.S. federal and state deferred tax asset valuation allowance, recording a discrete $16.84M tax benefit; the remaining valuation allowance decreased to $9.69M at June 30, 2024 from $32.48M at December 31, 2023, reflecting management's determination that profitability is "more likely than not" sustainable.
 
-### 8-K — 2024-08-07
+</details>
+
+<details id="f-000166299124000224">
+<summary><strong>8-K</strong> — 2024-08-07</summary>
 
 ## Sezzle Inc. (SEZL) — 8-K Filed August 7, 2024
 
@@ -964,51 +943,42 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - Filing announces Q2 2024 financial results for the period ending June 30, 2024, via press release (Exhibit 99.1); specific revenue, earnings, and other financial figures are contained in the exhibit, which is not included in the truncated filing text.
 - No standalone financial statements or quantitative metrics are presented within the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On August 7, 2024, Sezzle Inc. issued a press release reporting Q2 2024 results; the 8-K was filed the same day under Item 2.02 (Results of Operations and Financial Condition).
 - The filing is furnished (not filed) under the Exchange Act, meaning Exhibit 99.1 is not subject to Section 18 liability and is not automatically incorporated by reference into other SEC filings.
 
-### 8-K — 2024-07-25
+</details>
+
+<details id="f-000166299124000212">
+<summary><strong>8-K</strong> — 2024-07-25</summary>
 
 #### Key financials
 - No financial results disclosed in this filing; Q2 2024 results are scheduled for release on August 7, 2024.
 - Conference call to discuss Q2 2024 results set for 5:00 p.m. EDT on August 7, 2024.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Sezzle Inc. (SEZL) filed this 8-K on July 25, 2024, under Item 2.02, solely to announce the upcoming Q2 2024 earnings release date of August 7, 2024.
 - Filing is furnished (not filed) and therefore not subject to Section 18 liability or incorporation by reference into other SEC filings.
 
-### 8-K — 2024-07-22
+</details>
+
+<details id="f-000166299124000205">
+<summary><strong>8-K</strong> — 2024-07-22</summary>
 
 #### Key financials
 - New director compensation set at $60,000 annual board retainer for both Stephen F. East and Kyle M. Brehm, effective July 18, 2024.
 - Each new director received 500 restricted stock units valued at approximately $42,165 at grant date, prorated from the fiscal year 2024 annual RSU award; 125 units vest April 1, 2025, then 31 units quarterly thereafter over ~3.7 years.
 - East receives an additional $30,000 per committee chairpersonship (chairs three committees); Brehm receives $15,000 per committee membership (member of three committees).
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Michael Cutter and Paul Alan Lahiff resigned as directors of Sezzle Inc. effective July 18 and July 20, 2024, respectively, citing other professional commitments; neither resignation was related to company operations, policies, or practices.
 - Stephen F. East (age 60), former Wells Fargo managing director and current Toll Brothers board member, appointed to Sezzle's board effective July 18, 2024, and named Chairperson of the Audit and Risk, Compensation, and Nominating and Corporate Governance Committees.
 - Kyle M. Brehm (age 40), tax attorney at Fredrikson & Byron P.A. and former PricewaterhouseCoopers director, appointed to Sezzle's board effective July 18, 2024, as a member of all three committees.
 
-### 8-K — 2024-06-24
+</details>
+
+<details id="f-000166299124000176">
+<summary><strong>8-K</strong> — 2024-06-24</summary>
 
 ## Sezzle Inc. (SEZL) — 8-K Filed June 24, 2024
 
@@ -1016,12 +986,8 @@ I was only able to extract the XBRL metadata, narrative business description, an
 - Board authorized a share repurchase program of up to **$15 million** of outstanding common stock, announced via press release on **June 20, 2024**.
 - Line of Credit Amendment (effective **June 19, 2024**) permits equity/warrant repurchases of up to **$3 million** outside of existing Restricted Payment covenants under the Limited Guaranty with Bastion Funding VI LP.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **June 19, 2024**, Sezzle entered into Amendment No. 1 to its Limited Guaranty and Indemnity Agreement (originally dated **April 19, 2024**) with Bastion Funding VI LP as Administrative Agent, modifying share/warrant buyback permissions up to **$3 million** irrespective of Restricted Payment covenant compliance.
 - Board-authorized **$15 million** share repurchase program disclosed on **June 20, 2024**, representing a capital return initiative for a company still classified as an emerging growth company listed on Nasdaq (ticker: SEZL).
+
+</details>

@@ -17,55 +17,55 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-05-07 | 2026-05-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000071/prg-20260506.htm) | [file](../../sec-filings/prog-holdings/2026-05-07_8-K_0001808834-26-000071.htm) |
-| 10-Q | 2026-04-29 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000066/prg-20260331.htm) | [file](../../sec-filings/prog-holdings/2026-04-29_10-Q_0001808834-26-000066.htm) |
-| 8-K | 2026-04-29 | 2026-04-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000065/prg-20260429.htm) | [file](../../sec-filings/prog-holdings/2026-04-29_8-K_0001808834-26-000065.htm) |
-| 8-K | 2026-03-10 | 2026-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000051/prg-20260310.htm) | [file](../../sec-filings/prog-holdings/2026-03-10_8-K_0001808834-26-000051.htm) |
-| 8-K | 2026-03-02 | 2026-02-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000026/prg-20260225.htm) | [file](../../sec-filings/prog-holdings/2026-03-02_8-K_0001808834-26-000026.htm) |
-| 10-K | 2026-02-18 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000012/prg-20251231.htm) | [file](../../sec-filings/prog-holdings/2026-02-18_10-K_0001808834-26-000012.htm) |
-| 8-K | 2026-02-18 | 2026-02-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000011/prg-20260218.htm) | [file](../../sec-filings/prog-holdings/2026-02-18_8-K_0001808834-26-000011.htm) |
-| 8-K | 2026-01-02 | 2026-01-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000002/prg-20260102.htm) | [file](../../sec-filings/prog-holdings/2026-01-02_8-K_0001808834-26-000002.htm) |
-| 8-K | 2025-12-02 | 2025-12-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000118/prg-20251201.htm) | [file](../../sec-filings/prog-holdings/2025-12-02_8-K_0001808834-25-000118.htm) |
-| 8-K | 2025-11-07 | 2025-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000114/prg-20251106.htm) | [file](../../sec-filings/prog-holdings/2025-11-07_8-K_0001808834-25-000114.htm) |
-| 10-Q | 2025-10-22 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000111/prg-20250930.htm) | [file](../../sec-filings/prog-holdings/2025-10-22_10-Q_0001808834-25-000111.htm) |
-| 8-K | 2025-10-22 | 2025-10-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000110/prg-20251022.htm) | [file](../../sec-filings/prog-holdings/2025-10-22_8-K_0001808834-25-000110.htm) |
-| 8-K | 2025-08-07 | 2025-08-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000099/prg-20250806.htm) | [file](../../sec-filings/prog-holdings/2025-08-07_8-K_0001808834-25-000099.htm) |
-| 10-Q | 2025-07-23 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000096/prg-20250630.htm) | [file](../../sec-filings/prog-holdings/2025-07-23_10-Q_0001808834-25-000096.htm) |
-| 8-K | 2025-07-23 | 2025-07-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000095/prg-20250723.htm) | [file](../../sec-filings/prog-holdings/2025-07-23_8-K_0001808834-25-000095.htm) |
-| 8-K | 2025-05-08 | 2025-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000058/prg-20250507.htm) | [file](../../sec-filings/prog-holdings/2025-05-08_8-K_0001808834-25-000058.htm) |
-| 10-Q | 2025-04-23 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000054/prg-20250331.htm) | [file](../../sec-filings/prog-holdings/2025-04-23_10-Q_0001808834-25-000054.htm) |
-| 8-K | 2025-04-23 | 2025-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000053/prg-20250423.htm) | [file](../../sec-filings/prog-holdings/2025-04-23_8-K_0001808834-25-000053.htm) |
-| 8-K | 2025-02-27 | 2025-02-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000013/prg-20250226.htm) | [file](../../sec-filings/prog-holdings/2025-02-27_8-K_0001808834-25-000013.htm) |
-| 10-K | 2025-02-19 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000009/prg-20241231.htm) | [file](../../sec-filings/prog-holdings/2025-02-19_10-K_0001808834-25-000009.htm) |
-| 8-K | 2025-02-19 | 2025-02-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000008/prg-20250219.htm) | [file](../../sec-filings/prog-holdings/2025-02-19_8-K_0001808834-25-000008.htm) |
-| 8-K | 2024-11-19 | 2024-11-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000119312524261374/d845270d8k.htm) | [file](../../sec-filings/prog-holdings/2024-11-19_8-K_0001193125-24-261374.htm) |
-| 8-K | 2024-11-13 | 2024-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000131/prg-20241112.htm) | [file](../../sec-filings/prog-holdings/2024-11-13_8-K_0001808834-24-000131.htm) |
-| 8-K | 2024-11-08 | 2024-11-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000119/prg-20241107.htm) | [file](../../sec-filings/prog-holdings/2024-11-08_8-K_0001808834-24-000119.htm) |
-| 10-Q | 2024-10-23 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000113/prg-20240930.htm) | [file](../../sec-filings/prog-holdings/2024-10-23_10-Q_0001808834-24-000113.htm) |
-| 8-K | 2024-10-23 | 2024-10-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000111/prg-20241023.htm) | [file](../../sec-filings/prog-holdings/2024-10-23_8-K_0001808834-24-000111.htm) |
-| 8-K | 2024-08-09 | 2024-08-08 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000099/prg-20240808.htm) | [file](../../sec-filings/prog-holdings/2024-08-09_8-K_0001808834-24-000099.htm) |
-| 10-Q | 2024-07-24 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000096/prg-20240630.htm) | [file](../../sec-filings/prog-holdings/2024-07-24_10-Q_0001808834-24-000096.htm) |
-| 8-K | 2024-07-24 | 2024-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000094/prg-20240724.htm) | [file](../../sec-filings/prog-holdings/2024-07-24_8-K_0001808834-24-000094.htm) |
+| [8-K](#f-000180883426000071) | 2026-05-07 | 2026-05-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000071/prg-20260506.htm) | [file](../../sec-filings/prog-holdings/2026-05-07_8-K_0001808834-26-000071.htm) |
+| [10-Q](#f-000180883426000066) | 2026-04-29 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000066/prg-20260331.htm) | [file](../../sec-filings/prog-holdings/2026-04-29_10-Q_0001808834-26-000066.htm) |
+| [8-K](#f-000180883426000065) | 2026-04-29 | 2026-04-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000065/prg-20260429.htm) | [file](../../sec-filings/prog-holdings/2026-04-29_8-K_0001808834-26-000065.htm) |
+| [8-K](#f-000180883426000051) | 2026-03-10 | 2026-03-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000051/prg-20260310.htm) | [file](../../sec-filings/prog-holdings/2026-03-10_8-K_0001808834-26-000051.htm) |
+| [8-K](#f-000180883426000026) | 2026-03-02 | 2026-02-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000026/prg-20260225.htm) | [file](../../sec-filings/prog-holdings/2026-03-02_8-K_0001808834-26-000026.htm) |
+| [10-K](#f-000180883426000012) | 2026-02-18 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000012/prg-20251231.htm) | [file](../../sec-filings/prog-holdings/2026-02-18_10-K_0001808834-26-000012.htm) |
+| [8-K](#f-000180883426000011) | 2026-02-18 | 2026-02-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000011/prg-20260218.htm) | [file](../../sec-filings/prog-holdings/2026-02-18_8-K_0001808834-26-000011.htm) |
+| [8-K](#f-000180883426000002) | 2026-01-02 | 2026-01-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000002/prg-20260102.htm) | [file](../../sec-filings/prog-holdings/2026-01-02_8-K_0001808834-26-000002.htm) |
+| [8-K](#f-000180883425000118) | 2025-12-02 | 2025-12-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000118/prg-20251201.htm) | [file](../../sec-filings/prog-holdings/2025-12-02_8-K_0001808834-25-000118.htm) |
+| [8-K](#f-000180883425000114) | 2025-11-07 | 2025-11-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000114/prg-20251106.htm) | [file](../../sec-filings/prog-holdings/2025-11-07_8-K_0001808834-25-000114.htm) |
+| [10-Q](#f-000180883425000111) | 2025-10-22 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000111/prg-20250930.htm) | [file](../../sec-filings/prog-holdings/2025-10-22_10-Q_0001808834-25-000111.htm) |
+| [8-K](#f-000180883425000110) | 2025-10-22 | 2025-10-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000110/prg-20251022.htm) | [file](../../sec-filings/prog-holdings/2025-10-22_8-K_0001808834-25-000110.htm) |
+| [8-K](#f-000180883425000099) | 2025-08-07 | 2025-08-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000099/prg-20250806.htm) | [file](../../sec-filings/prog-holdings/2025-08-07_8-K_0001808834-25-000099.htm) |
+| [10-Q](#f-000180883425000096) | 2025-07-23 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000096/prg-20250630.htm) | [file](../../sec-filings/prog-holdings/2025-07-23_10-Q_0001808834-25-000096.htm) |
+| [8-K](#f-000180883425000095) | 2025-07-23 | 2025-07-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000095/prg-20250723.htm) | [file](../../sec-filings/prog-holdings/2025-07-23_8-K_0001808834-25-000095.htm) |
+| [8-K](#f-000180883425000058) | 2025-05-08 | 2025-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000058/prg-20250507.htm) | [file](../../sec-filings/prog-holdings/2025-05-08_8-K_0001808834-25-000058.htm) |
+| [10-Q](#f-000180883425000054) | 2025-04-23 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000054/prg-20250331.htm) | [file](../../sec-filings/prog-holdings/2025-04-23_10-Q_0001808834-25-000054.htm) |
+| [8-K](#f-000180883425000053) | 2025-04-23 | 2025-04-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000053/prg-20250423.htm) | [file](../../sec-filings/prog-holdings/2025-04-23_8-K_0001808834-25-000053.htm) |
+| [8-K](#f-000180883425000013) | 2025-02-27 | 2025-02-26 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000013/prg-20250226.htm) | [file](../../sec-filings/prog-holdings/2025-02-27_8-K_0001808834-25-000013.htm) |
+| [10-K](#f-000180883425000009) | 2025-02-19 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000009/prg-20241231.htm) | [file](../../sec-filings/prog-holdings/2025-02-19_10-K_0001808834-25-000009.htm) |
+| [8-K](#f-000180883425000008) | 2025-02-19 | 2025-02-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883425000008/prg-20250219.htm) | [file](../../sec-filings/prog-holdings/2025-02-19_8-K_0001808834-25-000008.htm) |
+| [8-K](#f-000119312524261374) | 2024-11-19 | 2024-11-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000119312524261374/d845270d8k.htm) | [file](../../sec-filings/prog-holdings/2024-11-19_8-K_0001193125-24-261374.htm) |
+| [8-K](#f-000180883424000131) | 2024-11-13 | 2024-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000131/prg-20241112.htm) | [file](../../sec-filings/prog-holdings/2024-11-13_8-K_0001808834-24-000131.htm) |
+| [8-K](#f-000180883424000119) | 2024-11-08 | 2024-11-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000119/prg-20241107.htm) | [file](../../sec-filings/prog-holdings/2024-11-08_8-K_0001808834-24-000119.htm) |
+| [10-Q](#f-000180883424000113) | 2024-10-23 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000113/prg-20240930.htm) | [file](../../sec-filings/prog-holdings/2024-10-23_10-Q_0001808834-24-000113.htm) |
+| [8-K](#f-000180883424000111) | 2024-10-23 | 2024-10-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000111/prg-20241023.htm) | [file](../../sec-filings/prog-holdings/2024-10-23_8-K_0001808834-24-000111.htm) |
+| [8-K](#f-000180883424000099) | 2024-08-09 | 2024-08-08 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000099/prg-20240808.htm) | [file](../../sec-filings/prog-holdings/2024-08-09_8-K_0001808834-24-000099.htm) |
+| [10-Q](#f-000180883424000096) | 2024-07-24 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000096/prg-20240630.htm) | [file](../../sec-filings/prog-holdings/2024-07-24_10-Q_0001808834-24-000096.htm) |
+| [8-K](#f-000180883424000094) | 2024-07-24 | 2024-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000094/prg-20240724.htm) | [file](../../sec-filings/prog-holdings/2024-07-24_8-K_0001808834-24-000094.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-05-07
+_Click a filing to expand its summary._
+
+<details id="f-000180883426000071">
+<summary><strong>8-K</strong> — 2026-05-07</summary>
 
 #### Key financials
 - Quarterly cash dividend declared at **$0.14 per share**, payable **June 2, 2026** to shareholders of record as of **May 19, 2026**.
 - CEO Steven A. Michaels received a one-time special equity grant of **$5 million in restricted stock units**, vesting ratably on the **3rd, 4th, and 5th anniversaries** of the grant date (granted May 7, 2026).
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - At the **May 6, 2026** Annual Meeting, **92% of shares** (36,885,068 of 40,058,369 eligible) were represented; all 10 director nominees elected, Ernst & Young LLP ratified as auditor for 2026, and the Amended and Restated 2015 Equity and Incentive Plan amendment approved (31,505,553 for vs. 3,224,113 against).
 - Effective **May 7, 2026**, the Board elected CEO Steven A. Michaels to the additional role of **Chairman of the Board**; predecessor Chairman **Ray M. Robinson** transitioned to **Lead Independent Director**.
 
-### 10-Q — 2026-04-29
+</details>
+
+<details id="f-000180883426000066">
+<summary><strong>10-Q</strong> — 2026-04-29</summary>
 
 #### Key financials
 - Q1 2026 total revenues of $742.7M vs. $668.4M in Q1 2025 (+11.1%); net earnings from continuing operations of $36.2M ($0.89 diluted EPS) vs. $34.6M ($0.83) in Q1 2025; Purchasing Power contributed $107.1M in revenues but a net loss of $7.5M in Q1 2026.
@@ -90,7 +90,10 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - The purchase price allocation for Purchasing Power remains preliminary as of March 31, 2026, with $319M of identified intangibles (client relationships $258M, broker relationships $24M, trade name $29M, developed technology $8M) and $110.7M of goodwill subject to adjustment within the one-year measurement period ending January 2, 2027.
 - Vive wind-down continues; remaining discontinued operations assets of $12.5M (primarily $9
 
-### 8-K — 2026-04-29
+</details>
+
+<details id="f-000180883426000065">
+<summary><strong>8-K</strong> — 2026-04-29</summary>
 
 ## PROG Holdings, Inc. – 8-K Filed April 29, 2026
 
@@ -98,29 +101,20 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - Filing announces Q1 2026 financial results (quarter ended March 31, 2026) via press release (Exhibit 99.1); specific revenue, earnings, and margin figures are contained in the attached exhibits, not the body of the 8-K.
 - No financial figures (revenue, net income, EPS, etc.) are disclosed within the 8-K form itself; detailed metrics require review of Exhibit 99.1 (press release) and Exhibit 99.2 (earnings supplement presentation).
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On April 29, 2026, PROG Holdings (NYSE: PRG) filed an 8-K under Item 2.02 reporting Q1 2026 results; the press release and an earnings supplement presentation (Exhibits 99.1 and 99.2) were furnished but not "filed" for Section 18 Exchange Act liability purposes.
 - Filing was signed by CFO Brian Garner on April 29, 2026; company is headquartered at 256 W. Data Drive, Draper, Utah 84020.
 
-### 8-K — 2026-03-10
+</details>
+
+<details id="f-000180883426000051">
+<summary><strong>8-K</strong> — 2026-03-10</summary>
 
 ## PROG Holdings, Inc. (PRG) — 8-K Filed March 10, 2026
 
 #### Key financials
 - Filing discloses an updated fiscal year 2026 outlook via press release (Exhibit 99.1), but specific guidance figures are not reproduced in the 8-K body text itself.
 - No historical financial results, revenue figures, or earnings metrics are included in the filing text provided.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On March 10, 2026, PROG Holdings held an Investor Day (webcast beginning 8:30 a.m. ET) at which updated FY2026 guidance was presented via press release and investor presentation (Exhibits 99.1 and 99.2).
@@ -129,23 +123,23 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 
 > **Analyst note for Snap Finance:** The actual updated FY2026 guidance metrics (GMV, revenue, loss rates, etc.) are contained in Exhibits 99.1 and 99.2, which are not reproduced here. Review those attachments for competitive benchmarking data on PRG/Progressive Leasing and Vive Financial.
 
-### 8-K — 2026-03-02
+</details>
+
+<details id="f-000180883426000026">
+<summary><strong>8-K</strong> — 2026-03-02</summary>
 
 #### Key financials
 - Board declared a quarterly cash dividend of **$0.14 per share** of common stock on **February 25, 2026**.
 - Dividend payable **March 24, 2026** to shareholders of record as of **March 12, 2026**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - PROG Holdings, Inc. (NYSE: PRG) filed this 8-K on **March 2, 2026** (event date **February 25, 2026**) solely to disclose the quarterly dividend declaration; no other corporate actions, transactions, or operational updates were disclosed.
 - Filing signed by Todd King, Chief Legal and Compliance Officer, on **February 27, 2026**.
 
-### 10-K — 2026-02-18
+</details>
+
+<details id="f-000180883426000012">
+<summary><strong>10-K</strong> — 2026-02-18</summary>
 
 #### Key financials
 - Progressive Leasing comprised ~96% of PROG Holdings' consolidated revenues for FY2025; the company does not disclose total revenue in the truncated filing text, but the two-segment structure (Progressive Leasing + Four) reflects continuing operations after Vive was classified as discontinued.
@@ -171,7 +165,10 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - Big Lots (bankruptcy September 2024, liquidation December 2024) and American Signature/Value City Furniture (bankruptcy November 2025, subsequent liquidation) both cited as former top-10 POS partners whose store closures negatively impacted 2025 results and are expected to further pressure 2026 performance.
 - Share repurchase program remained active through December 31, 2025; aggregate repurchases from program inception through 2022–2025 disclosed but specific 2025 dollar amount not provided in the truncated text; 39,575,810 shares outstanding as of February 12, 2026.
 
-### 8-K — 2026-02-18
+</details>
+
+<details id="f-000180883426000011">
+<summary><strong>8-K</strong> — 2026-02-18</summary>
 
 #### Key financials
 - PROG Holdings filed an 8-K on February 18, 2026 disclosing Q4 and full-year results for fiscal year ended December 31, 2025; specific revenue, earnings, and margin figures are contained in Exhibit 99.1 (press release) and Exhibit 99.2 (earnings supplement), which are furnished but not filed and were not included in the truncated filing text.
@@ -187,7 +184,10 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - PROG Holdings (NYSE: PRG), headquartered in Draper, Utah, issued a press release on February 18, 2026 announcing Q4 and full-year FY2025 financial results alongside an earnings supplement presentation (Exhibits 99.1 and 99.2).
 - The filing was signed by CFO Brian Garner on February 18, 2026; exhibits are furnished (not filed) under SEC rules, limiting Section 18 liability.
 
-### 8-K — 2026-01-02
+</details>
+
+<details id="f-000180883426000002">
+<summary><strong>8-K</strong> — 2026-01-02</summary>
 
 ## PROG Holdings, Inc. — 8-K Filed January 2, 2026
 
@@ -208,7 +208,10 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - PROG Beach, LLC (wholly-owned subsidiary) completed acquisition of P-Squared, LLC from Purchasing Power Parent, LLC on **January 2, 2026**, pursuant to a Unit Purchase Agreement dated **December 1, 2025**.
 - Financial statements and pro forma financials for the acquired business are **not included** in this filing; PROG has up to **71 calendar days** from the filing date to submit them via amendment.
 
-### 8-K — 2025-12-02
+</details>
+
+<details id="f-000180883425000118">
+<summary><strong>8-K</strong> — 2025-12-02</summary>
 
 #### Key financials
 - PROG Holdings agreed to acquire P-Squared, LLC (Purchasing Power) for **$420 million cash consideration**, to be funded via cash on hand and new debt financing.
@@ -226,23 +229,23 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - On **December 1, 2025**, PROG Beach, LLC (wholly-owned PROG subsidiary) entered into a Unit Purchase Agreement with Purchasing Power Parent, LLC to acquire **100% of the equity interests of P-Squared, LLC**.
 - PROG will hold an **investor conference call on December 2, 2025** to discuss the transaction; the full Purchase Agreement text will be filed as an exhibit to PROG's **Form 10-K for fiscal year ended December 31, 2025**.
 
-### 8-K — 2025-11-07
+</details>
+
+<details id="f-000180883425000114">
+<summary><strong>8-K</strong> — 2025-11-07</summary>
 
 #### Key financials
 - PROG Holdings declared a quarterly cash dividend of **$0.13 per share** of common stock on **November 6, 2025**.
 - Dividend payable **December 2, 2025** to shareholders of record as of **November 18, 2025**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Board of Directors declared the **$0.13/share quarterly cash dividend** via Item 8.01 (Other Events) on **November 6, 2025**; supporting press release filed as Exhibit 99.1.
 - Filing signed by **Todd King**, Chief Legal and Compliance Officer, on November 6, 2025.
 
-### 10-Q — 2025-10-22
+</details>
+
+<details id="f-000180883425000111">
+<summary><strong>10-Q</strong> — 2025-10-22</summary>
 
 #### Key financials
 - Q3 2025 total revenues were $595.1M, down 1.8% from $606.1M in Q3 2024; nine-month revenues were $1.884B, up 2.4% from $1.840B in the same 2024 period.
@@ -266,7 +269,10 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - On July 4, 2025, the One Big Beautiful Bill Act was enacted, making 100% bonus depreciation permanent for qualified property placed in service after January 19, 2025; this increased PROG's net deferred tax liability by $33.4M and income tax receivable by $38.0M, with no material expected impact to income tax expense.
 - A cybersecurity class-action consolidation arising from the Q3 2023 data breach (affecting Social Security numbers and other PII of Progressive Leasing customers) reached a settlement agreement on June 30, 2025 for $3.3M, to be paid entirely by the company's cybersecurity insurance, pending final District Court approval.
 
-### 8-K — 2025-10-22
+</details>
+
+<details id="f-000180883425000110">
+<summary><strong>8-K</strong> — 2025-10-22</summary>
 
 #### Key financials
 - On October 20, 2025, PROG Holdings' subsidiary Vive Financial LLC sold ~$165 million in receivables (credit card and retail loan accounts) to Fortiva Funding LLC for ~$150 million in cash, implying a ~9% discount to face value.
@@ -284,23 +290,23 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - Sale and Purchase Agreement executed October 20, 2025; Vive Financial (seller) and Fortiva Funding LLC (buyer/Atlanticus subsidiary) closed the ~$165M portfolio sale for ~$150M cash proceeds.
 - A Transition Services Agreement was simultaneously entered into, requiring Vive Financial to provide receivables processing, collection, and administration services to Fortiva for a limited post-closing period.
 
-### 8-K — 2025-08-07
+</details>
+
+<details id="f-000180883425000099">
+<summary><strong>8-K</strong> — 2025-08-07</summary>
 
 #### Key financials
 - Board declared a quarterly cash dividend of **$0.13 per share** of common stock on **August 6, 2025**.
 - Dividend payable **September 4, 2025** to shareholders of record as of **August 19, 2025**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - This 8-K (filed **August 7, 2025**) reports solely a routine quarterly dividend declaration under Item 8.01 (Other Events); no acquisitions, leadership changes, or litigation disclosures were included.
 - Exhibit 99.1 (press release dated **August 7, 2025**) and an Inline XBRL cover page (Exhibit 104) are the only attachments.
 
-### 10-Q — 2025-07-23
+</details>
+
+<details id="f-000180883425000096">
+<summary><strong>10-Q</strong> — 2025-07-23</summary>
 
 #### Key financials
 - Q2 2025 total revenues: $604.7M (+2.1% vs. Q2 2024 $592.2M); H1 2025 revenues: $1,288.8M (+4.4% vs. H1 2024 $1,234.0M); revenue growth driven entirely by Interest & Fees on Loans Receivable (+61.6% to $35.0M in Q2, +57.2% to $67.5M in H1), while lease revenues were essentially flat (-0.1% Q2, +2.5% H1).
@@ -321,19 +327,16 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 #### Material events
 - On June 30, 2025, Progressive Leasing reached a $3.3M settlement (subject to District Court approval) resolving consolidated cybersecurity incident lawsuits stemming from the Q3 2023 data breach; the full amount is expected to be paid by the
 
-### 8-K — 2025-07-23
+</details>
+
+<details id="f-000180883425000095">
+<summary><strong>8-K</strong> — 2025-07-23</summary>
 
 ## PROG Holdings, Inc. (PRG) — 8-K Filed July 23, 2025
 
 #### Key financials
 - Filing announces Q2 2025 financial results (quarter ended June 30, 2025) via press release (Exhibit 99.1) and earnings supplement presentation (Exhibit 99.2); specific revenue, earnings, and margin figures are contained in those exhibits, which are not reproduced in the 8-K body text.
 - No standalone financial figures (revenue, net income, EPS, GMV, etc.) are disclosed within the 8-K form itself.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On July 23, 2025, PROG Holdings filed an Item 2.02 8-K disclosing Q2 2025 results; the press release and earnings supplement are furnished (not "filed") under the Securities Exchange Act, meaning they carry no Section 18 liability.
@@ -342,24 +345,24 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 ---
 **Analyst note for Snap Finance:** This 8-K is a routine earnings announcement shell; substantive competitive data (GMV, lease portfolio size, write-off rates, merchant count) would require review of Exhibit 99.1 and 99.2, which were not included in the provided text. PRG's Progressive Leasing segment is a direct LTO competitor to Snap Finance.
 
-### 8-K — 2025-05-08
+</details>
+
+<details id="f-000180883425000058">
+<summary><strong>8-K</strong> — 2025-05-08</summary>
 
 #### Key financials
 - Board declared a quarterly cash dividend of **$0.13 per share**, payable **June 3, 2025** to shareholders of record as of **May 20, 2025**.
 - As of the **March 10, 2025** record date, **40,604,576** shares of common stock were outstanding and entitled to vote.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - PROG Holdings held its **2025 Annual Meeting on May 7, 2025** in Salt Lake City, Utah, with **36,765,059 shares (~91%)** represented in person or by proxy.
 - All **10 director nominees** were elected to serve until the **2026 annual meeting**; most received >89% of votes cast, though Cynthia N. Day and Ray M. Robinson received comparatively lower support (~91% and ~94% of votes cast, respectively).
 - Say-on-pay (Proposal 2) passed with **32,080,007 for vs. 1,895,381 against**; Ernst & Young LLP was ratified as independent auditor for 2025 with **35,833,814 for vs. 922,280 against**.
 
-### 10-Q — 2025-04-23
+</details>
+
+<details id="f-000180883425000054">
+<summary><strong>10-Q</strong> — 2025-04-23</summary>
 
 #### Key financials
 - Q1 2025 total revenues of $684.1 million, up 6.6% from $641.9 million in Q1 2024; lease revenues and fees $651.6 million (+5.0%) and interest/fees on loans $32.5 million (+52.6%).
@@ -381,7 +384,10 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - The cybersecurity incident (Q3 2023) litigation was partially resolved on January 16, 2025, when the U.S. District Court for the District of Utah granted in part and denied in part Progressive Leasing's June 2024 motion to dismiss the consolidated complaint; litigation remains ongoing with no estimable loss range.
 - The Company repurchased 935,992 shares for $26.1 million in Q1 2025 at average prices of $28.74–$27.47; $335.2 million of the $500 million Board authorization (effective February 21, 2024) remained available as of March 31, 2025.
 
-### 8-K — 2025-04-23
+</details>
+
+<details id="f-000180883425000053">
+<summary><strong>8-K</strong> — 2025-04-23</summary>
 
 ## PROG Holdings, Inc. (PRG) — 8-K Filed April 23, 2025
 
@@ -389,33 +395,27 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - Filing announces Q1 2025 financial results for the quarter ended March 31, 2025, via press release (Exhibit 99.1); specific revenue, earnings, and margin figures are contained in the attached exhibit, not reproduced in the 8-K body.
 - No standalone financial figures (revenue, EPS, GMV, or loss rates) are disclosed within the 8-K text itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On April 23, 2025, PROG Holdings filed an Item 2.02 8-K disclosing Q1 2025 results, accompanied by a press release (Exhibit 99.1) and an Earnings Supplement Presentation (Exhibit 99.2).
 - The filing was signed by CFO Brian Garner on April 23, 2025; the company is headquartered at 256 W. Data Drive, Draper, Utah 84020, and trades on the NYSE under ticker **PRG**.
 
-### 8-K — 2025-02-27
+</details>
+
+<details id="f-000180883425000013">
+<summary><strong>8-K</strong> — 2025-02-27</summary>
 
 #### Key financials
 - PROG Holdings (NYSE: PRG) declared a quarterly cash dividend of **$0.13 per share** of common stock on **February 26, 2025**.
 - Dividend payable **March 25, 2025** to shareholders of record as of **March 13, 2025**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - This 8-K (filed **February 27, 2025**; event date **February 26, 2025**) was filed solely under Item 8.01 (Other Events) to disclose the dividend declaration; no operational, M&A, or litigation events were reported.
 - The filing was signed by CFO **Brian Garner**; no other executive actions or guidance were included.
 
-### 10-K — 2025-02-19
+</details>
+
+<details id="f-000180883425000009">
+<summary><strong>10-K</strong> — 2025-02-19</summary>
 
 #### Key financials
 - FY2024 total consolidated revenues were heavily concentrated in Progressive Leasing (~96% of consolidated revenues); Vive contributed ~3%; Four was immaterial (reported in "Other").
@@ -441,23 +441,23 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - September 2023 cybersecurity incident at Progressive Leasing continued to generate costs and contingent liabilities through FY2024; cybersecurity insurance coverage in place but with retention and coverage limits; accrued liability balance disclosed as of December 31, 2024.
 - Share repurchase program re-authorized on February 21, 2024; as of December 31, 2024, $361.3M of repurchase authority remained outstanding under the program first established November 3, 2021.
 
-### 8-K — 2025-02-19
+</details>
+
+<details id="f-000180883425000008">
+<summary><strong>8-K</strong> — 2025-02-19</summary>
 
 #### Key financials
 - Filing references Q4 and full-year fiscal 2024 results (period ended December 31, 2024), announced via press release dated February 19, 2025; detailed financials contained in Exhibit 99.1 (not included in truncated text).
 - No specific revenue, earnings, or balance sheet figures are disclosed within the 8-K body itself; quantitative results are embedded in the attached press release and earnings supplement presentation (Exhibit 99.2).
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - PROG Holdings, Inc. (NYSE: PRG) filed an 8-K on February 19, 2025 under Item 2.02 to report Q4 and full-year 2024 financial results, accompanied by an earnings supplement presentation (Exhibit 99.2).
 - Filing was signed by CFO Brian Garner on February 19, 2025; exhibits are furnished (not filed) and therefore not subject to Section 18 liability or automatic incorporation by reference under the Securities Act of 1933.
 
-### 8-K — 2024-11-19
+</details>
+
+<details id="f-000119312524261374">
+<summary><strong>8-K</strong> — 2024-11-19</summary>
 
 ## PROG Holdings, Inc. – 8-K Summary (Filed: 2024-11-19, Event Date: 2024-11-15)
 
@@ -465,34 +465,25 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - No revenue, earnings, or balance sheet figures disclosed in this filing.
 - Filing relates solely to a credit agreement amendment; no new borrowing capacity or pricing terms were disclosed in the body of the 8-K.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On November 15, 2024, PROG Holdings (via subsidiary Progressive Finance Holdings, LLC as borrower) executed the **Third Amendment** to its credit agreement originally dated November 24, 2020, with JPMorgan Chase Bank, N.A. as administrative agent.
 - The sole stated purpose of the amendment was to **extend the credit agreement maturity date from November 24, 2025 to November 15, 2029**, adding approximately four years of runway.
 - The amendment involves PROG Holdings and certain subsidiaries as guarantors, alongside an unnamed syndicate of bank lenders; no updated financial covenants, interest rate terms, or facility size were disclosed in the filing text.
 
-### 8-K — 2024-11-13
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000180883424000131">
+<summary><strong>8-K</strong> — 2024-11-13</summary>
 
 #### Material events
 - Effective November 12, 2024, PROG Holdings' Board expanded from 9 to 11 directors, appointing Robert Julian and Daniela Mielke to fill the two newly created seats.
 - Both Julian and Mielke were simultaneously appointed to the Board's Audit Committee and determined to be independent under NYSE listing standards and SEC rules applicable to audit committee members.
 - Both new directors will receive standard non-employee director compensation per the Company's Compensation Plan for Non-Employee Directors and will each execute the Company's standard indemnification agreement (form previously filed as Exhibit 10.19 to the 10-K dated February 21, 2024).
 
-### 8-K — 2024-11-08
+</details>
+
+<details id="f-000180883424000119">
+<summary><strong>8-K</strong> — 2024-11-08</summary>
 
 ## PROG Holdings, Inc. (PRG) – 8-K Filed 2024-11-08
 
@@ -500,17 +491,14 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - Board declared a quarterly cash dividend of **$0.12 per share** of common stock on **November 7, 2024**.
 - Dividend payable on **December 3, 2024** to shareholders of record as of **November 19, 2024**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - This filing is limited to a routine dividend declaration under Item 8.01 (Other Events); no acquisitions, litigation, or operational announcements were disclosed.
 - CFO **Brian Garner** signed the filing on **November 7, 2024**.
 
-### 10-Q — 2024-10-23
+</details>
+
+<details id="f-000180883424000113">
+<summary><strong>10-Q</strong> — 2024-10-23</summary>
 
 #### Key financials
 - Q3 2024 total revenues were $606.1M (+4.0% vs. $582.9M in Q3 2023); nine-month revenues were $1.840B (+0.5% vs. $1.831B). Progressive Leasing lease revenues grew 3.3% to $582.6M in Q3; Vive interest/fee revenue declined to $16.0M from $17.5M.
@@ -534,7 +522,10 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - Consolidated cybersecurity lawsuit (plaintiffs' complaint filed April 19, 2024; Progressive Leasing motion to dismiss filed June 24, 2024) is pending in U.S. District Court for the District of Utah; aggregate incident costs net of insurance proceeds were $3.2M since Q3 2023, with $0.4M accrued as of September 30, 2024; cybersecurity insurance has a $1.0M retention.
 - Nine-month restructuring charges totaled $20.9M (vs. $2.0M in the same period 2023), driven by $9.75M in early contract termination costs, $4.5M in ROU asset impairments, $1.5M in property/equipment impairments, and $5.0M in severance; cumulative charges since 2022 inception reached $42.4M.
 
-### 8-K — 2024-10-23
+</details>
+
+<details id="f-000180883424000111">
+<summary><strong>8-K</strong> — 2024-10-23</summary>
 
 ## PROG Holdings, Inc. (PRG) – 8-K Filed October 23, 2024
 
@@ -552,23 +543,23 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - PROG Holdings filed under Item 2.02 (Results of Operations and Financial Condition) on October 23, 2024, reporting Q3 2024 earnings; press release and supplement are furnished but explicitly not "filed" for Section 18 liability purposes.
 - CFO Brian Garner signed the filing on October 23, 2024; company is headquartered at 256 W. Data Drive, Draper, Utah, and trades on NYSE under ticker **PRG**.
 
-### 8-K — 2024-08-09
+</details>
+
+<details id="f-000180883424000099">
+<summary><strong>8-K</strong> — 2024-08-09</summary>
 
 #### Key financials
 - Board declared a quarterly cash dividend of **$0.12 per share** of common stock on **August 8, 2024**.
 - Dividend payable **September 3, 2024** to shareholders of record as of **August 20, 2024**.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - PROG Holdings (NYSE: PRG) filed this 8-K on **August 9, 2024** under Item 8.01 (Other Events) solely to disclose the quarterly dividend declaration.
 - No other corporate actions, acquisitions, guidance updates, or operational announcements were included in the filing.
 
-### 10-Q — 2024-07-24
+</details>
+
+<details id="f-000180883424000096">
+<summary><strong>10-Q</strong> — 2024-07-24</summary>
 
 #### Key financials
 - Q2 2024 total revenues were $592.2M, essentially flat vs. $592.8M in Q2 2023; H1 2024 revenues were $1.234B, down 1.1% from $1.248B in H1 2023.
@@ -591,18 +582,17 @@ _Updated: June 15, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 - Restructuring: Company recorded $20.9M in restructuring charges in H1 2024 (vs. $1.7M in H1 2023), including $7.8M for early termination of an independent sales agent agreement, $6.0M in ROU asset and fixed asset impairments tied to office space reductions, and $5.0M in employee severance; aggregate charges since 2022 inception reached $42.4M.
 - California DFPI subpoena (received January 2021) regarding compliance with state consumer protection laws remains open; the company acknowledges it may lead to an enforcement action or consent order but has fully cooperated.
 
-### 8-K — 2024-07-24
+</details>
+
+<details id="f-000180883424000094">
+<summary><strong>8-K</strong> — 2024-07-24</summary>
 
 #### Key financials
 - Filing announces Q2 2024 financial results (quarter ended June 30, 2024), disclosed via press release (Exhibit 99.1) and earnings supplement presentation (Exhibit 99.2) dated July 24, 2024; detailed figures are contained in those exhibits, which are not reproduced in the 8-K body.
 - No specific revenue, EPS, or balance sheet figures are included in the 8-K form itself; full financials require review of Exhibit 99.1.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - PROG Holdings, Inc. (NYSE: PRG) filed an 8-K on July 24, 2024 under Item 2.02, reporting Q2 2024 results via press release; the exhibit is furnished (not filed) and thus not subject to Section 18 liability.
 - CFO Brian Garner signed the filing; company is headquartered at 256 W. Data Drive, Draper, Utah 84020.
+
+</details>

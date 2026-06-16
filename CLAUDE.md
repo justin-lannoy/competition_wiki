@@ -56,6 +56,25 @@ docs/superpowers/        Design spec + implementation/migration plans (history).
 4. `summarize_filing` asks Claude (`claude-sonnet-4-6`) for a structured summary.
 5. `render_filer_page`/`render_index` write `pages/sec-filings/`; the wiki rebuilds.
 
+## How the news pipeline works
+
+Mirrors the SEC pipeline. `scripts/news_feeds.py` (stdlib `urllib`/`xml.etree`,
+DOCTYPE-rejected for XXE safety) pulls Google News RSS per competitor (query = the
+registry `Search query` override, else name+parent) plus any official `PR feed` RSS.
+`scripts/refresh_news.py` filters a source/keyword **denylist** (`is_noise`), keeps a
+60-day window for news and a wider `--pr-days` (365) window for sparse official PR,
+AI-summarizes each item, parses a `significance` tag, and renders `pages/news/` +
+per-competitor `news/<slug>/_news.json` sidecars (idempotent, summary-preserving).
+
+## Registry columns (`competitors.md`)
+
+`Slug · Competitor · Parent (SEC issuer) · Ticker · Category · Tier · Product ·
+Search query · PR feed · Notes`. `Category`/`Tier` are validated (warn on typo);
+`Tier` (`direct-lto`/`adjacent-bnpl`/`prime-card`/`medical`) groups the Competitor
+Watch view. `build_wiki.py` flags synthesized pages (`stub`) and embeds top-3
+`recent_news` per competitor. A weekly `.github/workflows/refresh.yml` runs both
+pipelines (needs the `ANTHROPIC_API_KEY` repo secret + Actions write permission).
+
 ## Running it
 
 ```bash
@@ -65,7 +84,9 @@ cp .env.example .env && echo 'ANTHROPIC_API_KEY=sk-ant-...' >> .env
 python3 scripts/refresh_sec_filings.py --use-anthropic-api   # pull + download + summarize
 python3 scripts/refresh_sec_filings.py --existing-only        # re-render offline (no network/API)
 python3 scripts/refresh_sec_filings.py --use-anthropic-api --dry-run
-python3 build_wiki.py --no-embed-key                          # rebuild pages/wiki.html
+python3 scripts/refresh_news.py --use-anthropic-api          # pull news/PR + summarize
+python3 scripts/refresh_news.py --existing-only              # re-render news offline
+python3 build_wiki.py --no-embed-key                          # rebuild pages/wiki.html (brace-balance gated)
 
 python3 -m pytest tests/ -q                                   # unit tests
 EDGAR_LIVE=1 python3 -m pytest tests/ -q                      # incl. live EDGAR smoke test

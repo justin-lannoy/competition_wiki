@@ -17,47 +17,41 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 8-K | 2026-06-03 | 2026-06-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465926069652/tm2616108d1_8k.htm) | [file](../../sec-filings/upbound-group/2026-06-03_8-K_0001104659-26-069652.htm) |
-| 8-K | 2026-05-19 | 2026-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465926063514/tm2614908d1_8k.htm) | [file](../../sec-filings/upbound-group/2026-05-19_8-K_0001104659-26-063514.htm) |
-| 10-Q | 2026-05-01 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000162828026029049/upbd-20260331.htm) | [file](../../sec-filings/upbound-group/2026-05-01_10-Q_0001628280-26-029049.htm) |
-| 8-K | 2026-04-30 | 2026-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000162828026028583/upbd-20260430.htm) | [file](../../sec-filings/upbound-group/2026-04-30_8-K_0001628280-26-028583.htm) |
-| 10-K | 2026-02-23 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303626000008/upbd-20251231.htm) | [file](../../sec-filings/upbound-group/2026-02-23_10-K_0000933036-26-000008.htm) |
-| 8-K | 2026-02-19 | 2026-02-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303626000005/upbd-20260219.htm) | [file](../../sec-filings/upbound-group/2026-02-19_8-K_0000933036-26-000005.htm) |
-| 8-K | 2025-11-21 | 2025-11-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000170/upbd-20251117.htm) | [file](../../sec-filings/upbound-group/2025-11-21_8-K_0000933036-25-000170.htm) |
-| 10-Q | 2025-10-31 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000167/upbd-20250930.htm) | [file](../../sec-filings/upbound-group/2025-10-31_10-Q_0000933036-25-000167.htm) |
-| 8-K | 2025-10-30 | 2025-10-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000164/upbd-20251030.htm) | [file](../../sec-filings/upbound-group/2025-10-30_8-K_0000933036-25-000164.htm) |
-| 8-K | 2025-10-30 | 2025-10-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925104014/tm2529442d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-10-30_8-K_0001104659-25-104014.htm) |
-| 8-K | 2025-08-19 | 2025-08-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925080284/tm2523851d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-08-19_8-K_0001104659-25-080284.htm) |
-| 10-Q | 2025-07-31 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000146/upbd-20250630.htm) | [file](../../sec-filings/upbound-group/2025-07-31_10-Q_0000933036-25-000146.htm) |
-| 8-K | 2025-07-31 | 2025-07-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000144/upbd-20250731.htm) | [file](../../sec-filings/upbound-group/2025-07-31_8-K_0000933036-25-000144.htm) |
-| 8-K | 2025-06-03 | 2025-06-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925055962/tm2517055d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-06-03_8-K_0001104659-25-055962.htm) |
-| 10-Q | 2025-05-02 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000091/upbd-20250331.htm) | [file](../../sec-filings/upbound-group/2025-05-02_10-Q_0000933036-25-000091.htm) |
-| 8-K | 2025-05-01 | 2025-05-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000087/upbd-20250501.htm) | [file](../../sec-filings/upbound-group/2025-05-01_8-K_0000933036-25-000087.htm) |
-| 8-K | 2025-03-07 | 2025-03-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925021452/tm258536d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-03-07_8-K_0001104659-25-021452.htm) |
-| 8-K | 2025-02-28 | 2025-02-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000057/upbd-20250224.htm) | [file](../../sec-filings/upbound-group/2025-02-28_8-K_0000933036-25-000057.htm) |
-| 10-K | 2025-02-25 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000042/upbd-20241231.htm) | [file](../../sec-filings/upbound-group/2025-02-25_10-K_0000933036-25-000042.htm) |
-| 8-K | 2025-02-20 | 2025-02-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925015439/tm256882d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-02-20_8-K_0001104659-25-015439.htm) |
-| 8-K | 2025-02-05 | 2025-01-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925009700/tm254758d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-02-05_8-K_0001104659-25-009700.htm) |
-| 8-K | 2024-12-12 | 2024-12-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465924128068/tm2430553d1_8k.htm) | [file](../../sec-filings/upbound-group/2024-12-12_8-K_0001104659-24-128068.htm) |
-| 10-Q | 2024-10-31 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000181/upbd-20240930.htm) | [file](../../sec-filings/upbound-group/2024-10-31_10-Q_0000933036-24-000181.htm) |
-| 8-K | 2024-10-31 | 2024-10-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000177/upbd-20241031.htm) | [file](../../sec-filings/upbound-group/2024-10-31_8-K_0000933036-24-000177.htm) |
-| 8-K | 2024-09-10 | 2024-09-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465924098378/tm2423294d1_8k.htm) | [file](../../sec-filings/upbound-group/2024-09-10_8-K_0001104659-24-098378.htm) |
-| 10-Q | 2024-08-01 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000137/upbd-20240630.htm) | [file](../../sec-filings/upbound-group/2024-08-01_10-Q_0000933036-24-000137.htm) |
-| 8-K | 2024-08-01 | 2024-08-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000133/upbd-20240801.htm) | [file](../../sec-filings/upbound-group/2024-08-01_8-K_0000933036-24-000133.htm) |
-| 8-K | 2024-07-23 | 2024-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465924081581/tm2419929d1_8k.htm) | [file](../../sec-filings/upbound-group/2024-07-23_8-K_0001104659-24-081581.htm) |
+| [8-K](#f-000110465926069652) | 2026-06-03 | 2026-06-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465926069652/tm2616108d1_8k.htm) | [file](../../sec-filings/upbound-group/2026-06-03_8-K_0001104659-26-069652.htm) |
+| [8-K](#f-000110465926063514) | 2026-05-19 | 2026-05-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465926063514/tm2614908d1_8k.htm) | [file](../../sec-filings/upbound-group/2026-05-19_8-K_0001104659-26-063514.htm) |
+| [10-Q](#f-000162828026029049) | 2026-05-01 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000162828026029049/upbd-20260331.htm) | [file](../../sec-filings/upbound-group/2026-05-01_10-Q_0001628280-26-029049.htm) |
+| [8-K](#f-000162828026028583) | 2026-04-30 | 2026-04-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000162828026028583/upbd-20260430.htm) | [file](../../sec-filings/upbound-group/2026-04-30_8-K_0001628280-26-028583.htm) |
+| [10-K](#f-000093303626000008) | 2026-02-23 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303626000008/upbd-20251231.htm) | [file](../../sec-filings/upbound-group/2026-02-23_10-K_0000933036-26-000008.htm) |
+| [8-K](#f-000093303626000005) | 2026-02-19 | 2026-02-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303626000005/upbd-20260219.htm) | [file](../../sec-filings/upbound-group/2026-02-19_8-K_0000933036-26-000005.htm) |
+| [8-K](#f-000093303625000170) | 2025-11-21 | 2025-11-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000170/upbd-20251117.htm) | [file](../../sec-filings/upbound-group/2025-11-21_8-K_0000933036-25-000170.htm) |
+| [10-Q](#f-000093303625000167) | 2025-10-31 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000167/upbd-20250930.htm) | [file](../../sec-filings/upbound-group/2025-10-31_10-Q_0000933036-25-000167.htm) |
+| [8-K](#f-000093303625000164) | 2025-10-30 | 2025-10-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000164/upbd-20251030.htm) | [file](../../sec-filings/upbound-group/2025-10-30_8-K_0000933036-25-000164.htm) |
+| [8-K](#f-000110465925104014) | 2025-10-30 | 2025-10-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925104014/tm2529442d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-10-30_8-K_0001104659-25-104014.htm) |
+| [8-K](#f-000110465925080284) | 2025-08-19 | 2025-08-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925080284/tm2523851d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-08-19_8-K_0001104659-25-080284.htm) |
+| [10-Q](#f-000093303625000146) | 2025-07-31 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000146/upbd-20250630.htm) | [file](../../sec-filings/upbound-group/2025-07-31_10-Q_0000933036-25-000146.htm) |
+| [8-K](#f-000093303625000144) | 2025-07-31 | 2025-07-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000144/upbd-20250731.htm) | [file](../../sec-filings/upbound-group/2025-07-31_8-K_0000933036-25-000144.htm) |
+| [8-K](#f-000110465925055962) | 2025-06-03 | 2025-06-03 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925055962/tm2517055d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-06-03_8-K_0001104659-25-055962.htm) |
+| [10-Q](#f-000093303625000091) | 2025-05-02 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000091/upbd-20250331.htm) | [file](../../sec-filings/upbound-group/2025-05-02_10-Q_0000933036-25-000091.htm) |
+| [8-K](#f-000093303625000087) | 2025-05-01 | 2025-05-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000087/upbd-20250501.htm) | [file](../../sec-filings/upbound-group/2025-05-01_8-K_0000933036-25-000087.htm) |
+| [8-K](#f-000110465925021452) | 2025-03-07 | 2025-03-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925021452/tm258536d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-03-07_8-K_0001104659-25-021452.htm) |
+| [8-K](#f-000093303625000057) | 2025-02-28 | 2025-02-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000057/upbd-20250224.htm) | [file](../../sec-filings/upbound-group/2025-02-28_8-K_0000933036-25-000057.htm) |
+| [10-K](#f-000093303625000042) | 2025-02-25 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303625000042/upbd-20241231.htm) | [file](../../sec-filings/upbound-group/2025-02-25_10-K_0000933036-25-000042.htm) |
+| [8-K](#f-000110465925015439) | 2025-02-20 | 2025-02-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925015439/tm256882d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-02-20_8-K_0001104659-25-015439.htm) |
+| [8-K](#f-000110465925009700) | 2025-02-05 | 2025-01-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465925009700/tm254758d1_8k.htm) | [file](../../sec-filings/upbound-group/2025-02-05_8-K_0001104659-25-009700.htm) |
+| [8-K](#f-000110465924128068) | 2024-12-12 | 2024-12-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465924128068/tm2430553d1_8k.htm) | [file](../../sec-filings/upbound-group/2024-12-12_8-K_0001104659-24-128068.htm) |
+| [10-Q](#f-000093303624000181) | 2024-10-31 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000181/upbd-20240930.htm) | [file](../../sec-filings/upbound-group/2024-10-31_10-Q_0000933036-24-000181.htm) |
+| [8-K](#f-000093303624000177) | 2024-10-31 | 2024-10-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000177/upbd-20241031.htm) | [file](../../sec-filings/upbound-group/2024-10-31_8-K_0000933036-24-000177.htm) |
+| [8-K](#f-000110465924098378) | 2024-09-10 | 2024-09-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465924098378/tm2423294d1_8k.htm) | [file](../../sec-filings/upbound-group/2024-09-10_8-K_0001104659-24-098378.htm) |
+| [10-Q](#f-000093303624000137) | 2024-08-01 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000137/upbd-20240630.htm) | [file](../../sec-filings/upbound-group/2024-08-01_10-Q_0000933036-24-000137.htm) |
+| [8-K](#f-000093303624000133) | 2024-08-01 | 2024-08-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000133/upbd-20240801.htm) | [file](../../sec-filings/upbound-group/2024-08-01_8-K_0000933036-24-000133.htm) |
+| [8-K](#f-000110465924081581) | 2024-07-23 | 2024-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465924081581/tm2419929d1_8k.htm) | [file](../../sec-filings/upbound-group/2024-07-23_8-K_0001104659-24-081581.htm) |
 
 ## Filing summaries
 
-### 8-K — 2026-06-03
+_Click a filing to expand its summary._
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000110465926069652">
+<summary><strong>8-K</strong> — 2026-06-03</summary>
 
 #### Material events
 - On June 2, 2026, Upbound Group (UPBD) held its 2026 Annual Meeting; stockholders approved the 2026 Long-Term Incentive Plan (2026 LTIP) with 40,285,981 votes for vs. 1,785,824 against; upon approval, the prior 2021 LTIP was closed to new awards and all remaining unissued shares under it were cancelled.
@@ -65,13 +59,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - All seven director nominees were re-elected (Proposal 1); Deloitte & Touche LLP was ratified as auditor for fiscal year ending December 31, 2026 with 51,048,562 votes for; named executive officer compensation for FY2025 received advisory approval with 41,399,464 votes for.
 - Stockholders voted in favor of annual say-on-pay frequency (40,078,425 votes for "1 Year"); the Board confirmed it will hold annual advisory say-on-pay votes through at least the 2032 annual meeting.
 
-### 8-K — 2026-05-19
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
+<details id="f-000110465926063514">
+<summary><strong>8-K</strong> — 2026-05-19</summary>
 
 #### Risk-factor changes
 - Departure of EVP, General Counsel & Corporate Secretary Bryan Pechersky (effective June 5, 2026) removes a key legal/compliance officer; no successor named in the filing, creating a potential short-term governance gap.
@@ -81,7 +72,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - The company explicitly stated the resignation was not due to any disagreement over operations, policies, or practices.
 - Filing signed May 19, 2026 by CFO Hal Khouri; no interim or permanent replacement disclosed.
 
-### 10-Q — 2026-05-01
+</details>
+
+<details id="f-000162828026029049">
+<summary><strong>10-Q</strong> — 2026-05-01</summary>
 
 #### Key financials
 - Q1 2026 total revenues of $1.219B, up 3.7% from $1.176B in Q1 2025; net earnings of $35.8M ($0.61 diluted EPS) vs. $24.8M ($0.42 diluted EPS) in Q1 2025.
@@ -106,23 +100,23 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - Executive change: Balaji Kumar appointed EVP & Chief Technology Officer effective March 30, 2026, bringing 25+ years of financial services and retail technology leadership.
 - Cash flow statement correction disclosed: Q1 2025 cash provided by operating activities and cash used in investing activities were each understated by $10.2M due to misclassification of Brigit customer cash advance net originations; restated in this filing with no P&L or balance sheet impact.
 
-### 8-K — 2026-04-30
+</details>
+
+<details id="f-000162828026028583">
+<summary><strong>8-K</strong> — 2026-04-30</summary>
 
 #### Key financials
 - Q1 2026 financial results announced via press release and earnings release dated April 30, 2026, covering the quarter ended March 31, 2026; specific revenue, EPS, and EBITDA figures are contained in Exhibits 99.1 and 99.2, which are not reproduced in the 8-K body text.
 - No quantitative financial metrics (revenue, net income, margins, or guidance) are disclosed within the 8-K filing text itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On April 30, 2026, Upbound Group, Inc. (UPBD) filed an 8-K under Items 2.02 and 7.01 to furnish Q1 2026 earnings materials, including a press release (Exhibit 99.1), earnings release (Exhibit 99.2), and investor presentation (Exhibit 99.3).
 - The filing was signed by Hal Khouri, EVP and CFO, on April 30, 2026; exhibits are furnished (not filed) and therefore not subject to Section 18 liability or automatic incorporation by reference under the Securities Act of 1933.
 
-### 10-K — 2026-02-23
+</details>
+
+<details id="f-000093303626000008">
+<summary><strong>10-K</strong> — 2026-02-23</summary>
 
 #### Key financials
 - Filing covers FY2025 (ended December 31, 2025); aggregate market cap of non-affiliate shares was ~$1.41B as of June 30, 2025, with 58.1M shares outstanding as of February 13, 2026.
@@ -148,32 +142,23 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - Term loan facility amended and repriced on August 19, 2025 under the Credit Agreement, replacing prior terms; revolving credit facility was also modified on June 7, 2024, with SOFR-based pricing ranging from minimum to maximum spreads.
 - CFPB withdrew its proposed interpretive rule on EWA in December 2025 and issued an advisory opinion that certain EWA products structured to avoid debt obligations generally are not credit under TILA/Regulation Z, providing partial regulatory relief for Brigit's Instant Cash product, though the opinion is non-binding.
 
-### 8-K — 2026-02-19
+</details>
+
+<details id="f-000093303626000005">
+<summary><strong>8-K</strong> — 2026-02-19</summary>
 
 #### Key financials
 - Upbound Group (UPBD) filed an 8-K on February 19, 2026 reporting Q4 and full-year fiscal 2025 results (period ended December 31, 2025); specific revenue, EPS, and EBITDA figures are contained in Exhibits 99.1–99.3, which are not reproduced in the filing text.
 - No standalone financial metrics (revenue, net income, margins, or guidance figures) are disclosed within the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On February 19, 2026, Upbound Group issued a press release (Exhibit 99.1), earnings release (Exhibit 99.2), and investor presentation (Exhibit 99.3) covering Q4 and full-year fiscal 2025 results; all three were furnished under Items 2.02 and 7.01 and are expressly **not** deemed "filed" for Section 18 liability purposes.
 - The filing was signed by Hal Khouri, EVP and CFO, on February 19, 2026, with no change in executive officer or board composition disclosed.
 
-### 8-K — 2025-11-21
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000093303625000170">
+<summary><strong>8-K</strong> — 2025-11-21</summary>
 
 #### Material events
 - On November 17, 2025, Upbound Group, Inc. (UPBD) received and issued a blackout notice to directors and executive officers prohibiting trading in company common stock (and derivative securities) during an upcoming 401(k) plan administrative transition.
@@ -181,7 +166,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - The blackout period is expected to begin December 24, 2025 at 4:00 p.m. ET and end during the week of January 25, 2026; trading restrictions apply to company securities acquired in connection with director or executive officer service.
 - Filing is pursuant to Section 306 of Sarbanes-Oxley Act of 2002 and SEC Regulation BTR Rule 104; inquiries may be directed to Upbound's Benefits Department at (866) 331-2769 for up to two years following the blackout end date.
 
-### 10-Q — 2025-10-31
+</details>
+
+<details id="f-000093303625000167">
+<summary><strong>10-Q</strong> — 2025-10-31</summary>
 
 **Upbound Group, Inc. (UPBD) — 10-Q for Quarter Ended September 30, 2025 (Filed October 31, 2025)**
 
@@ -206,7 +194,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 #### Risk-factor changes
 - Escalating regulatory/legal exposure for Acima: legal accruals nearly tripled to $61.3M at September 30, 2025 vs. $20.7M at December 31, 2024, with $50.6M in new accruals recorded in the 9-month 2025 period (vs. $8.2M in 2025 2024), reflecting the active NY Attorney General lawsuit (filed August 14, 2024) and a 40-state multistate AG investigation; an agreement-in-principle was reached with the DC AG in September 2025, but the broader multistate matter remains unresolved and could
 
-### 8-K — 2025-10-30
+</details>
+
+<details id="f-000093303625000164">
+<summary><strong>8-K</strong> — 2025-10-30</summary>
 
 #### Key financials
 - Upbound Group, Inc. (UPBD) filed an 8-K on October 30, 2025, announcing Q3 2025 financial results (quarter ended September 30, 2025); specific revenue, earnings, or margin figures are not included in the 8-K body text — full details are contained in Exhibits 99.1 and 99.2, which were not provided in the filing text.
@@ -222,10 +213,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - On October 30, 2025, Upbound Group issued a press release and earnings release covering Q3 2025 results, alongside an investor presentation filed under Regulation FD (Item 7.01).
 - Fahmi W. Karam signed the filing in the dual capacity of Chief Executive Officer **and** Chief Financial Officer, indicating the company currently has one individual holding both the CEO and CFO roles as of the filing date.
 
-### 8-K — 2025-10-30
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000110465925104014">
+<summary><strong>8-K</strong> — 2025-10-30</summary>
 
 #### Segment & competitive notes
 - Incoming CFO Hal Khouri previously served as EVP & CFO of goeasy Ltd. (TSX: GSY), a direct non-prime consumer leasing/lending and point-of-sale financing competitor operating in Canada across auto, powersports, retail, and healthcare verticals, from August 2019 through November 2025.
@@ -239,16 +230,16 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - On October 30, 2025, Upbound Group (UPBD) announced Hal Khouri, age 55, will join as EVP–CFO effective November 10, 2025, reporting directly to CEO Fahmi Karam.
 - Compensation package includes: $675,000 annual base salary; target annual cash bonus of 60% of base (prorated for FY2025 assuming ~9 months of service, commencing March 2026); one-time RSU sign-on grant valued at $1,500,000 vesting pro rata over three years; and annual LTIP participation starting February 2026 at 170% of base salary ($1,147,500 target).
 
-### 8-K — 2025-08-19
+</details>
+
+<details id="f-000110465925080284">
+<summary><strong>8-K</strong> — 2025-08-19</summary>
 
 ## Upbound Group, Inc. (UPBD) — 8-K Filed August 19, 2025
 
 #### Key financials
 - On August 19, 2025, Upbound drew ~$77 million in incremental term loan commitments, bringing total aggregate term loan borrowings to **$875 million** on the closing date.
 - Proceeds designated for fees/expenses related to the amendment and general corporate purposes, potentially including partial repayment of the revolving credit facility; no specific repayment amount disclosed.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - The maturity date of the Term Loan Credit Agreement was extended from its prior date to **August 19, 2032** (subject to springing maturity provisions), reducing near-term refinancing risk.
@@ -258,7 +249,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - Upbound executed the **Fourth Amendment to its Term Loan Credit Agreement** (originally dated February 17, 2021) on August 19, 2025, with JPMorgan Chase Bank, N.A. as administrative agent.
 - Amendment constitutes a new direct financial obligation under Item 2.03; full agreement text filed as **Exhibit 10.1**.
 
-### 10-Q — 2025-07-31
+</details>
+
+<details id="f-000093303625000146">
+<summary><strong>10-Q</strong> — 2025-07-31</summary>
 
 #### Key financials
 - **Q2 2025 revenue: $1.157B** (vs. $1.077B Q2 2024, +7.5% YoY); H1 2025 revenue: $2.334B (vs. $2.172B H1 2024, +7.5% YoY), driven primarily by Acima growth (+12% YoY in Q2) and addition of Brigit ($51.9M in Q2).
@@ -277,33 +271,24 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - **McBurnie class action settled in principle post-quarter:** In late July 2025, parties agreed to a $14.0M cash settlement (substantially reserved at June 30, 2025) for the California processing-fee class action; subject to court approval — reduces one tail risk but does not resolve NYAG or multi-state AG matters.
 - **Tax rate increase and legislative uncertainty:** Effective tax rate rose to 31.0% in H1 2025 from 22.0% in H1 2024 due to non-deductible Brigit acquisition expenses; the One Big Beautiful Bill Act (signed July 4, 2025) reinst
 
-### 8-K — 2025-07-31
+</details>
+
+<details id="f-000093303625000144">
+<summary><strong>8-K</strong> — 2025-07-31</summary>
 
 #### Key financials
 - 8-K filed July 31, 2025 announces Q2 2025 (quarter ended June 30, 2025) financial results via press release and earnings release (Exhibits 99.1 and 99.2); specific revenue, EPS, or EBITDA figures are not included in the 8-K body text itself.
 - Financial detail is contained in attached exhibits (99.1, 99.2, 99.3) which were not provided in the filing text; no numeric results can be confirmed from this document alone.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - Upbound Group, Inc. (NASDAQ: UPBD) filed an 8-K on July 31, 2025 under Items 2.02 and 7.01, disclosing Q2 2025 earnings results and an accompanying investor presentation (Exhibit 99.3).
 - Fahmi W. Karam signed the filing in a dual role as both Chief Executive Officer and Chief Financial Officer, suggesting continued combined leadership of those two functions as of July 31, 2025.
 - Exhibits 99.1, 99.2, and 99.3 are furnished but explicitly not "filed" for Section 18 liability or incorporation-by-reference purposes under the Securities Act of 1933.
 
-### 8-K — 2025-06-03
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000110465925055962">
+<summary><strong>8-K</strong> — 2025-06-03</summary>
 
 #### Material events
 - On June 3, 2025, Upbound Group, Inc. (UPBD) held its 2025 Annual Meeting of Stockholders; all three proposals passed.
@@ -311,7 +296,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - Deloitte & Touche LLP was ratified as independent auditor for the year ending December 31, 2025, with 52,277,101 votes for and only 77,899 against.
 - Advisory "say-on-pay" vote on 2024 named executive officer compensation passed with 46,396,548 votes for and 866,171 against (~1.8% opposition among votes cast).
 
-### 10-Q — 2025-05-02
+</details>
+
+<details id="f-000093303625000091">
+<summary><strong>10-Q</strong> — 2025-05-02</summary>
 
 #### Key financials
 - Q1 2025 total revenues were $1.176 billion vs. $1.096 billion in Q1 2024 (+7.3% YoY), driven largely by Acima segment growth (+$75.9M) and $31.9M of new Brigit subscription/fee revenue; net earnings were $24.8M ($0.42 diluted EPS) vs. $27.7M ($0.50) in Q1 2024, with the decline partly attributable to elevated "other gains and charges" of $43.3M (vs. $26.8M prior year) and a higher effective tax rate of 30.2% vs. 15.0%.
@@ -333,23 +321,23 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 #### Material events
 - Upbound closed the acquisition of Bridge IT, Inc. ("Brigit") on January 31, 2025 for total purchase consideration of ~$392.6M (comprising ~$274.8M cash, ~$41.1M stock at closing, plus ~$66.1M fair-valued deferred consideration payable in two installments on the first and second anniversaries of closing, and ~$10.6M fair-valued earnout of up to $60M based on 2026
 
-### 8-K — 2025-05-01
+</details>
+
+<details id="f-000093303625000087">
+<summary><strong>8-K</strong> — 2025-05-01</summary>
 
 #### Key financials
 - Upbound Group filed an 8-K on May 1, 2025 announcing Q1 2025 financial results for the quarter ended March 31, 2025; specific revenue, EPS, and EBITDA figures are contained in Exhibits 99.1 and 99.2, which are not reproduced in the filing text.
 - No financial metrics (revenue, net income, margins, or guidance) are disclosed within the body of this 8-K form itself.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On May 1, 2025, Upbound Group (UPBD) issued a press release and earnings release (Exhibits 99.1 and 99.2) reporting Q1 2025 results; an investor presentation (Exhibit 99.3) was simultaneously disclosed under Regulation FD.
 - The filing was signed by Fahmi W. Karam, EVP and CFO, on May 1, 2025; exhibits are furnished but explicitly not "filed" for purposes of Section 18 of the Exchange Act or incorporation by reference under the Securities Act of 1933.
 
-### 8-K — 2025-03-07
+</details>
+
+<details id="f-000110465925021452">
+<summary><strong>8-K</strong> — 2025-03-07</summary>
 
 #### Key financials
 - None noted. This 8-K contains no financial statements, earnings data, or guidance updates.
@@ -366,16 +354,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - On **March 6, 2025**, Upbound Group (NASDAQ: UPBD) announced via press release (Exhibit 99.1) the mutual dismissal of both the CFPB's lawsuit against Acima and Acima's counter-suit against the CFPB.
 - Disclosure was made under Item 7.01 (Reg FD) and Item 8.01 (Other Events), meaning the press release is **furnished but not filed** and does not carry Section 18 liability.
 
-### 8-K — 2025-02-28
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000093303625000057">
+<summary><strong>8-K</strong> — 2025-02-28</summary>
 
 #### Material events
 - On February 24, 2025, Upbound Group's Audit and Risk Committee dismissed Ernst & Young LLP as independent auditor following a formal competitive review of multiple accounting firms.
@@ -383,7 +365,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - E&Y's audit reports for fiscal years ended December 31, 2023 and 2024 contained no adverse opinions, disclaimers, qualifications, or reportable events; no disagreements with management were noted in either year.
 - E&Y confirmed agreement with Upbound's disclosures via a letter to the SEC dated February 28, 2025 (filed as Exhibit 16.1).
 
-### 10-K — 2025-02-25
+</details>
+
+<details id="f-000093303625000042">
+<summary><strong>10-K</strong> — 2025-02-25</summary>
 
 #### Key financials
 - FY2024 total consolidated revenues split approximately 52% Acima segment and 43% Rent-A-Center segment; Mexico and Franchising comprised the remainder; specific dollar revenue figures were not included in the truncated filing text provided.
@@ -406,7 +391,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - On September 9, 2024, the company divested a portion of Rent-A-Center store operations; the divestiture is classified as a disposal by sale (not discontinued operations) per the filing.
 - Term loan was amended on May 28, 2024 (SOFR-based repricing) and the revolving credit facility was modified on June 7, 2024; $500M share repurchase program remained active through December 31, 2024 with remaining capacity not fully specified in truncated text.
 
-### 8-K — 2025-02-20
+</details>
+
+<details id="f-000110465925015439">
+<summary><strong>8-K</strong> — 2025-02-20</summary>
 
 #### Key financials
 - Upbound Group announced Q4 and full-year fiscal 2024 financial results via press release on February 20, 2025 (fiscal year ended December 31, 2024); specific figures are contained in Exhibits 99.1–99.3, which are not reproduced in the 8-K body.
@@ -424,7 +412,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - CFO Fahmi Karam (age 46) appointed CEO effective June 1, 2025 under an Employment Agreement dated February 19, 2025; compensation includes $1.1M annual base salary, 150% target annual cash bonus, and 450% target annual equity award; severance equals 2× (salary + target bonus) payable over 24 months (lump sum on change-in-control), plus up to 24 months of benefit continuation.
 - Chief Technology and Digital Officer Sudeep Gautam departed effective February 18, 2025; he will receive payments and benefits under his existing Executive Transition Agreement.
 
-### 8-K — 2025-02-05
+</details>
+
+<details id="f-000110465925009700">
+<summary><strong>8-K</strong> — 2025-02-05</summary>
 
 #### Key financials
 - Upbound paid ~$278.67 million in closing cash consideration plus ~2.69 million shares of common stock (par $0.01) to Brigit securityholders on January 31, 2025.
@@ -444,7 +435,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - Brigit shares were issued without Securities Act registration under Section 4(a)(2)/Regulation D; a Registration Rights Agreement dated January 31, 2025 grants securityholders shelf registration rights for resale to the extent Rule 144 is unavailable.
 - Audited financial statements and pro forma financials for Brigit are not yet filed; they are due by amendment no later than 71 days after February 5, 2025 (approximately April 17, 2025).
 
-### 8-K — 2024-12-12
+</details>
+
+<details id="f-000110465924128068">
+<summary><strong>8-K</strong> — 2024-12-12</summary>
 
 #### Key financials
 - Upbound Group (UPBD) agreed to acquire Brigit (Bridge IT, Inc.) for up to **$460M total consideration**: $243.75M cash + $81.25M in UPBD stock (or cash at Upbound's election) at closing, plus $75M in deferred payments (two installments at 12 and 24 months post-close), plus up to $60M in earnout tied to Brigit's 2026 financial performance.
@@ -464,7 +458,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - Upbound Group entered into the **Agreement and Plan of Merger** with Brigit on **December 12, 2024**; Merger Sub (Fortuna Merger Sub, Inc.) will merge into Brigit, with Brigit surviving as a wholly owned subsidiary.
 - Company simultaneously issued a **press release and investor presentation** on December 12, 2024 disclosing the transaction under Regulation FD (Exhibits 99.1 and 99.2); representations and warranties will **not survive closing**, with a rep & warranty insurance policy arranged.
 
-### 10-Q — 2024-10-31
+</details>
+
+<details id="f-000093303624000181">
+<summary><strong>10-Q</strong> — 2024-10-31</summary>
 
 #### Key financials
 - Q3 2024 total revenues were $1.069B vs. $979.1M in Q3 2023 (+9.2% YoY); nine-month revenues were $3.241B vs. $2.974B (+9.0% YoY), driven primarily by Acima segment growth of ~$256.9M for the nine-month period.
@@ -488,33 +485,24 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - Acima's restricted stock agreements issued to former Acima Holdings owners (valued at $414.1M) were fully vested during Q1 2024, eliminating a significant recurring non-cash charge; nine-month 2024 expense for these awards was $4.9M vs. $128.1M in the comparable prior-year period (which included $78.4M of accelerated vesting for founder Aaron Allred).
 - A CEO letter agreement dated April 3,
 
-### 8-K — 2024-10-31
+</details>
+
+<details id="f-000093303624000177">
+<summary><strong>8-K</strong> — 2024-10-31</summary>
 
 #### Key financials
 - 8-K filed October 31, 2024 announces Q3 2024 financial results for the period ended September 30, 2024; actual figures contained in Exhibits 99.1 and 99.2 (not included in truncated filing text).
 - No specific revenue, earnings, or guidance figures are extractable from the 8-K body itself; full detail requires review of the attached press release (Exhibit 99.1) and earnings release (Exhibit 99.2).
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - Upbound Group, Inc. (NASDAQ: UPBD) issued a press release and earnings release on October 31, 2024 reporting Q3 2024 results (Exhibits 99.1 and 99.2).
 - An investor presentation was simultaneously released under Regulation FD on October 31, 2024 (Exhibit 99.3); all three exhibits are incorporated by reference but not deemed "filed" under Section 18 of the Exchange Act.
 - CFO Fahmi W. Karam signed the filing on behalf of the registrant on October 31, 2024.
 
-### 8-K — 2024-09-10
+</details>
 
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
+<details id="f-000110465924098378">
+<summary><strong>8-K</strong> — 2024-09-10</summary>
 
 #### Material events
 - Effective September 10, 2024, Upbound Group, Inc. (NASDAQ: UPBD) appointed Charu Jain as a new independent director to its Board; she will stand for re-election at the 2025 annual stockholder meeting.
@@ -522,7 +510,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - As a non-employee director, Jain will receive an annual cash retainer of $85,000 and an annual DSU grant valued at $145,000 (as of grant date), plus optional DSU deferral with a 25% company match on deferred cash retainers and dividends.
 - No related-person transactions requiring disclosure under Item 404(a) of Regulation S-K were identified in connection with Jain's appointment.
 
-### 10-Q — 2024-08-01
+</details>
+
+<details id="f-000093303624000137">
+<summary><strong>10-Q</strong> — 2024-08-01</summary>
 
 #### Key financials
 - **Q2 2024 revenue:** $1,076.5M (+9.9% vs. Q2 2023's $979.2M); H1 2024 revenue $2,172.5M (+8.9% vs. H1 2023's $1,995.2M), driven primarily by Acima segment growth of ~$165.9M for the half.
@@ -544,7 +535,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 #### Material events
 - **Term Loan repriced May 28, 2024:** Third Amendment reduced applicable margin by 50 bps from 3.25% to 2.75
 
-### 8-K — 2024-08-01
+</details>
+
+<details id="f-000093303624000133">
+<summary><strong>8-K</strong> — 2024-08-01</summary>
 
 #### Key financials
 - 8-K filed August 1, 2024 announces Q2 2024 financial results for the period ended June 30, 2024; actual figures are contained in Exhibits 99.1 and 99.2, which are not reproduced in the filing text.
@@ -561,10 +555,10 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 - An investor presentation (Exhibit 99.3) was simultaneously released under Regulation FD on August 1, 2024.
 - Filing was signed by Fahmi W. Karam, EVP and CFO, on August 1, 2024; exhibits are furnished but not "filed" for Exchange Act Section 18 liability purposes.
 
-### 8-K — 2024-07-23
+</details>
 
-#### Key financials
-- None noted.
+<details id="f-000110465924081581">
+<summary><strong>8-K</strong> — 2024-07-23</summary>
 
 #### Segment & competitive notes
 - Acima Digital, LLC and Acima Holdings, LLC (collectively "Acima"), Upbound Group's virtual lease-to-own segment, filed suit on July 22, 2024 against the CFPB in the U.S. District Court for the Eastern District of Texas, challenging the CFPB's statutory authority to regulate lease-to-own transactions — directly relevant to Snap Finance as a competing LTO/point-of-sale financing provider facing the same regulatory environment.
@@ -577,3 +571,5 @@ _Updated: June 15, 2026_  ·  Filer for [[acima]] (UPBD)
 #### Material events
 - On July 22, 2024, Acima filed a federal lawsuit against the CFPB challenging its authority to regulate lease-to-own transactions; the filing was disclosed via 8-K (Item 7.01, Reg FD) the same day, signed by General Counsel Bryan Pechersky.
 - The press release (Exhibit 99.1) was not deemed "filed" under Section 18 of the Securities Exchange Act of 1934 and carries no Section 11/12 liability; no financial statements or new capital transactions were included.
+
+</details>

@@ -8,7 +8,8 @@
       "published": "2026-06-15",
       "feed": "google-news",
       "snippet": "Wolfe Research Maintains Klarna Group(KLAR.US) With Buy Rating, Cuts Target Price to $22 Moomoo",
-      "summary": "Wolfe Research maintained a Buy rating on Klarna but cut its price target to $22, suggesting some near-term caution or headwinds in Klarna's outlook without a full rating downgrade. For Snap Finance, this signals that even the BNPL market leader may be facing valuation pressure, which could reflect broader sector challenges around credit quality, regulation, or growth deceleration \u2014 though the snippet provides no specifics on the rationale for the cut.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "Wolfe Research maintained a Buy rating on Klarna but cut its price target to $22, suggesting some near-term caution or headwinds in Klarna's outlook without a full rating downgrade. For Snap Finance, this signals that even the BNPL market leader may be facing valuation pressure, which could reflect broader sector challenges around credit quality, regulation, or growth deceleration \u2014 though the snippet provides no specifics on the rationale for the cut.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "11ce31d25262d9ba": {
       "title": "Klarna: GMV Acceleration Is A Fantastic Signal",
@@ -17,25 +18,8 @@
       "published": "2026-06-14",
       "feed": "google-news",
       "snippet": "Klarna: GMV Acceleration Is A Fantastic Signal Seeking Alpha",
-      "summary": "The headline and snippet are too thin to extract specific details \u2014 no GMV figures, growth rates, or context are provided beyond the title itself.\n\nSignificance: medium \u00b7 Category: earnings"
-    },
-    "04ef9cc03e04782d": {
-      "title": "Klarna Group (KLAR) Stock Valuation Gap Between Narrative Optimism And DCF Caution",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSzdERGtZT0J5MUgyNWs5VXJXTTRmY1ZTLU42Qk1sVGxIRlV4d0lSaElrS3RhMHRaNWtsUzdjMC1WdlJqaE9INU8yVGhpQWU5YkF1WHZNSUhVN01rc1NndEgwN3RVaXdMdVVINEpyMVdpRmpza1F5Qm5LbnVYbGdrQkdVS1JsbXRrb01SV053M1NwZjBWTkxTU21Ka2xfbndiU21RWXA2c2VGclkxeU9WWmFvbG9iaTNubFgya0toclEtV2JJM3F6RVdGaFNic1RnUDdBYW9NOE9pdlnSAeABQVVfeXFMTkNfS05sQU5MVG1JcVc3RExfRkRXNkNCWmI4VVBuaHY0a0lQeW40dWRSWC1MSG40UEhwVGRpTldoVlFmbkJXN1dyQ1hVS29IdUtzUUhVeHFuUVdacm5VRlpFY29URF9MUDduQVp2WU13Vmk5ZGVhVFVLb3hDZlFVZ3YweEdCT2FpOFFya1d0R05XenIxTHlyQ3JKMFVZU2xZYUtmVmRWajFncWhEMk1TX0xnVTBPYkd1eklhVl9BVnBnSXZPWWl0NEh3R2JZaFhVT0ZleVBtQ0lUNXJQS0JYdDU?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-12",
-      "feed": "google-news",
-      "snippet": "Klarna Group (KLAR) Stock Valuation Gap Between Narrative Optimism And DCF Caution simplywall.st",
-      "summary": "The headline/snippet is too thin to draw specific conclusions \u2014 it indicates a valuation analysis piece flagging a gap between Klarna's market narrative and DCF-based intrinsic value, but provides no actual figures, findings, or new developments. For Snap Finance, a potential Klarna overvaluation concern could signal investor skepticism toward BNPL sector growth assumptions broadly, but this is speculative without the underlying analysis.\n\nSignificance: low \u00b7 Category: other"
-    },
-    "b736dafcef1cfb47": {
-      "title": "KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVnlGWlJ1aVJwczBaUU1PVUNMZmEyZFZSa2poV0RuMkxOM1pSU3dIcl93aFZSZzJTVThpMW9XcTBtUHUwWWRZQTh4VWdtamdhbVVmRzBjTUh1WDRkczVCaHdfY1dxUmd6NFpXYnoxM1hnS29hQVEyNThwcXNIN2RpTzdyX3E0cEdYUmszVEpwVE9ZX2R0eW5pQUtBOU9YdlZXZWNTSU1QWEt4RTA1bUY2MVplZ1BzT3pmVksxdlFTTHplUUxkbUVMekwxckZRT2tMamZBNFBaVExsMmd5am9Mb2stVHNxWmJF?oc=5",
-      "source": "Stocktwits",
-      "published": "2026-06-11",
-      "feed": "google-news",
-      "snippet": "KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off Stocktwits",
-      "summary": "Klarna reported a Q4 loss and issued a weak forward forecast, causing its stock to drop, though retail investors appear unfazed. For Snap Finance, this suggests Klarna may face margin pressure or slowing growth in the BNPL space, which could create opportunity to compete for merchant partnerships or underserved credit segments \u2014 though the snippet is too thin to assess the magnitude of the miss or specific business impact.\n\nSignificance: medium \u00b7 Category: earnings"
+      "summary": "The headline and snippet are too thin to extract specific details \u2014 no GMV figures, growth rates, or context are provided beyond the title itself.\n\nSignificance: medium \u00b7 Category: earnings",
+      "significance": "medium"
     },
     "ae53d65961cb6632": {
       "title": "Pagaya sues Klarna over alleged trade secret misappropriation",
@@ -44,16 +28,8 @@
       "published": "2026-06-10",
       "feed": "google-news",
       "snippet": "Pagaya sues Klarna over alleged trade secret misappropriation Banking Dive",
-      "summary": "The headline and snippet are too thin to determine the specific allegations, what trade secrets are involved, or the context of the dispute between Pagaya and Klarna \u2014 no meaningful details are provided beyond the existence of the lawsuit.\n\nSignificance: medium \u00b7 Category: legal"
-    },
-    "aaec65dd93d55088": {
-      "title": "Klarna Expands Beyond BNPL With U.S. High Yield Savings Launch",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1VxODBZV1ZyYkpwSUVXbERmbUlvV043SlBZclZNYzU3N1QtR191Y1BlX0JHdHZKSW1BQWRrUG5xRnJQY1c4LWh2THpkZ1VjQngxMVZZY2szUzNncndVMmRYbGlubUg5NlhEbDIzTjZPcDhaNWVPR1Qxc3F2bkdvekRrRHNXeHcyN1A4dlNzaWhpLUdXQV9QeUszWjhFNVRaN29nWGdyREpuTFB1X0ZFNW1BSHJhWUNJX2JMT1AxVURVV0dDZm5OdzZPZlhfN3NjeEhUUzNBSDdUaFHSAeABQVVfeXFMTnpfWkJsdmhqRFV5UG5qd3NqQzFIdUp4T2gwaFZTSE8tWDM4THRjNDdsY1Y4VV8xN2lUMlpLd3hBT1IxZVVmZEc4a0h3NURXcTJoV3BUdmxSYkVxOGNBMDVQR1U0RFFLOWRiV0JPakxhWmI1Q0VDSEN2ZTBsQUNYcjRsbHdJbUdwQXVkSXV4Y0xxbURVblpJSTdtX0dweXZDR0ZrcWlKUkpuZ25tN2laTkcydDBfYkt6UjZoQUQxUWphMkVxVHNDbWI3b1NqWFhrOVdibms1NW04LW1NZjMyZFQ?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-10",
-      "feed": "google-news",
-      "snippet": "Klarna Expands Beyond BNPL With U.S. High Yield Savings Launch simplywall.st",
-      "summary": "Klarna launched a high-yield savings product in the U.S., signaling a strategic push to deepen its financial services ecosystem beyond BNPL and increase customer stickiness. For Snap Finance, this is a reminder that well-capitalized BNPL players are broadening into broader consumer finance, which could intensify competition for the underserved/near-prime consumer wallet share that Snap targets.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "The headline and snippet are too thin to determine the specific allegations, what trade secrets are involved, or the context of the dispute between Pagaya and Klarna \u2014 no meaningful details are provided beyond the existence of the lawsuit.\n\nSignificance: medium \u00b7 Category: legal",
+      "significance": "medium"
     },
     "01e827aeefb01aa9": {
       "title": "Klarna Launches High Yield Savings Account to Expand US Financial Services",
@@ -62,7 +38,8 @@
       "published": "2026-06-10",
       "feed": "google-news",
       "snippet": "Klarna Launches High Yield Savings Account to Expand US Financial Services HarianBasis.co",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it confirms Klarna is launching a high-yield savings account in the US, but provides no details on rates, eligibility, rollout timeline, or strategic intent beyond general expansion into broader financial services.\n\nAt a high level, if accurate, this signals Klarna is deepening its deposit/banking ambitions in the US, which could help it fund its own lending book more cheaply and increase customer stickiness \u2014 neither of which directly threatens Snap's subprime, lease-to-own POS niche in the near term.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it confirms Klarna is launching a high-yield savings account in the US, but provides no details on rates, eligibility, rollout timeline, or strategic intent beyond general expansion into broader financial services.\n\nAt a high level, if accurate, this signals Klarna is deepening its deposit/banking ambitions in the US, which could help it fund its own lending book more cheaply and increase customer stickiness \u2014 neither of which directly threatens Snap's subprime, lease-to-own POS niche in the near term.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "bb22b73428704df1": {
       "title": "Pagaya accuses Klarna of stealing subprime lending model",
@@ -71,7 +48,8 @@
       "published": "2026-06-09",
       "feed": "google-news",
       "snippet": "Pagaya accuses Klarna of stealing subprime lending model American Banker",
-      "summary": "The headline and snippet are too thin to determine what specifically Pagaya alleges Klarna stole or copied \u2014 no details are provided about the nature of the claim, the underlying technology or methodology, or the current status of any legal action.\n\nSignificance: medium \u00b7 Category: legal"
+      "summary": "The headline and snippet are too thin to determine what specifically Pagaya alleges Klarna stole or copied \u2014 no details are provided about the nature of the claim, the underlying technology or methodology, or the current status of any legal action.\n\nSignificance: medium \u00b7 Category: legal",
+      "significance": "medium"
     },
     "9964a460175ecf54": {
       "title": "Klarna dives deeper into banking",
@@ -80,7 +58,8 @@
       "published": "2026-06-09",
       "feed": "google-news",
       "snippet": "Klarna dives deeper into banking Payments Dive",
-      "summary": "The headline and snippet are too thin to determine what specific banking moves Klarna is making (e.g., new products, licenses, acquisitions, or deposit offerings) \u2014 no actionable detail is provided beyond the directional signal that Klarna is expanding further into banking services.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "The headline and snippet are too thin to determine what specific banking moves Klarna is making (e.g., new products, licenses, acquisitions, or deposit offerings) \u2014 no actionable detail is provided beyond the directional signal that Klarna is expanding further into banking services.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "091bfd4ed98e4f74": {
       "title": "Klarna Launches High-Yield Savings Account, Turning Everyday Spend Into Everyday Savings",
@@ -89,7 +68,8 @@
       "published": "2026-06-09",
       "feed": "google-news",
       "snippet": "Klarna Launches High-Yield Savings Account, Turning Everyday Spend Into Everyday Savings Business Wire",
-      "summary": "Klarna has launched a high-yield savings account, expanding beyond BNPL into deposit-taking financial services and deepening customer wallet share. For Snap Finance, this signals Klarna's intent to become a broader consumer financial platform, potentially increasing customer stickiness on the prime/near-prime end and intensifying competition for consumer financial relationships \u2014 though Snap's subprime/lease-to-own niche remains somewhat insulated.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "Klarna has launched a high-yield savings account, expanding beyond BNPL into deposit-taking financial services and deepening customer wallet share. For Snap Finance, this signals Klarna's intent to become a broader consumer financial platform, potentially increasing customer stickiness on the prime/near-prime end and intensifying competition for consumer financial relationships \u2014 though Snap's subprime/lease-to-own niche remains somewhat insulated.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "2c98020e2d5e7742": {
       "title": "Klarna adds high-yield savings accounts in the US to attract more everyday users (KLAR:NYSE)",
@@ -98,7 +78,8 @@
       "published": "2026-06-09",
       "feed": "google-news",
       "snippet": "Klarna adds high-yield savings accounts in the US to attract more everyday users (KLAR:NYSE) Seeking Alpha",
-      "summary": "Klarna is launching high-yield savings accounts in the US, a move aimed at deepening everyday consumer engagement and expanding beyond its BNPL core into broader financial services \u2014 increasing wallet share and daily app usage. For Snap Finance, this signals Klarna is building a more sticky, full-financial-relationship model that could make it harder to compete for the same subprime/near-prime consumers if Klarna successfully migrates them into a broader ecosystem.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "Klarna is launching high-yield savings accounts in the US, a move aimed at deepening everyday consumer engagement and expanding beyond its BNPL core into broader financial services \u2014 increasing wallet share and daily app usage. For Snap Finance, this signals Klarna is building a more sticky, full-financial-relationship model that could make it harder to compete for the same subprime/near-prime consumers if Klarna successfully migrates them into a broader ecosystem.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "0f8211061f8b3bce": {
       "title": "Klarna Rolls Out High-Yield Savings Account for U.S. Users",
@@ -107,7 +88,8 @@
       "published": "2026-06-09",
       "feed": "google-news",
       "snippet": "Klarna Rolls Out High-Yield Savings Account for U.S. Users Moomoo",
-      "summary": "Klarna has launched a high-yield savings account for U.S. users, deepening its move beyond BNPL into broader consumer banking/financial services. For Snap Finance, this signals Klarna is building a more sticky, deposit-based relationship with consumers \u2014 though the savings product targets a different (more prime) customer segment than Snap's core near- and non-prime lease-to-own base, limiting direct competitive overlap for now.\n\nSignificance: medium \u00b7 Category: product"
+      "summary": "Klarna has launched a high-yield savings account for U.S. users, deepening its move beyond BNPL into broader consumer banking/financial services. For Snap Finance, this signals Klarna is building a more sticky, deposit-based relationship with consumers \u2014 though the savings product targets a different (more prime) customer segment than Snap's core near- and non-prime lease-to-own base, limiting direct competitive overlap for now.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "8a89bb7f7385ff2f": {
       "title": "Klarna Launches High-Yield Savings Account, Turning Everyday Spend Into Everyday Savings",
@@ -116,16 +98,8 @@
       "published": "2026-06-09",
       "feed": "google-news",
       "snippet": "Klarna Launches High-Yield Savings Account, Turning Everyday Spend Into Everyday Savings Financial Times",
-      "summary": "Klarna is expanding beyond BNPL into deposit/savings products, deepening customer financial relationships and increasing platform stickiness \u2014 a move that could strengthen Klarna's consumer loyalty and data advantage over pure-play POS lenders like Snap. This signals Klarna is building a broader neobank ecosystem, which may make it harder for Snap to compete for the same underserved consumer segments if Klarna becomes a primary financial app.\n\nSignificance: medium \u00b7 Category: product"
-    },
-    "3d77b5d70abdcdca": {
-      "title": "Is Klarna Group plc (KLAR) A Good Stock To Buy Now?",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzI1bHZfNUR6aG9TUUlnSEtQS0hjTzZaOGFRaElJMWpMZzJpNkc5V203aDJCc0x0ZjBfUnNHcE9SaW91UjNobWt3dk9XYVlVc0o3aW4tc1VXN2FieURGUW9LR2Z4dllUTHFwRjgxSlpkX3RHODdoc3J4S3BVSml5MVdPNk5QLXlzTmFGR1hYdW82TWxvMlE?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-06-07",
-      "feed": "google-news",
-      "snippet": "Is Klarna Group plc (KLAR) A Good Stock To Buy Now? Yahoo Finance",
-      "summary": "The headline and snippet are too thin to extract any meaningful information \u2014 it appears to be a generic stock-analysis prompt with no actual content about Klarna's performance, strategy, or developments.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "Klarna is expanding beyond BNPL into deposit/savings products, deepening customer financial relationships and increasing platform stickiness \u2014 a move that could strengthen Klarna's consumer loyalty and data advantage over pure-play POS lenders like Snap. This signals Klarna is building a broader neobank ecosystem, which may make it harder for Snap to compete for the same underserved consumer segments if Klarna becomes a primary financial app.\n\nSignificance: medium \u00b7 Category: product",
+      "significance": "medium"
     },
     "a3f38d879bb114cd": {
       "title": "A Look At Klarna Group\u2019s Valuation As Shares Pull Back After Recent Gains",
@@ -134,16 +108,8 @@
       "published": "2026-06-07",
       "feed": "google-news",
       "snippet": "A Look At Klarna Group\u2019s Valuation As Shares Pull Back After Recent Gains Yahoo Finance",
-      "summary": "The headline and snippet are too thin to draw any substantive conclusions \u2014 they indicate Klarna's shares pulled back after recent gains and that analysts are examining its valuation, but no specific financial figures, catalysts, or strategic developments are provided. No meaningful read-through for Snap Finance can be made without more detail.\n\nSignificance: low \u00b7 Category: other"
-    },
-    "a9b444c98e00aff7": {
-      "title": "Klarna Steps Deeper Into Everyday Spending With EasyPark Partnership",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLTBTOGJfVXFFRHM4T1BHWWRuOF9EYk1EQ1pXT3lKV1VSQ0tzUExpbXl4QWdaY094bGRiRXQ2QWpoeWpHVmtXSHJNTE1mbjR2YUNRWE1MV1ZIbUZXcGJ4TmpWQjZrdVpDTmRmZVFLQTNIV1QyYjNGeDFRMHVpR0ROanNUamN1NDR6RUNHem5uRmlIOEZDdG1IeHpxX1J4b2o5QWplVTlKSWFGZW1BWGdqTEVvY05ZVW1PLTFFeUpGMmJuWHctVkZjOXAtT1RFQlVyM1E5dmxXXzRmZzjSAeABQVVfeXFMTkMzdEo5cHFYVGpBa0UzaU9ERjdqTGZMSWdmOGI4dVQyOUsybjg4SHZYUmVWLVVZZ2plclhYNGxOdzgwQlhfcVZtSmprWUJHQkhQSVpnYXpFSEtoM214Z1l6SS1LNWRQVHZLQnR3SHJ1N2ZpeENsUlNDUEduTGoySC0xWWVwUm9kRXEzcDhoSlo5ajVudl9BWWRJRFRENk80M1NNUW9BSXoyall0aW1yZXdHWjYzLWExUDBxVVJzTE5tTkVwNTdzdUtIRkpLOXVsTjlFT0dhTkRmZWFWcGlWTmU?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-06",
-      "feed": "google-news",
-      "snippet": "Klarna Steps Deeper Into Everyday Spending With EasyPark Partnership simplywall.st",
-      "summary": "Klarna has partnered with EasyPark (a parking payment app) to embed its payment/BNPL capabilities into everyday, recurring micro-transactions \u2014 extending its footprint beyond retail into utility-style spending occasions. For Snap Finance, this signals Klarna's continued push to own more consumer payment touchpoints and diversify beyond traditional e-commerce, though parking/mobility is outside Snap's core lease-to-own, durable-goods focus so direct competitive overlap is limited.\n\nSignificance: low \u00b7 Category: partnership"
+      "summary": "The headline and snippet are too thin to draw any substantive conclusions \u2014 they indicate Klarna's shares pulled back after recent gains and that analysts are examining its valuation, but no specific financial figures, catalysts, or strategic developments are provided. No meaningful read-through for Snap Finance can be made without more detail.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "c7efb3483be49fa8": {
       "title": "Klarna Positions Itself as Lifestyle Brand Similar to American Express",
@@ -152,16 +118,8 @@
       "published": "2026-06-06",
       "feed": "google-news",
       "snippet": "Klarna Positions Itself as Lifestyle Brand Similar to American Express asatunews.co.id",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it signals Klarna is pursuing a premium lifestyle/brand positioning akin to American Express, but provides no specifics on strategy, products, or execution. At a high level, this suggests Klarna is moving upmarket, which could differentiate it further from Snap's subprime/near-prime lease-to-own focus \u2014 but that read-through requires more detail to confirm.\n\nSignificance: low \u00b7 Category: other"
-    },
-    "665c70a7c42e7039": {
-      "title": "Klarna Group (NYSE:KLAR) Valuation Check As Short Term Momentum Contrasts With Weaker Year To Date Returns",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeTJfVDZxQXBvMEFTczk3dG5qaGVPaG9tRTdYa29sQU9zZkstaF9kejFQdnNnVVhWaTBlMGZSOEJkWFBMdnVfbGdnS0liTXU2WU15bXRCU3YxWVFXeU1BRF9KdHBwQzRONWZiZGNuMllaTmkyZWdkdVNnNlZIOFozX1owbW9pZ2dFeC1Ob3dWNnFNUWtTMWt3YlZKdlNEeUJJZG1fWjBJMGhsOGdaaWhWSWJuM2d1dThKR0c4SlNCd0djVHdnRlRyNlZ2MHVlbUVIOWZ0Tjc4Rk1WelHSAeABQVVfeXFMTms0X09JajMzbmV4Um01UnRyTGJ6UVhrN09lNE5lLWkwQnR1cUNGOFYwdS1QQzZVOUxSYnFEMHhjd0Raa1M1UVdsZjU4UDNveUJrZzlDRXdXRXFOTmQwbjFFQWtIaFZxSVhQODBOZlFxXzJzbEN2RU00bDZ5c0kyNW5xaElDemFkbkhIZXgxOXdKeTVZVzNJSnpYVS1jRUtLZ0lpVFN3cFhHYWFUZjJsSXZKYXMyc2VMWVZPYU9FeHhsNnRZdWxpRE1iaVJfRU1qdVZLdHZYU1ZKR19YQ1BzMzU?oc=5",
-      "source": "simplywall.st",
-      "published": "2026-06-05",
-      "feed": "google-news",
-      "snippet": "Klarna Group (NYSE:KLAR) Valuation Check As Short Term Momentum Contrasts With Weaker Year To Date Returns simplywall.st",
-      "summary": "The headline/snippet is too thin to extract meaningful detail \u2014 it references a valuation commentary piece noting short-term price momentum against weaker year-to-date stock performance, but provides no specifics on financials, strategy, or business developments. For Snap Finance, there's no actionable read-through from this alone.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it signals Klarna is pursuing a premium lifestyle/brand positioning akin to American Express, but provides no specifics on strategy, products, or execution. At a high level, this suggests Klarna is moving upmarket, which could differentiate it further from Snap's subprime/near-prime lease-to-own focus \u2014 but that read-through requires more detail to confirm.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "e9df2133602f043b": {
       "title": "Klarna is an Amex-style brand, CEO says",
@@ -170,7 +128,8 @@
       "published": "2026-06-04",
       "feed": "google-news",
       "snippet": "Klarna is an Amex-style brand, CEO says Payments Dive",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it signals Klarna's CEO is positioning the brand around premium, aspirational identity (akin to American Express), but no specific product, partnership, or strategic action is described.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it signals Klarna's CEO is positioning the brand around premium, aspirational identity (akin to American Express), but no specific product, partnership, or strategic action is described.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "c242c43ab9f5366d": {
       "title": "Klarna (KLAR) Partners with Arrive to Integrate \u201cPay in Full\u201d Option into EasyPark App",
@@ -179,16 +138,8 @@
       "published": "2026-06-03",
       "feed": "google-news",
       "snippet": "Klarna (KLAR) Partners with Arrive to Integrate \u201cPay in Full\u201d Option into EasyPark App Yahoo Finance",
-      "summary": "Klarna has partnered with Arrive to embed a \"Pay in Full\" payment option within the EasyPark parking app, extending its checkout presence into mobility/parking micro-transactions. For Snap Finance, this is a peripheral move \u2014 Klarna is deepening everyday-spend integrations, but parking payments are far outside Snap's lease-to-own retail focus, making this largely irrelevant competitively.\n\nSignificance: low \u00b7 Category: partnership"
-    },
-    "1d635a39691f92f0": {
-      "title": "Split your Ulta Beauty haul into 4 payments with Klarna",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlJlb19TWmJUb1N4U0hLQUZYNnFOMkpPMFFVUnJ4bGRWR2Vaek1WeXZCRVVBVVB5Y29UWGdST3dVTE1lWldTS1RkTlQ4NE1UeWdabFFvUHlwVUhBMGk1LXZxbWFzY25LeGw2MWRpcnBhNHhobkp6Rkd2OFBmRk1xTGJBWDk1dERWVEUtcDlQdUhlV1N0eFMwZzBNcU5lVzFMZWFTSXJCSW40TzBGNVhzUVByTnJwUlExSlFV?oc=5",
-      "source": "Stock Titan",
-      "published": "2026-06-03",
-      "feed": "google-news",
-      "snippet": "Split your Ulta Beauty haul into 4 payments with Klarna Stock Titan",
-      "summary": "Klarna has partnered with Ulta Beauty to offer pay-in-4 installment financing at checkout, expanding its footprint in the beauty/personal care retail vertical. For Snap Finance, this is a reminder that prime-focused BNPL players continue locking up major retail partnerships, though Snap's lease-to-own model targets a different (near/non-prime) customer segment where Klarna typically does not compete directly.\n\nSignificance: medium \u00b7 Category: partnership"
+      "summary": "Klarna has partnered with Arrive to embed a \"Pay in Full\" payment option within the EasyPark parking app, extending its checkout presence into mobility/parking micro-transactions. For Snap Finance, this is a peripheral move \u2014 Klarna is deepening everyday-spend integrations, but parking payments are far outside Snap's lease-to-own retail focus, making this largely irrelevant competitively.\n\nSignificance: low \u00b7 Category: partnership",
+      "significance": "low"
     },
     "c823025523c78387": {
       "title": "This Small-Cap Fintech Stock Is Crushing PayPal, SoFi, Klarna In 2026: Analyst Says Rally Isn't Over Yet",
@@ -197,7 +148,8 @@
       "published": "2026-06-03",
       "feed": "google-news",
       "snippet": "This Small-Cap Fintech Stock Is Crushing PayPal, SoFi, Klarna In 2026: Analyst Says Rally Isn't Over Yet TradingView",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it references Klarna underperforming an unnamed small-cap fintech in 2026 stock performance, but provides no detail on Klarna's business fundamentals, products, or strategic moves that would be relevant to Snap Finance.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it references Klarna underperforming an unnamed small-cap fintech in 2026 stock performance, but provides no detail on Klarna's business fundamentals, products, or strategic moves that would be relevant to Snap Finance.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "da16696f474fc5f6": {
       "title": "Affirm vs. Klarna: Which Technology Stock Is a Better Buy in 2026?",
@@ -206,7 +158,8 @@
       "published": "2026-06-02",
       "feed": "google-news",
       "snippet": "Affirm vs. Klarna: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it's a stock comparison article title with no substantive details about either company's strategy, products, or financials provided in the snippet.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it's a stock comparison article title with no substantive details about either company's strategy, products, or financials provided in the snippet.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "1817121f7e52a819": {
       "title": "Klarna Group (KLAR) Gains 3.84% as Shares Approach Resistance at $19.02 - Zigzag Correction",
@@ -215,7 +168,8 @@
       "published": "2026-05-29",
       "feed": "google-news",
       "snippet": "Klarna Group (KLAR) Gains 3.84% as Shares Approach Resistance at $19.02 - Zigzag Correction newsline.com",
-      "summary": "The headline describes routine intraday stock price movement for Klarna (KLAR), with shares up ~3.84% approaching a technical resistance level \u2014 this is purely a price/chart observation with no underlying business news disclosed. The snippet is too thin to draw any meaningful competitive read-through for Snap Finance.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline describes routine intraday stock price movement for Klarna (KLAR), with shares up ~3.84% approaching a technical resistance level \u2014 this is purely a price/chart observation with no underlying business news disclosed. The snippet is too thin to draw any meaningful competitive read-through for Snap Finance.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "b440aac16a66bb14": {
       "title": "Klarna Group (KLAR) Gains 3.84% as Shares Approach Resistance at $19.02 - Hagopian Line",
@@ -224,7 +178,8 @@
       "published": "2026-05-29",
       "feed": "google-news",
       "snippet": "Klarna Group (KLAR) Gains 3.84% as Shares Approach Resistance at $19.02 - Hagopian Line newsline.com",
-      "summary": "Klarna's stock rose 3.84% and is approaching a technical resistance level at $19.02, but the headline is purely a price/chart movement update with no fundamental business news disclosed. This is too thin to draw any meaningful competitive read-through for Snap Finance.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "Klarna's stock rose 3.84% and is approaching a technical resistance level at $19.02, but the headline is purely a price/chart movement update with no fundamental business news disclosed. This is too thin to draw any meaningful competitive read-through for Snap Finance.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
     },
     "d2588fb7ee245a1a": {
       "title": "$Klarna Group (KLAR.US)$ gapping up... still a way to go to breakeven",
@@ -233,7 +188,68 @@
       "published": "2026-05-28",
       "feed": "google-news",
       "snippet": "$Klarna Group (KLAR.US)$ gapping up... still a way to go to breakeven Moomoo",
-      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it only notes that Klarna's stock is gapping up intraday while still being below breakeven, with no detail on the catalyst, financials, or business developments. No actionable competitive read-through for Snap Finance can be made from this alone.\n\nSignificance: low \u00b7 Category: other"
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it only notes that Klarna's stock is gapping up intraday while still being below breakeven, with no detail on the catalyst, financials, or business developments. No actionable competitive read-through for Snap Finance can be made from this alone.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "1cd14aa9b22d979c": {
+      "title": "Klarna Partners With Arrive for Parking in 15 Markets",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEJyaGgzYXNlb1dkWGlKTWhKMjd2SjVKajJ5TUtfR1VrSzQ0MDlybWF5bGNyXzdpcFN3S1JrLUdlSTdxUXhDVWlfOUh2VUx6TDZMYjZEeHhkVTZnRkxHd1g2dkpJM2wtSXh6TXE2UTZiYkpRTmNhdENnc2Q2bUlxY0ZRcnYyakZOclZkVlpQbVl3TGVTWXQ1TTh0d0NlNFJZVkM5endGM2VhbmNiRm9n?oc=5",
+      "source": "Business Wire",
+      "published": "2026-05-28",
+      "feed": "google-news",
+      "snippet": "Klarna Partners With Arrive for Parking in 15 Markets Business Wire",
+      "summary": "Klarna has partnered with Arrive to offer its buy-now-pay-later payment options for parking services across 15 markets, extending its BNPL reach into everyday transactional/mobility spending. For Snap Finance, this is largely tangential \u2014 Klarna is expanding into micro-transaction verticals well outside Snap's core retail/durable-goods lease-to-own space, so competitive overlap is minimal.\n\nSignificance: low \u00b7 Category: partnership",
+      "significance": "low"
+    },
+    "d583b25cb0165e77": {
+      "title": "Klarna Partners With Arrive on Parking Payments",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDNXN1g0ZXNoWFJ3WVE3VjJ4UnlBckw5V05lbURSNHp4LWhaa3Q4WnJqUFp6cTRNX3czS3NQVHJuaU54OUl0MG5ZWVZ6UVUyNk1sNUljRlkyalplelBXbnZKWnFZdGVBajFtR3dlNXdscHh5c2ZDS2VVNE4yWE05Znp3ekVSVmhON1ZtOHNXczh5VDA?oc=5",
+      "source": "Moomoo",
+      "published": "2026-05-28",
+      "feed": "google-news",
+      "snippet": "Klarna Partners With Arrive on Parking Payments Moomoo",
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it confirms Klarna partnered with Arrive for parking payments but provides no details on terms, scope, or strategic rationale.\n\nSignificance: low \u00b7 Category: partnership",
+      "significance": "low"
+    },
+    "f87efe1b655aaf81": {
+      "title": "Klarna Group plc and Arrive Enter into Agreement for Parking Payments in 15 Markets",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEFGSDNLeDlEUEM0OHo1X1h5S2laTEdLM1ZLX2RYS3pLWmNJVXk4Z0VzVHRTTUJzVGUyVU4ybFhhd2Y3WmVqZGlvbXdGS3daNWJXZmk1TFMtRURqTkFnak1XWXFOejgwbVBEUVpRZjVILS1XdW44bGlWeXk4YnVfRlZUTnJodS1sMndEU1dqMUJiU2pib2U1cXp1eGV6YVloVUh6WnljbVBmX2NHaGFyc1NuNDJrVnlnTzNneU9JdnBsSDV1b0ZqajI4ZDAxQ3Z2anc?oc=5",
+      "source": "marketscreener.com",
+      "published": "2026-05-28",
+      "feed": "google-news",
+      "snippet": "Klarna Group plc and Arrive Enter into Agreement for Parking Payments in 15 Markets marketscreener.com",
+      "summary": "Klarna has partnered with Arrive to offer buy-now-pay-later or installment payment options for parking fees across 15 markets, extending its payments footprint into everyday micro-transaction verticals. For Snap Finance, this is a peripheral move \u2014 parking payments are outside Snap's retail/lease-to-own focus \u2014 but it signals Klarna's continued push to embed itself into more daily-use payment touchpoints, which could broaden its consumer mindshare over time.\n\nSignificance: low \u00b7 Category: partnership",
+      "significance": "low"
+    },
+    "f322b0b151873de6": {
+      "title": "Klarna Group (KLAR) Gains 1.22% as Shares Approach Key Resistance - Institutional Flow Picks",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXFlN1AzUFNBWnpHVXllQ21ObWxDUU9DM3E5SGxQcmtIVXdWMGdMTmJfMjhIcUJEeWkxLWRmbFBMbUhiSy1YbWljVEVCWVhqTzYwbDhLQWRIZVF0SzR1SXVBNzN4dWNiWGp6Z0dDUFM0eW5FeE9tbm5wN3V0Rk5MOW5IUTNsQXpkZm9iVTlfRWRGaXY5VXNzbkYydTFCbG5IVE1uNXB3?oc=5",
+      "source": "newsline.com",
+      "published": "2026-05-28",
+      "feed": "google-news",
+      "snippet": "Klarna Group (KLAR) Gains 1.22% as Shares Approach Key Resistance - Institutional Flow Picks newsline.com",
+      "summary": "The headline reports a modest 1.22% share price gain for Klarna (KLAR) approaching a technical resistance level, but provides no operational or strategic details beyond stock movement. This is too thin to draw any meaningful read-through for Snap Finance.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "06b1385563b92c47": {
+      "title": "Klarna vs. Sezzle: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWxvamZHM0VZZzROaHQzWC1mVl9CcV9JbHQ4TTh1S2JrYVBHZl90eDYwYkNfZjZRbVBZRTFMVUppNFZRQ2hiLVRRUWFnU2tNTUNsdFI1UHgyYXFjS3VSMV9zWlU2eHpxN09HNGdyQXhiSWd5YXB3cDhXaHN6eVBSN2FJZHJhd1IzVkE1eGVWQ2U4MUJGT1F2cnlKWG15MU5oLUlhbzRRZDVPSTNscUZiUUZQenloWEE?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-05-27",
+      "feed": "google-news",
+      "snippet": "Klarna vs. Sezzle: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
+      "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it's a stock comparison article title with no disclosed financial results, strategic moves, or operational details about either Klarna or Sezzle.\n\nSignificance: low \u00b7 Category: other",
+      "significance": "low"
+    },
+    "f16e824c21db971c": {
+      "title": "Klarna Partners With Lands' End to Offer Flexible Payment Options",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjRlTTVRdFdFZGxlZHRFMDlWNlhmUFFyZGVjVXgxTzBPcGE1WFdXM0J3S3FBaGFibEhUQzJ5U1BVTFpJdWkyUnBoazZVVFFaVVZpTkFFWGN1VDBmbG5QdVdjbXpUdkFaOEJjTm9fRU5UdHAwaWRyeEh0cXRhc0ZlUGtrYWktZXFUZHNtVjBCQjRLSG9kSGNBdk9oRGotRFBDWk9iZU1iejlIUQ?oc=5",
+      "source": "Moomoo",
+      "published": "2026-05-27",
+      "feed": "google-news",
+      "snippet": "Klarna Partners With Lands' End to Offer Flexible Payment Options Moomoo",
+      "summary": "Klarna has added Lands' End as a BNPL merchant partner, continuing its steady expansion across apparel retail. For Snap Finance, this signals ongoing competitive pressure in the soft-goods/apparel segment, though the snippet provides no detail on deal terms, exclusivity, or consumer targeting that would clarify direct overlap with Snap's lease-to-own, credit-challenged customer base.\n\nSignificance: low \u00b7 Category: partnership",
+      "significance": "low"
     }
   }
 }

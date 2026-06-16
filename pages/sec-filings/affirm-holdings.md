@@ -17,40 +17,43 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
-| 10-Q | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032294/afrm-20260331.htm) | [file](../../sec-filings/affirm-holdings/2026-05-07_10-Q_0001628280-26-032294.htm) |
-| 8-K | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032105/afrm-20260507.htm) | [file](../../sec-filings/affirm-holdings/2026-05-07_8-K_0001628280-26-032105.htm) |
-| 10-Q | 2026-02-05 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026005855/afrm-20251231.htm) | [file](../../sec-filings/affirm-holdings/2026-02-05_10-Q_0001628280-26-005855.htm) |
-| 8-K | 2026-02-05 | 2026-02-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026005772/afrm-20260205.htm) | [file](../../sec-filings/affirm-holdings/2026-02-05_8-K_0001628280-26-005772.htm) |
-| 8-K | 2026-01-16 | 2026-01-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026002442/afrm-20260113.htm) | [file](../../sec-filings/affirm-holdings/2026-01-16_8-K_0001628280-26-002442.htm) |
-| 8-K | 2025-12-18 | 2025-12-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025057930/afrm-20251215.htm) | [file](../../sec-filings/affirm-holdings/2025-12-18_8-K_0001628280-25-057930.htm) |
-| 10-Q | 2025-11-06 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025050295/afrm-20250930.htm) | [file](../../sec-filings/affirm-holdings/2025-11-06_10-Q_0001628280-25-050295.htm) |
-| 8-K | 2025-11-06 | 2025-11-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025050159/afrm-20251102.htm) | [file](../../sec-filings/affirm-holdings/2025-11-06_8-K_0001628280-25-050159.htm) |
-| 8-K | 2025-09-22 | 2025-09-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025042335/afrm-20250918.htm) | [file](../../sec-filings/affirm-holdings/2025-09-22_8-K_0001628280-25-042335.htm) |
-| 10-K | 2025-08-28 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000080/afrm-20250630.htm) | [file](../../sec-filings/affirm-holdings/2025-08-28_10-K_0001820953-25-000080.htm) |
-| 8-K | 2025-08-28 | 2025-08-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000078/afrm-20250828.htm) | [file](../../sec-filings/affirm-holdings/2025-08-28_8-K_0001820953-25-000078.htm) |
-| 8-K | 2025-06-26 | 2025-06-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000064/afrm-20250625.htm) | [file](../../sec-filings/affirm-holdings/2025-06-26_8-K_0001820953-25-000064.htm) |
-| 8-K | 2025-06-12 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000061/afrm-20250609.htm) | [file](../../sec-filings/affirm-holdings/2025-06-12_8-K_0001820953-25-000061.htm) |
-| 10-Q | 2025-05-09 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000052/afrm-20250331.htm) | [file](../../sec-filings/affirm-holdings/2025-05-09_10-Q_0001820953-25-000052.htm) |
-| 8-K | 2025-05-08 | 2025-05-08 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000050/afrm-20250508.htm) | [file](../../sec-filings/affirm-holdings/2025-05-08_8-K_0001820953-25-000050.htm) |
-| 8-K | 2025-03-17 | 2025-03-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000036/afrm-20250317.htm) | [file](../../sec-filings/affirm-holdings/2025-03-17_8-K_0001820953-25-000036.htm) |
-| 8-K | 2025-02-28 | 2025-02-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000031/afrm-20250228.htm) | [file](../../sec-filings/affirm-holdings/2025-02-28_8-K_0001820953-25-000031.htm) |
-| 8-K | 2025-02-20 | 2025-02-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000017/afrm-20250214.htm) | [file](../../sec-filings/affirm-holdings/2025-02-20_8-K_0001820953-25-000017.htm) |
-| 10-Q | 2025-02-06 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000012/afrm-20241231.htm) | [file](../../sec-filings/affirm-holdings/2025-02-06_10-Q_0001820953-25-000012.htm) |
-| 8-K | 2025-02-06 | 2025-02-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000010/afrm-20250206.htm) | [file](../../sec-filings/affirm-holdings/2025-02-06_8-K_0001820953-25-000010.htm) |
-| 8-K | 2024-12-20 | 2024-12-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000073/afrm-20241220.htm) | [file](../../sec-filings/affirm-holdings/2024-12-20_8-K_0001820953-24-000073.htm) |
-| 8-K | 2024-12-18 | 2024-12-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000065/afrm-20241217.htm) | [file](../../sec-filings/affirm-holdings/2024-12-18_8-K_0001820953-24-000065.htm) |
-| 8-K | 2024-12-16 | 2024-12-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000064/afrm-20241216.htm) | [file](../../sec-filings/affirm-holdings/2024-12-16_8-K_0001820953-24-000064.htm) |
-| 8-K | 2024-12-12 | 2024-12-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000063/afrm-20241209.htm) | [file](../../sec-filings/affirm-holdings/2024-12-12_8-K_0001820953-24-000063.htm) |
-| 10-Q | 2024-11-07 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000060/afrm-20240930.htm) | [file](../../sec-filings/affirm-holdings/2024-11-07_10-Q_0001820953-24-000060.htm) |
-| 8-K | 2024-11-07 | 2024-11-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000058/afrm-20241105.htm) | [file](../../sec-filings/affirm-holdings/2024-11-07_8-K_0001820953-24-000058.htm) |
-| 10-K | 2024-08-28 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000035/afrm-20240630.htm) | [file](../../sec-filings/affirm-holdings/2024-08-28_10-K_0001820953-24-000035.htm) |
-| 8-K | 2024-08-28 | 2024-08-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000033/afrm-20240828.htm) | [file](../../sec-filings/affirm-holdings/2024-08-28_8-K_0001820953-24-000033.htm) |
-| 8-K | 2024-07-01 | 2024-06-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000027/afrm-20240625.htm) | [file](../../sec-filings/affirm-holdings/2024-07-01_8-K_0001820953-24-000027.htm) |
-| 8-K | 2024-06-20 | 2024-06-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000024/afrm-20240617.htm) | [file](../../sec-filings/affirm-holdings/2024-06-20_8-K_0001820953-24-000024.htm) |
+| [10-Q](#f-000162828026032294) | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032294/afrm-20260331.htm) | [file](../../sec-filings/affirm-holdings/2026-05-07_10-Q_0001628280-26-032294.htm) |
+| [8-K](#f-000162828026032105) | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032105/afrm-20260507.htm) | [file](../../sec-filings/affirm-holdings/2026-05-07_8-K_0001628280-26-032105.htm) |
+| [10-Q](#f-000162828026005855) | 2026-02-05 | 2025-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026005855/afrm-20251231.htm) | [file](../../sec-filings/affirm-holdings/2026-02-05_10-Q_0001628280-26-005855.htm) |
+| [8-K](#f-000162828026005772) | 2026-02-05 | 2026-02-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026005772/afrm-20260205.htm) | [file](../../sec-filings/affirm-holdings/2026-02-05_8-K_0001628280-26-005772.htm) |
+| [8-K](#f-000162828026002442) | 2026-01-16 | 2026-01-13 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026002442/afrm-20260113.htm) | [file](../../sec-filings/affirm-holdings/2026-01-16_8-K_0001628280-26-002442.htm) |
+| [8-K](#f-000162828025057930) | 2025-12-18 | 2025-12-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025057930/afrm-20251215.htm) | [file](../../sec-filings/affirm-holdings/2025-12-18_8-K_0001628280-25-057930.htm) |
+| [10-Q](#f-000162828025050295) | 2025-11-06 | 2025-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025050295/afrm-20250930.htm) | [file](../../sec-filings/affirm-holdings/2025-11-06_10-Q_0001628280-25-050295.htm) |
+| [8-K](#f-000162828025050159) | 2025-11-06 | 2025-11-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025050159/afrm-20251102.htm) | [file](../../sec-filings/affirm-holdings/2025-11-06_8-K_0001628280-25-050159.htm) |
+| [8-K](#f-000162828025042335) | 2025-09-22 | 2025-09-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828025042335/afrm-20250918.htm) | [file](../../sec-filings/affirm-holdings/2025-09-22_8-K_0001628280-25-042335.htm) |
+| [10-K](#f-000182095325000080) | 2025-08-28 | 2025-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000080/afrm-20250630.htm) | [file](../../sec-filings/affirm-holdings/2025-08-28_10-K_0001820953-25-000080.htm) |
+| [8-K](#f-000182095325000078) | 2025-08-28 | 2025-08-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000078/afrm-20250828.htm) | [file](../../sec-filings/affirm-holdings/2025-08-28_8-K_0001820953-25-000078.htm) |
+| [8-K](#f-000182095325000064) | 2025-06-26 | 2025-06-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000064/afrm-20250625.htm) | [file](../../sec-filings/affirm-holdings/2025-06-26_8-K_0001820953-25-000064.htm) |
+| [8-K](#f-000182095325000061) | 2025-06-12 | 2025-06-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000061/afrm-20250609.htm) | [file](../../sec-filings/affirm-holdings/2025-06-12_8-K_0001820953-25-000061.htm) |
+| [10-Q](#f-000182095325000052) | 2025-05-09 | 2025-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000052/afrm-20250331.htm) | [file](../../sec-filings/affirm-holdings/2025-05-09_10-Q_0001820953-25-000052.htm) |
+| [8-K](#f-000182095325000050) | 2025-05-08 | 2025-05-08 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000050/afrm-20250508.htm) | [file](../../sec-filings/affirm-holdings/2025-05-08_8-K_0001820953-25-000050.htm) |
+| [8-K](#f-000182095325000036) | 2025-03-17 | 2025-03-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000036/afrm-20250317.htm) | [file](../../sec-filings/affirm-holdings/2025-03-17_8-K_0001820953-25-000036.htm) |
+| [8-K](#f-000182095325000031) | 2025-02-28 | 2025-02-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000031/afrm-20250228.htm) | [file](../../sec-filings/affirm-holdings/2025-02-28_8-K_0001820953-25-000031.htm) |
+| [8-K](#f-000182095325000017) | 2025-02-20 | 2025-02-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000017/afrm-20250214.htm) | [file](../../sec-filings/affirm-holdings/2025-02-20_8-K_0001820953-25-000017.htm) |
+| [10-Q](#f-000182095325000012) | 2025-02-06 | 2024-12-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000012/afrm-20241231.htm) | [file](../../sec-filings/affirm-holdings/2025-02-06_10-Q_0001820953-25-000012.htm) |
+| [8-K](#f-000182095325000010) | 2025-02-06 | 2025-02-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095325000010/afrm-20250206.htm) | [file](../../sec-filings/affirm-holdings/2025-02-06_8-K_0001820953-25-000010.htm) |
+| [8-K](#f-000182095324000073) | 2024-12-20 | 2024-12-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000073/afrm-20241220.htm) | [file](../../sec-filings/affirm-holdings/2024-12-20_8-K_0001820953-24-000073.htm) |
+| [8-K](#f-000182095324000065) | 2024-12-18 | 2024-12-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000065/afrm-20241217.htm) | [file](../../sec-filings/affirm-holdings/2024-12-18_8-K_0001820953-24-000065.htm) |
+| [8-K](#f-000182095324000064) | 2024-12-16 | 2024-12-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000064/afrm-20241216.htm) | [file](../../sec-filings/affirm-holdings/2024-12-16_8-K_0001820953-24-000064.htm) |
+| [8-K](#f-000182095324000063) | 2024-12-12 | 2024-12-09 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000063/afrm-20241209.htm) | [file](../../sec-filings/affirm-holdings/2024-12-12_8-K_0001820953-24-000063.htm) |
+| [10-Q](#f-000182095324000060) | 2024-11-07 | 2024-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000060/afrm-20240930.htm) | [file](../../sec-filings/affirm-holdings/2024-11-07_10-Q_0001820953-24-000060.htm) |
+| [8-K](#f-000182095324000058) | 2024-11-07 | 2024-11-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000058/afrm-20241105.htm) | [file](../../sec-filings/affirm-holdings/2024-11-07_8-K_0001820953-24-000058.htm) |
+| [10-K](#f-000182095324000035) | 2024-08-28 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000035/afrm-20240630.htm) | [file](../../sec-filings/affirm-holdings/2024-08-28_10-K_0001820953-24-000035.htm) |
+| [8-K](#f-000182095324000033) | 2024-08-28 | 2024-08-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000033/afrm-20240828.htm) | [file](../../sec-filings/affirm-holdings/2024-08-28_8-K_0001820953-24-000033.htm) |
+| [8-K](#f-000182095324000027) | 2024-07-01 | 2024-06-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000027/afrm-20240625.htm) | [file](../../sec-filings/affirm-holdings/2024-07-01_8-K_0001820953-24-000027.htm) |
+| [8-K](#f-000182095324000024) | 2024-06-20 | 2024-06-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000182095324000024/afrm-20240617.htm) | [file](../../sec-filings/affirm-holdings/2024-06-20_8-K_0001820953-24-000024.htm) |
 
 ## Filing summaries
 
-### 10-Q — 2026-05-07
+_Click a filing to expand its summary._
+
+<details id="f-000162828026032294">
+<summary><strong>10-Q</strong> — 2026-05-07</summary>
 
 #### Key financials
 - Q3 FY2026 (three months ended March 31, 2026) total revenue of $1.04B, up 33% YoY from $783.1M; nine-month revenue of $3.10B vs. $2.35B prior year period (+32% YoY).
@@ -70,7 +73,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - In November 2025, Affirm executed a new commercial agreement with Amazon, superseding the prior agreement and extending the warrant asset amortization period from four to nine years, reducing near-term sales & marketing amortization expense (Q3 FY2026 Amazon amortization of $0.2M vs. $5.1M in Q3 FY2025).
 - Affirm reincorporated from Delaware to Nevada, effective July 1, 2025, following a certificate of conversion filed June 26, 2025. Nine-month financing activities included $2.85B in new securitization trust notes issued and zero new convertible note issuances (vs. $920M issued in the prior year period); convertible notes outstanding totaled $1.13B at March 31, 2026.
 
-### 8-K — 2026-05-07
+</details>
+
+<details id="f-000162828026032105">
+<summary><strong>8-K</strong> — 2026-05-07</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed May 7, 2026
 
@@ -88,7 +94,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - On **May 7, 2026**, Affirm issued its fiscal Q3 2026 Shareholder Letter (Exhibit 99.1) reporting results under **Item 2.02 (Results of Operations and Financial Condition)**.
 - Filing signed by CFO **Rob O'Hare** on May 7, 2026; Exhibit 99.1 is furnished but **not deemed "filed"** for Section 18 liability purposes and is not incorporated by reference into Securities Act filings.
 
-### 10-Q — 2026-02-05
+</details>
+
+<details id="f-000162828026005855">
+<summary><strong>10-Q</strong> — 2026-02-05</summary>
 
 #### Key financials
 - **Revenue:** Total revenue, net of $1.123B for Q2 FY2026 (three months ended December 31, 2025), up 29.6% YoY from $866.4M; six-month revenue of $2.056B vs. $1.565B (+31.4% YoY).
@@ -112,7 +121,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - **Convertible notes activity:** 2026 Convertible Senior Notes (originally issued November 23, 2021) partially extinguished during the period; $25.8M cash paid for extinguishment in H1 FY2026 (vs. $1.013B in H1 FY2025). The 2029 Convertible Senior Notes ($920M, issued December 20, 2024) remain outstanding.
 - **Performance share grant:** On January 13, 2026 (subsequent event), performance share awards were granted to employees, per Note 18.
 
-### 8-K — 2026-02-05
+</details>
+
+<details id="f-000162828026005772">
+<summary><strong>8-K</strong> — 2026-02-05</summary>
 
 ## Affirm Holdings (AFRM) – 8-K Filed February 5, 2026
 
@@ -130,7 +142,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - On **February 5, 2026**, Affirm issued a Shareholder Letter reporting financial results for **fiscal Q2 ended December 31, 2025** (Item 2.02 filing).
 - The 8-K was signed by CFO **Rob O'Hare** on February 5, 2026; Exhibit 99.1 is expressly **not deemed "filed"** for Section 18 liability purposes.
 
-### 8-K — 2026-01-16
+</details>
+
+<details id="f-000162828026002442">
+<summary><strong>8-K</strong> — 2026-01-16</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed January 16, 2026
 
@@ -138,28 +153,16 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - PSU award to CEO Max Levchin consists of 333,667 PSUs; shares earned will range from 50% (threshold) to 200% (maximum) of that grant, implying a range of ~166,834 to ~667,334 shares of Class A Common Stock.
 - Performance metrics are weighted 50% revenue less transaction costs growth and 50% adjusted operating income growth, measured annually over the three-year performance period commencing July 1, 2025.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On January 13, 2026, the Board approved a PSU grant of 333,667 units to Founder/CEO Max Levchin under the Amended and Restated 2012 Stock Plan, with a three-year performance period ending approximately June 30, 2028; no shares vest until period-end, contingent on continued service.
 - The new grant follows the expiration of Levchin's prior value creation award, originally granted January 12, 2021 with a five-year performance period that expired January 11, 2026, eliminating that prior compensation structure.
 
-### 8-K — 2025-12-18
+</details>
+
+<details id="f-000162828025057930">
+<summary><strong>8-K</strong> — 2025-12-18</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed December 18, 2025
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On December 15, 2025, Affirm held its 2025 Annual Meeting with 93.4% of combined voting power present in person or by proxy, constituting a quorum; record date was October 17, 2025.
@@ -167,7 +170,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - Deloitte & Touche LLP ratified as independent auditor for fiscal year ending June 30, 2026, with 840.2M votes for and only 178,650 against.
 - Say-on-pay advisory vote passed with 788.6M votes for vs. 26.2M against (~3.2% opposition).
 
-### 10-Q — 2025-11-06
+</details>
+
+<details id="f-000162828025050295">
+<summary><strong>10-Q</strong> — 2025-11-06</summary>
 
 #### Key financials
 - Q1 FY2026 (quarter ended Sept 30, 2025) total revenue of **$933.3M**, up 33.6% YoY from $698.5M; net income of **$80.7M** vs. net loss of $(100.2M) in Q1 FY2025, marking a significant swing to profitability.
@@ -190,7 +196,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - **Amazon warrant amendment** (subsequent event, Nov 2, 2025): Affirm amended its commercial agreement with Amazon, modifying warrant vesting terms; warrant holders for users acquired prior to Feb 1 (2025) and subsequent users will have differentiated vesting schedules with forecast milestone ranges disclosed.
 - **Convertible notes**: $24.8M in 2026 convertible notes extinguished during Q1 FY2026; remaining 2026 notes and $1.0B 2029 notes (issued Dec 20, 2024 at 0% coupon) outstanding; revolving credit facility of undrawn capacity in place (established Dec 16, 2024).
 
-### 8-K — 2025-11-06
+</details>
+
+<details id="f-000162828025050159">
+<summary><strong>8-K</strong> — 2025-11-06</summary>
 
 ## Affirm Holdings, Inc. (AFRM) – 8-K Filed November 6, 2025
 
@@ -210,7 +219,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - Second Amendment to the Amazon warrant executed November 2, 2025, resetting exercise price for post-February 1, 2026 vesting tranches to $63.06/share from the prior $100.00/share level.
 - Full text of both the Restated Agreement and the Second Amendment will be filed as exhibits to the Form 10-Q for the fiscal quarter ending December 31, 2025; neither document was attached to this 8-K.
 
-### 8-K — 2025-09-22
+</details>
+
+<details id="f-000162828025042335">
+<summary><strong>8-K</strong> — 2025-09-22</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed September 22, 2025
 
@@ -218,18 +230,15 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - No financial results or guidance disclosed in this filing.
 - PSU performance metrics are weighted 50% on revenue less transaction costs growth and 50% on adjusted operating income growth, with a three-year performance period commencing July 1, 2025.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On September 18, 2025, the Compensation Committee approved annual equity grants (RSUs and PSUs) to four executive officers under the Amended and Restated 2012 Stock Plan: CFO Rob O'Hare (33,366 PSUs / 33,366 RSUs), CLO/CCO Katherine Adkins (19,463 / 19,463), COO Michael Linford (44,488 / 44,488), and President Libor Michalek (44,488 / 44,488).
 - PSUs can be earned at 50%–200% of the granted amount depending on average annual performance over the three-year period ending ~June 30, 2028; no shares vest until the end of the full performance period.
 - RSUs vest quarterly over three years, with the first vesting date on December 1, 2025, subject to continued service.
 
-### 10-K — 2025-08-28
+</details>
+
+<details id="f-000182095325000080">
+<summary><strong>10-K</strong> — 2025-08-28</summary>
 
 #### Key financials
 - FY2025 (fiscal year ended June 30, 2025) GMV reached **$36.7 billion**; interest-bearing installment loans represented **72%** of total GMV, down from 74% in FY2024.
@@ -255,7 +264,10 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - CFO **Rob O'Hare** adoption of a Rule 10b5-1 trading plan disclosed for the quarter ended **June 30, 2025**.
 - Company conducted a share repurchase of Class A common stock in **December 2024**; Butter Holdings Ltd. acquisition (February 1, 2023) continues to be reflected in intangibles; no new acquisitions disclosed in FY2025.
 
-### 8-K — 2025-08-28
+</details>
+
+<details id="f-000182095325000078">
+<summary><strong>8-K</strong> — 2025-08-28</summary>
 
 #### Key financials
 - 8-K filed August 28, 2025 reports Q4 fiscal results for the quarter ended June 30, 2025; detailed financials are contained in Exhibit 99.1 (Shareholder Letter), which is not reproduced in the filing text provided.
@@ -271,15 +283,12 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - Affirm Holdings, Inc. (AFRM, Nasdaq) reported Q4 FY2025 results via Shareholder Letter on August 28, 2025, covering the fiscal quarter ended June 30, 2025.
 - CFO Rob O'Hare signed the filing; the Shareholder Letter (Exhibit 99.1) is incorporated by reference but not filed for Section 18 liability purposes.
 
-### 8-K — 2025-06-26
+</details>
+
+<details id="f-000182095325000064">
+<summary><strong>8-K</strong> — 2025-06-26</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed June 26, 2025
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
 
 #### Risk-factor changes
 - Reincorporation from Delaware to Nevada (effective July 1, 2025, 12:01 a.m. PT) will change certain stockholder rights, as governed by Nevada law, the new Nevada Charter, and Nevada Bylaws; Delaware law protections no longer apply after that date.
@@ -289,25 +298,22 @@ _Updated: June 15, 2026_  ·  Filer for [[affirm]] (AFRM)
 - At a Special Meeting on June 25, 2025 (record date April 28, 2025), stockholders approved Delaware-to-Nevada reincorporation: **675,165,243 votes for** vs. **124,941,582 against** (~84% of votes cast in favor); quorum represented **89.62%** of combined voting power.
 - On June 26, 2025, Affirm filed a certificate of conversion with Delaware and articles of conversion with Nevada; reincorporation becomes effective **July 1, 2025**; AFRM ticker on Nasdaq unchanged; each existing Class A and Class B share converts 1-for-1 into Nevada corporation shares under identical terms.
 
-### 8-K — 2025-06-12
+</details>
+
+<details id="f-000182095325000061">
+<summary><strong>8-K</strong> — 2025-06-12</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed June 12, 2025
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - **Director departure:** Keith Rabois resigned from Affirm's Board of Directors effective June 30, 2025; he stated his resignation was not due to any disagreement with the company's operations, policies, or practices.
 - **Director appointment:** Richard Galanti, retired EVP and CFO of Costco Wholesale (served January 1985–March 2024), was appointed as a Class II director effective July 1, 2025, and named to the Compensation Committee.
 - **Galanti compensation:** Will receive an initial RSU grant valued at $500,000 (vesting annually over three years), an annual RSU grant of $200,000 (vesting at next annual meeting or one-year anniversary), and a $45,000 annual cash retainer (pro-rated for partial year), plus committee cash retainers.
 
-### 10-Q — 2025-05-09
+</details>
+
+<details id="f-000182095325000052">
+<summary><strong>10-Q</strong> — 2025-05-09</summary>
 
 I was only provided the XBRL tag list and financial statement data from this 10-Q filing (Affirm Holdings, ticker AFRM, fiscal Q3 ending March 31, 2025). The narrative MD&A, Risk Factors, and subsequent-events sections were truncated. I will summarize using the financial data available.
 
@@ -342,7 +348,10 @@ I was only provided the XBRL tag list and financial statement data from this 10-
 - **Amazon warrant vesting — 3.5M shares issued:** 3,499,453 shares of Class A common stock issued upon exercise of warrants in Q3 FY2025 (January–March 2025); commercial agreement asset balance reduced to $65.2M at March 31, 2025 from $104.6M at June 30, 2024 as amortization continues.
 - **Revolving credit facility amended December 16, 2024:** Terms updated per filing footnotes
 
-### 8-K — 2025-05-08
+</details>
+
+<details id="f-000182095325000050">
+<summary><strong>8-K</strong> — 2025-05-08</summary>
 
 #### Key financials
 - Filing covers Affirm Holdings' fiscal Q3 results for the quarter ended March 31, 2025, disclosed via Shareholder Letter (Exhibit 99.1) on May 8, 2025; specific revenue, GMV, and net income/loss figures are contained in the attached exhibit, which is not reproduced in the 8-K body text.
@@ -358,7 +367,10 @@ I was only provided the XBRL tag list and financial statement data from this 10-
 - On May 8, 2025, Affirm filed under Item 2.02 (Results of Operations and Financial Condition), reporting fiscal Q3 2025 earnings via Shareholder Letter signed by CFO Rob O'Hare.
 - The exhibit is expressly designated as "not filed" for Section 18 Exchange Act liability purposes and is not incorporated by reference into any Securities Act filings.
 
-### 8-K — 2025-03-17
+</details>
+
+<details id="f-000182095325000036">
+<summary><strong>8-K</strong> — 2025-03-17</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed March 17, 2025
 
@@ -378,7 +390,10 @@ I was only provided the XBRL tag list and financial statement data from this 10-
 - OnePay's selection of Klarna at Walmart, announced **March 17, 2025**, is the sole triggering event for this Item 8.01 filing, disclosed proactively to inform investors of a competitive development at a key merchant partner.
 - No transaction, litigation, leadership change, or capital markets activity was disclosed.
 
-### 8-K — 2025-02-28
+</details>
+
+<details id="f-000182095325000031">
+<summary><strong>8-K</strong> — 2025-02-28</summary>
 
 #### Key financials
 - None noted. This 8-K contains no financial results or metrics; it was filed solely to submit a legal opinion related to a securities offering.
@@ -393,7 +408,10 @@ I was only provided the XBRL tag list and financial statement data from this 10-
 - On February 28, 2025, Affirm Holdings filed a prospectus supplement to its automatic shelf registration statement on Form S-3 (Registration No. 333-285421), signaling a potential securities issuance/sale.
 - The 8-K was filed exclusively to attach the legality opinion (Exhibit 5.1) from outside counsel Gibson, Dunn & Crutcher LLP in connection with that prospectus supplement; CFO Rob O'Hare signed the filing.
 
-### 8-K — 2025-02-20
+</details>
+
+<details id="f-000182095325000017">
+<summary><strong>8-K</strong> — 2025-02-20</summary>
 
 ## Affirm Holdings, Inc. (AFRM) – 8-K Filed February 20, 2025
 
@@ -413,7 +431,10 @@ I was only provided the XBRL tag list and financial statement data from this 10-
 - New agreement supersedes the prior Amended and Restated Customer Installment Program Agreement (dated March 18, 2024, as amended October 10, November 12, and December 18, 2024), which terminated on February 14, 2025.
 - Initial term runs three years, expiring June 8, 2028, with automatic one-year renewals thereafter unless either party provides 180 days' written notice of non-renewal. Full agreement text to be filed as an exhibit to the 10-Q for the quarter ending March 31, 2025.
 
-### 10-Q — 2025-02-06
+</details>
+
+<details id="f-000182095325000012">
+<summary><strong>10-Q</strong> — 2025-02-06</summary>
 
 I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q for the quarter ended December 31, 2024 — a direct BNPL competitor relevant to Snap Finance's competitive monitoring.
 
@@ -449,7 +470,10 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - On **December 20, 2024**, Affirm issued **$920M of 0% Convertible Senior Notes due 2029** and used approximately **$1.013B** to extinguish the outstanding Convertible Senior Notes due 2026 (originally issued Nov 23, 2021 at 0%), recognizing a **$82.4M gain on debt extinguishment** in H1 FY2025 cash flows.
 - In **Q2 FY2025**,
 
-### 8-K — 2025-02-06
+</details>
+
+<details id="f-000182095325000010">
+<summary><strong>8-K</strong> — 2025-02-06</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed February 6, 2025
 
@@ -467,7 +491,10 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - On February 6, 2025, Affirm issued its Q2 FY2025 Shareholder Letter reporting financial results for the quarter ended December 31, 2024, filed under Item 2.02 (Results of Operations and Financial Condition).
 - The filing was signed by CFO Rob O'Hare on February 6, 2025; information in Exhibit 99.1 is expressly not deemed "filed" for Section 18 liability purposes.
 
-### 8-K — 2024-12-20
+</details>
+
+<details id="f-000182095324000073">
+<summary><strong>8-K</strong> — 2024-12-20</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed December 20, 2024
 
@@ -477,9 +504,6 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - Repurchased **$960M principal of existing 0% convertible notes due 2026** for **$892.8M** (a ~7% discount), expected to settle on or about December 20, 2024.
 - Separately repurchased **3,526,590 shares** of Class A common stock for **~$250M** in privately negotiated transactions with Notes purchasers on December 20, 2024.
 
-#### Segment & competitive notes
-- None noted.
-
 #### Risk-factor changes
 - New senior unsecured debt obligation of $920M added to balance sheet; Notes rank effectively subordinated to all existing and future **secured debt** and structurally subordinated to all **subsidiary liabilities**.
 - Potential dilution risk if Notes are converted; unregistered equity issuable upon conversion, with conversion triggered at **130% of conversion price** for at least 20 of 30 consecutive trading days, among other conditions.
@@ -488,7 +512,10 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - On **December 20, 2024**, Affirm entered into an Indenture with Wilmington Trust, National Association as trustee governing the new 2029 Notes; lead underwriters were Morgan Stanley, Barclays Capital, and J.P. Morgan Securities.
 - The combined transactions (new notes issuance, 2026 note repurchase at discount, and share buyback) represent a significant balance sheet restructuring, retiring near-term 2026 maturity obligations and extending debt duration to 2029.
 
-### 8-K — 2024-12-18
+</details>
+
+<details id="f-000182095324000065">
+<summary><strong>8-K</strong> — 2024-12-18</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed December 18, 2024
 
@@ -496,44 +523,29 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - On December 17, 2024, Affirm priced a private offering of convertible senior notes due 2029 to qualified institutional buyers under Rule 144A; specific aggregate principal amount not disclosed in the filing text.
 - Initial purchasers were granted an option to purchase additional notes within a 13-day window beginning on the initial closing date.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - Affirm announced pricing of convertible senior notes due 2029 via private placement on December 17, 2024, with the press release attached as Exhibit 99.1.
 - Filing was signed by Michael Linford, Chief Operating Officer, on December 18, 2024; no proceeds use or conversion terms were disclosed in the body of the 8-K.
 
-### 8-K — 2024-12-16
+</details>
+
+<details id="f-000182095324000064">
+<summary><strong>8-K</strong> — 2024-12-16</summary>
 
 #### Key financials
 - No financial results disclosed in this filing; the 8-K relates solely to a proposed capital markets transaction.
 - Affirm announced intention to offer convertible senior notes due 2029 in a Rule 144A private placement to qualified institutional buyers; specific size and pricing terms were not disclosed in this filing (dated December 16, 2024).
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On December 16, 2024, Affirm Holdings, Inc. (AFRM) announced a private placement of convertible senior notes due 2029 under Rule 144A, targeted at qualified institutional buyers.
 - Filing was signed by Michael Linford, Chief Operating Officer, on December 16, 2024; no use of proceeds, conversion terms, or deal size were specified in this 8-K text.
 
-### 8-K — 2024-12-12
+</details>
+
+<details id="f-000182095324000063">
+<summary><strong>8-K</strong> — 2024-12-12</summary>
 
 ## Affirm Holdings, Inc. (AFRM) – 8-K Filed December 12, 2024
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - On December 9, 2024, Affirm held its 2024 Annual Meeting; 89.30% of combined voting power was represented, constituting a quorum (record date: October 11, 2024).
@@ -541,7 +553,10 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - Deloitte & Touche LLP ratified as independent auditor for fiscal year ending June 30, 2025, with 806.2M votes for and only 843,775 votes against.
 - Named executive officer compensation approved on a non-binding advisory basis with 729.6M votes for and 46.9M votes against (~94% approval among votes cast).
 
-### 10-Q — 2024-11-07
+</details>
+
+<details id="f-000182095324000060">
+<summary><strong>10-Q</strong> — 2024-11-07</summary>
 
 #### Key financials
 - **Q1 FY2025 (quarter ended September 30, 2024):** Total revenue, net of $698.5M, up 40.7% YoY from $496.5M; net loss of $100.2M ($0.31/share), improved from net loss of $171.8M ($0.57/share) in Q1 FY2024.
@@ -563,23 +578,23 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - **Kusnier litigation:** On August 26, 2024, the U.S. District Court (N.D. Cal.) granted Affirm's motion to dismiss the second amended class action complaint with leave to amend; on September 23, 2024, plaintiffs filed a motion for reconsideration — three related derivative suits (Quiroga, Jeffries, Vallieres) remain stayed pending resolution of Kusnier.
 - **Securitization activity:** Affirm issued $750.0M in new notes via securitization trusts in Q1 FY2025 (same as Q1 FY2024); notes issued by securitization trusts grew to $3.99B from $3.24B at June 30, 2024, reflecting continued growth in off-balance-sheet funding capacity.
 
-### 8-K — 2024-11-07
+</details>
+
+<details id="f-000182095324000058">
+<summary><strong>8-K</strong> — 2024-11-07</summary>
 
 #### Key financials
 - Q1 FY2025 (ended September 30, 2024) results were reported via Shareholder Letter attached as Exhibit 99.1; specific revenue/income figures are not reproduced in the 8-K body text.
 - As of November 1, 2024, approximately **$1.2 billion** in principal amount of 0% Convertible Senior Notes due 2026 remains outstanding.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - **CFO transition (effective November 8, 2024):** Rob O'Hare appointed CFO, succeeding Michael Linford, who moves to COO. O'Hare's package includes a **$475,000 base salary**, 75% annual cash incentive target, **$1.25M RSU award**, and **$1.25M stock option award**, each vesting over four years.
 - **New convertible note repurchase authorization (approved November 5, 2024):** Board authorized repurchase of up to **$500 million** in aggregate principal of the 2026 Notes, effective **January 1–December 31, 2025**, succeeding a prior **$800 million** authorization (expiring December 31, 2024) approved in December 2023.
 
-### 10-K — 2024-08-28
+</details>
+
+<details id="f-000182095324000035">
+<summary><strong>10-K</strong> — 2024-08-28</summary>
 
 #### Key financials
 - FY2024 (fiscal year ended June 30, 2024): GMV of **$26.6 billion** facilitated through the platform; interest-bearing monthly installment loans represented **74% of GMV** (up from 68% in FY2023), while Pay-in-4 declined to **15%** (from 19%) and 0% APR installment loans fell to **11%** (from 13%).
@@ -603,7 +618,10 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - **February 2023**: Acquisition of **Butter Holdings Ltd.** completed February 1, 2023, including a license component, with consideration recorded in FY2023; integration costs reported through FY2024.
 - FY2024 restructuring activity: residual charges under the **2023 Restructuring Plan** continued into FY2024, with severance and other exit/disposal costs recorded; headcount stood at **2,006 employees** as of June 30, 2024.
 
-### 8-K — 2024-08-28
+</details>
+
+<details id="f-000182095324000033">
+<summary><strong>8-K</strong> — 2024-08-28</summary>
 
 ## Affirm Holdings, Inc. (AFRM) — 8-K Filed 2024-08-28
 
@@ -611,17 +629,14 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - Filing reports Q4 fiscal year results for the quarter ended **June 30, 2024**, disclosed via Shareholder Letter (Exhibit 99.1); specific revenue, GMV, and net income figures are contained in the attached letter, not reproduced in the 8-K body.
 - Non-GAAP financial measures are included in the Shareholder Letter, with GAAP reconciliations provided therein; no standalone figures are extractable from this filing wrapper.
 
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
-
 #### Material events
 - On **August 28, 2024**, Affirm issued its Q4 FY2024 Shareholder Letter covering the fiscal quarter ended **June 30, 2024**, filed under Item 2.02 (Results of Operations and Financial Condition).
 - The filing was signed by CFO **Michael Linford** on **August 28, 2024**; the Shareholder Letter (Exhibit 99.1) is incorporated by reference but is explicitly **not deemed "filed"** for Section 18 liability purposes.
 
-### 8-K — 2024-07-01
+</details>
+
+<details id="f-000182095324000027">
+<summary><strong>8-K</strong> — 2024-07-01</summary>
 
 #### Key financials
 - On June 26, 2024, Affirm amended its revolving credit facility, increasing aggregate commitments from **$205 million to $330 million** (a $125 million increase).
@@ -640,21 +655,17 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 - **Amendment No. 2** to the Revolving Credit Agreement executed **June 26, 2024** with Barclays Bank PLC as administrative agent; financial maintenance covenants include a maximum leverage ratio and minimum tangible net worth tested quarterly.
 - Evolve cybersecurity incident disclosed **June 25, 2024**; Affirm states it does **not expect** the incident to have a material impact on financial condition or results of operations as of the filing date, but investigation and remediation remain ongoing.
 
-### 8-K — 2024-06-20
+</details>
+
+<details id="f-000182095324000024">
+<summary><strong>8-K</strong> — 2024-06-20</summary>
 
 ## Affirm Holdings, Inc. (AFRM) – 8-K Summary (Filed 2024-06-20)
-
-#### Key financials
-- None noted.
-
-#### Segment & competitive notes
-- None noted.
-
-#### Risk-factor changes
-- None noted.
 
 #### Material events
 - **Director resignation:** James D. White, Lead Independent Director, resigned from the Board effective June 30, 2024; he cited no disagreement with company operations, policies, or practices.
 - **New Lead Independent Director:** Christa S. Quarles, an existing Board member, was appointed Lead Independent Director effective July 1, 2024, succeeding White.
 - **New director appointed:** Brian D. Hughes appointed as Class III director effective July 1, 2024, with term expiring at the 2026 annual stockholder meeting; added to both Audit and Compensation Committees. Hughes brings financial services risk management experience, including serving as Chief Risk Officer at Discover Financial Services (2016–2021).
 - **Director compensation:** Hughes will receive an initial RSU grant valued at $500,000 (vesting annually over three years), an annual RSU grant of $200,000, and a $45,000 annual cash retainer (prorated for partial year), consistent with the company's standard non-employee director compensation program.
+
+</details>

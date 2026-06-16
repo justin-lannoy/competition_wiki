@@ -551,7 +551,7 @@ table td, table th{
 
 .wikilink{
   color:var(--snap-blue); cursor:pointer; text-decoration:none;
-  border-bottom:1px dashed rgba(45,68,226,.35);
+  border-bottom:1px dashed rgba(61,92,207,.35);
 }
 .wikilink:hover{ border-bottom-color:var(--snap-blue); border-bottom-style:solid; }
 .wikilink-dead{ color:var(--faint); text-decoration:line-through; font-style:italic; }
@@ -793,7 +793,7 @@ hr.comp-divider{
   font-size:13px; font-family:var(--font-mono);
   outline:none; background:#fff; color:var(--ink);
 }
-.claude-key-row input:focus{ border-color:var(--snap-blue); box-shadow:0 0 0 3px rgba(45,68,226,.15); }
+.claude-key-row input:focus{ border-color:var(--snap-blue); box-shadow:0 0 0 3px rgba(61,92,207,.15); }
 .claude-key-row button{
   height:38px; padding:0 18px; background:var(--snap-blue); color:#fff;
   border:none; border-radius:var(--radius-md);
@@ -810,7 +810,7 @@ hr.comp-divider{
   font-size:14px; font-family:var(--font-sans); outline:none; resize:vertical;
   line-height:1.5; color:var(--ink); background:#fff;
 }
-.claude-ask-row textarea:focus{ border-color:var(--snap-blue); box-shadow:0 0 0 3px rgba(45,68,226,.15); }
+.claude-ask-row textarea:focus{ border-color:var(--snap-blue); box-shadow:0 0 0 3px rgba(61,92,207,.15); }
 .claude-ask-row button{
   height:40px; padding:0 20px; background:var(--snap-blue); color:#fff; border:none;
   border-radius:var(--radius-md); font-size:14px; font-weight:600; cursor:pointer;
