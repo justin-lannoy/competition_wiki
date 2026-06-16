@@ -103,8 +103,27 @@ def _fmt_usd(v: float) -> str:
     return f"${v:.0f}"
 
 
+# Ordered metric display config for the tracker pages (key, label, color, kind).
+METRIC_DISPLAY = [
+    ("revenue", "Revenue", "#1B844A", "usd"),
+    ("gross_profit", "Gross profit", "#67B25E", "usd"),
+    ("operating_income", "Operating income", "#5FA4F9", "usd"),
+    ("net_income", "Net income / loss", "#3D5CCF", "usd"),
+    ("net_margin", "Net margin", "#854F0B", "pct"),
+    ("eps_diluted", "Diluted EPS", "#26397f", "eps"),
+]
+
+
+def _fmt_metric(v: float, kind: str) -> str:
+    if kind == "pct":
+        return f"{v:.1f}%"
+    if kind == "eps":
+        return f"${v:.2f}"
+    return _fmt_usd(v)
+
+
 def _svg_line_chart(series: list[dict], *, color: str = "#1B844A",
-                    w: int = 520, h: int = 130) -> str:
+                    fmt=_fmt_usd, w: int = 520, h: int = 130) -> str:
     """Inline SVG line chart for a quarterly series (no chart-lib dependency)."""
     if len(series) < 2:
         return ""
@@ -127,7 +146,7 @@ def _svg_line_chart(series: list[dict], *, color: str = "#1B844A",
     out.append(f'<text x="{w - pad_x}" y="{h - 8}" font-size="10" fill="#696969" '
                f'text-anchor="end">{series[-1]["label"]}</text>')
     out.append(f'<text x="{X(n - 1):.1f}" y="{max(Y(series[-1]["val"]) - 6, 10):.1f}" font-size="10" '
-               f'fill="{color}" text-anchor="end">{_fmt_usd(series[-1]["val"])}</text>')
+               f'fill="{color}" text-anchor="end">{fmt(series[-1]["val"])}</text>')
     out.append('</svg>')
     return "".join(out)
 
@@ -169,16 +188,15 @@ def render_filer_page(filer: CompetitorFiler, sidecar: dict,
     ]
 
     fin = sidecar.get("financials") or {}
-    rev, ni = fin.get("revenue") or [], fin.get("net_income") or []
-    if len(rev) >= 2 or len(ni) >= 2:
+    present = [(k, label, color, kind) for (k, label, color, kind) in METRIC_DISPLAY
+               if len(fin.get(k) or []) >= 2]
+    if present:
         parts += ["## Financial trends", "",
                   "_Quarterly, from SEC XBRL company facts._", ""]
-        if len(rev) >= 2:
-            parts += [f"**Revenue** — latest {rev[-1]['label']}: {_fmt_usd(rev[-1]['val'])}",
-                      "", _svg_line_chart(rev, color="#1B844A"), ""]
-        if len(ni) >= 2:
-            parts += [f"**Net income** — latest {ni[-1]['label']}: {_fmt_usd(ni[-1]['val'])}",
-                      "", _svg_line_chart(ni, color="#3D5CCF"), ""]
+        for k, label, color, kind in present:
+            s = fin[k]
+            parts += [f"**{label}** — latest {s[-1]['label']}: {_fmt_metric(s[-1]['val'], kind)}",
+                      "", _svg_line_chart(s, color=color, fmt=lambda v, _k=kind: _fmt_metric(v, _k)), ""]
 
     if not rows:
         parts += ["_No filings in the last 24 months._", ""]
@@ -305,13 +323,15 @@ def _process_filer(filer: CompetitorFiler, client, today: dt.date,
 
     sidecar = edgar.merge_sidecar(sidecar, cik, filings, local_names)
 
-    # XBRL financial time-series (for the tracker page's trend charts).
+    # XBRL financial time-series (for the tracker page's trend charts +
+    # dashboard sparkline + cross-competitor compare view).
     facts = edgar_client.companyfacts(cik)
-    fin = {
-        "revenue": edgar.extract_quarterly_series(facts, edgar.REVENUE_CONCEPTS),
-        "net_income": edgar.extract_quarterly_series(facts, edgar.NETINCOME_CONCEPTS),
-    }
-    if fin["revenue"] or fin["net_income"]:
+    fin = {m: edgar.extract_quarterly_series(facts, concepts, unit=unit)
+           for m, (concepts, unit) in edgar.FINANCIAL_METRICS.items()}
+    if fin.get("revenue") and fin.get("net_income"):
+        fin["net_margin"] = edgar.ratio_series(fin["net_income"], fin["revenue"])
+    fin = {k: v for k, v in fin.items() if len(v) >= 2}  # drop thin/empty metrics
+    if fin:
         sidecar["financials"] = fin
 
     if use_api and client and not dry_run:

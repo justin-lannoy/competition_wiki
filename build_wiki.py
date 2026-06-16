@@ -20,6 +20,9 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent
 os.chdir(BASE)
 
+sys.path.insert(0, str(BASE / "scripts"))
+from _lib import slugify  # noqa: E402 — canonical slug (competitor parent -> filer dir)
+
 
 def parse_frontmatter(text: str) -> dict:
     """Minimal YAML frontmatter parser — same dialect as the insights wiki."""
@@ -188,6 +191,20 @@ def _recent_news(slug: str, limit: int = 3) -> list[dict]:
     ]
 
 
+def _financials_for(parent: str) -> dict:
+    """XBRL financial series for a competitor, from its filer sidecar (keyed by
+    slugify(parent)). Powers the dashboard sparkline + compare view. {} if none."""
+    if not parent:
+        return {}
+    sidecar = BASE / "sec-filings" / slugify(parent) / "_filings.json"
+    if not sidecar.exists():
+        return {}
+    try:
+        return json.loads(sidecar.read_text(encoding="utf-8")).get("financials") or {}
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+
 def _synth_competitor_body(p: dict) -> str:
     """Minimal editorial body for a registry competitor with no page yet."""
     title = p.get("title") or p.get("slug")
@@ -224,6 +241,7 @@ def merge_competitor_registry(pages: list[dict]) -> list[dict]:
             p["content"] = _synth_competitor_body(p)
         p["stub"] = synthesized          # no editorial page yet → light coverage
         p["recent_news"] = _recent_news(slug)
+        p["financials"] = _financials_for(p.get("parent", ""))
         merged.append(p)
     others = [p for p in pages if p.get("type") != "competitor"]
     return others + merged

@@ -34,9 +34,35 @@ REVENUE_CONCEPTS = (
     "InterestAndFeeIncomeLoansAndLeases",
 )
 NETINCOME_CONCEPTS = ("NetIncomeLoss",)
+OPERATING_INCOME_CONCEPTS = ("OperatingIncomeLoss",)
+GROSS_PROFIT_CONCEPTS = ("GrossProfit",)
+EPS_CONCEPTS = ("EarningsPerShareDiluted", "EarningsPerShareBasicAndDiluted")
+
+# Metric -> (concept candidates, XBRL unit). Drives the financials extraction.
+FINANCIAL_METRICS = {
+    "revenue": (REVENUE_CONCEPTS, "USD"),
+    "net_income": (NETINCOME_CONCEPTS, "USD"),
+    "operating_income": (OPERATING_INCOME_CONCEPTS, "USD"),
+    "gross_profit": (GROSS_PROFIT_CONCEPTS, "USD"),
+    "eps_diluted": (EPS_CONCEPTS, "USD/shares"),
+}
+
+
+def ratio_series(numer: list[dict], denom: list[dict], *, pct: bool = True) -> list[dict]:
+    """Per-period ratio of two series aligned by `end` date (e.g. net margin =
+    net income / revenue). Returns [{end, val, label}] for shared periods."""
+    by_end = {d["end"]: d for d in denom}
+    out = []
+    for n in numer:
+        d = by_end.get(n["end"])
+        if d and d["val"]:
+            v = n["val"] / d["val"] * (100 if pct else 1)
+            out.append({"end": n["end"], "val": v, "label": n["label"]})
+    return out
 
 
 def extract_quarterly_series(facts: dict, concepts: tuple[str, ...], *,
+                             unit: str = "USD",
                              max_points: int = 8, recent_years: int = 4,
                              today: "dt.date | None" = None) -> list[dict]:
     """Pull up to `max_points` recent ~quarterly data points for the first
@@ -51,11 +77,11 @@ def extract_quarterly_series(facts: dict, concepts: tuple[str, ...], *,
     cutoff = (today - dt.timedelta(days=int(365.25 * recent_years))).isoformat()
     usgaap = (facts or {}).get("facts", {}).get("us-gaap", {})
     for concept in concepts:
-        usd = (usgaap.get(concept) or {}).get("units", {}).get("USD")
-        if not usd:
+        vals = (usgaap.get(concept) or {}).get("units", {}).get(unit)
+        if not vals:
             continue
         by_end: dict[str, dict] = {}
-        for it in usd:
+        for it in vals:
             start, end, val = it.get("start"), it.get("end"), it.get("val")
             if (not (start and end and val is not None)
                     or it.get("form") not in ("10-Q", "10-K") or end < cutoff):

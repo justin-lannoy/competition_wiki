@@ -21,9 +21,25 @@ _Quarterly, from SEC XBRL company facts._
 
 <svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,65.9 152.9,88.9 224.3,83.6 295.7,40.3 367.1,40.5 438.6,32.5 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$79.0M</text></svg>
 
-**Net income** — latest Q1 2026: $5.7M
+**Gross profit** — latest Q1 2026: $18.2M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,87.2 81.4,32.6 152.9,104.0 224.3,82.0 295.7,55.9 367.1,90.5 438.6,53.7 510.0,14.0" fill="none" stroke="#67B25E" stroke-width="2"/><circle cx="10.0" cy="87.2" r="3" fill="#67B25E"/><circle cx="510.0" cy="14.0" r="3" fill="#67B25E"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#67B25E" text-anchor="end">$18.2M</text></svg>
+
+**Operating income** — latest Q1 2026: $4.3M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><line x1="10" y1="58.4" x2="510" y2="58.4" stroke="#CCCCCC" stroke-width="1"/><polyline points="10.0,62.9 81.4,19.5 152.9,85.3 224.3,104.0 295.7,63.9 367.1,72.9 438.6,33.2 510.0,14.0" fill="none" stroke="#5FA4F9" stroke-width="2"/><circle cx="10.0" cy="62.9" r="3" fill="#5FA4F9"/><circle cx="510.0" cy="14.0" r="3" fill="#5FA4F9"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#5FA4F9" text-anchor="end">$4.3M</text></svg>
+
+**Net income / loss** — latest Q1 2026: $5.7M
 
 <svg viewBox="0 0 520 130" width="100%" role="img"><line x1="10" y1="49.1" x2="510" y2="49.1" stroke="#CCCCCC" stroke-width="1"/><polyline points="10.0,74.1 81.4,52.6 152.9,91.6 224.3,104.0 295.7,84.2 367.1,97.5 438.6,79.7 510.0,14.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="74.1" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="14.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#3D5CCF" text-anchor="end">$5.7M</text></svg>
+
+**Net margin** — latest Q1 2026: 7.2%
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><line x1="10" y1="43.5" x2="510" y2="43.5" stroke="#CCCCCC" stroke-width="1"/><polyline points="10.0,73.9 81.4,47.1 152.9,91.5 224.3,104.0 295.7,76.0 367.1,88.2 438.6,71.0 510.0,14.0" fill="none" stroke="#854F0B" stroke-width="2"/><circle cx="10.0" cy="73.9" r="3" fill="#854F0B"/><circle cx="510.0" cy="14.0" r="3" fill="#854F0B"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#854F0B" text-anchor="end">7.2%</text></svg>
+
+**Diluted EPS** — latest Q1 2026: $0.07
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><line x1="10" y1="17.0" x2="510" y2="17.0" stroke="#CCCCCC" stroke-width="1"/><polyline points="10.0,58.6 81.4,22.5 152.9,85.3 224.3,104.0 295.7,69.2 367.1,86.2 438.6,56.9 510.0,14.0" fill="none" stroke="#26397f" stroke-width="2"/><circle cx="10.0" cy="58.6" r="3" fill="#26397f"/><circle cx="510.0" cy="14.0" r="3" fill="#26397f"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#26397f" text-anchor="end">$0.07</text></svg>
 
 ## Filings
 

@@ -21,9 +21,17 @@ _Quarterly, from SEC XBRL company facts._
 
 <svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,69.6 152.9,67.6 224.3,14.0 295.7,64.9 367.1,61.1 438.6,16.9 510.0,40.4" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="40.4" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="34.4" font-size="10" fill="#1B844A" text-anchor="end">$5.41B</text></svg>
 
-**Net income** — latest Q1 2026: $805.0M
+**Net income / loss** — latest Q1 2026: $805.0M
 
 <svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,14.0 152.9,102.0 224.3,82.2 295.7,86.5 367.1,58.1 438.6,43.2 510.0,80.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="80.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="74.0" font-size="10" fill="#3D5CCF" text-anchor="end">$805.0M</text></svg>
+
+**Net margin** — latest Q1 2026: 14.9%
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,103.5 81.4,14.0 152.9,104.0 224.3,88.2 295.7,88.5 367.1,59.9 438.6,49.7 510.0,83.9" fill="none" stroke="#854F0B" stroke-width="2"/><circle cx="10.0" cy="103.5" r="3" fill="#854F0B"/><circle cx="510.0" cy="83.9" r="3" fill="#854F0B"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="77.9" font-size="10" fill="#854F0B" text-anchor="end">14.9%</text></svg>
+
+**Diluted EPS** — latest Q1 2026: $2.27
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,14.0 152.9,100.2 224.3,79.1 295.7,81.8 367.1,48.7 438.6,29.2 510.0,61.2" fill="none" stroke="#26397f" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#26397f"/><circle cx="510.0" cy="61.2" r="3" fill="#26397f"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="55.2" font-size="10" fill="#26397f" text-anchor="end">$2.27</text></svg>
 
 ## Filings
 

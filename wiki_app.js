@@ -781,6 +781,131 @@ function SearchBox({ openPalette }) {
 }
 
 // ─── Competitor Watch View ───────────────────────────────────────────────────
+// ─── Financials: formatting, sparkline, compare view ─────────────────────────
+const SERIES_COLORS = ['#1B844A', '#3D5CCF', '#854F0B', '#5FA4F9', '#A32D2D',
+  '#67B25E', '#26397f', '#0F6FA8', '#8E44AD', '#C0392B', '#696969', '#1F8A70'];
+const COMPARE_METRICS = [
+  { key: 'revenue', label: 'Revenue', kind: 'usd' },
+  { key: 'gross_profit', label: 'Gross profit', kind: 'usd' },
+  { key: 'operating_income', label: 'Operating income', kind: 'usd' },
+  { key: 'net_income', label: 'Net income / loss', kind: 'usd' },
+  { key: 'net_margin', label: 'Net margin', kind: 'pct' },
+  { key: 'eps_diluted', label: 'Diluted EPS', kind: 'eps' },
+];
+function fmtMetric(v, kind) {
+  if (kind === 'pct') return v.toFixed(1) + '%';
+  if (kind === 'eps') return '$' + v.toFixed(2);
+  const a = Math.abs(v);
+  if (a >= 1e9) return '$' + (v / 1e9).toFixed(2) + 'B';
+  if (a >= 1e6) return '$' + (v / 1e6).toFixed(0) + 'M';
+  if (a >= 1e3) return '$' + (v / 1e3).toFixed(0) + 'K';
+  return '$' + v.toFixed(0);
+}
+
+function MiniSparkline({ series, color = 'var(--brand)', w = 88, h = 22 }) {
+  if (!series || series.length < 2) return null;
+  const vals = series.map(p => p.val);
+  const lo = Math.min(...vals), hi = Math.max(...vals), rng = (hi - lo) || 1;
+  const n = series.length;
+  const pts = series.map((p, i) =>
+    `${(1 + i * (w - 2) / (n - 1)).toFixed(1)},${(h - 2 - (p.val - lo) / rng * (h - 4)).toFixed(1)}`).join(' ');
+  return (
+    <svg viewBox={`0 0 ${w} ${h}`} width={w} height={h} style={{ verticalAlign: 'middle' }} aria-hidden="true">
+      <polyline points={pts} fill="none" stroke={color} strokeWidth="1.5" />
+    </svg>
+  );
+}
+
+function CompareFinancialsView({ navigateTo }) {
+  const [metric, setMetric] = useState('revenue');
+  const [indexed, setIndexed] = useState(false);
+  const cfg = COMPARE_METRICS.find(m => m.key === metric) || COMPARE_METRICS[0];
+  const series = useMemo(() => COMPETITOR_PAGES
+    .filter(c => c.financials && Array.isArray(c.financials[metric]) && c.financials[metric].length >= 2)
+    .map((c, i) => ({ slug: c.slug, name: c.title, color: SERIES_COLORS[i % SERIES_COLORS.length], pts: c.financials[metric] })),
+    [metric]);
+
+  const w = 880, h = 380, padL = 60, padR = 14, padT = 16, padB = 42;
+  const idx = (pts) => indexed && pts[0].val ? pts.map(p => ({ ...p, val: p.val / pts[0].val * 100 })) : pts;
+  const tseries = series.map(s => ({ ...s, pts: idx(s.pts) }));
+  const allEnds = tseries.flatMap(s => s.pts.map(p => Date.parse(p.end + 'T00:00:00')));
+  const allVals = tseries.flatMap(s => s.pts.map(p => p.val));
+  const tMin = Math.min(...allEnds), tMax = Math.max(...allEnds), tRng = (tMax - tMin) || 1;
+  let vMin = Math.min(...allVals, indexed ? 100 : 0), vMax = Math.max(...allVals);
+  if (vMin === vMax) vMax = vMin + 1;
+  const vRng = vMax - vMin;
+  const X = t => padL + (t - tMin) / tRng * (w - padL - padR);
+  const Y = v => padT + (1 - (v - vMin) / vRng) * (h - padT - padB);
+  const fmtY = v => indexed ? v.toFixed(0) : fmtMetric(v, cfg.kind);
+  const x0lbl = tseries[0] && tseries[0].pts[0] ? tseries[0].pts[0].label : '';
+  const x1lbl = tseries[0] && tseries[0].pts.length ? tseries[0].pts[tseries[0].pts.length - 1].label : '';
+
+  return (
+    <div className="main-content">
+      <div className="page-header">
+        <span className="page-type">Compare</span>
+        <h1>Compare Financials</h1>
+        <div className="page-meta"><span><strong>{series.length}</strong> competitors with XBRL data · quarterly</span></div>
+      </div>
+      <div className="md-content">
+        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginBottom: 14, alignItems: 'center' }}>
+          {COMPARE_METRICS.map(m => (
+            <button key={m.key} onClick={() => setMetric(m.key)}
+              style={{ padding: '5px 12px', borderRadius: 4, cursor: 'pointer', fontSize: 13,
+                       border: '1px solid var(--line)',
+                       background: metric === m.key ? 'var(--brand)' : 'var(--bg-soft)',
+                       color: metric === m.key ? '#fff' : 'var(--ink)', fontWeight: metric === m.key ? 600 : 400 }}>
+              {m.label}
+            </button>
+          ))}
+          <button onClick={() => setIndexed(x => !x)}
+            style={{ marginLeft: 'auto', padding: '5px 12px', borderRadius: 4, cursor: 'pointer', fontSize: 13,
+                     border: '1px solid var(--line)', background: indexed ? 'var(--accent)' : 'var(--bg-soft)',
+                     color: indexed ? '#fff' : 'var(--ink)' }}>
+            {indexed ? 'Indexed (start=100)' : 'Absolute values'}
+          </button>
+        </div>
+        {series.length === 0 ? (
+          <div className="empty-state"><p>No XBRL data available for this metric.</p></div>
+        ) : (
+          <>
+            <svg viewBox={`0 0 ${w} ${h}`} width="100%" role="img"
+                 style={{ border: '1px solid var(--line)', borderRadius: 6, background: '#fff' }}>
+              {[0, 0.25, 0.5, 0.75, 1].map((f, i) => {
+                const v = vMin + f * vRng, y = Y(v);
+                return (
+                  <g key={i}>
+                    <line x1={padL} y1={y} x2={w - padR} y2={y} stroke="var(--line)" strokeWidth="1" />
+                    <text x={padL - 6} y={y + 3} fontSize="10" fill="var(--muted)" textAnchor="end">{fmtY(v)}</text>
+                  </g>
+                );
+              })}
+              {!indexed && vMin < 0 && vMax > 0 && (
+                <line x1={padL} y1={Y(0)} x2={w - padR} y2={Y(0)} stroke="var(--line-strong)" strokeWidth="1.5" />
+              )}
+              <text x={padL} y={h - padB + 20} fontSize="10" fill="var(--muted)">{x0lbl}</text>
+              <text x={w - padR} y={h - padB + 20} fontSize="10" fill="var(--muted)" textAnchor="end">{x1lbl}</text>
+              {tseries.map(s => (
+                <polyline key={s.slug} fill="none" stroke={s.color} strokeWidth="2"
+                  points={s.pts.map(p => `${X(Date.parse(p.end + 'T00:00:00')).toFixed(1)},${Y(p.val).toFixed(1)}`).join(' ')} />
+              ))}
+            </svg>
+            <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', marginTop: 12 }}>
+              {series.map(s => (
+                <span key={s.slug} onClick={() => navigateTo(s.slug)}
+                  style={{ cursor: 'pointer', fontSize: 13, display: 'inline-flex', alignItems: 'center', gap: 6 }}>
+                  <span style={{ width: 14, height: 3, background: s.color, display: 'inline-block' }}></span>
+                  {s.name} <span style={{ color: 'var(--muted)' }}>{fmtMetric(s.pts[s.pts.length - 1].val, cfg.kind)}</span>
+                </span>
+              ))}
+            </div>
+          </>
+        )}
+      </div>
+    </div>
+  );
+}
+
 // Competitive-proximity grouping for the Competitor Watch view.
 const TIER_ORDER = ['direct-lto', 'adjacent-bnpl', 'prime-card', 'medical', 'other'];
 const TIER_LABELS = {
@@ -862,6 +987,13 @@ function CompetitorView({ navigateTo }) {
               {c.stub && <span style={{ color: 'var(--muted)' }}>· profile stub</span>}
               {recent90 > 0 && <span style={{ color: 'var(--brand)', fontWeight: 600 }}>{recent90} in last 90d</span>}
             </div>
+            {c.financials && c.financials.revenue && (
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 12, color: 'var(--muted)', marginBottom: 8 }}>
+                <span>Revenue</span>
+                <MiniSparkline series={c.financials.revenue} />
+                <span>{fmtMetric(c.financials.revenue[c.financials.revenue.length - 1].val, 'usd')}</span>
+              </div>
+            )}
             {moves.length > 0 && (
               <div style={{ marginBottom: 10 }}>
                 <div style={{ fontSize: 13, color: 'var(--muted)', marginBottom: 6 }}>Recent moves · latest {moves.length}</div>
@@ -936,6 +1068,9 @@ function Sidebar({ activeView, setActiveView, activeSlug, navigateTo, openPalett
         </div>
         <div className={'sidebar-item' + (activeView === 'trends' ? ' active' : '')} onClick={() => setActiveView('trends')}>
           <span>Trend Analysis</span>
+        </div>
+        <div className={'sidebar-item' + (activeView === 'compare' ? ' active' : '')} onClick={() => setActiveView('compare')}>
+          <span>Compare Financials</span>
         </div>
         {PAGE_MAP['cross-competitor'] && (
           <div className={'sidebar-item' + (activeView === 'page' && activeSlug === 'cross-competitor' ? ' active' : '')} onClick={() => { setActiveView('page'); navigateTo('cross-competitor'); }}>
@@ -1573,6 +1708,8 @@ function App() {
     content = <AskClaudePanel />;
   } else if (activeView === 'trends') {
     content = <TrendView />;
+  } else if (activeView === 'compare') {
+    content = <CompareFinancialsView navigateTo={(slug) => { setActiveView('page'); navigateTo(slug); }} />;
   } else if (activeView === 'competitors') {
     content = <CompetitorView navigateTo={(slug) => { setActiveView('page'); navigateTo(slug); }} />;
   } else if (activeView === 'industry') {
