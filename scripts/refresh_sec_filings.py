@@ -140,8 +140,11 @@ def _svg_line_chart(series: list[dict], *, color: str = "#1B844A",
         out.append(f'<line x1="{pad_x}" y1="{Y(0):.1f}" x2="{w - pad_x}" y2="{Y(0):.1f}" '
                    'stroke="#CCCCCC" stroke-width="1"/>')
     out.append(f'<polyline points="{poly}" fill="none" stroke="{color}" stroke-width="2"/>')
-    for i in (0, n - 1):
-        out.append(f'<circle cx="{X(i):.1f}" cy="{Y(series[i]["val"]):.1f}" r="3" fill="{color}"/>')
+    # A dot per point with a native SVG <title> → value tooltip on hover.
+    for i, p in enumerate(series):
+        r = 3 if i in (0, n - 1) else 2.5
+        out.append(f'<circle cx="{X(i):.1f}" cy="{Y(p["val"]):.1f}" r="{r}" fill="{color}">'
+                   f'<title>{p["label"]}: {fmt(p["val"])}</title></circle>')
     out.append(f'<text x="{pad_x}" y="{h - 8}" font-size="10" fill="#696969">{series[0]["label"]}</text>')
     out.append(f'<text x="{w - pad_x}" y="{h - 8}" font-size="10" fill="#696969" '
                f'text-anchor="end">{series[-1]["label"]}</text>')

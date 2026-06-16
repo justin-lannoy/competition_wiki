@@ -802,16 +802,22 @@ function fmtMetric(v, kind) {
   return '$' + v.toFixed(0);
 }
 
-function MiniSparkline({ series, color = 'var(--brand)', w = 88, h = 22 }) {
+function MiniSparkline({ series, color = 'var(--brand)', kind = 'usd', w = 88, h = 22 }) {
   if (!series || series.length < 2) return null;
   const vals = series.map(p => p.val);
   const lo = Math.min(...vals), hi = Math.max(...vals), rng = (hi - lo) || 1;
   const n = series.length;
-  const pts = series.map((p, i) =>
-    `${(1 + i * (w - 2) / (n - 1)).toFixed(1)},${(h - 2 - (p.val - lo) / rng * (h - 4)).toFixed(1)}`).join(' ');
+  const X = i => 1 + i * (w - 2) / (n - 1);
+  const Y = v => h - 2 - (v - lo) / rng * (h - 4);
+  const pts = series.map((p, i) => `${X(i).toFixed(1)},${Y(p.val).toFixed(1)}`).join(' ');
   return (
-    <svg viewBox={`0 0 ${w} ${h}`} width={w} height={h} style={{ verticalAlign: 'middle' }} aria-hidden="true">
+    <svg viewBox={`0 0 ${w} ${h}`} width={w} height={h} style={{ verticalAlign: 'middle' }}>
       <polyline points={pts} fill="none" stroke={color} strokeWidth="1.5" />
+      {series.map((p, i) => (
+        <circle key={i} cx={X(i).toFixed(1)} cy={Y(p.val).toFixed(1)} r="4" fill={color} fillOpacity="0.001">
+          <title>{`${p.label}: ${fmtMetric(p.val, kind)}`}</title>
+        </circle>
+      ))}
     </svg>
   );
 }
@@ -830,7 +836,7 @@ function FinancialsStrip({ financials }) {
           return (
             <div key={m.key} style={{ minWidth: 138, padding: '8px 12px', border: '1px solid var(--line)', borderRadius: 6, background: 'var(--bg-soft)' }}>
               <div style={{ fontSize: 11, color: 'var(--muted)', marginBottom: 3 }}>{m.label}</div>
-              <MiniSparkline series={s} color={color} />
+              <MiniSparkline series={s} color={color} kind={m.kind} />
               <div style={{ fontSize: 13, fontWeight: 600, marginTop: 3 }}>
                 {fmtMetric(last, m.kind)}
                 <span style={{ fontSize: 11, fontWeight: 400, marginLeft: 6, color: up ? 'var(--snap-green)' : 'var(--snap-error)' }}>{up ? '▲' : '▼'}</span>
@@ -916,6 +922,12 @@ function CompareFinancialsView({ navigateTo }) {
                 <polyline key={s.slug} fill="none" stroke={s.color} strokeWidth="2"
                   points={s.pts.map(p => `${X(Date.parse(p.end + 'T00:00:00')).toFixed(1)},${Y(p.val).toFixed(1)}`).join(' ')} />
               ))}
+              {tseries.map(s => s.pts.map((p, i) => (
+                <circle key={s.slug + '-' + i} cx={X(Date.parse(p.end + 'T00:00:00')).toFixed(1)} cy={Y(p.val).toFixed(1)}
+                        r="3.5" fill={s.color} fillOpacity="0.9" style={{ cursor: 'pointer' }}>
+                  <title>{`${s.name} — ${p.label}: ${indexed ? p.val.toFixed(0) + ' (indexed, start=100)' : fmtMetric(p.val, cfg.kind)}`}</title>
+                </circle>
+              )))}
             </svg>
             <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', marginTop: 12 }}>
               {series.map(s => (
