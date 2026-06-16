@@ -2386,18 +2386,23 @@ const TIER_LABELS = {
 };
 
 function CompetitorView({ navigateTo }) {
+  // Recency emphasis: weight the trailing 90 days for what's surfaced.
+  const cutoff90 = useMemo(() => new Date(Date.now() - 90 * 864e5).toISOString().slice(0, 10), []);
   const cards = useMemo(() => COMPETITOR_PAGES.map(c => {
-    const moves = movesForCompetitor(c.slug).slice(0, 4);
+    const allMoves = movesForCompetitor(c.slug);
+    const moves = allMoves.slice(0, 4);
     const tracker = SEC_FILING_MAP[c.slug] || null;
     const news = NEWS_MAP[c.slug] || null;
     // Build-time top news (build_wiki embeds `recent_news`) — shown as the
     // "latest coverage" fallback for competitors that have no curated events.
     const recentNews = Array.isArray(c.recent_news) ? c.recent_news : [];
+    const recent90 = allMoves.filter(e => (e.date || '') >= cutoff90).length
+                   + recentNews.filter(n => (n.date || '') >= cutoff90).length;
     return {
       c, moves, recentNews, tracker, filings: tracker ? (parseInt(tracker.count, 10) || 0) : 0,
-      news, newsCount: news ? (parseInt(news.count, 10) || 0) : 0,
+      news, newsCount: news ? (parseInt(news.count, 10) || 0) : 0, recent90,
     };
-  }), []);
+  }), [cutoff90]);
 
   const totalFilings = cards.reduce((n, x) => n + x.filings, 0);
   const totalNews = cards.reduce((n, x) => n + x.newsCount, 0);
@@ -2430,12 +2435,15 @@ function CompetitorView({ navigateTo }) {
           )}
         </p>
         {TIER_ORDER.map(tier => {
-          const group = cards.filter(x => (x.c.tier || 'other') === tier);
+          // Most-active-in-90-days first within each tier.
+          const group = cards.filter(x => (x.c.tier || 'other') === tier)
+            .sort((a, b) => b.recent90 - a.recent90);
           if (!group.length) return null;
+          const tier90 = group.reduce((n, x) => n + x.recent90, 0);
           return (
           <div key={tier} className="tier-group">
-            <h2 className="tier-heading">{TIER_LABELS[tier] || tier}<span style={{ color: 'var(--muted)', fontWeight: 400, fontSize: 13, marginLeft: 8 }}>{group.length}</span></h2>
-            {group.map(({ c, moves, recentNews, tracker, filings, news, newsCount }) => (
+            <h2 className="tier-heading">{TIER_LABELS[tier] || tier}<span style={{ color: 'var(--muted)', fontWeight: 400, fontSize: 13, marginLeft: 8 }}>{group.length} · {tier90} in 90d</span></h2>
+            {group.map(({ c, moves, recentNews, tracker, filings, news, newsCount, recent90 }) => (
           <div key={c.slug} style={{ marginBottom: 28 }}>
             <hr className="section-divider" />
             <h2 style={{ display: 'inline-block', cursor: 'pointer', color: 'var(--accent)' }}
@@ -2446,6 +2454,7 @@ function CompetitorView({ navigateTo }) {
               {c.category && <span>{c.category.toUpperCase()}</span>}
               {c.product && <span>{c.product}</span>}
               {c.stub && <span style={{ color: 'var(--muted)' }}>· profile stub</span>}
+              {recent90 > 0 && <span style={{ color: 'var(--brand)', fontWeight: 600 }}>{recent90} in last 90d</span>}
             </div>
             {moves.length > 0 && (
               <div style={{ marginBottom: 10 }}>
