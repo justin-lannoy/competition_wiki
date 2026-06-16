@@ -5,13 +5,13 @@ competitor: [[american-first-finance]]
 parent: FirstCash Holdings
 ticker: FCFS
 count: 39
-created: 2026-06-15
-updated: 2026-06-15
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # FirstCash Holdings — SEC Filings
 
-_Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
+_Updated: June 16, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 
 ## Filings
 
@@ -56,6 +56,18 @@ _Updated: June 15, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 | [8-K](#f-000084048924000110) | 2024-07-30 | 2024-07-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000110/fcfs-20240730.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-30_8-K_0000840489-24-000110.htm) |
 | [10-Q](#f-000084048924000108) | 2024-07-29 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000108/fcfs-20240630.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-29_10-Q_0000840489-24-000108.htm) |
 | [8-K](#f-000084048924000105) | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048924000105/fcfs-20240725.htm) | [file](../../sec-filings/firstcash-holdings/2024-07-25_8-K_0000840489-24-000105.htm) |
+
+## Financial trends
+
+_Quarterly, from SEC XBRL company facts._
+
+**Revenue** — latest Q1 2026: $1.05B
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,87.0 152.9,88.8 224.3,86.7 295.7,87.0 367.1,89.0 438.6,53.4 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$1.05B</text></svg>
+
+**Net income** — latest Q1 2026: $107.7M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,91.6 81.4,85.1 152.9,104.0 224.3,79.8 295.7,51.0 367.1,87.5 438.6,52.2 510.0,14.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="91.6" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="14.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#3D5CCF" text-anchor="end">$107.7M</text></svg>
 
 ## Filing summaries
 

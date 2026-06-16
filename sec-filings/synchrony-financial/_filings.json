@@ -511,5 +511,91 @@
       "local_file": "2024-07-01_8-K_0001601712-24-000229.htm",
       "summary": "#### Key financials\n- None noted.\n\n#### Segment & competitive notes\n- None noted.\n\n#### Risk-factor changes\n- None noted.\n\n#### Material events\n- David P. Melito, Chief Accounting Officer and Controller of Synchrony Financial (SYF), retired effective July 2, 2024; CFO Brian J. Wenzel, Sr. assumed the interim principal accounting officer role through July 31, 2024 with no additional compensation.\n- Amy Tiliakos, age 42, appointed Senior Vice President, Chief Accounting Officer and Controller effective August 1, 2024; joining from American Express, where she most recently served as U.S. Regulatory Reporting Vice President (2023\u20132024).\n- Tiliakos will receive an annual base salary, eligibility for equity and non-equity incentive compensation under SYF's 2024 Long-Term Incentive Plan and Annual Incentive Plan, and sign-on awards (cash and equity) to offset forfeited compensation from American Express."
     }
+  },
+  "financials": {
+    "revenue": [
+      {
+        "end": "2023-09-30",
+        "val": 5151000000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 5293000000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 5301000000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 5522000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 5312000000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 5328000000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 5510000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 5413000000.0,
+        "label": "Q1 2026"
+      }
+    ],
+    "net_income": [
+      {
+        "end": "2023-09-30",
+        "val": 628000000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 1293000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 643000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 789000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 757000000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 967000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 1077000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 805000000.0,
+        "label": "Q1 2026"
+      }
+    ]
   }
 }

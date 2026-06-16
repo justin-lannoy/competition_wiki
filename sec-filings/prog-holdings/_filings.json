@@ -291,5 +291,91 @@
       "local_file": "2024-07-24_8-K_0001808834-24-000094.htm",
       "summary": "#### Key financials\n- Filing announces Q2 2024 financial results (quarter ended June 30, 2024), disclosed via press release (Exhibit 99.1) and earnings supplement presentation (Exhibit 99.2) dated July 24, 2024; detailed figures are contained in those exhibits, which are not reproduced in the 8-K body.\n- No specific revenue, EPS, or balance sheet figures are included in the 8-K form itself; full financials require review of Exhibit 99.1.\n\n#### Segment & competitive notes\n- None noted.\n\n#### Risk-factor changes\n- None noted.\n\n#### Material events\n- PROG Holdings, Inc. (NYSE: PRG) filed an 8-K on July 24, 2024 under Item 2.02, reporting Q2 2024 results via press release; the exhibit is furnished (not filed) and thus not subject to Section 18 liability.\n- CFO Brian Garner signed the filing; company is headquartered at 256 W. Data Drive, Draper, Utah 84020."
     }
+  },
+  "financials": {
+    "revenue": [
+      {
+        "end": "2023-09-30",
+        "val": 582877000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 641870000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 592161000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 606145000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 668428000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 604663000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 595108000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 742674000.0,
+        "label": "Q1 2026"
+      }
+    ],
+    "net_income": [
+      {
+        "end": "2023-09-30",
+        "val": 35012000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 21966000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 33774000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 83962000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 34718000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 38483000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 33121000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 36054000.0,
+        "label": "Q1 2026"
+      }
+    ]
   }
 }

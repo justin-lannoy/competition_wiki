@@ -5,13 +5,13 @@ competitor: [[sezzle]]
 parent: Sezzle Inc.
 ticker: SEZL
 count: 53
-created: 2026-06-15
-updated: 2026-06-15
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # Sezzle Inc. — SEC Filings
 
-_Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
+_Updated: June 16, 2026_  ·  Filer for [[sezzle]] (SEZL)
 
 ## Filings
 
@@ -70,6 +70,18 @@ _Updated: June 15, 2026_  ·  Filer for [[sezzle]] (SEZL)
 | [8-K](#f-000166299124000212) | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000212/szl-20240725.htm) | [file](../../sec-filings/sezzle-inc/2024-07-25_8-K_0001662991-24-000212.htm) |
 | [8-K](#f-000166299124000205) | 2024-07-22 | 2024-07-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000205/szl-20240718.htm) | [file](../../sec-filings/sezzle-inc/2024-07-22_8-K_0001662991-24-000205.htm) |
 | [8-K](#f-000166299124000176) | 2024-06-24 | 2024-06-19 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299124000176/szl-20240619.htm) | [file](../../sec-filings/sezzle-inc/2024-06-24_8-K_0001662991-24-000176.htm) |
+
+## Financial trends
+
+_Quarterly, from SEC XBRL company facts._
+
+**Revenue** — latest Q1 2026: $135.5M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,98.2 152.9,89.6 224.3,76.3 295.7,43.1 367.1,49.0 438.6,31.8 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$135.5M</text></svg>
+
+**Net income** — latest Q1 2026: $51.3M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,91.9 152.9,52.9 224.3,78.5 295.7,41.2 367.1,56.7 438.6,58.3 510.0,14.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="14.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#3D5CCF" text-anchor="end">$51.3M</text></svg>
 
 ## Filing summaries
 

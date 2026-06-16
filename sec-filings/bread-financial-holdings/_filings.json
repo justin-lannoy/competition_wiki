@@ -681,5 +681,91 @@
       "local_file": "2024-06-18_8-K_0001101215-24-000141.htm",
       "summary": "#### Key financials\n- None noted. The 8-K is a Regulation FD disclosure referencing an investor presentation posted June 18, 2024; no financial figures are included in the filing text itself.\n\n#### Segment & competitive notes\n- None noted. No segment data or competitor references are contained in the filing text.\n\n#### Risk-factor changes\n- None noted. No new or amended risk factors are disclosed in this filing.\n\n#### Material events\n- On June 18, 2024, Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K under Item 7.01 (Regulation FD) disclosing that it posted an investor presentation to its website in connection with an investor day hosted by executive leadership on June 18, 2024.\n- The presentation may also be used in ongoing communications with investors, analysts, and other market participants; the filing explicitly notes the website content does not constitute part of the 8-K and is not incorporated by reference."
     }
+  },
+  "financials": {
+    "revenue": [
+      {
+        "end": "2023-09-30",
+        "val": 1256000000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 1247000000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 1174000000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 1224000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 1185000000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 1148000000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 1198000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 1224000000.0,
+        "label": "Q1 2026"
+      }
+    ],
+    "net_income": [
+      {
+        "end": "2023-09-30",
+        "val": 171000000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 134000000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 133000000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 2000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 138000000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 139000000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 188000000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 181000000.0,
+        "label": "Q1 2026"
+      }
+    ]
   }
 }

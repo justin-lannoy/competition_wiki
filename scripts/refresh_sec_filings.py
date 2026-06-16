@@ -92,6 +92,46 @@ def _clean_summary(text: str) -> str:
     return "\n".join(keep).strip()
 
 
+def _fmt_usd(v: float) -> str:
+    a = abs(v)
+    if a >= 1e9:
+        return f"${v / 1e9:.2f}B"
+    if a >= 1e6:
+        return f"${v / 1e6:.1f}M"
+    if a >= 1e3:
+        return f"${v / 1e3:.0f}K"
+    return f"${v:.0f}"
+
+
+def _svg_line_chart(series: list[dict], *, color: str = "#1B844A",
+                    w: int = 520, h: int = 130) -> str:
+    """Inline SVG line chart for a quarterly series (no chart-lib dependency)."""
+    if len(series) < 2:
+        return ""
+    vals = [p["val"] for p in series]
+    lo, hi = min(vals), max(vals)
+    rng = (hi - lo) or 1
+    pad_x, pad_t, pad_b = 10, 14, 26
+    n = len(series)
+    X = lambda i: pad_x + i * (w - 2 * pad_x) / (n - 1)
+    Y = lambda v: pad_t + (1 - (v - lo) / rng) * (h - pad_t - pad_b)
+    poly = " ".join(f"{X(i):.1f},{Y(p['val']):.1f}" for i, p in enumerate(series))
+    out = [f'<svg viewBox="0 0 {w} {h}" width="100%" role="img">']
+    if lo < 0 < hi:   # zero baseline (net income can go negative)
+        out.append(f'<line x1="{pad_x}" y1="{Y(0):.1f}" x2="{w - pad_x}" y2="{Y(0):.1f}" '
+                   'stroke="#CCCCCC" stroke-width="1"/>')
+    out.append(f'<polyline points="{poly}" fill="none" stroke="{color}" stroke-width="2"/>')
+    for i in (0, n - 1):
+        out.append(f'<circle cx="{X(i):.1f}" cy="{Y(series[i]["val"]):.1f}" r="3" fill="{color}"/>')
+    out.append(f'<text x="{pad_x}" y="{h - 8}" font-size="10" fill="#696969">{series[0]["label"]}</text>')
+    out.append(f'<text x="{w - pad_x}" y="{h - 8}" font-size="10" fill="#696969" '
+               f'text-anchor="end">{series[-1]["label"]}</text>')
+    out.append(f'<text x="{X(n - 1):.1f}" y="{max(Y(series[-1]["val"]) - 6, 10):.1f}" font-size="10" '
+               f'fill="{color}" text-anchor="end">{_fmt_usd(series[-1]["val"])}</text>')
+    out.append('</svg>')
+    return "".join(out)
+
+
 def _cell(value: str) -> str:
     """Escape a value for safe inclusion in a markdown table cell.
 
@@ -156,6 +196,18 @@ def render_filer_page(filer: CompetitorFiler, sidecar: dict,
             f"{_cell(period)} | {doc} | {local} |"
         )
     parts.append("")
+
+    fin = sidecar.get("financials") or {}
+    rev, ni = fin.get("revenue") or [], fin.get("net_income") or []
+    if len(rev) >= 2 or len(ni) >= 2:
+        parts += ["## Financial trends", "",
+                  "_Quarterly, from SEC XBRL company facts._", ""]
+        if len(rev) >= 2:
+            parts += [f"**Revenue** — latest {rev[-1]['label']}: {_fmt_usd(rev[-1]['val'])}",
+                      "", _svg_line_chart(rev, color="#1B844A"), ""]
+        if len(ni) >= 2:
+            parts += [f"**Net income** — latest {ni[-1]['label']}: {_fmt_usd(ni[-1]['val'])}",
+                      "", _svg_line_chart(ni, color="#3D5CCF"), ""]
 
     summarized = [r for r in rows if r["accession"] in has_summary]
     if summarized:
@@ -251,6 +303,15 @@ def _process_filer(filer: CompetitorFiler, client, today: dt.date,
             local_names[f.accession] = ""
 
     sidecar = edgar.merge_sidecar(sidecar, cik, filings, local_names)
+
+    # XBRL financial time-series (for the tracker page's trend charts).
+    facts = edgar_client.companyfacts(cik)
+    fin = {
+        "revenue": edgar.extract_quarterly_series(facts, edgar.REVENUE_CONCEPTS),
+        "net_income": edgar.extract_quarterly_series(facts, edgar.NETINCOME_CONCEPTS),
+    }
+    if fin["revenue"] or fin["net_income"]:
+        sidecar["financials"] = fin
 
     if use_api and client and not dry_run:
         new_count = 0

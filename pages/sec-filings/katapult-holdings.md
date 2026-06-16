@@ -5,13 +5,13 @@ competitor: [[katapult]]
 parent: Katapult Holdings
 ticker: KPLT
 count: 44
-created: 2026-06-15
-updated: 2026-06-15
+created: 2026-06-16
+updated: 2026-06-16
 ---
 
 # Katapult Holdings — SEC Filings
 
-_Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
+_Updated: June 16, 2026_  ·  Filer for [[katapult]] (KPLT)
 
 ## Filings
 
@@ -61,6 +61,18 @@ _Updated: June 15, 2026_  ·  Filer for [[katapult]] (KPLT)
 | [10-Q](#f-000162828024037035) | 2024-08-14 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024037035/kplt-20240630.htm) | [file](../../sec-filings/katapult-holdings/2024-08-14_10-Q_0001628280-24-037035.htm) |
 | [8-K](#f-000162828024037033) | 2024-08-14 | 2024-08-14 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024037033/kplt-20240814.htm) | [file](../../sec-filings/katapult-holdings/2024-08-14_8-K_0001628280-24-037033.htm) |
 | [8-K](#f-000162828024032234) | 2024-07-18 | 2024-07-15 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828024032234/kplt-20240715.htm) | [file](../../sec-filings/katapult-holdings/2024-07-18_8-K_0001628280-24-032234.htm) |
+
+## Financial trends
+
+_Quarterly, from SEC XBRL company facts._
+
+**Revenue** — latest Q1 2026: $79.0M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,65.9 152.9,88.9 224.3,83.6 295.7,40.3 367.1,40.5 438.6,32.5 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$79.0M</text></svg>
+
+**Net income** — latest Q1 2026: $5.7M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><line x1="10" y1="49.1" x2="510" y2="49.1" stroke="#CCCCCC" stroke-width="1"/><polyline points="10.0,74.1 81.4,52.6 152.9,91.6 224.3,104.0 295.7,84.2 367.1,97.5 438.6,79.7 510.0,14.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="74.1" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="14.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#3D5CCF" text-anchor="end">$5.7M</text></svg>
 
 ## Filing summaries
 

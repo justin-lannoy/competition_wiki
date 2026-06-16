@@ -441,5 +441,91 @@
       "local_file": "2024-07-18_8-K_0001628280-24-032234.htm",
       "summary": "## Katapult Holdings, Inc. (KPLT) \u2014 8-K Filed July 18, 2024\n\n#### Key financials\n- New Chief Accounting Officer Kaitlin A. Folan's annual base salary set at $345,000, effective July 22, 2024.\n- One-time cash sign-on bonus of $50,000 payable in two equal installments: 50% within 30 days of start date, 50% in Q2 2025.\n- One-time RSU grant of 10,000 units (subject to Board approval), vesting 33.3% on first anniversary, remainder in eight equal quarterly installments over the following two years.\n\n#### Segment & competitive notes\n- None noted.\n\n#### Risk-factor changes\n- None noted.\n\n#### Material events\n- Kaitlin A. Folan (age 41) appointed Chief Accounting Officer effective July 22, 2024, joining from BJ's Wholesale Club where she served as VP, Financial Accounting from April 2021 to July 2024; prior to that, Managing Director and various roles at PricewaterhouseCoopers from October 2012 to April 2021.\n- Interim Chief Accounting Officer Arthur Goss reverts to his prior role as VP, Internal Audit upon Folan's start; no new compensation arrangements for Goss disclosed as of the filing date."
     }
+  },
+  "financials": {
+    "revenue": [
+      {
+        "end": "2023-09-30",
+        "val": 54811000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 65061000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 58863000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 60307000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 71946000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 71886000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 74044000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 79021000.0,
+        "label": "Q1 2026"
+      }
+    ],
+    "net_income": [
+      {
+        "end": "2023-09-30",
+        "val": -4054000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": -570000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": -6888000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": -8888000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": -5688000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": -7835000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": -4949000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 5686000.0,
+        "label": "Q1 2026"
+      }
+    ]
   }
 }

@@ -531,5 +531,91 @@
       "local_file": "2024-06-24_8-K_0001662991-24-000176.htm",
       "summary": "## Sezzle Inc. (SEZL) \u2014 8-K Filed June 24, 2024\n\n#### Key financials\n- Board authorized a share repurchase program of up to **$15 million** of outstanding common stock, announced via press release on **June 20, 2024**.\n- Line of Credit Amendment (effective **June 19, 2024**) permits equity/warrant repurchases of up to **$3 million** outside of existing Restricted Payment covenants under the Limited Guaranty with Bastion Funding VI LP.\n\n#### Segment & competitive notes\n- None noted.\n\n#### Risk-factor changes\n- None noted.\n\n#### Material events\n- On **June 19, 2024**, Sezzle entered into Amendment No. 1 to its Limited Guaranty and Indemnity Agreement (originally dated **April 19, 2024**) with Bastion Funding VI LP as Administrative Agent, modifying share/warrant buyback permissions up to **$3 million** irrespective of Restricted Payment covenant compliance.\n- Board-authorized **$15 million** share repurchase program disclosed on **June 20, 2024**, representing a capital return initiative for a company still classified as an emerging growth company listed on Nasdaq (ticker: SEZL)."
     }
+  },
+  "financials": {
+    "revenue": [
+      {
+        "end": "2023-09-30",
+        "val": 40844201.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 46979000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 55969000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 69958000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 104912000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 98702000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 116796000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 135539000.0,
+        "label": "Q1 2026"
+      }
+    ],
+    "net_income": [
+      {
+        "end": "2023-09-30",
+        "val": 1294400.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 8007000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 29702000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 15446000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 36164000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 27604000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 26671000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 51303000.0,
+        "label": "Q1 2026"
+      }
+    ]
   }
 }

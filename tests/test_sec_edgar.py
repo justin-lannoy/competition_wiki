@@ -9,8 +9,23 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 from sec_edgar import (  # noqa: E402
     Filing, cik_from_ticker, filing_filename, filter_filings,
     edgar_doc_url, html_to_text, truncate_for_model,
-    load_sidecar, merge_sidecar,
+    load_sidecar, merge_sidecar, extract_quarterly_series, REVENUE_CONCEPTS,
 )
+
+
+def test_extract_quarterly_series_keeps_quarterly_drops_annual():
+    facts = {"facts": {"us-gaap": {"Revenues": {"units": {"USD": [
+        {"start": "2026-01-01", "end": "2026-03-31", "val": 100, "fy": 2026, "fp": "Q1", "form": "10-Q"},
+        {"start": "2025-10-01", "end": "2025-12-31", "val": 90, "fy": 2025, "fp": "Q4", "form": "10-K"},
+        {"start": "2025-01-01", "end": "2025-12-31", "val": 350, "fy": 2025, "fp": "FY", "form": "10-K"},
+    ]}}}}}
+    s = extract_quarterly_series(facts, REVENUE_CONCEPTS, today=dt.date(2026, 6, 16))
+    assert [p["val"] for p in s] == [90.0, 100.0]   # sorted oldest→newest, annual dropped
+    assert s[-1]["label"] == "Q1 2026"
+
+
+def test_extract_quarterly_series_empty():
+    assert extract_quarterly_series({}, REVENUE_CONCEPTS, today=dt.date(2026, 6, 16)) == []
 
 TICKER_MAP = {
     "0": {"cik_str": 1820953, "ticker": "AFRM", "title": "Affirm Holdings, Inc."},

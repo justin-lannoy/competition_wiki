@@ -301,5 +301,91 @@
       "local_file": "2024-06-20_8-K_0001820953-24-000024.htm",
       "summary": "## Affirm Holdings, Inc. (AFRM) \u2013 8-K Summary (Filed 2024-06-20)\n\n#### Key financials\n- None noted.\n\n#### Segment & competitive notes\n- None noted.\n\n#### Risk-factor changes\n- None noted.\n\n#### Material events\n- **Director resignation:** James D. White, Lead Independent Director, resigned from the Board effective June 30, 2024; he cited no disagreement with company operations, policies, or practices.\n- **New Lead Independent Director:** Christa S. Quarles, an existing Board member, was appointed Lead Independent Director effective July 1, 2024, succeeding White.\n- **New director appointed:** Brian D. Hughes appointed as Class III director effective July 1, 2024, with term expiring at the 2026 annual stockholder meeting; added to both Audit and Compensation Committees. Hughes brings financial services risk management experience, including serving as Chief Risk Officer at Discover Financial Services (2016\u20132021).\n- **Director compensation:** Hughes will receive an initial RSU grant valued at $500,000 (vesting annually over three years), an annual RSU grant of $200,000, and a $45,000 annual cash retainer (prorated for partial year), consistent with the company's standard non-employee director compensation program."
     }
+  },
+  "financials": {
+    "revenue": [
+      {
+        "end": "2023-12-31",
+        "val": 591110000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 576157000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 698479000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2024-12-31",
+        "val": 866381000.0,
+        "label": "Q2 2026"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 783135000.0,
+        "label": "Q3 2026"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 933337000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-12-31",
+        "val": 1123019000.0,
+        "label": "Q2 2026"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 1038765000.0,
+        "label": "Q3 2026"
+      }
+    ],
+    "net_income": [
+      {
+        "end": "2023-12-31",
+        "val": -166902000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2024-03-31",
+        "val": -133936000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": -100222000.0,
+        "label": "Q3 2026"
+      },
+      {
+        "end": "2024-12-31",
+        "val": 80360000.0,
+        "label": "Q3 2026"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 2804000.0,
+        "label": "Q3 2026"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 80694000.0,
+        "label": "Q3 2026"
+      },
+      {
+        "end": "2025-12-31",
+        "val": 129586000.0,
+        "label": "Q3 2026"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 102900000.0,
+        "label": "Q3 2026"
+      }
+    ]
   }
 }

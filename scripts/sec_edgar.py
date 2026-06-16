@@ -23,6 +23,58 @@ ARCHIVES_URL = "https://www.sec.gov/Archives/edgar/data/{cik}/{acc}/{doc}"
 DEFAULT_FORMS = ("10-K", "10-Q", "8-K", "20-F", "6-K")
 MIN_INTERVAL = 0.15  # seconds between requests — comfortably under 10/sec
 
+COMPANYFACTS_URL = "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik10}.json"
+# Revenue is tagged differently across filers; try TOTAL-revenue tags first.
+# "Revenues" is the consolidated top line; the contract-revenue tags are often
+# a partial line; banks (Synchrony/Bread) report interest & fee income instead.
+REVENUE_CONCEPTS = (
+    "Revenues",
+    "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "InterestAndFeeIncomeLoansAndLeases",
+)
+NETINCOME_CONCEPTS = ("NetIncomeLoss",)
+
+
+def extract_quarterly_series(facts: dict, concepts: tuple[str, ...], *,
+                             max_points: int = 8, recent_years: int = 4,
+                             today: "dt.date | None" = None) -> list[dict]:
+    """Pull up to `max_points` recent ~quarterly data points for the first
+    matching us-gaap concept from an XBRL companyfacts payload.
+
+    Returns [{end, val, label}] sorted oldest→newest. Filters to ~quarterly
+    durations (80–100 days) from 10-Q/10-K (so annual and quarterly aren't
+    mixed) AND to the last `recent_years` (so a concept a filer abandoned years
+    ago isn't charted as if current). Returns [] if no concept yields ≥2 points.
+    """
+    today = today or dt.date.today()
+    cutoff = (today - dt.timedelta(days=int(365.25 * recent_years))).isoformat()
+    usgaap = (facts or {}).get("facts", {}).get("us-gaap", {})
+    for concept in concepts:
+        usd = (usgaap.get(concept) or {}).get("units", {}).get("USD")
+        if not usd:
+            continue
+        by_end: dict[str, dict] = {}
+        for it in usd:
+            start, end, val = it.get("start"), it.get("end"), it.get("val")
+            if (not (start and end and val is not None)
+                    or it.get("form") not in ("10-Q", "10-K") or end < cutoff):
+                continue
+            try:
+                days = (dt.date.fromisoformat(end) - dt.date.fromisoformat(start)).days
+            except (ValueError, TypeError):
+                continue
+            if not (80 <= days <= 100):   # quarterly only
+                continue
+            by_end[end] = {
+                "end": end, "val": float(val),
+                "label": f"{it.get('fp') or ''} {it.get('fy') or ''}".strip() or end,
+            }
+        series = [by_end[k] for k in sorted(by_end)][-max_points:]
+        if len(series) >= 2:
+            return series
+    return []
+
 
 @dataclass(frozen=True)
 class Filing:
@@ -205,6 +257,13 @@ class EdgarClient:
 
     def submissions(self, cik10: str) -> dict:
         return json.loads(self._get(SUBMISSIONS_URL.format(cik10=cik10)))
+
+    def companyfacts(self, cik10: str) -> dict:
+        """XBRL company facts (structured financial time-series). {} on 404."""
+        try:
+            return json.loads(self._get(COMPANYFACTS_URL.format(cik10=cik10)))
+        except Exception:
+            return {}
 
     def download(self, cik10: str, f: Filing, dest: Path) -> bool:
         """Download a filing's primary document to `dest`. Returns False if it

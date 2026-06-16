@@ -261,5 +261,91 @@
       "local_file": "2024-06-21_8-K_0001193125-24-165661.htm",
       "summary": "#### Key financials\n- None noted.\n\n#### Segment & competitive notes\n- None noted.\n\n#### Risk-factor changes\n- None noted.\n\n#### Material events\n- Block, Inc. (NYSE: SQ) held its 2024 Annual Meeting on June 18, 2024; quorum represented 89.06% of voting power (434,568,984 Class A votes + 601,036,410 Class B votes).\n- Both Class III director nominees elected: Mary Meeker (948,708,327 for vs. 11,929,217 withheld) and Randall Garutti (840,783,307 for vs. 119,854,237 withheld); both to serve until the 2027 annual meeting.\n- Advisory say-on-pay vote approved: 939,399,385 for vs. 20,783,583 against (74,972,831 broker non-votes).\n- Ernst & Young LLP ratified as independent auditor for fiscal year ending December 31, 2024: 1,033,493,000 for vs. 1,594,743 against."
     }
+  },
+  "financials": {
+    "revenue": [
+      {
+        "end": "2023-09-30",
+        "val": 5617493000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 5957128000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 6155563000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 5975801000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 5771796000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 6054457000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 6114952000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": 6056847000.0,
+        "label": "Q1 2026"
+      }
+    ],
+    "net_income": [
+      {
+        "end": "2023-09-30",
+        "val": -88738000.0,
+        "label": "Q3 2024"
+      },
+      {
+        "end": "2024-03-31",
+        "val": 472005000.0,
+        "label": "Q1 2025"
+      },
+      {
+        "end": "2024-06-30",
+        "val": 195268000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2024-09-30",
+        "val": 283754000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2025-03-31",
+        "val": 189872000.0,
+        "label": "Q1 2026"
+      },
+      {
+        "end": "2025-06-30",
+        "val": 538458000.0,
+        "label": "Q2 2025"
+      },
+      {
+        "end": "2025-09-30",
+        "val": 461544000.0,
+        "label": "Q3 2025"
+      },
+      {
+        "end": "2026-03-31",
+        "val": -308681000.0,
+        "label": "Q1 2026"
+      }
+    ]
   }
 }
