@@ -14,9 +14,6 @@ updated: 2026-05-27
 
 Koalafi is a private POS-financing platform offering both a prime credit waterfall (via bank partners) and a lease-to-own backstop, packaged as a single merchant-facing application. Strong concentration in furniture, mattresses, and home goods. The Synchrony Business Center bundle (live since January 2026) is the most strategically significant 2026 development in the LTO/POS space — it pairs Synchrony's prime card with Koalafi's non-prime waterfall in a single onboarding flow.
 
-## Recent moves
-
-- [[2026-05-20-koalafi-michigan-ag-settlement]] — Michigan Attorney General Dana Nessel secured an Assurance of Voluntary Compliance and Discontinuance with West Creek Financial d/b/a Koalafi, resolving allegations that the company violated the Michigan Consumer Protection Act and Rental-Purchase Agreement Act (high · regulatory)
 
 ## Read-through themes
 

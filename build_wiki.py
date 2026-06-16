@@ -165,6 +165,26 @@ def _blank_competitor(slug: str) -> dict:
     }
 
 
+def _recent_news(slug: str, limit: int = 3) -> list[dict]:
+    """Top-N most recent news items for a competitor, from its sidecar.
+
+    Embedded into the competitor page data so Competitor Watch can show a
+    'Latest coverage' line for competitors that have no curated events."""
+    sidecar = BASE / "news" / slug / "_news.json"
+    if not sidecar.exists():
+        return []
+    try:
+        items = json.loads(sidecar.read_text(encoding="utf-8")).get("items", {})
+    except (json.JSONDecodeError, OSError):
+        return []
+    rows = sorted(items.values(), key=lambda r: r.get("published", ""), reverse=True)
+    return [
+        {"date": r.get("published", ""), "source": r.get("source", ""),
+         "title": r.get("title", ""), "url": r.get("url", "")}
+        for r in rows[:limit]
+    ]
+
+
 def _synth_competitor_body(p: dict) -> str:
     """Minimal editorial body for a registry competitor with no page yet."""
     title = p.get("title") or p.get("slug")
@@ -198,6 +218,7 @@ def merge_competitor_registry(pages: list[dict]) -> list[dict]:
                 p[field] = r[field]
         if not (p.get("content") or "").strip():
             p["content"] = _synth_competitor_body(p)
+        p["recent_news"] = _recent_news(slug)
         merged.append(p)
     others = [p for p in pages if p.get("type") != "competitor"]
     return others + merged

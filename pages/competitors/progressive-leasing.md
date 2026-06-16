@@ -14,12 +14,6 @@ updated: 2026-06-08
 
 Progressive Leasing is the lease-to-own arm of PROG Holdings (NASDAQ: PRG), Snap Finance's most direct enterprise-tier LTO competitor. Strong concentration in furniture, mattresses, and tire/auto verticals; aggressive on enterprise wins. The recent acquisition of Purchasing Power expands PROG into the payroll-deduct/employer benefits channel — a new attack surface for non-prime credit at the workplace.
 
-## Recent moves
-
-- [[2026-05-27-prog-holdings-michaels-named-chairman]] — PROG Holdings announced that President and CEO Steve Michaels has been named to the additional position of Chairman of the Board (medium · leadership)
-- [[2026-05-07-prog-holdings-ceo-chairman-appointment]] — PROG Holdings announced that its Board of Directors appointed President and CEO Steve Michaels to the additional role of Chairman of the Board, effective immediately (medium · leadership)
-- [[2026-04-29-prog-q1-2026-earnings]] — PROG Holdings reported Q1 2026 consolidated revenue of $742 (high · earnings)
-- [[2026-04-29-prog-holdings-ceo-chairman-appointment]] — PROG Holdings' Board named President and CEO Steve Michaels to the additional position of Chairman of the Board, with Ray Robinson appointed as Lead Independent Director (medium · leadership)
 
 ## Read-through themes
 

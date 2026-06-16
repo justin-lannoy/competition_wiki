@@ -216,7 +216,7 @@ const EMBEDDED_KEY = document.querySelector('meta[name="wiki-api-key"]')?.conten
 // (it's forwarded and takes precedence) but is no longer required.
 const PROXY_AVAILABLE = !!PROXY_BASE;
 
-const SYSTEM_PROMPT = `You are an analyst assistant for the Snap Finance Competitor Intelligence Wiki. Use the wiki content below as your primary source for partner-, competitor-, and SAE-specific facts. You may also draw on your general knowledge of consumer finance, retail verticals, public-company filings, and macro trends to enrich answers — there is no restriction to wiki content alone. When you cite a fact that came from outside the wiki, label it as such (e.g. "general knowledge:" or "macro context:").
+const SYSTEM_PROMPT = `You are an analyst assistant for the Snap Finance Competitor Intelligence Wiki. Use the wiki content below as your primary source for competitor-specific facts. You may also draw on your general knowledge of consumer finance, retail verticals, public-company filings, and macro trends to enrich answers — there is no restriction to wiki content alone. When you cite a fact that came from outside the wiki, label it as such (e.g. "general knowledge:" or "macro context:").
 
 Response format:
 - Group findings into 3-6 themes with **bold headers**
@@ -644,11 +644,9 @@ function TrendView() {
       return /acqui|ipo|merger|sale|buyout|continuation vehicle|sell/i.test(t);
     });
 
-    const compMoves = COMPETITOR_PAGES.map(c => {
-      const body = c.content.replace(/^---[\s\S]*?---/, '');
-      const moveCount = (body.match(/## Recent/g) || []).length + (body.match(/\n- /g) || []).length;
-      return { name: c.title, slug: c.slug, moves: moveCount };
-    }).sort((a,b) => b.moves - a.moves);
+    const compMoves = COMPETITOR_PAGES.map(c => ({
+      name: c.title, slug: c.slug, moves: movesForCompetitor(c.slug).length,
+    })).sort((a,b) => b.moves - a.moves);
 
     return { cats, industryCounts, highImpact, expansionSignals, riskSignals, maSignals, compMoves };
   }, []);
@@ -660,7 +658,6 @@ function TrendView() {
         <h1>Trend Analysis</h1>
         <div className="page-meta">
           <span>{EVENT_PAGES.length} events tracked</span>
-          <span>{PARTNER_PAGES.length} partners monitored</span>
           <span>{COMPETITOR_PAGES.length} competitors watched</span>
         </div>
       </div>
@@ -690,22 +687,26 @@ function TrendView() {
           </div>
         </div>
 
-        <hr className="section-divider" />
-        <h2 style={{display:'inline-block'}}>Industry Activity</h2>
-        <table>
-          <thead><tr><th>Vertical</th><th>Partners</th><th>Events</th><th>High-Impact</th><th>Activity level</th></tr></thead>
-          <tbody>
-            {Object.entries(trends.industryCounts).sort((a,b) => b[1].events - a[1].events).map(([key, v]) => (
-              <tr key={key}>
-                <td style={{fontWeight:600}}>{INDUSTRY_LABELS[key] || key}</td>
-                <td>{v.partners}</td>
-                <td>{v.events}</td>
-                <td>{v.high || '—'}</td>
-                <td><span className={'activity-bar activity-' + (v.events > 3 ? 'high' : v.events > 0 ? 'med' : 'low')}>{v.events > 3 ? 'High' : v.events > 0 ? 'Moderate' : 'Quiet'}</span></td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+        {Object.keys(trends.industryCounts).length > 0 && (
+          <>
+            <hr className="section-divider" />
+            <h2 style={{display:'inline-block'}}>Industry Activity</h2>
+            <table>
+              <thead><tr><th>Vertical</th><th>Partners</th><th>Events</th><th>High-Impact</th><th>Activity level</th></tr></thead>
+              <tbody>
+                {Object.entries(trends.industryCounts).sort((a,b) => b[1].events - a[1].events).map(([key, v]) => (
+                  <tr key={key}>
+                    <td style={{fontWeight:600}}>{INDUSTRY_LABELS[key] || key}</td>
+                    <td>{v.partners}</td>
+                    <td>{v.events}</td>
+                    <td>{v.high || '—'}</td>
+                    <td><span className={'activity-bar activity-' + (v.events > 3 ? 'high' : v.events > 0 ? 'med' : 'low')}>{v.events > 3 ? 'High' : v.events > 0 ? 'Moderate' : 'Quiet'}</span></td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </>
+        )}
 
         {trends.highImpact.length > 0 && (
           <>
@@ -782,18 +783,14 @@ function SearchBox({ openPalette }) {
 // ─── Competitor Watch View ───────────────────────────────────────────────────
 function CompetitorView({ navigateTo }) {
   const cards = useMemo(() => COMPETITOR_PAGES.map(c => {
-    const body = (c.content || '').replace(/^---[\s\S]*?---/, '');
-    const moveSlugs = (body.match(/\[\[([^\]]+)\]\]/g) || [])
-      .map(m => m.replace(/\[\[|\]\]/g, '').trim())
-      .filter(slug => PAGE_MAP[slug] && PAGE_MAP[slug].type === 'event');
-    const moves = [...new Set(moveSlugs)]
-      .map(slug => PAGE_MAP[slug])
-      .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
-      .slice(0, 4);
+    const moves = movesForCompetitor(c.slug).slice(0, 4);
     const tracker = SEC_FILING_MAP[c.slug] || null;
     const news = NEWS_MAP[c.slug] || null;
+    // Build-time top news (build_wiki embeds `recent_news`) — shown as the
+    // "latest coverage" fallback for competitors that have no curated events.
+    const recentNews = Array.isArray(c.recent_news) ? c.recent_news : [];
     return {
-      c, moves, tracker, filings: tracker ? (parseInt(tracker.count, 10) || 0) : 0,
+      c, moves, recentNews, tracker, filings: tracker ? (parseInt(tracker.count, 10) || 0) : 0,
       news, newsCount: news ? (parseInt(news.count, 10) || 0) : 0,
     };
   }), []);
@@ -828,7 +825,7 @@ function CompetitorView({ navigateTo }) {
             </span>
           )}
         </p>
-        {cards.map(({ c, moves, tracker, filings, news, newsCount }) => (
+        {cards.map(({ c, moves, recentNews, tracker, filings, news, newsCount }) => (
           <div key={c.slug} style={{ marginBottom: 28 }}>
             <hr className="section-divider" />
             <h2 style={{ display: 'inline-block', cursor: 'pointer', color: 'var(--accent)' }}
@@ -848,6 +845,18 @@ function CompetitorView({ navigateTo }) {
                     <SignalChip sig={classifySignal(e)} />
                     <span className="industry-event-date">{fmtDate(e.date)}</span>
                     <span className="industry-event-title">{e.title}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+            {moves.length === 0 && recentNews.length > 0 && (
+              <div style={{ marginBottom: 10 }}>
+                <div style={{ fontSize: 13, color: 'var(--muted)', marginBottom: 6 }}>Latest coverage</div>
+                {recentNews.map((n, i) => (
+                  <div key={i} className="industry-event"
+                       onClick={() => news && navigateTo(news.slug)}>
+                    <span className="industry-event-date">{fmtDate(n.date)}</span>
+                    <span className="industry-event-title">{n.title}{n.source ? ` — ${n.source}` : ''}</span>
                   </div>
                 ))}
               </div>
@@ -1106,6 +1115,14 @@ function Breadcrumb({ navHistory, activeSlug, goBack, goHome }) {
 // ─── Entity profile (partner · competitor · SAE) ─────────────────────────────
 function cleanRef(s) { return (s || '').replace(/\[\[|\]\]/g, '').trim(); }
 
+// Authoritative "recent moves" for a competitor: events joined by their
+// `competitor: [[slug]]` frontmatter (NOT body [[links]], which only the
+// hand-curated pages have). Newest first.
+function movesForCompetitor(slug) {
+  return EVENT_PAGES.filter(e => cleanRef(e.competitor) === slug)
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+}
+
 function eventsForEntity(page) {
   let evs = [];
   if (page.type === 'partner') evs = EVENT_PAGES.filter(e => cleanRef(e.partner) === page.slug);
@@ -1329,7 +1346,7 @@ function WikiPage({ page, navigateTo, onBack, isEdition, navHistory, goHome }) {
       {navHistory && navHistory.length > 0 ? (
         <Breadcrumb navHistory={navHistory} activeSlug={page.slug} goBack={onBack} goHome={goHome} />
       ) : onBack ? (
-        <nav className="page-nav"><button className="back-btn" onClick={onBack}>{'←'} Back to briefing</button></nav>
+        <nav className="page-nav"><button className="back-btn" onClick={onBack}>{'←'} Back</button></nav>
       ) : null}
       {isEdition ? <EditionHeader fm={rendered.fm} /> : <PageHeader page={page} />}
       {isEntity && <EntityProfile page={page} navigateTo={navigateTo} />}
@@ -1445,7 +1462,7 @@ function CommandPalette({ open, onClose, navigateTo, setActiveView }) {
                 <span className="cmdk-title">{it.page ? (it.page.title || it.page.slug) : it.title}</span>
                 {it.page && <span className="cmdk-sub">{TYPE_LABELS[it.page.type] || it.page.type}{it.page.segment ? ' · ' + cleanRef(it.page.segment) : ''}{it.page.ticker ? ' · ' + it.page.ticker : ''}</span>}
               </span>
-              {it.page && it.page.date && <span className="cmdk-date">{it.page.date}</span>}
+              {it.page && it.page.date && <span className="cmdk-date">{fmtDate(it.page.date)}</span>}
             </div>
           ))}
         </div>
@@ -1463,7 +1480,7 @@ function MobileBar({ onMenu, openPalette }) {
   return (
     <div className="mobile-bar">
       <button className="mb-burger" onClick={onMenu} aria-label="Menu"><span /><span /><span /></button>
-      <div className="mb-brand">Snap Finance<small>MANAGED ACCOUNTS</small></div>
+      <div className="mb-brand">Snap Finance<small>COMPETITOR INTELLIGENCE</small></div>
       <button className="mb-search" onClick={openPalette} aria-label="Search">
         <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round"><circle cx="7" cy="7" r="4.5" /><path d="M10.5 10.5 14 14" /></svg>
       </button>
@@ -1474,7 +1491,7 @@ function MobileBar({ onMenu, openPalette }) {
 // ─── App ─────────────────────────────────────────────────────────────────────
 function App() {
   const [activeView, setActiveView] = useState('competitors');
-  const [activeSlug, setActiveSlug] = useState(LATEST_EDITION_SLUG);
+  const [activeSlug, setActiveSlug] = useState(null);
   const [navHistory, setNavHistory] = useState([]);
   const [paletteOpen, setPaletteOpen] = useState(false);
   const [navOpen, setNavOpen] = useState(false);
@@ -1503,9 +1520,6 @@ function App() {
     if (navHistory.length > 0) {
       setActiveSlug(navHistory[navHistory.length - 1]);
       setNavHistory(h => h.slice(0, -1));
-      setActiveView('page');
-    } else if (LATEST_EDITION_SLUG) {
-      setActiveSlug(LATEST_EDITION_SLUG);
       setActiveView('page');
     } else {
       setActiveView('competitors');
