@@ -13,6 +13,18 @@ updated: 2026-06-16
 
 _Updated: June 16, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 
+## Financial trends
+
+_Quarterly, from SEC XBRL company facts._
+
+**Revenue** — latest Q1 2026: $742.7M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,70.8 152.9,98.8 224.3,90.9 295.7,55.8 367.1,91.7 438.6,97.1 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$742.7M</text></svg>
+
+**Net income** — latest Q1 2026: $36.1M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,85.1 81.4,104.0 152.9,86.9 224.3,14.0 295.7,85.5 367.1,80.0 438.6,87.8 510.0,83.5" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="85.1" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="83.5" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="77.5" font-size="10" fill="#3D5CCF" text-anchor="end">$36.1M</text></svg>
+
 ## Filings
 
 | Form | Filed | Period | Document | Local |
@@ -46,18 +58,6 @@ _Updated: June 16, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 | [8-K](#f-000180883424000099) | 2024-08-09 | 2024-08-08 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000099/prg-20240808.htm) | [file](../../sec-filings/prog-holdings/2024-08-09_8-K_0001808834-24-000099.htm) |
 | [10-Q](#f-000180883424000096) | 2024-07-24 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000096/prg-20240630.htm) | [file](../../sec-filings/prog-holdings/2024-07-24_10-Q_0001808834-24-000096.htm) |
 | [8-K](#f-000180883424000094) | 2024-07-24 | 2024-07-24 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883424000094/prg-20240724.htm) | [file](../../sec-filings/prog-holdings/2024-07-24_8-K_0001808834-24-000094.htm) |
-
-## Financial trends
-
-_Quarterly, from SEC XBRL company facts._
-
-**Revenue** — latest Q1 2026: $742.7M
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,70.8 152.9,98.8 224.3,90.9 295.7,55.8 367.1,91.7 438.6,97.1 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$742.7M</text></svg>
-
-**Net income** — latest Q1 2026: $36.1M
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,85.1 81.4,104.0 152.9,86.9 224.3,14.0 295.7,85.5 367.1,80.0 438.6,87.8 510.0,83.5" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="85.1" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="83.5" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="77.5" font-size="10" fill="#3D5CCF" text-anchor="end">$36.1M</text></svg>
 
 ## Filing summaries
 

@@ -13,6 +13,18 @@ updated: 2026-06-16
 
 _Updated: June 16, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 
+## Financial trends
+
+_Quarterly, from SEC XBRL company facts._
+
+**Revenue** — latest Q1 2026: $5.41B
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,69.6 152.9,67.6 224.3,14.0 295.7,64.9 367.1,61.1 438.6,16.9 510.0,40.4" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="40.4" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="34.4" font-size="10" fill="#1B844A" text-anchor="end">$5.41B</text></svg>
+
+**Net income** — latest Q1 2026: $805.0M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,14.0 152.9,102.0 224.3,82.2 295.7,86.5 367.1,58.1 438.6,43.2 510.0,80.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="80.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="74.0" font-size="10" fill="#3D5CCF" text-anchor="end">$805.0M</text></svg>
+
 ## Filings
 
 | Form | Filed | Period | Document | Local |
@@ -68,18 +80,6 @@ _Updated: June 16, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 | [8-K](#f-000160171224000248) | 2024-07-17 | 2024-07-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000248/syf-20240717.htm) | [file](../../sec-filings/synchrony-financial/2024-07-17_8-K_0001601712-24-000248.htm) |
 | [8-K](#f-000160171224000247) | 2024-07-17 | 2024-07-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000247/syf-20240717.htm) | [file](../../sec-filings/synchrony-financial/2024-07-17_8-K_0001601712-24-000247.htm) |
 | [8-K](#f-000160171224000229) | 2024-07-01 | 2024-06-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171224000229/syf-20240628.htm) | [file](../../sec-filings/synchrony-financial/2024-07-01_8-K_0001601712-24-000229.htm) |
-
-## Financial trends
-
-_Quarterly, from SEC XBRL company facts._
-
-**Revenue** — latest Q1 2026: $5.41B
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,69.6 152.9,67.6 224.3,14.0 295.7,64.9 367.1,61.1 438.6,16.9 510.0,40.4" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="40.4" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="34.4" font-size="10" fill="#1B844A" text-anchor="end">$5.41B</text></svg>
-
-**Net income** — latest Q1 2026: $805.0M
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,14.0 152.9,102.0 224.3,82.2 295.7,86.5 367.1,58.1 438.6,43.2 510.0,80.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="80.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="74.0" font-size="10" fill="#3D5CCF" text-anchor="end">$805.0M</text></svg>
 
 ## Filing summaries
 

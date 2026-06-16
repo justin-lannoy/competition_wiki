@@ -13,6 +13,18 @@ updated: 2026-06-16
 
 _Updated: June 16, 2026_  ·  Filer for [[acima]] (UPBD)
 
+## Financial trends
+
+_Quarterly, from SEC XBRL company facts._
+
+**Revenue** — latest Q1 2026: $1.22B
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,60.3 152.9,67.6 224.3,70.4 295.7,30.2 367.1,37.3 438.6,34.6 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$1.22B</text></svg>
+
+**Net income** — latest Q1 2026: $35.8M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,37.2 152.9,19.3 224.3,28.1 295.7,45.5 367.1,72.1 438.6,78.6 510.0,14.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="14.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#3D5CCF" text-anchor="end">$35.8M</text></svg>
+
 ## Filings
 
 | Form | Filed | Period | Document | Local |
@@ -45,18 +57,6 @@ _Updated: June 16, 2026_  ·  Filer for [[acima]] (UPBD)
 | [10-Q](#f-000093303624000137) | 2024-08-01 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000137/upbd-20240630.htm) | [file](../../sec-filings/upbound-group/2024-08-01_10-Q_0000933036-24-000137.htm) |
 | [8-K](#f-000093303624000133) | 2024-08-01 | 2024-08-01 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000093303624000133/upbd-20240801.htm) | [file](../../sec-filings/upbound-group/2024-08-01_8-K_0000933036-24-000133.htm) |
 | [8-K](#f-000110465924081581) | 2024-07-23 | 2024-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465924081581/tm2419929d1_8k.htm) | [file](../../sec-filings/upbound-group/2024-07-23_8-K_0001104659-24-081581.htm) |
-
-## Financial trends
-
-_Quarterly, from SEC XBRL company facts._
-
-**Revenue** — latest Q1 2026: $1.22B
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,60.3 152.9,67.6 224.3,70.4 295.7,30.2 367.1,37.3 438.6,34.6 510.0,14.0" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="14.0" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#1B844A" text-anchor="end">$1.22B</text></svg>
-
-**Net income** — latest Q1 2026: $35.8M
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,104.0 81.4,37.2 152.9,19.3 224.3,28.1 295.7,45.5 367.1,72.1 438.6,78.6 510.0,14.0" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="104.0" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="14.0" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="10.0" font-size="10" fill="#3D5CCF" text-anchor="end">$35.8M</text></svg>
 
 ## Filing summaries
 

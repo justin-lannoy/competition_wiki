@@ -167,6 +167,19 @@ def render_filer_page(filer: CompetitorFiler, sidecar: dict,
         f"({filer.ticker})",
         "",
     ]
+
+    fin = sidecar.get("financials") or {}
+    rev, ni = fin.get("revenue") or [], fin.get("net_income") or []
+    if len(rev) >= 2 or len(ni) >= 2:
+        parts += ["## Financial trends", "",
+                  "_Quarterly, from SEC XBRL company facts._", ""]
+        if len(rev) >= 2:
+            parts += [f"**Revenue** — latest {rev[-1]['label']}: {_fmt_usd(rev[-1]['val'])}",
+                      "", _svg_line_chart(rev, color="#1B844A"), ""]
+        if len(ni) >= 2:
+            parts += [f"**Net income** — latest {ni[-1]['label']}: {_fmt_usd(ni[-1]['val'])}",
+                      "", _svg_line_chart(ni, color="#3D5CCF"), ""]
+
     if not rows:
         parts += ["_No filings in the last 24 months._", ""]
         return fm, "\n".join(parts)
@@ -196,18 +209,6 @@ def render_filer_page(filer: CompetitorFiler, sidecar: dict,
             f"{_cell(period)} | {doc} | {local} |"
         )
     parts.append("")
-
-    fin = sidecar.get("financials") or {}
-    rev, ni = fin.get("revenue") or [], fin.get("net_income") or []
-    if len(rev) >= 2 or len(ni) >= 2:
-        parts += ["## Financial trends", "",
-                  "_Quarterly, from SEC XBRL company facts._", ""]
-        if len(rev) >= 2:
-            parts += [f"**Revenue** — latest {rev[-1]['label']}: {_fmt_usd(rev[-1]['val'])}",
-                      "", _svg_line_chart(rev, color="#1B844A"), ""]
-        if len(ni) >= 2:
-            parts += [f"**Net income** — latest {ni[-1]['label']}: {_fmt_usd(ni[-1]['val'])}",
-                      "", _svg_line_chart(ni, color="#3D5CCF"), ""]
 
     summarized = [r for r in rows if r["accession"] in has_summary]
     if summarized:

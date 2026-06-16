@@ -13,6 +13,18 @@ updated: 2026-06-16
 
 _Updated: June 16, 2026_  ·  Filer for [[bread-financial]] (BFH)
 
+## Financial trends
+
+_Quarterly, from SEC XBRL company facts._
+
+**Revenue** — latest Q1 2026: $1.22B
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,14.0 81.4,21.5 152.9,82.3 224.3,40.7 295.7,73.2 367.1,104.0 438.6,62.3 510.0,40.7" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="14.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="40.7" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="34.7" font-size="10" fill="#1B844A" text-anchor="end">$1.22B</text></svg>
+
+**Net income** — latest Q1 2026: $181.0M
+
+<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,22.2 81.4,40.1 152.9,40.6 224.3,104.0 295.7,38.2 367.1,37.7 438.6,14.0 510.0,17.4" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="22.2" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="17.4" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="11.4" font-size="10" fill="#3D5CCF" text-anchor="end">$181.0M</text></svg>
+
 ## Filings
 
 | Form | Filed | Period | Document | Local |
@@ -85,18 +97,6 @@ _Updated: June 16, 2026_  ·  Filer for [[bread-financial]] (BFH)
 | [8-K](#f-000110121524000173) | 2024-07-25 | 2024-07-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000173/bfh-20240725.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-25_8-K_0001101215-24-000173.htm) |
 | [8-K](#f-000110121524000160) | 2024-07-02 | 2024-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000160/a6-30x24wfnform8xkthirdadd.htm) | [file](../../sec-filings/bread-financial-holdings/2024-07-02_8-K_0001101215-24-000160.htm) |
 | [8-K](#f-000110121524000141) | 2024-06-18 | 2024-06-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121524000141/bfh-20240618.htm) | [file](../../sec-filings/bread-financial-holdings/2024-06-18_8-K_0001101215-24-000141.htm) |
-
-## Financial trends
-
-_Quarterly, from SEC XBRL company facts._
-
-**Revenue** — latest Q1 2026: $1.22B
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,14.0 81.4,21.5 152.9,82.3 224.3,40.7 295.7,73.2 367.1,104.0 438.6,62.3 510.0,40.7" fill="none" stroke="#1B844A" stroke-width="2"/><circle cx="10.0" cy="14.0" r="3" fill="#1B844A"/><circle cx="510.0" cy="40.7" r="3" fill="#1B844A"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="34.7" font-size="10" fill="#1B844A" text-anchor="end">$1.22B</text></svg>
-
-**Net income** — latest Q1 2026: $181.0M
-
-<svg viewBox="0 0 520 130" width="100%" role="img"><polyline points="10.0,22.2 81.4,40.1 152.9,40.6 224.3,104.0 295.7,38.2 367.1,37.7 438.6,14.0 510.0,17.4" fill="none" stroke="#3D5CCF" stroke-width="2"/><circle cx="10.0" cy="22.2" r="3" fill="#3D5CCF"/><circle cx="510.0" cy="17.4" r="3" fill="#3D5CCF"/><text x="10" y="122" font-size="10" fill="#696969">Q3 2024</text><text x="510" y="122" font-size="10" fill="#696969" text-anchor="end">Q1 2026</text><text x="510.0" y="11.4" font-size="10" fill="#3D5CCF" text-anchor="end">$181.0M</text></svg>
 
 ## Filing summaries
 
