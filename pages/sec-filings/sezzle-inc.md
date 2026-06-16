@@ -78,15 +78,6 @@ _Click a filing to expand its summary._
 <details id="f-000166299126000075">
 <summary><strong>8-K</strong> — 2026-05-13</summary>
 
-#### Key financials
-- None noted. The 8-K filed May 13, 2026 is a Regulation FD disclosure (Item 7.01) furnishing an investor presentation (Exhibit 99.1); no financial statements or specific financial figures are included in the filing text itself.
-
-#### Segment & competitive notes
-- None noted. No segment data or competitor-specific information is present in the filing text; any such details would be contained in the attached Exhibit 99.1 investor presentation, which is not reproduced here.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
-
 #### Material events
 - On May 13, 2026, Sezzle Inc. (Nasdaq: SEZL) filed an 8-K under Item 7.01 (Regulation FD) indicating it may commence investor and analyst presentations using a slide deck dated May 13, 2026 (Exhibit 99.1).
 - The filing was signed by Justin Krause, SVP Finance and Controller, and the furnished information is explicitly not deemed "filed" for Section 18 Exchange Act liability purposes and is not incorporated by reference into other filings unless expressly stated.
@@ -198,15 +189,6 @@ _Click a filing to expand its summary._
 <details id="f-000166299126000032">
 <summary><strong>8-K</strong> — 2026-03-06</summary>
 
-#### Key financials
-- None noted. (The 8-K body contains no financial figures; quantitative data, if any, resides in the attached Exhibit 99.1 Investor Presentation, which is not reproduced in the filing text.)
-
-#### Segment & competitive notes
-- None noted. (No segment disclosures or competitor references appear in the filing text itself.)
-
-#### Risk-factor changes
-- None noted. (This is a Regulation FD disclosure filing only; no risk-factor amendments are included.)
-
 #### Material events
 - On March 6, 2026, Sezzle Inc. (SEZL) filed an 8-K under Item 7.01 (Regulation FD) to disclose that it may commence investor and analyst presentations beginning that date using an attached slide deck (Exhibit 99.1).
 - The filing is furnished, not filed, meaning it is not subject to Section 18 Exchange Act liability and is not automatically incorporated by reference into other SEC filings unless expressly specified.
@@ -299,15 +281,6 @@ _Click a filing to expand its summary._
 <details id="f-000166299125000274">
 <summary><strong>8-K</strong> — 2025-11-14</summary>
 
-#### Key financials
-- None noted. (The 8-K is a Regulation FD disclosure attaching an investor presentation slide deck; no financial statements or specific financial figures are included in the filing text provided.)
-
-#### Segment & competitive notes
-- None noted. (No segment data or competitor-specific metrics are disclosed in the filing text; the referenced Exhibit 99.1 investor presentation is not included in the truncated text.)
-
-#### Risk-factor changes
-- None noted. (No new or amended risk factors are presented in this filing.)
-
 #### Material events
 - On November 14, 2025, Sezzle Inc. (Nasdaq: SEZL) filed an 8-K under Item 7.01 (Regulation FD) to disclose commencement of investor and analyst presentations using a slide deck attached as Exhibit 99.1, effective November 14, 2025.
 - The filing is furnished, not filed, and therefore is not subject to Section 18 liability of the Exchange Act and will not be automatically incorporated by reference into other SEC filings.
@@ -373,15 +346,6 @@ _Click a filing to expand its summary._
 
 <details id="f-000166299125000217">
 <summary><strong>8-K</strong> — 2025-08-11</summary>
-
-#### Key financials
-- None noted. The 8-K is a Regulation FD disclosure furnishing an investor presentation (Exhibit 99.1) dated August 11, 2025; no financial statements or specific financial figures are included in the filing text itself.
-
-#### Segment & competitive notes
-- None noted. No segment data or competitor-specific metrics are contained in the body of this filing.
-
-#### Risk-factor changes
-- None noted. This is a Reg FD/Item 7.01 furnishing only; no new or amended risk factors are disclosed.
 
 #### Material events
 - On August 11, 2025, Sezzle Inc. (Nasdaq: SEZL) filed an 8-K under Item 7.01 (Regulation FD) indicating it may commence investor and analyst presentations using an attached slide deck (Exhibit 99.1) beginning that same date.
@@ -520,15 +484,9 @@ _Click a filing to expand its summary._
 <details id="f-000166299125000090">
 <summary><strong>8-K</strong> — 2025-05-09</summary>
 
-#### Key financials
-- None noted. The 8-K body contains no financial statements or quantitative results; it solely references an attached investor presentation (Exhibit 99.1) not included in the filing text.
-
 #### Segment & competitive notes
 - Sezzle Inc. (Nasdaq: SEZL) operates as a buy-now-pay-later (BNPL) point-of-sale financing provider, representing a direct competitor to Snap Finance in the consumer installment/lease-to-own space.
 - No segment-level revenue, volume, or market-share data is disclosed in the 8-K text itself.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are presented in this filing.
 
 #### Material events
 - On May 9, 2025, Sezzle filed an 8-K under Item 7.01 (Regulation FD) to furnish an investor presentation (Exhibit 99.1) for use in analyst and investor meetings beginning that same date.
@@ -577,15 +535,6 @@ _Click a filing to expand its summary._
 <details id="f-000166299125000080">
 <summary><strong>8-K</strong> — 2025-04-30</summary>
 
-#### Key financials
-- None noted. (Filing contains no financial results; Q1 2025 earnings are scheduled to be released with an investor presentation available May 7, 2025.)
-
-#### Segment & competitive notes
-- None noted. (No segment-level or competitive data disclosed in this filing.)
-
-#### Risk-factor changes
-- None noted. (No risk-factor updates included in this 8-K.)
-
 #### Material events
 - On April 30, 2025, Sezzle Inc. (SEZL) filed an 8-K under Items 7.01 and 8.01 announcing its 2025 Annual Meeting of Stockholders, the upcoming Q1 2025 earnings release, and an investor presentation to be posted to investor.sezzle.com on May 7, 2025 in conjunction with the Q1 2025 earnings call.
 - The company announced plans to participate in investor and analyst conferences between May 12, 2025 and June 25, 2025; no specific conference names, venues, or financial guidance were disclosed in the filing.
@@ -594,15 +543,6 @@ _Click a filing to expand its summary._
 
 <details id="f-000166299125000076">
 <summary><strong>8-K</strong> — 2025-04-14</summary>
-
-#### Key financials
-- None noted. This 8-K contains no financial results; it solely announces that Q1 2025 earnings will be released on May 7, 2025.
-
-#### Segment & competitive notes
-- None noted. No segment data, merchant volumes, or competitive commentary disclosed in this filing.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors were included in this filing.
 
 #### Material events
 - On April 14, 2025, Sezzle Inc. (SEZL) filed an 8-K under Item 2.02 announcing it will release Q1 2025 financial results on **May 7, 2025**, followed by a conference call at **5:00 p.m. Eastern Time** the same day.
@@ -743,15 +683,6 @@ I was only able to extract the XBRL metadata, narrative business description, an
 <details id="f-000166299124000302">
 <summary><strong>8-K</strong> — 2024-11-19</summary>
 
-#### Key financials
-- None noted. (Filing furnishes Annual Meeting presentation slides as Exhibit 99.1 but contains no standalone financial figures in the 8-K text itself.)
-
-#### Segment & competitive notes
-- None noted. (No segment breakdown or competitor references included in the filing text; any such detail would reside solely in the unextracted Exhibit 99.1.)
-
-#### Risk-factor changes
-- None noted. (No new or amended risk factors disclosed in this filing.)
-
 #### Material events
 - Sezzle Inc. (Nasdaq: SEZL) filed an 8-K on November 19, 2024 under Items 2.02 and 7.01, furnishing Annual Meeting presentation materials (Exhibit 99.1) dated November 19, 2024.
 - The 2024 Annual Meeting of Stockholders was scheduled for November 19, 2024 at the company's Minneapolis, MN headquarters (700 Nicollet Mall, Suite 640).
@@ -761,15 +692,6 @@ I was only able to extract the XBRL metadata, narrative business description, an
 
 <details id="f-000166299124000296">
 <summary><strong>8-K</strong> — 2024-11-12</summary>
-
-#### Key financials
-- None noted. (The 8-K filed November 12, 2024 contains only a Regulation FD disclosure referencing an investor presentation as Exhibit 99.1; no financial statements or specific financial figures are included in the filing text.)
-
-#### Segment & competitive notes
-- None noted. (No segment data, market share figures, or competitor references are present in the filing text itself.)
-
-#### Risk-factor changes
-- None noted. (No new or amended risk factors were disclosed in this filing.)
 
 #### Material events
 - On November 12, 2024, Sezzle Inc. (SEZL, Nasdaq) filed an 8-K under Item 7.01 (Regulation FD) disclosing that it may commence investor and analyst presentations using a slide deck (Exhibit 99.1) beginning that same date.
@@ -893,15 +815,6 @@ I was only able to extract the XBRL metadata, narrative business description, an
 
 <details id="f-000166299124000234">
 <summary><strong>8-K</strong> — 2024-08-13</summary>
-
-#### Key financials
-- None noted. (Filing is a Regulation FD disclosure attaching an investor presentation; no financial statements or specific figures are included in the 8-K text itself.)
-
-#### Segment & competitive notes
-- None noted. (No segment data or competitor references are contained in the 8-K body text; details, if any, would reside in the attached Exhibit 99.1 investor presentation, which is not reproduced here.)
-
-#### Risk-factor changes
-- None noted. (No new or amended risk factors are disclosed in this filing.)
 
 #### Material events
 - On August 13, 2024, Sezzle Inc. (SEZL, Nasdaq) filed an 8-K under Item 7.01 (Regulation FD) to furnish an investor presentation (Exhibit 99.1) for use in analyst and investor meetings commencing that date.

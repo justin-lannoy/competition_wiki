@@ -104,9 +104,10 @@ def parse_rss(xml_bytes: "bytes | str", *, feed: str = "google-news") -> list[Ne
     require a DTD/entity definition, and legitimate RSS/Atom never carries one.
     """
     raw = xml_bytes if isinstance(xml_bytes, (bytes, bytearray)) else xml_bytes.encode("utf-8")
-    # Inspect only the prolog (before the root element) for a DOCTYPE.
-    prolog = raw[:2048].lstrip()
-    if b"<!doctype" in prolog.lower() or b"<!entity" in raw[:4096].lower():
+    # Refuse any DOCTYPE/entity declaration (XXE / billion-laughs) — same window
+    # for both checks. Legitimate RSS/Atom never carries one.
+    head = raw[:4096].lower()
+    if b"<!doctype" in head or b"<!entity" in head:
         return []
     try:
         root = ET.fromstring(raw)
@@ -155,27 +156,30 @@ DENY_SOURCES = (
     "247 wall st", "247wallst", "quiver quantitative", "defense world",
     "etf daily news", "the globe and mail", "barchart", "stockstory",
 )
-DENY_TITLE = (
-    "rsu", "gf value", "zacks rank", "stock to buy", "stocks to buy",
-    "good stock", "momentum stock", "price target", "13f", "p/e ratio",
-    "options trading", "shares withheld", "tax withholding", "vest",
-    "should you buy", "is it a buy", "best stock", "hold or sell",
-)
+# Title patterns marking insider-filing / stock-rating noise, matched on WORD
+# BOUNDARIES — a bare "vest" substring would wrongly drop "investment" /
+# "investor" / "harvest", and the prune re-applies every run (permanent loss).
+_DENY_TITLE_RE = re.compile(
+    r"\b(?:rsu|vest(?:ed|ing|s)?|13f|p/e ratio|options trading|shares withheld|"
+    r"tax withholding|gf value|zacks rank|stocks? to buy|good stock|best stock|"
+    r"momentum stock|price target|should you buy|is it a buy|hold or sell)\b",
+    re.I)
 
 
 def is_noise(item: NewsItem) -> bool:
     """True for low-signal stock-blog / insider-filing items (deny-listed)."""
     src = (item.source or "").lower()
-    title = (item.title or "").lower()
     if any(d in src for d in DENY_SOURCES):
         return True
-    return any(p in title for p in DENY_TITLE)
+    return bool(_DENY_TITLE_RE.search(item.title or ""))
 
 
 def parse_significance(summary: str) -> str:
-    """Extract the 'Significance: low|medium|high' tag from an AI summary."""
-    m = re.search(r"significance:\s*(low|medium|high)", summary or "", re.I)
-    return m.group(1).lower() if m else ""
+    """Extract the significance tag from an AI summary. Uses the LAST match —
+    the structured 'Significance: …' tag line is appended at the end, so this
+    ignores the word 'significance' appearing earlier in the prose body."""
+    matches = re.findall(r"significance:\s*(low|medium|high)", summary or "", re.I)
+    return matches[-1].lower() if matches else ""
 
 
 def item_id(item: NewsItem) -> str:
@@ -244,12 +248,14 @@ def merge_sidecar(existing: dict, slug: str, items: list[NewsItem]) -> dict:
     for it in items:
         iid = item_id(it)
         old = by_id.get(iid, {})
+        # Prefer freshly-parsed values but fall back to prior non-empty ones —
+        # Google News sometimes returns a blank <source>/pubDate on one fetch.
         by_id[iid] = {
-            "title": it.title,
-            "url": it.url,
-            "source": it.source,
-            "published": it.published,
-            "feed": it.feed,
+            "title": it.title or old.get("title", ""),
+            "url": it.url or old.get("url", ""),
+            "source": it.source or old.get("source", ""),
+            "published": it.published or old.get("published", ""),
+            "feed": it.feed or old.get("feed", ""),
             "snippet": it.snippet or old.get("snippet", ""),
             "summary": old.get("summary", "") or it.summary,
         }

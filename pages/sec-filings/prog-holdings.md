@@ -174,12 +174,6 @@ _Click a filing to expand its summary._
 - PROG Holdings filed an 8-K on February 18, 2026 disclosing Q4 and full-year results for fiscal year ended December 31, 2025; specific revenue, earnings, and margin figures are contained in Exhibit 99.1 (press release) and Exhibit 99.2 (earnings supplement), which are furnished but not filed and were not included in the truncated filing text.
 - No specific financial metrics (revenue, EPS, GMV, lease portfolio size) are available from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level disclosures or competitive commentary; any such detail would be in the unfurnished Exhibit 99.1/99.2.
-
-#### Risk-factor changes
-- None noted. This is a results-announcement 8-K (Item 2.02 only); no risk-factor updates were included.
-
 #### Material events
 - PROG Holdings (NYSE: PRG), headquartered in Draper, Utah, issued a press release on February 18, 2026 announcing Q4 and full-year FY2025 financial results alongside an earnings supplement presentation (Exhibits 99.1 and 99.2).
 - The filing was signed by CFO Brian Garner on February 18, 2026; exhibits are furnished (not filed) under SEC rules, limiting Section 18 liability.
@@ -532,12 +526,6 @@ _Click a filing to expand its summary._
 #### Key financials
 - Filing announces Q3 2024 financial results for the quarter ended September 30, 2024, via press release (Exhibit 99.1) dated October 23, 2024; specific revenue, earnings, and margin figures are contained in the attached exhibit, which is not included in the filing text provided.
 - An earnings supplement presentation (Exhibit 99.2) was also furnished on October 23, 2024, but detailed figures are not reproduced in the filing body.
-
-#### Segment & competitive notes
-- None noted; no segment-level detail or competitive commentary is included in the 8-K filing text itself.
-
-#### Risk-factor changes
-- None noted; this is a results-announcement 8-K (Item 2.02) and contains no updated risk-factor disclosures.
 
 #### Material events
 - PROG Holdings filed under Item 2.02 (Results of Operations and Financial Condition) on October 23, 2024, reporting Q3 2024 earnings; press release and supplement are furnished but explicitly not "filed" for Section 18 liability purposes.

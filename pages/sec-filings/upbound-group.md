@@ -203,12 +203,6 @@ _Click a filing to expand its summary._
 - Upbound Group, Inc. (UPBD) filed an 8-K on October 30, 2025, announcing Q3 2025 financial results (quarter ended September 30, 2025); specific revenue, earnings, or margin figures are not included in the 8-K body text — full details are contained in Exhibits 99.1 and 99.2, which were not provided in the filing text.
 - No quantitative financial metrics (revenue, EPS, EBITDA, etc.) are disclosed within the truncated filing text itself.
 
-#### Segment & competitive notes
-- None noted. The filing text references only the earnings release and investor presentation (Exhibits 99.1–99.3) without disclosing segment-level details; no competitive commentary is present in the 8-K body.
-
-#### Risk-factor changes
-- None noted. This is a results-announcement 8-K (Items 2.02 and 7.01 only); no new or amended risk factors are disclosed.
-
 #### Material events
 - On October 30, 2025, Upbound Group issued a press release and earnings release covering Q3 2025 results, alongside an investor presentation filed under Regulation FD (Item 7.01).
 - Fahmi W. Karam signed the filing in the dual capacity of Chief Executive Officer **and** Chief Financial Officer, indicating the company currently has one individual holding both the CEO and CFO roles as of the filing date.
@@ -339,9 +333,6 @@ _Click a filing to expand its summary._
 <details id="f-000110465925021452">
 <summary><strong>8-K</strong> — 2025-03-07</summary>
 
-#### Key financials
-- None noted. This 8-K contains no financial statements, earnings data, or guidance updates.
-
 #### Segment & competitive notes
 - The disclosed event directly concerns Acima Leasing, Upbound's virtual lease-to-own / point-of-sale financing segment, which competes directly with Snap Finance.
 - Acima will pay **no money**, make **no business-practice changes**, and face **no injunctive or other relief** as a result of the CFPB lawsuit dismissal — removing a significant regulatory overhang from a key Snap competitor.
@@ -400,12 +391,6 @@ _Click a filing to expand its summary._
 - Upbound Group announced Q4 and full-year fiscal 2024 financial results via press release on February 20, 2025 (fiscal year ended December 31, 2024); specific figures are contained in Exhibits 99.1–99.3, which are not reproduced in the 8-K body.
 - An investor presentation (Exhibit 99.3) was simultaneously issued on February 20, 2025, covering the same Q4/FY2024 results.
 - None noted beyond the above; no income, revenue, or EPS figures appear in the 8-K text itself.
-
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level or competitive commentary; operational detail is deferred to the attached earnings release (Exhibit 99.2).
-
-#### Risk-factor changes
-- None noted. No amendments to risk factors are disclosed in this filing.
 
 #### Material events
 - CEO succession announced February 20, 2025: Mitchell E. Fadel will retire as CEO and Board member effective June 1, 2025; he receives no cash severance but retains equity-award treatment per a prior April 3, 2024 letter agreement.
@@ -543,12 +528,6 @@ _Click a filing to expand its summary._
 #### Key financials
 - 8-K filed August 1, 2024 announces Q2 2024 financial results for the period ended June 30, 2024; actual figures are contained in Exhibits 99.1 and 99.2, which are not reproduced in the filing text.
 - No specific revenue, earnings, or guidance figures are included in the body of this 8-K form.
-
-#### Segment & competitive notes
-- None noted. No segment-level detail or competitor commentary is present in the filing body; any such information would be in the attached exhibits.
-
-#### Risk-factor changes
-- None noted. This is a results-disclosure 8-K (Items 2.02 and 7.01 only); no risk-factor updates were filed.
 
 #### Material events
 - Upbound Group, Inc. (Nasdaq: UPBD) reported Q2 2024 results via press release and earnings release on August 1, 2024 (Exhibits 99.1 and 99.2).

@@ -21,7 +21,8 @@ merchandise cost and non-prime discretionary income. Cited by [[acima]] (Upbound
 
 ### 2. Enforcement shifting from a retreating CFPB to state AGs
 Federal CFPB paused/gutted and its late-fee rule vacated — but state pressure rose:
-the multistate AG action against [[acima]], a 7-state AG + Senate inquiry into
+the multistate AG action against [[acima]], [[koalafi]]'s $3.25M Michigan AG
+settlement over auto-repair LTO practices, a 7-state AG + Senate inquiry into
 [[sezzle]] and other BNPL firms, a six-provider BNPL inquiry touching
 [[progressive-leasing]], NY's BNPL ability-to-repay licensing, and Block's DOJ
 accrual. The venue is moving from federal to state AGs and private litigants.
@@ -33,8 +34,8 @@ AI/generative-AI risk language (model degradation, bias, evolving regulation).
 
 ### 4. Verticalization beyond core LTO/BNPL
 [[progressive-leasing]] into payroll-deduction benefits (Purchasing Power);
-[[acima]] (Upbound) into earned-wage access (Brigit); [[american-first-finance]]
-and [[kafene]] into automotive/tire; [[synchrony-financial]] into health/pet
+[[acima]] (Upbound) into earned-wage access (Brigit); [[american-first-finance]],
+[[kafene]], and [[koalafi]] into automotive/tire/auto-repair; [[synchrony-financial]] into health/pet
 (CareCredit), power-sports, Walmart/OnePay; [[sezzle]] into stored-value and even
 mobile (MVNO); [[healthcare-finance-direct]] in patient financing.
 
@@ -59,8 +60,10 @@ funding) hold a structural cost advantage over LTO specialists like Snap.
 - **[[acima]] (Upbound / UPBD):** growth decelerating (Acima rev +1.8% YoY vs +10.5%
   two quarters earlier); charge-offs eating the gains. **43-state AG investigation +
   NY AG suit** is the single biggest competitive/regulatory event — legal accruals
-  ballooned to **$74.2M** (from $20.7M), "agreement in principle" near. A multistate
-  consent order could reshape LTO disclosure/fee practices industry-wide.
+  rose to **$74.2M** (Mar 2026), up sequentially from $72.0M (Dec 2025) and $20.7M a
+  year earlier (now plateauing). A **non-binding** agreement-in-principle is in
+  progress (no binding deal exists); a multistate consent order could still reshape
+  LTO disclosure/fee practices industry-wide.
 - **[[progressive-leasing]] (PRG):** GMV **−10% YoY**, active customers shrinking;
   deliberately diversifying out of LTO via Purchasing Power ($424M, guiding LTO
   below 70% of revenue).
@@ -89,7 +92,8 @@ funding) hold a structural cost advantage over LTO specialists like Snap.
 - **Merchant-bankruptcy contagion** (Big Lots, American Signature/Value City,
   American Freight, Conn's) suppressed LTO volume at [[progressive-leasing]] and
   [[american-first-finance]] — expect the same furniture-vertical air pocket.
-- **FlexShopper was acquired by Snap's ReadySett subsidiary** (Mar 2026), and the
-  FlexShopper→[[katapult]] patent suit settled June 2026 — Snap is an active player
-  in the competitive/IP chess, not just an observer. (FlexShopper is therefore *not*
-  tracked here as a competitor.)
+- **FlexShopper was acquired by Snap's ReadySett subsidiary** (Mar 2026), inheriting
+  FlexShopper's patent suit against [[katapult]]. The suit **settled June 2026 — Snap
+  granted Katapult a perpetual, royalty-free license + covenant-not-to-sue (covering
+  Aaron's/CCFI), relinquishing that IP leverage** rather than pressing it. (FlexShopper
+  is therefore *not* tracked here as a competitor.)

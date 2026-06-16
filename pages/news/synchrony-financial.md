@@ -2,7 +2,7 @@
 title: Synchrony Financial — Recent Coverage
 type: news
 competitor: [[synchrony-financial]]
-count: 27
+count: 28
 created: 2026-06-15
 updated: 2026-06-15
 ---
@@ -21,6 +21,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[synchrony-financial]]
 | 2026-06-12 | low | AD HOC NEWS | [Synchrony Premier World Mastercard: Cash-back credit card for everyday spending](https://news.google.com/rss/articles/CBMixwFBVV95cUxNREg0ZEV3VlBNSmJnZ0pFZzMzX0RFc2s0SE1tcEpzMExWSEs1ejZUWi1qTlN4Tk0zOEZHS05aQVF6MWZxT0dHWTlDY0c4UjJTM1hUZzJpdV9yQ2NIR3NGcTFHRGdxZ3lnN1lqaVRoOEhoMUJ3WTdrOXNMeS03eTZJWGpCYk1mSG9HYVR0MXFLNHh2TEpjVWdlVmF1M2NrZTlJTUZMa3ZaWk8zMVJBMGw3VU9ITDFXWndLM0VLeHBOTGY1OEx0NmI0?oc=5) |
 | 2026-06-12 | low | AD HOC NEWS | [Synchrony Financial Stock (US87165B1035): No verified fresh catalyst found](https://news.google.com/rss/articles/CBMiygFBVV95cUxOajRFQ0RfeFlBX2xEV2V0YkI1U0hQSlFrM2pNZE9jWVB6THAtV1B4WHY5OHpjSEdldjNqNGRoSEZveTdCY1ZFMHFvOFIwcS1rY0pBWnY4TXFDS2gwRVdoNTlzSWJpc3lPN3QxS3A0X0ZpMElnQU1Bbm96cmNRT2p0M3MtVWdSVkFUYnNEUmgtYlNBa3dFNHVCN2gtWmd0VmhVM1F3cUZMbC1KNHJndXpwbVVHWXhqX2RYSXIwYWJjSDExbzhWLVJCcXRR?oc=5) |
 | 2026-06-11 | low | MarketWatch | [Synchrony Financial stock outperforms competitors on strong trading day](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXFWY3llZ1dCVmt3ZHJVbk5iTHkyUmo0akRqUDRQRTlrVjk1ZXltUlZmT09nc1ZNVnNDQ2dMWU1Gb2c4Vmxocm5tdXdrTUozTzBUY0RsZ2dzdzFta0RHMVAtSENCUlJ0RDJuUnZFTXZfSE03UkhaY2t3NFJNVm5keDJiMldMXzZ6cFp3YjVUNlZnd2tKZ01VTm91UlZDMlU1dlZWTDJIcGVqWkVHcjZuUWFRSVdpZm02LXVqR056bFpBRlhVekVYWU5zTQ?oc=5) |
+| 2026-06-11 | low | Yahoo Finance | [Synchrony’s Top Workplace Honors And What They May Mean For Investors](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFl5ZGxPU0JDNXRPQkRYLUFOWHEwNVBMOGhPZl8tWHFCaF9YOWFabV9YVTRnZTBmYVkxRGM0MDJJWnR3bGhwejJhRHFvZWlDZVZNVzNaT2pfLVZNREJwNVNPTjNLemJLd0xGLVBQWXJXaXVzazQ2R3lPRnl3NnlobzQxclpkendxbEFNWTU2VHM5dkVJOFo3bTRJdG8tU1NC?oc=5) |
 | 2026-06-10 | low | Yahoo Finance | [Synchrony’s Comeback Is Hiding in Plain Sight](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXh2a1FCVThrRXJfY1NDTHZWODRQTkJudlh6YlU1RHNzc0VOZTdpYmtsSlZOcS1QT2pEYkkxbFBZcnZ0cmRySXBVVWw0Wm1HM3pWcWtHN0xBeFZtWDMtcTNqMTBRRXpWQ0N2eVd5YUR5cC1sX3d5MW8wdzRubF9JOERoMTFQNjFubW9YYjl0dzVhUmdYdnNuMTFqWGQzUjlsN1V6RA?oc=5) |
 | 2026-06-09 | low | Moomoo | [BofA Securities Maintains Synchrony Financial(SYF.US) With Buy Rating, Maintains Target Price $91](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSjh3eHh3LVRGbmdGaW5RS0c2UlVyOTNvMm9lQy1Hdjl2akU3Ukp2ckJ2MVZpTmJqR2hLSXRXS2N0WWVRamJiWHFyS0xneV9sNGN2TmViOWtiMUpaOTdnSTZnZ2Y4eDh2Q3pnY3YyQ0hkUVMwS3loTm5IRjYtcTBWU20tQVJGcERrRjluMG81NHZEeks1M0JjeTRSVnlmUTNFOVpPbS1rSGJkNlBsZVVKUlhxSVQtM09LYVJr?oc=5) |
 | 2026-06-09 | low | TradingView | [Synchrony Financial posts May 2026 monthly charge-off and delinquency data; loan receivables $101.7B](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWFBtOUMtNHlZZlhIeEpWamhvckhxV0o3bzlRcGR0cUpqV2RXc0ZPQm9Sb1ZpR19hRjI1Q3V5bVNwcDJnY1pyZFNNVllHWDZhMFNqZ1BUVm81MmpaTmtNWXhNdTgtbVVJS1ljZ2hRcXNRY1kwVE5ZVXVsRTZFUU9YaEc4ODVuaEFuTVFpYlJLbXVacUJJdXRydE16eTBhRHlqSlV1UUdlRjk2UXpPSzN0U1Ewek15emF0ZzFZaExuZWdTVFRCeTRkVGNRcG1pTndmWWNFaEtjU19rS09GX0hZR1Z2VUh6U0NQTFA2U21UVGFPUQ?oc=5) |

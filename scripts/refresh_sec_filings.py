@@ -75,12 +75,14 @@ def _clean_summary(text: str) -> str:
         else:
             body.append(ln)
     sections.append((head, body))
+    def _is_none(b: str) -> bool:
+        s = re.sub(r"^[-*]\s*", "", b).strip().lower()
+        return s.startswith("none noted") or s.rstrip(".") in ("none", "none noted")
+
     keep: list[str] = []
     for head, body in sections:
         content = [b for b in body if b.strip()]
-        only_none = bool(content) and all(
-            re.sub(r"^[-*]\s*", "", b).strip().lower().rstrip(".") in ("none noted", "none")
-            for b in content)
+        only_none = bool(content) and all(_is_none(b) for b in content)
         if head is None:
             keep.extend(body)
         elif only_none or not content:
@@ -104,6 +106,10 @@ def render_filer_page(filer: CompetitorFiler, sidecar: dict,
     """Render a per-filer SEC tracker page (frontmatter, body)."""
     rows = _rows_newest_first(sidecar)
     cik = sidecar.get("cik", "")
+    # Pre-clean summaries; only filings whose summary survives cleaning get a
+    # <details> block and a table anchor link (avoids empty/dead expanders).
+    cleaned = {r["accession"]: _clean_summary(r.get("summary", "")) for r in rows}
+    has_summary = {a for a, b in cleaned.items() if b.strip()}
     fm = {
         "title": f"{filer.parent} — SEC Filings",
         "type": "sec-filing",
@@ -144,24 +150,23 @@ def render_filer_page(filer: CompetitorFiler, sidecar: dict,
         period = r.get("report_date") or "—"
         anchor = r["accession"].replace("-", "")
         form_cell = (f"[{_cell(r['form'])}](#f-{anchor})"
-                     if r.get("summary") else _cell(r["form"]))
+                     if r["accession"] in has_summary else _cell(r["form"]))
         parts.append(
             f"| {form_cell} | {_cell(r['filing_date'])} | "
             f"{_cell(period)} | {doc} | {local} |"
         )
     parts.append("")
 
-    summarized = [r for r in rows if r.get("summary")]
+    summarized = [r for r in rows if r["accession"] in has_summary]
     if summarized:
         parts += ["## Filing summaries", "",
                   "_Click a filing to expand its summary._", ""]
         for r in summarized:
             anchor = r["accession"].replace("-", "")
-            body = _clean_summary(r["summary"])
             parts += [
                 f'<details id="f-{anchor}">',
                 f'<summary><strong>{r["form"]}</strong> — {r["filing_date"]}</summary>',
-                "", body, "", "</details>", "",
+                "", cleaned[r["accession"]], "", "</details>", "",
             ]
     return fm, "\n".join(parts)
 

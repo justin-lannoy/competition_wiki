@@ -2,7 +2,7 @@
 title: Affirm Holdings — Recent Coverage
 type: news
 competitor: [[affirm]]
-count: 25
+count: 26
 created: 2026-06-15
 updated: 2026-06-15
 ---
@@ -18,6 +18,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[affirm]]
 | 2026-06-10 | low | Sovereign Wealth Fund Institute \| SWFI | [Affirm’s Pitch to Wall Street Has a Familiar Blind Spot](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSl82UEIxb3JYNGxLN0wyTVk0VFJZeVZGN19UTUY4eXdETFo4YzQtTzZ1QXMyc3ZSX2VZQ1NXal9fMVVaWG5DMVY2dThSam4zUTJscFV3R2ltdWFtNjdmRldWdmR3T0lXSTNJd012LUFTaGRwRklqTk9yNXVyQ3d4YzhBUFlsVkZRdVluV2gxcnQ3LUxIaldGQ3JKMA?oc=5) |
 | 2026-06-09 | low | Seeking Alpha | [Affirm Holdings, Inc. (AFRM) Presents at 46th Annual William Blair Growth Stock Conference - Slideshow](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzlUS19fWEsxdm83NWJBM2Jjak1tTXhJMFJHaExTOUVrU3EwMkN6dUxCTnNHOVljZms5M0hfUFlDaXdXYjViMFdkTndoNFF2RmoxLXFoVWc1VV85Mkl6TkZHVGZLZVZXcEdzLUlKTUpBa3JVWGF1QVA3bVh5SWhZTERxSVJheGlUUDIxOTRUa1RuQVExSnB0emZFaGxQcU0xeVctVFpza1dkQTVrVVlMcjk2N0U1ZDlQTkJkR3V1Z1pzeVdJbFE?oc=5) |
 | 2026-06-05 | low | Yahoo Finance | [Assessing Affirm Holdings (AFRM) Valuation After Recent Share Price Momentum And Growth Expectations](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWdwWnA5eU1VR0hXVHBpeXJQV3V5cGdOQjVCd3dGc1A0cndKLWtmWXNYYXNieHBqN2dCVFV1ZWtWQVBMc2NjeHUzeVBXWXRsZmVDcTdmWndJYVFwS256bEZLVlZCTHFnMGFhWDN5d3FUckRtR2JiVnRseUhtVXpMd0hIb0tVYTZqLU9FTVpMLXNjTVFSbzlqUVRPSzFjTE1WRDM0bHN3cFo?oc=5) |
+| 2026-06-05 | high | Yahoo Finance | [Affirm's Expanded CPP Investments Deal Supports $8B in Loan Volume](https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlFfUHpQTVJsZjFwWEFoQTE2c3RoZVd3OWVLVGZ5Z2JrX0l0QkFzNHZjMVlhR09PX2Z5V3NpcFlULTFLdnh4SGhnajNOa184aTZpcWpjQl9XV1lvazFFY19BanlMWU01RGlrZkNydVJVYlVrRGgxT21wckNTWjRzazNVUDIwTkEzZUdjTzF4bnI3OGtUYUdPa3RHWmlBS1VVcWZVdg?oc=5) |
 | 2026-06-04 | low | TradingView | [AFRM: Mission-driven lending, strong growth, and expanding partnerships fuel Affirm's momentum](https://news.google.com/rss/articles/CBMiigJBVV95cUxQeVA4eDEyaEJpaFFqUHd1akVncUtZaVhKVTd1clBZeXdzclBUNFI0d0tsMGZPNkVYSTZpZTVUVkVhMWZ4MFcwY21IYXBUOFJMQ1BfRjBYcjJoNVI0cW5qd0VRaGtOMUlpUkRpUjhHUllqZ0FVWW91cUJ4a0hCNWhUOEdjNkZUaG1fNGxaR3N4QUNNY2FqbF94RHoxMHRQbGpSWjUzT0llMlZVcFBLY0NKbHJ2RUxQYW0zams4Zm1LUW81RURabFl2cWt0bDFzOTQ2dS1qWjNHR0hNTWFiamtYN0pFNGhRZklnX2pISU4waWRNTDBCWHFURmF6d3pDQ2d0UkpnTXpsSkVYZw?oc=5) |
 | 2026-06-04 | low | Investing.com | [William Blair reiterates Outperform on Affirm stock at conference](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzBVOEdVV0RZOXZmTEMtRkFsbk1ySVpZcGdtaFlMSGxkT0hIenpqR25CZ2d0dGo3RnRRdUI4VU9uUDlYVzBiQllhLVh4NE9EMllvSk5EUjM5UTVJZEhLRkMxR1RxVE1ueVVXd0t1WlhpWEJyRmdwRGhMaldQRTV5Yy03bWRSeUlRT1NUTTdSN0ZJSE5sb0F2ZkdxMzlxam11SzdZN1F1c1BhcFcyNjY3ZzF5QzI0cGNNNUd6b19POTJYOHM?oc=5) |
 | 2026-06-03 | low | Yahoo Finance | [Here is What to Know Beyond Why Affirm Holdings, Inc. (AFRM) is a Trending Stock](https://news.google.com/rss/articles/CBMinAFBVV95cUxOckVoOWVRQ2Q1Q0RqZS1GN1o4S2JXOFhVaWozbk0zSkZQNmNrV1I5UXBOYndRTHJIcVQzbVQyZ3VXb1RPbjhHYWpUYzVselN1c1FvXzI4bFk1UnNCR0drNVpLZHVWVnpPeDlCQVdqaDNVZXVJZ3lSWjJMa1NUNDhlUjJXRXBQSHJsYnQtNURpNzJ4Z21xVC1SaTFfSTc?oc=5) |
@@ -42,6 +43,14 @@ _Updated: June 15, 2026_  ·  News & PR for [[affirm]]
 | 2026-05-13 | low | Investing.com | [Evercore ISI reiterates Outperform on Affirm stock, $90 target](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUU3dXBOVV9EeU95VWNFSUxnbG5lTGd1WVllajgwci1fZTBZMm0yd3A2UG1lR1BUQlMwYVF5QS00c0pkM2QzOWVOUXg0Vl85QjhTbzdJd2JCZEV4d0JZd3JwNHlFOVRfd2haLW9QUjVSUktYakMtbFR4dm5NS1RiMlBWdGZfT0lveW9GUXZqbFRmQWVBN2M0VGNvNFAxbDc0M0UxUXp0SVlLNTdrNUZrSWc0TkcwU19uUml2Tg?oc=5) |
 
 ## Coverage notes
+
+### 2026-06-05 — Yahoo Finance
+
+**Affirm's Expanded CPP Investments Deal Supports $8B in Loan Volume**
+
+Affirm expanded its funding partnership with CPP Investments to support $8B in loan volume, signaling strong institutional appetite for backing Affirm's receivables at scale. For Snap Finance, this underscores Affirm's ability to secure large, low-cost capital commitments that could enable more competitive pricing and accelerated growth — a pressure point for Snap in the broader BNPL/POS financing market.
+
+Significance: high · Category: partnership
 
 ### 2026-05-21 — Yahoo Finance
 

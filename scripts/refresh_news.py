@@ -206,9 +206,10 @@ def _process_competitor(row: dict, news_client: "nf.NewsClient", anthropic_clien
             title=r.get("title", ""), url=r.get("url", ""), source=r.get("source", ""),
             published=r.get("published", ""), feed=r.get("feed", "")))
     }
-    # Backfill the structured significance tag from any existing summaries.
+    # (Re)derive the structured significance tag from any existing summaries —
+    # always re-parse so a fixed parser corrects prior values for free.
     for r in sidecar["items"].values():
-        if r.get("summary") and not r.get("significance"):
+        if r.get("summary"):
             r["significance"] = nf.parse_significance(r["summary"])
 
     if use_api and anthropic_client and not dry_run:

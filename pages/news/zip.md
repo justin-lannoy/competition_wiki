@@ -2,7 +2,7 @@
 title: Zip — Recent Coverage
 type: news
 competitor: [[zip]]
-count: 26
+count: 27
 created: 2026-06-15
 updated: 2026-06-15
 ---
@@ -41,6 +41,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[zip]]
 | 2026-04-22 | low | The Motley Fool Australia | [Up over 70% in a month, is it too late to buy Zip shares?](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdm9iSmFuQVhpRUFiQ0xXLURrVi1mckQtSkZkWXhsakRONzcxdGJpVjIyblo3SHBiaHlLNU9sSmZrTTg2cm5XNW1EbVFMa1U5XzloTENSUC05RGtJeTNLMEJkZkRWT2Y5akJZR1EtdWs5OVhILUJfZVg4Y1JXU2xWMnFOa0RNeENXYjFiMXdDaWZaUkt2?oc=5) |
 | 2026-04-22 | low | thebull.com.au | [Zip Shares Into Overbought Territory After Blistering April Rally](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWV9nYkhmMVA1VlI1UGJIV0s0OThfSElaRXh3MG5KWXJYVDM0VWVWMjNPRzk3OS1fMzVwY0pRSm1odGpnN1AzS3JlS0ZaXzJlRG9yVTdqNUtmZDlabGhtUXUyLVpPS0Q0ZWtNcmUzN1F5NGNsWkc4c29MczVqbVd1X0syd0RkMjkycGFQOWdCdzRCRTNqaTJvMEJB?oc=5) |
 | 2026-04-20 | low | Morningstar | [Zip Shares Are Still Cheap Despite Price Recovery](https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWlNdDFKOVFPa2s5czJRdVJJcWw4WnVJXzc2cGF1dU9TbGYtbXhaZVRkSWkxODk1elhCdnVrLWs1OHhaWV93ZHlVOTdCTEppcFlSd2JLZnhvT0gtSFRYNGRpMGZ3allUN0xyTXZSb19NTmlLRVh1aTh0bWlyQlgzV2cyYWJXN3p0RkVyUjNhZHNsVzlnemtBRzVJLTl1czVtOE9N?oc=5) |
+| 2026-04-20 | medium | thebull.com.au | [Zip Co Shares Lead ASX 200 Gainers, Up 75% On Month](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU94TE9PdmhWSUFseVY1UVE2ZHNnRWs3SU5mUXlyMWZyTjFJTVhZTDdSUjIyV2oxbFF2RUNXdFRYNnZZV2FjbWt3eHZDQkF1UGgxekZ6RVlBck1JZlBVMFFyT0hVZ2FzT3NfWGh1ejNBdF93dEhNMk9fV210aHBGRkJvdlk?oc=5) |
 
 ## Coverage notes
 
@@ -83,3 +84,11 @@ Significance: medium · Category: legal
 The snippet confirms Zip Co lost a High Court case in Australia that compels a corporate name change, but provides no detail on the underlying dispute, damages, or timeline. This is too thin to assess full business impact beyond the reputational and operational disruption of rebranding.
 
 Significance: medium · Category: legal
+
+### 2026-04-20 — thebull.com.au
+
+**Zip Co Shares Lead ASX 200 Gainers, Up 75% On Month**
+
+Zip Co's shares surged 75% over the past month, leading ASX 200 gainers, though the snippet provides no explanation for the rally (e.g., earnings beat, deal, or macro tailwind). Without more detail, it's unclear whether this reflects a fundamental business improvement or market sentiment shift that would signal a stronger competitive threat to Snap Finance.
+
+Significance: medium · Category: other

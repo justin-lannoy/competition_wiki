@@ -151,9 +151,6 @@ _Click a filing to expand its summary._
 <details id="f-000095010326006873">
 <summary><strong>8-K</strong> — 2026-05-05</summary>
 
-#### Key financials
-- None noted. (This 8-K covers only annual meeting voting results; no financial data disclosed.)
-
 #### Material events
 - **Annual Meeting held April 30, 2026** (virtual/webcast); record date March 16, 2026; 4,402,543 shares outstanding; quorum of 3,544,589 shares (~80.51%) present or by proxy.
 - **Proposal 1 – Director Election:** Derek Medlin re-elected as Class II Director (term through 2029 Annual Meeting) with 2,608,581 votes for, 157,143 withheld, and 778,865 broker non-votes.
@@ -600,9 +597,6 @@ _Click a filing to expand its summary._
 <summary><strong>8-K</strong> — 2025-08-08</summary>
 
 ## Katapult Holdings, Inc. (KPLT) — 8-K Filed August 8, 2025
-
-#### Key financials
-- None noted. (Filing contains no income statement, balance sheet, or revenue data.)
 
 #### Material events
 - On August 6, 2025, Katapult held a virtual Special Meeting of stockholders; record date was June 16, 2025, with 4,266,753 shares eligible to vote and a quorum of 2,922,298 shares (~68.48%) present.

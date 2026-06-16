@@ -84,12 +84,6 @@ _Click a filing to expand its summary._
 - Filing references results for Affirm's **fiscal Q3 ended March 31, 2026**, disclosed via Shareholder Letter (Exhibit 99.1); specific revenue, GMV, and income figures are contained in the attached letter, which is not included in the truncated filing text.
 - Letter includes **non-GAAP financial measures** with GAAP reconciliations provided in the attached financial tables.
 
-#### Segment & competitive notes
-- None noted. No segment-level breakdown or competitor references are present in the 8-K body; detail would reside in Exhibit 99.1.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
-
 #### Material events
 - On **May 7, 2026**, Affirm issued its fiscal Q3 2026 Shareholder Letter (Exhibit 99.1) reporting results under **Item 2.02 (Results of Operations and Financial Condition)**.
 - Filing signed by CFO **Rob O'Hare** on May 7, 2026; Exhibit 99.1 is furnished but **not deemed "filed"** for Section 18 liability purposes and is not incorporated by reference into Securities Act filings.
@@ -131,12 +125,6 @@ _Click a filing to expand its summary._
 #### Key financials
 - Filing covers fiscal Q2 results for the quarter ended **December 31, 2025**; detailed financials are contained in Exhibit 99.1 (Shareholder Letter), which is not included in the truncated text provided.
 - Filing notes inclusion of **non-GAAP financial measures** with GAAP reconciliations provided in the attached Shareholder Letter and financial tables.
-
-#### Segment & competitive notes
-- None noted. (No segment-level or competitive detail present in the 8-K body; full discussion would be in Exhibit 99.1.)
-
-#### Risk-factor changes
-- None noted. This is a results disclosure (Item 2.02 only); no amended or new risk factors were filed.
 
 #### Material events
 - On **February 5, 2026**, Affirm issued a Shareholder Letter reporting financial results for **fiscal Q2 ended December 31, 2025** (Item 2.02 filing).
@@ -273,12 +261,6 @@ _Click a filing to expand its summary._
 - 8-K filed August 28, 2025 reports Q4 fiscal results for the quarter ended June 30, 2025; detailed financials are contained in Exhibit 99.1 (Shareholder Letter), which is not reproduced in the filing text provided.
 - Filing notes use of non-GAAP financial measures with GAAP reconciliations included in the attached Letter; no specific revenue, GMV, or earnings figures are extractable from the 8-K body itself.
 
-#### Segment & competitive notes
-- None noted. No segment-level or competitive data disclosed in the 8-K body; any such detail would reside in Exhibit 99.1.
-
-#### Risk-factor changes
-- None noted. This is a results-of-operations 8-K (Item 2.02 only); no new or amended risk factors were disclosed.
-
 #### Material events
 - Affirm Holdings, Inc. (AFRM, Nasdaq) reported Q4 FY2025 results via Shareholder Letter on August 28, 2025, covering the fiscal quarter ended June 30, 2025.
 - CFO Rob O'Hare signed the filing; the Shareholder Letter (Exhibit 99.1) is incorporated by reference but not filed for Section 18 liability purposes.
@@ -357,12 +339,6 @@ I was only provided the XBRL tag list and financial statement data from this 10-
 - Filing covers Affirm Holdings' fiscal Q3 results for the quarter ended March 31, 2025, disclosed via Shareholder Letter (Exhibit 99.1) on May 8, 2025; specific revenue, GMV, and net income/loss figures are contained in the attached exhibit, which is not reproduced in the 8-K body text.
 - Filing notes use of non-GAAP financial measures with GAAP reconciliations included in the Shareholder Letter.
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level or competitive detail; all operating commentary is in Exhibit 99.1 (not included in the truncated text).
-
-#### Risk-factor changes
-- None noted. This is a results-disclosure 8-K (Item 2.02 only); no risk-factor amendments were filed.
-
 #### Material events
 - On May 8, 2025, Affirm filed under Item 2.02 (Results of Operations and Financial Condition), reporting fiscal Q3 2025 earnings via Shareholder Letter signed by CFO Rob O'Hare.
 - The exhibit is expressly designated as "not filed" for Section 18 Exchange Act liability purposes and is not incorporated by reference into any Securities Act filings.
@@ -394,15 +370,6 @@ I was only provided the XBRL tag list and financial statement data from this 10-
 
 <details id="f-000182095325000031">
 <summary><strong>8-K</strong> — 2025-02-28</summary>
-
-#### Key financials
-- None noted. This 8-K contains no financial results or metrics; it was filed solely to submit a legal opinion related to a securities offering.
-
-#### Segment & competitive notes
-- None noted. No segment data, GMV figures, or competitive commentary included in this filing.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors disclosed.
 
 #### Material events
 - On February 28, 2025, Affirm Holdings filed a prospectus supplement to its automatic shelf registration statement on Form S-3 (Registration No. 333-285421), signaling a potential securities issuance/sale.
@@ -480,12 +447,6 @@ I'll note that the filing text provided is Affirm Holdings, Inc.'s (AFRM) 10-Q f
 #### Key financials
 - Filing references Q2 FY2025 results (fiscal quarter ended December 31, 2024), disclosed via Shareholder Letter (Exhibit 99.1); specific revenue, GMV, and net income figures are contained in the attached exhibit, not reproduced in the 8-K body itself.
 - Both GAAP and non-GAAP financial measures were presented; reconciliations included in the Shareholder Letter per Item 2.02 disclosure.
-
-#### Segment & competitive notes
-- None noted. (No segment-level or competitive commentary included in the 8-K filing text itself.)
-
-#### Risk-factor changes
-- None noted. (No new or amended risk factors disclosed in this filing.)
 
 #### Material events
 - On February 6, 2025, Affirm issued its Q2 FY2025 Shareholder Letter reporting financial results for the quarter ended December 31, 2024, filed under Item 2.02 (Results of Operations and Financial Condition).

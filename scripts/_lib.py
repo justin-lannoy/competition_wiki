@@ -229,8 +229,13 @@ def parse_competitor_registry(path: Path | None = None) -> list[dict]:
 
 
 def _validate_registry(rows: list[dict]) -> None:
-    """Warn (non-fatal) on unknown category/tier values so typos surface."""
+    """Warn (non-fatal) on unknown category/tier values and duplicate slugs."""
     import sys
+    from collections import Counter
+    for slug, n in Counter(r["slug"] for r in rows).items():
+        if n > 1:
+            print(f"  ! registry: duplicate slug '{slug}' ({n}×) — rows collide, "
+                  "only one is tracked", file=sys.stderr)
     for r in rows:
         cat = (r.get("category") or "").strip().lower()
         tier = (r.get("tier") or "").strip().lower()

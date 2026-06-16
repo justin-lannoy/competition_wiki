@@ -2,7 +2,7 @@
 title: Katapult — Recent Coverage
 type: news
 competitor: [[katapult]]
-count: 23
+count: 24
 created: 2026-06-15
 updated: 2026-06-15
 ---
@@ -26,6 +26,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[katapult]]
 | 2026-06-08 | low | The Manila Times | [Clear Robotics Lands $1.75M to Build the World's Largest Fleet of Zero-Emission Autonomous Ships](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdzlaakc1SkdZRFozT1pBUjQxUFh2b09qTnlibHp1NTRZOGJJbW9kTFdOUmxHeE1KdnMtVU1QWkZXNEozQkJ3dnVrTU5tSG16TUctM2VtZ1BjNGtyWUxtTUxQS1dMbUw5dG0weHE4TG9YWkRMSEl5OUFJb1owc2NBc1ZKM1VuSHg2Xy00WWpfazB5LWtrZEwwRnNMeFRmRUV4bEkydkhUUG9Ldk9hVGdJa01oSWZnLXJIQ1hubVM5WWE4aTd6U1E4NERTNFpaODIzX3pkeUFFWWo2N2lxd29oZ0lBM01FNWZnUndJU3BiclU2Nzd1eGNDQ9IB_gFBVV95cUxORS1tNjBlTDVOWmdyQnNIOWRxejNwdDRKWWZLSzB1NzBNYnR3cGltNEkzMUN0cmE3N0ZQeEZOZFEta1RKb2VYYlI0akt0OEdUN05Kc1NsV2JhOGRfYUJFUV9sVzZ6cDhfOVZGOGk5bERWWUhCSGlUMlpWbjhFYTJGZlJMU3RHemJsby1vcWI5WFJBRUV4WnN4eGkxcXpJSFQxcDd2aEFyWHdOUFBUdzM1SXU3cnZyMVdza1NUUGRzQkhIM1RpeXZodEl2ZmtPRUZiTGVHTUFSTm5tZnFkRUFVWXY0TW1ac0dtNzhxVDJ1VVR5d1Q0b3ZGZWpTUjBXZw?oc=5) |
 | 2026-06-05 | low | ImpactAlpha | [Opposites attract at Katapult Future Fest 2026](https://news.google.com/rss/articles/CBMie0FVX3lxTE5yVF92OEJjS2c5N1F3MWxGcXk0N01OZ1EybERaZklwdTlrRkVHWWc0d3NkbGsyQTVwa3RmNmIwczh1VmJJQmVSb2hpNFV1NWVQZDdtNWkxTDdyaDFldnFjTlpGbVQwTTdOZ2hKbWxRWmFLR1BNa2kwTm1fUQ?oc=5) |
 | 2026-06-05 | low | Stock Traders Daily | [Trading the Move, Not the Narrative: (KPLT) Edition](https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkNYVjVTcGUzaFNUTFBDVUdXTnpyYkRKMGtJdXhjcFlLSmtmbEVtc0NUUnBhQ19NVXhaRTRCVEJDYjdJVGEyS21TZGgwT1lLNlpodGFwWWFTVExlcmYwTTRfVXg1T0lPcmM0aXl3WXdCd2NpSU5aX1BkeFR6UERtbnBIdlM5RUV0WTdjaGpXVzl3NHBLb1ZzcmZNSjhXZHdIc2x6WWdPUlgzeVFlbXJ3dlltWVZhZTRxMU9fODBqMVhKTERhZHc0?oc=5) |
+| 2026-06-01 | low | Project Liberty | [Catalyzing Systemic Investment in a Pro-Human AI Stack](https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkFHdnVSbkpMQWd4eGxpZ2NCWC1tb21EaDg5MFBMYUYtSEEzUDlEN0JQUnN0V3ZkbW93TUFGXzNNeDV6QVhFRFM3YkF5a1M2SWJrR29WUFZwSkZXUTlIX1lEZU5WQjgwb0dMeDhHa2MwcUZJVHNUdWk1SUQ2ZnQzak5FeENDc1NFTDZqRWhUendwS1dr?oc=5) |
 | 2026-05-27 | low | Climate KIC | [Katapult Future Fest 2026](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZHhFLV9SQWdjRzZISHdwdGZ2Wnp2Nm9IeG9semVzWkRRS2g3MUdqZnE4d3VteXE1N3BSQXhfd1IwcVVNc0RCMnluVTNldWpaNjZkQjhvXzlmUDFseHVkYy1ibk9PQ2xhcG94cmRn?oc=5) |
 | 2026-05-26 | low | Blooloop | [Katapult named one of The Sunday Times’ Best Places to Work](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wb21QQVJURDVIRHVhb01VbWNEMzVXM1habHNHeVFUNnVGb3VNVXRFQm11SFk0OV80ZWxVMWlIcWI1Q294M2hzZjRSN1pQZjQ2UTdFRVVaU3lmM2ZWV3VZ?oc=5) |
 | 2026-05-26 | medium | newsline.com | [Katapult Holdings Q1 2026 Earnings: Massive Profitability Surprise Drives Double‑Digit EPS Beat - Downward Estimate Revision](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQU5KRWtDR185TktTLW5MRFhGOElzbm1VUW5iWDhLcTVHRWlVX0h2aWpkSTZ0TEJ5V1RyLUtGU3Z3TFBXNDluNURYdDZfNV9HN2RuTWRwbmlhYkc2WHpNblVNUFJzWkZ5aEZNQnltcm12MGR3UEd5cVhOcDVpTTFsN3huY1hVcWZMQVNuZVdLc0NRcFl1bzBheVlvd29oV0JNRGlXaWJvMkcyVWUxZ1duOXB1WFhINm5YcERSQ1NrdTQ5QTlraEJRblRPYmkxRW8?oc=5) |

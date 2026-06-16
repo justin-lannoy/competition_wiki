@@ -160,7 +160,7 @@ def _blank_competitor(slug: str) -> dict:
     """An empty competitor page dict with every field collect_pages emits."""
     return {
         "slug": slug, "type": "competitor", "title": slug, "significance": "",
-        "significance_reason": "", "category": "", "tier": "", "segment": "",
+        "significance_reason": "", "category": "", "segment": "",
         "sae": "", "partner": "", "competitor": "", "date": "", "parent": "",
         "ticker": "", "publisher": "", "url": "", "owner_name": "",
         "owner_slug": "", "count": "", "tags": [], "sources": [], "content": "",
@@ -230,12 +230,14 @@ def merge_competitor_registry(pages: list[dict]) -> list[dict]:
 
 
 def check_app_js(js: str) -> str | None:
-    """Heuristic JSX/JS sanity gate: a dropped `{`/`}` (the typo that silently
-    ships a blank SPA) shows up as an off-by-one in the raw brace count. A full
-    parse needs a JS toolchain (intentionally avoided here); this catches the
-    common breakage without false positives from regex/string parsing. Returns
-    an error message, or None if balanced. (Only `{}` — `()`/`[]` legitimately
-    appear unbalanced inside regex literals.)"""
+    """Best-effort JSX/JS sanity gate: a dropped `{`/`}` (the typo that silently
+    ships a blank SPA) usually shows up as an off-by-one in the raw brace count.
+    This is a heuristic only — it counts braces inside strings/regex/comments
+    too, so it can miss a drop that a literal brace elsewhere compensates for,
+    and is not a substitute for the browser smoke-check (see CLAUDE.md). A real
+    parse needs a JS toolchain the project intentionally avoids. Returns an error
+    message, or None if balanced. (Only `{}` — `()`/`[]` legitimately appear
+    unbalanced inside regex literals.)"""
     opens, closes = js.count("{"), js.count("}")
     if opens != closes:
         return f"unbalanced braces in wiki_app.js ({opens} '{{' vs {closes} '}}')"

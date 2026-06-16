@@ -77,15 +77,6 @@ _Click a filing to expand its summary._
 <details id="f-000084048926000061">
 <summary><strong>8-K</strong> — 2026-05-12</summary>
 
-#### Key financials
-- None noted. The 8-K (filed May 11, 2026) is a Reg FD disclosure furnishing an investor presentation (Exhibit 99.1); no financial statements or specific financial figures are included in the filing text itself.
-
-#### Segment & competitive notes
-- None noted. The filing references an updated investor presentation posted to FirstCash's investor relations site (investors.firstcash.com), but no segment-level or competitive detail is contained in the 8-K text provided.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
-
 #### Material events
 - On May 11, 2026, FirstCash Holdings, Inc. (FCFS, Nasdaq) filed an 8-K under Item 7.01 (Reg FD) to furnish its most recent investor presentation as Exhibit 99.1; the presentation is available at investors.firstcash.com.
 - The filing was signed by Brian D. Hostetler, SVP and Chief Accounting Officer, on May 11, 2026; as a "furnished" item, it is not deemed "filed" for Section 18 liability purposes.
@@ -147,15 +138,6 @@ _Click a filing to expand its summary._
 
 ## FirstCash Holdings, Inc. (FCFS) – 8-K Filed April 24, 2026
 
-#### Key financials
-- None noted. (Filing is a Reg FD disclosure of an investor presentation; no financial statements or specific figures are included in the 8-K text itself.)
-
-#### Segment & competitive notes
-- None noted. (Exhibit 99.1 investor presentation was not included in the provided filing text; no segment or competitor data is extractable.)
-
-#### Risk-factor changes
-- None noted. (No new or amended risk factors disclosed in this filing.)
-
 #### Material events
 - On April 24, 2026, FirstCash Holdings, Inc. (FCFS; Nasdaq) filed an 8-K under Item 7.01 (Reg FD) to disclose that an updated investor presentation was posted to its corporate website at investors.firstcash.com.
 - The presentation is furnished as Exhibit 99.1 and is expressly **not deemed "filed"** under Section 18 of the Exchange Act, limiting legal liability and precluding automatic incorporation by reference into other SEC filings.
@@ -207,15 +189,6 @@ _Click a filing to expand its summary._
 <summary><strong>8-K</strong> — 2026-03-03</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed March 3, 2026
-
-#### Key financials
-- None noted. (Filing is a Regulation FD disclosure of an investor presentation; no financial statements or specific financial figures are included in the 8-K text itself.)
-
-#### Segment & competitive notes
-- None noted. (Exhibit 99.1 investor presentation was not provided in the filing text; no segment or competitive data is available for summary.)
-
-#### Risk-factor changes
-- None noted. (No new or amended risk factors disclosed in this filing.)
 
 #### Material events
 - On March 3, 2026, FirstCash Holdings, Inc. (FCFS; Nasdaq) filed an 8-K under Item 7.01 (Regulation FD) to furnish its most recent investor presentation, made available at investors.firstcash.com.
@@ -271,12 +244,6 @@ _Click a filing to expand its summary._
 - Announced financial results for Q4 2025 (three months ended December 31, 2025) and full-year 2025 (twelve months ended December 31, 2025); specific revenue and earnings figures are contained in Exhibit 99.1, which is not included in the truncated filing text.
 - Board of Directors declared a Q1 2026 cash dividend of **$0.42 per common share**, announced February 5, 2026.
 
-#### Segment & competitive notes
-- None noted. (No segment-level detail provided in the 8-K body; full breakdown would be in the attached Exhibit 99.1 press release.)
-
-#### Risk-factor changes
-- None noted. This filing is limited to an earnings results disclosure under Item 2.02; no risk-factor amendments were included.
-
 #### Material events
 - FirstCash issued a press release on **February 5, 2026** reporting Q4 and full-year 2025 results; the release is furnished as Exhibit 99.1 and is explicitly **not deemed "filed"** for Section 18 Exchange Act liability purposes.
 - CFO **R. Douglas Orr** (EVP and Principal Financial Officer) executed the filing on behalf of the registrant on February 5, 2026.
@@ -285,9 +252,6 @@ _Click a filing to expand its summary._
 
 <details id="f-000084048925000123">
 <summary><strong>8-K</strong> — 2025-11-05</summary>
-
-#### Key financials
-- None noted. (Filing is a Regulation FD disclosure of an investor presentation via Exhibit 99.1; no financial statements or specific financial metrics are included in the 8-K text itself.)
 
 #### Segment & competitive notes
 - FirstCash Holdings, Inc. (FCFS) operates pawn and point-of-sale lending businesses, making it a direct competitor in the consumer lending/lease-to-own space; no segment-specific data disclosed in this filing text.
@@ -343,12 +307,6 @@ _Click a filing to expand its summary._
 - Q3 2025 and nine-month period ended September 30, 2025 financial results announced via press release (Exhibit 99.1); specific revenue/EPS figures not detailed in the 8-K body text.
 - Board declared a Q4 cash dividend of **$0.42 per common share**, announced October 30, 2025.
 
-#### Segment & competitive notes
-- None noted. (No segment-level detail provided in the 8-K filing text; full breakdown would require review of the attached Exhibit 99.1 press release.)
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors disclosed in this filing.
-
 #### Material events
 - Board authorized a **$150 million share repurchase program** on October 30, 2025; no expiration date set, and the program may be suspended or discontinued at any time.
 - Repurchases may be executed via open market transactions, block purchases, or privately negotiated transactions under Rule 10b5-1 / Rule 10b-18; timing and volume subject to cash balances, debt covenants, market price, and other factors.
@@ -359,15 +317,6 @@ _Click a filing to expand its summary._
 <summary><strong>8-K</strong> — 2025-08-21</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed August 21, 2025
-
-#### Key financials
-- None noted. The 8-K is a Regulation FD disclosure (Item 7.01) furnishing an investor presentation; no financial statements or specific metrics are included in the filing text itself.
-
-#### Segment & competitive notes
-- None noted. The filing references only the publication of an investor presentation on the company's website (investors.firstcash.com); no segment-level data is disclosed in the filing body.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
 
 #### Material events
 - On August 21, 2025, FirstCash Holdings, Inc. (NASDAQ: FCFS) filed an 8-K under Item 7.01 (Regulation FD) to furnish its most recent investor presentation as Exhibit 99.1.
@@ -398,15 +347,6 @@ _Click a filing to expand its summary._
 <summary><strong>8-K</strong> — 2025-08-11</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed August 11, 2025
-
-#### Key financials
-- None noted. The 8-K is a Regulation FD disclosure (Item 7.01) furnishing an investor presentation; no standalone financial statements or quantitative results are included in the filing text.
-
-#### Segment & competitive notes
-- None noted. The filing text does not contain segment-level data or competitive commentary; any such detail would be in Exhibit 99.1 (the investor presentation), which is not reproduced here.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
 
 #### Material events
 - On August 11, 2025, FirstCash Holdings, Inc. filed an 8-K under Item 7.01 (Regulation FD) to furnish an updated investor presentation posted to its corporate website (investors.firstcash.com).
@@ -472,12 +412,6 @@ _Click a filing to expand its summary._
 #### Key financials
 - Reported financial results for the three and six months ended June 30, 2025 (Q2 2025); specific revenue, net income, and EPS figures are contained in Exhibit 99.1 (press release), which is not included in the truncated filing text.
 - Board declared a Q3 2025 cash dividend of **$0.42 per common share**, announced July 24, 2025.
-
-#### Segment & competitive notes
-- None noted. (No segment-level detail provided in the 8-K body; all operational data referenced in attached Exhibit 99.1, not included here.)
-
-#### Risk-factor changes
-- None noted. This filing is limited to Item 2.02 (Results of Operations) and Item 9.01 (Exhibits); no risk-factor amendments were disclosed.
 
 #### Material events
 - FirstCash issued a press release on **July 24, 2025** announcing Q2 2025 earnings results (periods ended June 30, 2025), filed as Exhibit 99.1 and furnished (not filed) under Section 18 of the Exchange Act.
@@ -566,15 +500,9 @@ _Click a filing to expand its summary._
 <details id="f-000084048925000063">
 <summary><strong>8-K</strong> — 2025-04-29</summary>
 
-#### Key financials
-- None noted. (8-K filed April 29, 2025 is a Reg FD disclosure of an investor presentation only; no financial statements or specific financial figures are included in the filing text.)
-
 #### Segment & competitive notes
 - FirstCash Holdings (FCFS) operates pawn and point-of-sale/lease-to-own businesses; the filing references an updated investor presentation posted to investors.firstcash.com on April 29, 2025, which may contain segment detail not reproduced in the truncated text.
 - No specific segment revenue, store counts, or competitive metrics are disclosed in the body of this 8-K.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
 
 #### Material events
 - On April 29, 2025, FirstCash filed an 8-K under Item 7.01 (Regulation FD) furnishing an updated investor presentation (Exhibit 99.1); the presentation is explicitly "furnished" and not "filed," meaning it is not subject to Section 18 Exchange Act liability.
@@ -618,9 +546,6 @@ _Click a filing to expand its summary._
 - Q1 2025 financial results announced via press release dated April 24, 2025, covering the three-month period ended March 31, 2025 (full details in Exhibit 99.1, not included in filing text).
 - Board declared a Q2 2025 cash dividend of **$0.38 per common share**, announced April 24, 2025.
 
-#### Segment & competitive notes
-- None noted. (No segment-level detail provided in the 8-K body; full results contained in the unfurnished Exhibit 99.1.)
-
 #### Material events
 - FirstCash filed under **Item 2.02** (Results of Operations and Financial Condition); the earnings release is furnished, not filed, and therefore not subject to Section 18 liabilities of the Exchange Act.
 - CFO **R. Douglas Orr** signed the filing on April 24, 2025; the company is incorporated in Delaware and listed on **Nasdaq (FCFS)**, headquartered at 1600 West 7th Street, Fort Worth, Texas.
@@ -645,15 +570,6 @@ _Click a filing to expand its summary._
 <summary><strong>8-K</strong> — 2025-02-04</summary>
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed February 4, 2025
-
-#### Key financials
-- None noted. (Filing is a Reg FD disclosure of an investor presentation only; no financial statements or specific figures included in the 8-K text itself.)
-
-#### Segment & competitive notes
-- None noted. (Exhibit 99.1 investor presentation was furnished but not reproduced in the filing text provided; no segment detail extractable from the 8-K body.)
-
-#### Risk-factor changes
-- None noted. (No risk-factor disclosures made in this filing.)
 
 #### Material events
 - On February 4, 2025, FirstCash Holdings, Inc. filed an 8-K under Item 7.01 (Regulation FD) to furnish an updated investor presentation posted to its corporate website (investors.firstcash.com).
@@ -710,9 +626,6 @@ _Click a filing to expand its summary._
 - Reported financial results for Q4 and full-year periods ended December 31, 2024 (specific revenue, EPS, and net income figures not included in the 8-K body; detailed results contained in Exhibit 99.1, not provided).
 - Board declared a Q1 2025 cash dividend of **$0.38 per common share**, announced January 30, 2025.
 
-#### Segment & competitive notes
-- None noted. (No segment-level detail disclosed in the 8-K filing text itself; Exhibit 99.1 not reproduced here.)
-
 #### Material events
 - FirstCash issued an earnings press release on **January 30, 2025** covering Q4 and full-year 2024 results; filed as Exhibit 99.1 and furnished (not filed) under Item 2.02.
 - Filing signed by CFO **R. Douglas Orr**, Executive Vice President and Principal Financial and Accounting Officer, dated January 30, 2025.
@@ -735,15 +648,9 @@ _Click a filing to expand its summary._
 <details id="f-000084048924000137">
 <summary><strong>8-K</strong> — 2024-11-18</summary>
 
-#### Key financials
-- None noted. (Filing is a Reg FD disclosure of an investor presentation; no financial statements or specific figures are included in the 8-K text itself.)
-
 #### Segment & competitive notes
 - FirstCash Holdings (FCFS) operates in the pawn and point-of-sale lending space, making it a direct competitor to lease-to-own/POS finance providers; the investor presentation (Exhibit 99.1, filed November 18, 2024) may contain segment detail but is not reproduced in the filing text.
 - No specific segment revenue, store count, or competitive metrics are disclosed in the body of this 8-K.
-
-#### Risk-factor changes
-- None noted. No risk-factor additions or amendments are included in this filing.
 
 #### Material events
 - On November 18, 2024, FirstCash Holdings filed an 8-K under Item 7.01 (Regulation FD) to furnish an updated investor presentation posted to its corporate website at investors.firstcash.com.
@@ -787,12 +694,6 @@ _Click a filing to expand its summary._
 - Reported financial results for the three and nine month periods ended September 30, 2024 (Q3 2024 and YTD 2024); specific revenue, earnings, and margin figures are contained in Exhibit 99.1 (press release), which is not included in the truncated filing text.
 - Board declared a Q4 2024 cash dividend of **$0.38 per common share**, announced October 24, 2024.
 
-#### Segment & competitive notes
-- None noted. No segment-level detail or competitive commentary is present in the 8-K body; such information would be in the attached press release (Exhibit 99.1), not provided here.
-
-#### Risk-factor changes
-- None noted. This 8-K is limited to an earnings results disclosure under Item 2.02 and contains no new or amended risk-factor disclosures.
-
 #### Material events
 - FirstCash Holdings filed under **Item 2.02** (Results of Operations and Financial Condition) on **October 24, 2024**, covering Q3 and nine-month periods ended **September 30, 2024**.
 - The earnings release (Exhibit 99.1) is furnished, not filed, and therefore not subject to Section 18 liability of the Securities Exchange Act of 1934.
@@ -827,15 +728,9 @@ _Click a filing to expand its summary._
 
 ## FirstCash Holdings, Inc. (FCFS) — 8-K Filed July 30, 2024
 
-#### Key financials
-- None noted. (Filing is a Regulation FD disclosure of an investor presentation; no financial statements or specific financial figures were included in the 8-K text itself.)
-
 #### Segment & competitive notes
 - FirstCash operates pawn store segments in the U.S. and Latin America, as well as a point-of-sale lending segment (American First Finance / AFF), which competes directly with Snap Finance in the lease-to-own and LTO-adjacent space.
 - No new segment-specific metrics or competitive data were disclosed in the 8-K text; detail is contained in Exhibit 99.1 (investor presentation), which was not provided in the filing text.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors were disclosed in this filing.
 
 #### Material events
 - On July 30, 2024, FirstCash filed an 8-K under Item 7.01 (Regulation FD) to furnish an updated investor presentation posted to its corporate website at investors.firstcash.com.
@@ -877,12 +772,6 @@ _Click a filing to expand its summary._
 #### Key financials
 - Results cover the three and six month periods ended June 30, 2024; full financial details are in Exhibit 99.1 (press release), which is not included in the truncated filing text.
 - Board declared a Q3 2024 cash dividend of **$0.38 per common share**, announced July 25, 2024.
-
-#### Segment & competitive notes
-- None noted. (No segment-level detail provided in the 8-K body; Exhibit 99.1 containing the press release was not included in the filing text.)
-
-#### Risk-factor changes
-- None noted. This 8-K is limited to an earnings results disclosure under Item 2.02; no risk-factor amendments were filed.
 
 #### Material events
 - FirstCash filed under **Item 2.02** (Results of Operations and Financial Condition) on July 25, 2024, reporting Q2 and H1 2024 financial results via press release (Exhibit 99.1).

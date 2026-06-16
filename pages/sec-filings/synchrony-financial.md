@@ -180,12 +180,6 @@ _Click a filing to expand its summary._
 - Filing announces Q1 2026 earnings results via press release (Exhibit 99.1) and Financial Data Supplement (Exhibit 99.2) for the quarter ended March 31, 2026; specific figures are contained in attached exhibits not included in the truncated filing text.
 - Securities registered include common stock ($0.001 par value), Series A preferred (5.625% Fixed Rate Non-Cumulative Perpetual) and Series B preferred (8.250% Fixed Rate Reset Non-Cumulative Perpetual), all listed on NYSE.
 
-#### Segment & competitive notes
-- None noted. The 8-K shell filing does not include segment-level disclosures; detail would reside in Exhibit 99.3 (Financial Results Presentation) not provided in truncated text.
-
-#### Risk-factor changes
-- None noted. This is a results-announcement 8-K (Item 2.02 only); no new or amended risk factors are disclosed.
-
 #### Material events
 - On April 21, 2026, Synchrony Financial filed an Item 2.02 8-K reporting Q1 2026 results, with four exhibits furnished (99.1 press release, 99.2 data supplement, 99.3 results presentation, 99.4 non-GAAP explanation).
 - Filing was signed by Jonathan Mothner, Executive Vice President and Chief Risk and Legal Officer, on April 21, 2026; exhibits are furnished (not "filed") and therefore not subject to Section 18 Exchange Act liability.
@@ -399,12 +393,6 @@ _Click a filing to expand its summary._
 - Filing announces Q3 2025 earnings results via press release (Exhibit 99.1) and Financial Data Supplement (Exhibit 99.2) for the quarter ended September 30, 2025; specific figures are contained in attached exhibits not reproduced in the filing text.
 - Securities registered include common stock ($0.001 par, NYSE: SYF), Series A preferred (5.625% Fixed Rate Non-Cumulative Perpetual, NYSE: SYFPrA), and Series B preferred (8.250% Fixed Rate Reset Non-Cumulative Perpetual, NYSE: SYFPrB).
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level revenue, loan receivable, or partner-program disclosures; detail is deferred to Exhibits 99.1–99.3.
-
-#### Risk-factor changes
-- None noted. No amendments to risk factors are included in this filing; it is a results-announcement 8-K only (Item 2.02).
-
 #### Material events
 - On October 15, 2025, Synchrony Financial filed under Item 2.02 (Results of Operations and Financial Condition), furnishing Q3 2025 earnings materials including a press release, Financial Data Supplement, Financial Results Presentation, and Explanation of Non-GAAP Measures.
 - Filing was signed by Jonathan Mothner, Executive Vice President, Chief Risk and Legal Officer, on October 15, 2025; exhibits are furnished (not filed) and therefore not subject to Section 18 Exchange Act liability.
@@ -454,9 +442,6 @@ _Click a filing to expand its summary._
 #### Segment & competitive notes
 - Synchrony is a large-scale private-label/co-brand credit card and point-of-sale financing competitor; monthly delinquency/charge-off trends are a direct read-through to consumer credit health in the retail financing space where Snap Finance operates.
 - None noted beyond credit quality disclosure context.
-
-#### Risk-factor changes
-- None noted; no new or amended risk factors disclosed in this filing.
 
 #### Material events
 - On **August 15, 2025**, Synchrony furnished Exhibit 99.1 under **Item 7.01 (Reg FD)** containing thirteen months of charge-off and delinquency data through **July 31, 2025**; data is not "filed" and carries no Section 18 liability.
@@ -555,12 +540,6 @@ _Click a filing to expand its summary._
 - Filing announces Q2 2025 earnings results via press release (Exhibit 99.1) and Financial Data Supplement (Exhibit 99.2) for the quarter ended June 30, 2025; specific P&L figures are contained in the attached exhibits, not the 8-K body itself.
 - Securities outstanding include Common Stock (par $0.001/share), Series A Preferred (5.625% Fixed Rate Non-Cumulative Perpetual) and Series B Preferred (8.250% Fixed Rate Reset Non-Cumulative Perpetual), all listed on NYSE.
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level or competitive commentary; detail would be in Exhibits 99.1–99.3 (press release, data supplement, and results presentation).
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
-
 #### Material events
 - Item 2.02 triggered on July 22, 2025: Synchrony reported Q2 2025 financial results via press release; information is furnished (not filed) and therefore not subject to Section 18 Exchange Act liability.
 - Four exhibits furnished: press release (99.1), Financial Data Supplement (99.2), Financial Results Presentation (99.3), and Non-GAAP Measures explanation (99.4).
@@ -600,15 +579,9 @@ _Click a filing to expand its summary._
 <details id="f-000160171225000196">
 <summary><strong>8-K</strong> — 2025-06-09</summary>
 
-#### Key financials
-- None noted. This 8-K (Item 7.01 Reg FD) contains no financial statements or quantitative disclosures.
-
 #### Segment & competitive notes
 - Synchrony Financial (SYF) announced a strategic partnership with OnePay — a fintech backed by Walmart and Ribbit Capital — to launch a new co-branded credit card program with Walmart, expected to go live in fall 2025.
 - This deal is competitively significant for Snap Finance's context: Walmart's point-of-sale financing relationship shifts to the Synchrony/OnePay structure, displacing prior arrangements and reinforcing SYF's dominance in large-retailer embedded finance.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors were disclosed in this filing.
 
 #### Material events
 - On June 9, 2025, SYF filed an 8-K (Item 7.01) disclosing the Walmart/OnePay credit card partnership via press release (Exhibit 99.1).
@@ -682,12 +655,6 @@ _Click a filing to expand its summary._
 #### Key financials
 - Filing announces Q1 2025 earnings results via press release (Exhibit 99.1) and Financial Data Supplement (Exhibit 99.2) for the quarter ended March 31, 2025; specific figures are contained in the attached exhibits, not the 8-K body itself.
 - Securities outstanding include Common Stock (par $0.001/share), Series A Preferred (5.625% Fixed Rate Non-Cumulative Perpetual) and Series B Preferred (8.250% Fixed Rate Reset Non-Cumulative Perpetual), all listed on NYSE.
-
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level disclosure; segment detail would reside in Exhibits 99.1–99.3.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
 
 #### Material events
 - On April 22, 2025, Synchrony Financial issued its Q1 2025 earnings press release (Exhibit 99.1), accompanied by a Financial Data Supplement and a Financial Results Presentation (Exhibits 99.2 and 99.3) for the quarter ended March 31, 2025.
@@ -987,9 +954,6 @@ _Click a filing to expand its summary._
 - Filing furnishes monthly charge-off and delinquency statistics covering the **13-month period ended June 30, 2024** (Exhibit 99.1); detailed figures are in the attached exhibit, not reproduced in the filing text.
 - No income statement, balance sheet, or revenue figures disclosed in the body of this 8-K.
 
-#### Risk-factor changes
-- None noted; no new or amended risk factors disclosed in this filing.
-
 #### Material events
 - Synchrony filed under **Item 7.01 (Regulation FD)** on **July 17, 2024** to furnish monthly credit quality data; the data is not deemed "filed" for Section 18 liability purposes.
 - Company states it will **continue furnishing these statistics monthly**, with the final month of each calendar quarter released concurrently with quarterly earnings results, signaling an ongoing disclosure cadence relevant for monitoring consumer credit deterioration trends.
@@ -1002,12 +966,6 @@ _Click a filing to expand its summary._
 #### Key financials
 - Filing references Q2 2024 earnings press release (Exhibit 99.1) and Financial Data Supplement for quarter ended June 30, 2024, but no specific financial figures are included in the 8-K body text itself.
 - Securities outstanding include Common Stock (SYF), Series A Preferred (5.625% Fixed Rate, SYFPrA), and Series B Preferred (8.250% Fixed Rate Reset, SYFPrB), all listed on NYSE.
-
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level detail; underlying data would be in Exhibits 99.1–99.3 (not reproduced in the truncated filing text).
-
-#### Risk-factor changes
-- None noted. No risk-factor disclosures or amendments appear in this filing.
 
 #### Material events
 - On July 17, 2024, Synchrony Financial (ticker: SYF; CIK: 0001601712) filed an 8-K under Item 2.02 to report Q2 2024 results of operations and financial condition.

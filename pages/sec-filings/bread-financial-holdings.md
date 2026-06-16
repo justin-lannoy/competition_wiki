@@ -239,9 +239,6 @@ _Click a filing to expand its summary._
 - Quarterly common stock dividend declared at $0.23 per share, payable June 15, 2026 to stockholders of record May 29, 2026.
 - Quarterly preferred stock (8.625% Non-Cumulative Perpetual Preferred Stock, Series A) dividend declared at $21.56 per share ($0.539 per depositary share), payable June 15, 2026 to holders of record May 29, 2026.
 
-#### Segment & competitive notes
-- None noted. (The 8-K body contains no segment-level or competitive data; detail is limited to referenced exhibits not reproduced in the filing text.)
-
 #### Material events
 - Bread Financial Holdings (NYSE: BFH) filed an 8-K on April 23, 2026 disclosing Q1 2026 results of operations (Item 2.02) and posting an investor presentation to its website for use in analyst and investor meetings (Item 7.01).
 - Board declared both preferred and common cash dividends on April 23, 2026, with identical record (May 29, 2026) and payment (June 15, 2026) dates for both share classes.
@@ -442,12 +439,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended October 31, 2025; no financial figures are included in the 8-K body itself.
 - No income statement, balance sheet, or credit metrics are reproduced in the filing text provided; specific numbers would require review of the attached Exhibit 99.1.
 
-#### Segment & competitive notes
-- None noted. The filing does not reference specific business segments, product lines, or competitor activity.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
-
 #### Material events
 - On November 13, 2025, Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K under Item 7.01 disclosing a monthly performance update press release covering activity through October 31, 2025.
 - The filing was signed by Joseph L. Motes III (EVP, Chief Administrative Officer, General Counsel & Secretary) on November 13, 2025; content is furnished, not filed, and is therefore not subject to Section 18 liability or automatically incorporated by reference into Securities Act filings.
@@ -548,12 +539,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Filing references a performance update as of and for the period ended **September 30, 2025**, but the underlying press release (Exhibit 99.1) is not included in the provided text; no specific financial metrics (revenue, net income, EPS, credit metrics) are available from the filing text alone.
 - None noted beyond the existence of the Q3 2025 performance update disclosure.
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level detail or commentary on competitive positioning; all substantive data would reside in the unattached Exhibit 99.1.
-
-#### Risk-factor changes
-- None noted. This is a Regulation FD disclosure (Item 7.01) only; no new or amended risk factors are introduced in this filing.
-
 #### Material events
 - On **October 23, 2025**, Bread Financial Holdings issued a press release providing a quarterly performance update for the period ended **September 30, 2025**, disclosed under Item 7.01 (Reg FD).
 - The filing was signed by **Joseph L. Motes III**, EVP, Chief Administrative Officer, General Counsel and Secretary, on **October 23, 2025**; no executive leadership changes were indicated.
@@ -568,12 +553,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 #### Key financials
 - Q3 2025 earnings results reported for the quarter ended September 30, 2025, per press release (Exhibit 99.1); specific revenue, EPS, and net income figures are not included in the 8-K body text (contained in furnished exhibits not reproduced here).
 - Board declared a quarterly cash dividend of **$0.23 per share**, payable **December 12, 2025** to stockholders of record as of **November 7, 2025**.
-
-#### Segment & competitive notes
-- None noted. The 8-K filing text does not include segment-level disclosures; detail would reside in the investor presentation (Exhibit 99.2) and earnings release (Exhibit 99.1), which are not reproduced.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
 
 #### Material events
 - Board approved a **$200 million increase** to the Company's existing share repurchase authorization, announced October 23, 2025.
@@ -704,12 +683,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Q2 2025 earnings results reported for the quarter ended June 30, 2025, disclosed via press release (Exhibit 99.1); specific revenue, EPS, and credit metrics are contained in the attached exhibit, which is not reproduced in the filing text.
 - Quarterly cash dividend declared at **$0.21 per share**, payable **September 12, 2025** to stockholders of record as of **August 8, 2025**.
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level detail or competitive commentary; such information may appear in Exhibit 99.2 (investor presentation), which is not reproduced here.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
-
 #### Material events
 - Board of Directors declared a **$0.21/share quarterly cash dividend** on July 24, 2025, payable September 12, 2025 (record date August 8, 2025).
 - Company posted an investor presentation (Exhibit 99.2) to its website under "Events & Presentations" on July 24, 2025 for use in analyst and investor meetings; presentation details are not included in the filing text itself.
@@ -763,9 +736,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 #### Key financials
 - On May 21, 2025, Bread Financial Holdings (NYSE: BFH) announced a cash tender offer to repurchase up to **$150 million aggregate principal amount** of its **9.750% Senior Notes due 2029**.
 - No updated income statement, balance sheet, or credit metrics were included in this filing.
-
-#### Risk-factor changes
-- None noted; no new or amended risk factors were disclosed in this filing.
 
 #### Material events
 - Bread Financial launched a tender offer on **May 21, 2025** to retire up to **$150M of its 9.750% Senior Notes due 2029**, signaling an intent to reduce high-coupon debt and potentially lower interest expense.
@@ -829,12 +799,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Filing is an 8-K (Item 7.01 Reg FD) dated April 24, 2025, disclosing a performance update as of and for the period ended March 31, 2025; detailed financials are contained in Exhibit 99.1, which is not included in the truncated text provided.
 - No specific revenue, EPS, credit loss, or balance sheet figures are extractable from the filing body itself.
 
-#### Segment & competitive notes
-- None noted. The filing body contains no segment detail or competitive commentary; all operational data would reside in the attached press release (Exhibit 99.1).
-
-#### Risk-factor changes
-- None noted. This is a Reg FD disclosure filing only; no risk-factor amendments or additions are included.
-
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on April 24, 2025, under Item 7.01 (Regulation FD) to disseminate a quarterly performance update press release covering the period ended March 31, 2025.
 - The filing was signed by Joseph L. Motes III, EVP, Chief Administrative Officer, General Counsel and Secretary, on April 24, 2025; the exhibit is explicitly not deemed "filed" for Section 18 liability purposes.
@@ -850,12 +814,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Q1 2025 earnings results released April 24, 2025 (period ended March 31, 2025); detailed financials contained in Exhibit 99.1, which is furnished but not filed with the SEC.
 - Quarterly cash dividend declared at **$0.21 per share**, payable **June 13, 2025** to stockholders of record as of **May 9, 2025**.
 
-#### Segment & competitive notes
-- None noted. The 8-K body does not disclose segment-level revenue, credit metrics, or competitive commentary; those details are confined to the attached but unquoted Exhibits 99.1 and 99.2.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are presented in this filing.
-
 #### Material events
 - Board declared a **$0.21/share quarterly cash dividend** (Item 8.01), payable June 13, 2025; record date May 9, 2025.
 - Investor presentation (Exhibit 99.2) posted April 24, 2025 to company website for use in analyst/investor meetings; furnished under Reg FD (Item 7.01) but not deemed "filed" for Exchange Act Section 18 liability purposes.
@@ -868,12 +826,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 #### Key financials
 - Filing is a Reg FD disclosure (Item 7.01) referencing a performance update press release (Exhibit 99.1) for the period ended February 28, 2025; no financial statements or specific metrics are included in the 8-K body itself.
 - Actual KPIs (credit sales, receivables, delinquency/charge-off rates, etc.) would be contained in the attached Exhibit 99.1, which is not reproduced in the filing text provided.
-
-#### Segment & competitive notes
-- None noted. The filing text contains no segment-level disclosures or competitor references.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
 
 #### Material events
 - Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K on March 17, 2025, disclosing a monthly performance update via press release for the period ended February 28, 2025.
@@ -1010,12 +962,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Q4 and full-year fiscal 2024 results (period ended December 31, 2024) were released January 30, 2025 via press release (Exhibit 99.1); specific revenue, EPS, and credit metrics are referenced in exhibits not included in the filing text.
 - Quarterly cash dividend declared at $0.21 per share of common stock, payable March 21, 2025 to stockholders of record as of February 14, 2025.
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level or competitive detail; underlying financials are in the furnished exhibits (99.1, 99.2).
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
-
 #### Material events
 - Board of Directors declared a $0.21/share quarterly cash dividend on January 30, 2025, payable March 21, 2025 (record date February 14, 2025).
 - Company filed an investor presentation (Exhibit 99.2) posted to its website for use in analyst and investor meetings in connection with Q4 2024 earnings; presentation is furnished under Reg FD (Item 7.01) and is not deemed "filed" for Section 18 liability purposes.
@@ -1128,12 +1074,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 #### Key financials
 - Bread Financial Holdings (NYSE: BFH) reported Q3 2024 results for the quarter ended September 30, 2024, disclosed via press release on October 24, 2024; detailed financials are contained in Exhibit 99.1 (not included in truncated filing text).
 - Quarterly cash dividend declared at $0.21 per common share, payable December 13, 2024, to stockholders of record as of November 8, 2024.
-
-#### Segment & competitive notes
-- None noted. The filing text does not include segment-level financial detail; full breakdown would be in the attached exhibits (Exhibits 99.1 and 99.2).
-
-#### Risk-factor changes
-- None noted. This 8-K is a results/dividend disclosure; no risk-factor amendments were included.
 
 #### Material events
 - Board declared a $0.21/share quarterly cash dividend on October 24, 2024, payable December 13, 2024 (record date November 8, 2024).
@@ -1256,12 +1196,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 - Q2 2024 earnings results reported for the quarter ended June 30, 2024 (full details in Exhibit 99.1, not included in truncated filing text).
 - Quarterly cash dividend declared at $0.21 per share of common stock, payable September 13, 2024 to stockholders of record as of August 9, 2024.
 
-#### Segment & competitive notes
-- None noted. The 8-K filing text does not contain segment-level or competitive detail; referenced exhibits (99.1, 99.2) were not included in the provided text.
-
-#### Risk-factor changes
-- None noted. No risk-factor disclosures or amendments were included in this filing.
-
 #### Material events
 - Board declared a $0.21/share quarterly cash dividend on July 25, 2024, payable September 13, 2024 (record date August 9, 2024).
 - Company issued an investor presentation (Exhibit 99.2) posted to its website on July 25, 2024 for use in analyst and investor meetings in connection with the Q2 2024 earnings release.
@@ -1283,15 +1217,6 @@ Based on the XBRL metadata and narrative text provided in this 10-K filing for B
 
 <details id="f-000110121524000141">
 <summary><strong>8-K</strong> — 2024-06-18</summary>
-
-#### Key financials
-- None noted. The 8-K is a Regulation FD disclosure referencing an investor presentation posted June 18, 2024; no financial figures are included in the filing text itself.
-
-#### Segment & competitive notes
-- None noted. No segment data or competitor references are contained in the filing text.
-
-#### Risk-factor changes
-- None noted. No new or amended risk factors are disclosed in this filing.
 
 #### Material events
 - On June 18, 2024, Bread Financial Holdings, Inc. (NYSE: BFH) filed an 8-K under Item 7.01 (Regulation FD) disclosing that it posted an investor presentation to its website in connection with an investor day hosted by executive leadership on June 18, 2024.

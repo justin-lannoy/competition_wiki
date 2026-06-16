@@ -879,6 +879,9 @@ function CompetitorView({ navigateTo }) {
                 ))}
               </div>
             )}
+            {moves.length === 0 && recentNews.length === 0 && (
+              <div style={{ fontSize: 13, color: 'var(--muted)', marginBottom: 10 }}>No recent activity tracked.</div>
+            )}
             <div style={{ background: 'var(--bg-soft)', border: '1px solid var(--line)',
                           borderRadius: 6, padding: '10px 14px', fontSize: 13,
                           display: 'flex', gap: 18, flexWrap: 'wrap' }}>
@@ -892,7 +895,7 @@ function CompetitorView({ navigateTo }) {
               ) : (
                 <span style={{ color: 'var(--muted)' }}>Private — no SEC filings tracked</span>
               )}
-              {news && (
+              {news && newsCount > 0 && (
                 <span style={{ cursor: 'pointer', color: 'var(--accent)', fontWeight: 600 }}
                       onClick={() => navigateTo(news.slug)}>
                   View {newsCount} news item{newsCount !== 1 ? 's' : ''} →
@@ -1351,7 +1354,7 @@ function WikiPage({ page, navigateTo, onBack, isEdition, navHistory, goHome }) {
         let target = document.getElementById(id);
         if (!target) { for (const h of el.querySelectorAll('h1,h2,h3,h4,h5,h6')) { if (slugifyHeading(h.textContent) === id) { target = h; break; } } }
         if (!target) { for (const node of el.querySelectorAll('[id]')) { if (node.id.includes(id) || id.includes(node.id)) { target = node; break; } } }
-        if (target) { e.preventDefault(); target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+        if (target) { e.preventDefault(); const det = target.tagName === 'DETAILS' ? target : target.closest('details'); if (det) det.open = true; target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
       }
     });
   }, [navigateTo]);

@@ -100,9 +100,6 @@ _Click a filing to expand its summary._
 - Block, Inc. operates across multiple segments (Square, Cash App, and other units); no segment-specific metrics are disclosed in the 8-K body itself — detail would reside in Exhibit 99.1.
 - None noted beyond the above.
 
-#### Risk-factor changes
-- None noted. This 8-K is limited to an Item 2.02 results disclosure; no risk-factor amendments or updates are included.
-
 #### Material events
 - Block, Inc. (NYSE: XYZ) filed this 8-K on May 7, 2026 under Item 2.02 to furnish its Q1 2026 Shareholder Letter (Exhibit 99.1); the filing is expressly "furnished" and not "filed," limiting Section 18 Exchange Act liability.
 - Signed by Chrysty Esperanza, Chief Legal Officer and Corporate Secretary, on May 7, 2026; no executive leadership changes, M&A, or other reportable events disclosed in this filing.
@@ -350,12 +347,6 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 - Filing references Q2 2025 results (quarter ended June 30, 2025) announced via Shareholder Letter (Exhibit 99.1) on August 7, 2025; specific revenue, gross profit, and EPS figures are contained in the attached exhibit, which is not reproduced in this 8-K body.
 - Non-GAAP financial measures were used; a GAAP reconciliation was provided within the Shareholder Letter per company disclosure.
 
-#### Segment & competitive notes
-- None noted. The 8-K body contains no segment-level or competitive detail; all operating commentary is deferred to Exhibit 99.1 (Shareholder Letter).
-
-#### Risk-factor changes
-- None noted. No risk-factor disclosures or amendments are included in this filing.
-
 #### Material events
 - Block, Inc. (NYSE: XYZ) filed an 8-K on August 7, 2025 under Item 2.02 to furnish Q2 2025 earnings results via Shareholder Letter dated August 7, 2025.
 - An earnings conference call and webcast was held August 7, 2025 at 2:00 p.m. Pacific Time to discuss Q2 2025 results; filing signed by Chief Legal Officer Chrysty Esperanza.
@@ -510,12 +501,6 @@ I note this is a Block, Inc. (ticker: XYZ) 10-Q, not a Snap Finance filing. Bloc
 #### Key financials
 - Filing announces Q3 2024 financial results (quarter ended September 30, 2024) via Shareholder Letter (Exhibit 99.1), which is furnished but not filed.
 - Non-GAAP financial measures were referenced; GAAP reconciliation included in the Shareholder Letter — specific figures not reproduced in the 8-K body itself.
-
-#### Segment & competitive notes
-- None noted. (No segment-level detail disclosed in the 8-K filing text; full data contained in the attached Shareholder Letter not provided here.)
-
-#### Risk-factor changes
-- None noted. This is a results-announcement 8-K (Item 2.02 only); no risk-factor updates were included.
 
 #### Material events
 - Block held an earnings conference call and webcast on November 7, 2024 at 2:00 p.m. Pacific Time to discuss Q3 2024 results.

@@ -2,7 +2,7 @@
 title: Klarna Group — Recent Coverage
 type: news
 competitor: [[klarna]]
-count: 25
+count: 26
 created: 2026-06-15
 updated: 2026-06-15
 ---
@@ -17,6 +17,7 @@ _Updated: June 15, 2026_  ·  News & PR for [[klarna]]
 | --- | --- | --- | --- |
 | 2026-06-15 | low | Moomoo | [Wolfe Research Maintains Klarna Group(KLAR.US) With Buy Rating, Cuts Target Price to $22](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUFEbk55Y1VrR2tsSXRXNVVtNlRUVC1nOUVmbmNicG9wSXV4MDBObnozZ25kM1lQT2IxVFQ4QUdfVnotMWVTR3M0cV9sdnVOdXV2bmU2TGV3c0J6Q3hJaEFkMFVkRndRaTFYdWFzbFA5N201QjBZNm1SYnpQNmlwSU95ak84ejdGWjFyMjhBNVp4dS1GNEZUMDJHZnJUMDFuZmdnRnFYN3VpRWM?oc=5) |
 | 2026-06-14 | medium | Seeking Alpha | [Klarna: GMV Acceleration Is A Fantastic Signal](https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0dTTi1hcWhEdDRodENuR05FV2xONXlpSTZXbnVUYmloZTJaYUpsZUZ3alR3dFQ5MXVZaUVFZDJhaEtaVEpXMDREa1VObXhVakZqUFY1QkdfWnQybGVOSks2WlhPckNQazF1THlMM3NfanBKVXp4VDg2a3NjM1BhNnlsV0dmTzFseGRJTw?oc=5) |
+| 2026-06-11 | medium | Stocktwits | [KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVnlGWlJ1aVJwczBaUU1PVUNMZmEyZFZSa2poV0RuMkxOM1pSU3dIcl93aFZSZzJTVThpMW9XcTBtUHUwWWRZQTh4VWdtamdhbVVmRzBjTUh1WDRkczVCaHdfY1dxUmd6NFpXYnoxM1hnS29hQVEyNThwcXNIN2RpTzdyX3E0cEdYUmszVEpwVE9ZX2R0eW5pQUtBOU9YdlZXZWNTSU1QWEt4RTA1bUY2MVplZ1BzT3pmVksxdlFTTHplUUxkbUVMekwxckZRT2tMamZBNFBaVExsMmd5am9Mb2stVHNxWmJF?oc=5) |
 | 2026-06-10 | medium | Banking Dive | [Pagaya sues Klarna over alleged trade secret misappropriation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVpMSFdMNUwwa2tmVkM2WkdvMml0T2xxOFBwSXlWZ2FwUTNZalNhQTBCMTVUanpBTDZmN01hYTRLbGV2SXc5aHI2WnBUWE9YNUoxbnVraFJlZ1I1LWxXRWYwU1hHTUR3V3RXYWpUbkE4UEV3VEd3SVFMcGJrbllJaF9DNzZ2b1RjLVpSSHVESkoybmpKd0ctd2dZMDFvY29Pa3lEYw?oc=5) |
 | 2026-06-10 | medium | HarianBasis.co | [Klarna Launches High Yield Savings Account to Expand US Financial Services](https://news.google.com/rss/articles/CBMickFVX3lxTFBCQVU1NkhJNEsyd1FraWpCdTRBYjROLVNKTVJvYkdiRUg2dTkwRzh4TWNTR2Y3TEdaeWRBaVp2RVRiWDBkMGV6ejZrUTd1UGhuam04SEhkdE14eEVNMElLRmpwVjZuVE1nTmU4U1BKa1Ezdw?oc=5) |
 | 2026-06-09 | medium | American Banker | [Pagaya accuses Klarna of stealing subprime lending model](https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NMN3ZCTzZrVFA4UWJoa2k2ckJDbk9XcnAxZU1MZGhvUjU2WUZzMWs1ejFZSTdDbElza0Uwcm9MMlFacU82Vy1kOHhvQ1ZJOHMxUlFkOU02NDBnc3F0dzJBRGRBWEJDUXBreVB4M25VdnRtOU5UTFVoMERLRTBaWF90aVNBMlRuWDZGRXI4aGxHeEI3aFhnTjBsYzFPeGpEaU5R?oc=5) |
@@ -48,6 +49,14 @@ _Updated: June 15, 2026_  ·  News & PR for [[klarna]]
 **Klarna: GMV Acceleration Is A Fantastic Signal**
 
 The headline and snippet are too thin to extract specific details — no GMV figures, growth rates, or context are provided beyond the title itself.
+
+Significance: medium · Category: earnings
+
+### 2026-06-11 — Stocktwits
+
+**KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off**
+
+Klarna reported a Q4 loss with a weak forward forecast, causing a stock sell-off, though retail investors appear unfazed. For Snap Finance, this signals potential ongoing profitability pressure in the BNPL space, which could challenge Klarna's ability to invest aggressively in growth or underwriting — though the snippet is too thin to assess magnitude or specific drivers.
 
 Significance: medium · Category: earnings
 
