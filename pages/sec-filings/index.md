@@ -1,22 +1,22 @@
 ---
 title: SEC Filings — Tracker Index
 type: sec-filing
-count: 375
-created: 2026-06-16
-updated: 2026-06-16
+count: 378
+created: 2026-06-22
+updated: 2026-06-22
 ---
 
 # SEC Filings — Tracker Index
 
-_Updated: June 16, 2026_  ·  **375** filings tracked across **11** public competitors.
+_Updated: June 22, 2026_  ·  **378** filings tracked across **11** public competitors.
 
 | Filer | Ticker | Competitor | Filings | Latest |
 | --- | --- | --- | --- | --- |
 | [[affirm-holdings]] | AFRM | [[affirm]] | 30 | 2026-05-07 |
-| [[block-inc]] | XYZ | [[afterpay]] | 26 | 2026-06-05 |
+| [[block-inc]] | XYZ | [[afterpay]] | 27 | 2026-06-18 |
 | [[bread-financial-holdings]] | BFH | [[bread-financial]] | 68 | 2026-06-10 |
-| [[firstcash-holdings]] | FCFS | [[american-first-finance]] | 39 | 2026-06-09 |
-| [[katapult-holdings]] | KPLT | [[katapult]] | 44 | 2026-06-08 |
+| [[firstcash-holdings]] | FCFS | [[american-first-finance]] | 40 | 2026-06-18 |
+| [[katapult-holdings]] | KPLT | [[katapult]] | 45 | 2026-06-18 |
 | [[klarna-group]] | KLAR | [[klarna]] | 7 | 2026-05-27 |
 | [[prog-holdings]] | PRG | [[progressive-leasing]] | 29 | 2026-05-07 |
 | [[sezzle-inc]] | SEZL | [[sezzle]] | 53 | 2026-05-13 |

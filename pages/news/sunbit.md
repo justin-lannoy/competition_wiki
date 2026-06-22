@@ -3,19 +3,19 @@ title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
 count: 9
-created: 2026-06-16
-updated: 2026-06-16
+created: 2026-06-22
+updated: 2026-06-22
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: June 16, 2026_  ·  News & PR for [[sunbit]]
+_Updated: June 22, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
-| 2026-06-15 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
+| 2026-06-21 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
 | 2026-05-19 | high | CollisionWeek | [Crash Champions Activates Sunbit Consumer Financing Program](https://news.google.com/rss/articles/CBMingFBVV95cUxOREhwZ1FFRkY2VzdUcFM1aW54TGpwZ0hvODVUdXktSUM2Y3F5RGZfSXMxeG90RDRBMldmMVU4S2pzM1E4ajBDNEVkYlpLN0kzd3gybExkLVZRZkhmamZEWm9WbzNuTFJoQ0o5eVBqMGZTRWtEODg2d093Rmxha204TDJ2QXUxcGZuRndtMy1VTXBkOEZTV0lOcVNTRXRsUQ?oc=5) |
 | 2026-05-18 | high | PR Newswire | [Crash Champions Rolls Out Nationwide Fix Now Pay Later Solutions with Sunbit](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY01PLWNqWEN5eHFBNnBlSXpMRVJFdHJlOWhwcFRpYTJCUkxDZjlTdWlsemp3MVRMd2VwUkxtdlhEZVRQV1lCRkVVMFd4U0F0ZmdWb0VYeTFEdlJ0alV1bWI4SFZQXzgyWnNPUlBLaEV4WkM5N29wamRqRlRMWDd2RUMwX3o3cG1yd2xzV01EeHFlbUhfVUFsbWR1YU9HZGFhVmpsX2s0NzZZbTl4SGxVVkpiVWpQQlphcTByUWlsM2t5VjZzN09sQWNmdzg?oc=5) |
 | 2026-05-15 | low | Tracxn | [Sunbit - 2026 Funding Rounds & List of Investors](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQU4tb1N6cWhYa2REQ1RYQV9mNGlmcFdQTlhIOEUtV0RwSE0tTTI0RllqaGJJeW5WTk41c0tkTUFLS2sybloxOWZSbVhzRElYWlprTTB4akhzenB0RVVtbkVYVFo4RktjQzczMHFTLWw1VTZhUWsxZzRGS0l1bnN3c2RiMGE2RDV0bjVxdTZpdWNnVERlV2ljcXpOaXIyME5XaEdoTkdudnY?oc=5) |

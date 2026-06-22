@@ -3,13 +3,13 @@ title: HFD (Healthcare Finance Direct) — Recent Coverage
 type: news
 competitor: [[healthcare-finance-direct]]
 count: 6
-created: 2026-06-16
-updated: 2026-06-16
+created: 2026-06-22
+updated: 2026-06-22
 ---
 
 # HFD (Healthcare Finance Direct) — Recent Coverage
 
-_Updated: June 16, 2026_  ·  News & PR for [[healthcare-finance-direct]]
+_Updated: June 22, 2026_  ·  News & PR for [[healthcare-finance-direct]]
 
 ## Coverage
 

@@ -2,19 +2,20 @@
 title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
-count: 4
-created: 2026-06-16
-updated: 2026-06-16
+count: 5
+created: 2026-06-22
+updated: 2026-06-22
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: June 16, 2026_  ·  News & PR for [[kafene]]
+_Updated: June 22, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-16 | — | Home Furnishings Business | [Furniture First Golf Tournament Raises Over $56K for Three Charities](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeE1qdE1BT21BSEw2aDM1cVNpVU9vQ3dtTEZDVWNQVDhWeFd3dDdTRTBYME1hVWhwTnhCeTRfaDJsMU0zODZ1QkZITkVXX3RxTUtWUmN0eXF4Qk85d2NPM3FXbElRaXQwZW1IX2lKMWY5UVBRdHFNRzNNWVo4NU0wM0cycl9hNHlWOXhmUm9ZSDVjcmcteXdDanpPcy1HZFlrOVFaV29YMkZDOTAxUk1FdlN3?oc=5) |
 | 2026-05-27 | medium | PR Newswire | [Kafene and Harry Ritchie's Jewelers Expand Access to Flexible Purchase Options for Jewelry Shoppers](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlaNl9Vcll2X2hWM01xSjh3clF2Qmd4dmpXUUpWamtScVlnZmN5OUZEWk82WFo0eG1SMGtHSldRMlQxQlFnX3I1ZllMa2tlS3duWXRBcU1TaE55TWtvT1UtYU1kUm0xcWQxOXJLRE0tVHlTVjVHTmJLM1B1SzJudmZrdC13RjNtZHhxcmNCeUstQTVzMXloQkVpNjliZGRzUTIyRVFEMDgtLS01Tmd0R21GbmRlVWJHMjhCTmJmNHh0bUJXcGNTVFNzWDFJU2p6M3RoSzBiLXFaNjNVRndrVXhJbmVMZ1hxaFE?oc=5) |
 | 2026-05-10 | low | Traction News | [Dan the Tire Man Launches No Credit Needed Program for Tire Industry, Driving Pre-Approved Financing Customers to Local Shops for Same-Day Sales and Installation](https://news.google.com/rss/articles/CBMinAJBVV95cUxQUEhCemtZVWstQXVSYmtNcjlUSUdtUVZWNFVLbzFjVmlfMDNzVEtnekpiNmNLeDZfeHk0QjJReVR1em41X3JlX0VEYnVYYTZOYmZCNzM2Q1U5SUxlaWVEM3hleVpQX2VPMFZXUTc3NmVJd295dV92ejA5VE4xRkxPOVlVVFNxeHNhZG5tdXpYYnk1bGxIMUJYNlBFWklPNnN5aFMzZ3Z4cWtvbm4zTF9TS1hnQkV0bTFBWC02QlVrUkFVSlpXbTNpcVNDbEVWc1JqNFpDWmdVVGJoMXVfcFFob1lzdmU2cEpIeXBZTmVJbzA5ZmxZMGMtMjZPSGhXWEdhc2tLcXE3Y2dPdHhjLXk5V01QT1B0NkVxLXg2TtIBpAJBVV95cUxQLTFRajJEaGljYmVhWUczQ3l0TFZSb0dRX2t6VWJYcHRmbFVjZ3lINjFkSzk5M0ZoMVBkMXpNVWt0bHhlNkJsdUZvM1M5WUwyZjMzYU9PUFBVR2p0MDYyVU9CU1JfRXVoRlJHQ0xSVkZPOTVhWV9TdTZvdENuNEduaEFzcXdLNU9mY2E5ZUhqRUgzRzlyaVpmSGp0NVpoSFBaYXNtRUMwRWQxa1BmNnhhMktXLThuT3VVNTJRWEd0VlFUZ0dLc05YYklPZUtZdUZCZHNianhBUXFBX1hkWm9CTDF1Tkp2LXlmZGg1RkJ0OW5uSG8wX3RLV2REWkROdHFkcFp6eTg2RFhpTWl2SFlGS1FnTUFRVGtEaEhuT2YyUlVnZ2ZP?oc=5) |
 | 2026-05-05 | medium | Tire Review Magazine | [Dan the Tire Man Launches No-Credit-Needed Lease-to-Own Program with Kafene](https://news.google.com/rss/articles/CBMieEFVX3lxTFA3aTNhU3Q3WkY1VDFJYUdWNF90ZDVkVmFLa1Fsa3BIZHU2RXowQVpKd2FnSFpQOTZMOXU4OUE4UExHRU5vOHdWWEQ5WFNteHFpNjJ1MzVrZGswY2M2bDRZcFJBa2FrM2FiT20zNjJXWDhBZmliRnd3bA?oc=5) |

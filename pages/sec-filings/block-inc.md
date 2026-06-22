@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[afterpay]]
 parent: Block, Inc.
 ticker: XYZ
-count: 26
-created: 2026-06-16
-updated: 2026-06-16
+count: 27
+created: 2026-06-22
+updated: 2026-06-22
 ---
 
 # Block, Inc. — SEC Filings
 
-_Updated: June 16, 2026_  ·  Filer for [[afterpay]] (XYZ)
+_Updated: June 22, 2026_  ·  Filer for [[afterpay]] (XYZ)
 
 ## Financial trends
 
@@ -45,6 +45,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-06-18 | 2026-06-16 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526275869/d55271d8k.htm) | [file](../../sec-filings/block-inc/2026-06-18_8-K_0001193125-26-275869.htm) |
 | [8-K](#f-000119312526259540) | 2026-06-05 | 2026-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526259540/d140803d8k.htm) | [file](../../sec-filings/block-inc/2026-06-05_8-K_0001193125-26-259540.htm) |
 | [10-Q](#f-000162828026032200) | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000162828026032200/xyz-20260331.htm) | [file](../../sec-filings/block-inc/2026-05-07_10-Q_0001628280-26-032200.htm) |
 | [8-K](#f-000119312526212032) | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1512673/000119312526212032/d132441d8k.htm) | [file](../../sec-filings/block-inc/2026-05-07_8-K_0001193125-26-212032.htm) |

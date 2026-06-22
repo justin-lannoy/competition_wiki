@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[katapult]]
 parent: Katapult Holdings
 ticker: KPLT
-count: 44
-created: 2026-06-16
-updated: 2026-06-16
+count: 45
+created: 2026-06-22
+updated: 2026-06-22
 ---
 
 # Katapult Holdings — SEC Filings
 
-_Updated: June 16, 2026_  ·  Filer for [[katapult]] (KPLT)
+_Updated: June 22, 2026_  ·  Filer for [[katapult]] (KPLT)
 
 ## Financial trends
 
@@ -45,6 +45,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-06-18 | 2026-06-17 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326009184/dp248651_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-06-18_8-K_0000950103-26-009184.htm) |
 | [8-K](#f-000095010326008665) | 2026-06-08 | 2026-06-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326008665/dp248120_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-06-08_8-K_0000950103-26-008665.htm) |
 | [8-K](#f-000095010326008473) | 2026-06-03 | 2026-06-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000095010326008473/dp247764_8k.htm) | [file](../../sec-filings/katapult-holdings/2026-06-03_8-K_0000950103-26-008473.htm) |
 | [10-Q](#f-000162828026032985) | 2026-05-08 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1785424/000162828026032985/kplt-20260331.htm) | [file](../../sec-filings/katapult-holdings/2026-05-08_10-Q_0001628280-26-032985.htm) |
