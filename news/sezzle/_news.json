@@ -285,7 +285,7 @@
       "title": "What Is Sezzle Spend? How It Works Inside the App",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjhBNFBVU0lVRVhfZXhsWWtFQ25RWXJubTR0emZOUENHaDEwWEI2Y3JUZDBWazUxOXZqSzFoRnpDY1BqMmpLcTJvaHpQWHc0Xy1MdDhxSVNCbm51cHB1Wkg5bzVRR3FuSldyMVZVSGFOWkllZkJOVk9Ea0ZEajhtbA?oc=5",
       "source": "Sacramento Bee",
-      "published": "2026-06-16",
+      "published": "2026-06-19",
       "feed": "google-news",
       "snippet": "What Is Sezzle Spend? How It Works Inside the App Sacramento Bee",
       "summary": "The headline/snippet is too thin to draw meaningful conclusions \u2014 it appears to be a SEO/explainer article about a feature called \"Sezzle Spend\" within their app, but no details about the feature's functionality, scope, or strategic intent are provided. Without more context, the read-through for Snap Finance is unclear.\n\nSignificance: low \u00b7 Category: product",
@@ -295,7 +295,7 @@
       "title": "Sezzle Mobile Review: Can This Plan Actually Compete?",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmb0NYcGt2dC15ejAtcEU3SFc5aFZiWHZDbTlKMFRvS0tzYTdjazJvUllCVHhKajV1TF8zNDhRaDk1Y0ZDM2N3dDBHcWJ2WHJWWmRPc0tNUG93ZTB1VzBVYmM1TlBXenV1clBSMGJpOA?oc=5",
       "source": "Sacramento Bee",
-      "published": "2026-05-19",
+      "published": "2026-06-16",
       "feed": "google-news",
       "snippet": "Sezzle Mobile Review: Can This Plan Actually Compete? Sacramento Bee",
       "summary": "The headline and snippet are too thin to determine what \"Sezzle Mobile\" is, what the review concluded, or whether this represents a new product launch, a partnership, or an existing offering \u2014 no substantive details are provided beyond the title.\n\nSignificance: low \u00b7 Category: product",
@@ -345,7 +345,7 @@
       "title": "Sezzle Stock Sizzles 16% After The Bell As Investors And Retail Traders Cheer Record GMV Growth",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2hkbDdvOVlIUFhxZTVFRHFaVGZqRmo2SnpLeXlDdkNfZU5XbnlBUXBNR3Q4MUxBN1NUQ3BsQVBrcGI0OGRDRVNmSWdodEtIY1gwZmgyekZHMWdxZlZzaEtfeW1yQUpBVFFpQ2p3NTg0NUt6SjFqXzhjMF9ISS0zUWg4RUNyeC1wQmhhZlJsS204SmJRWWlhcmdsREdoeWtsMU1FUEFLVmRNa0laNlJGd1BVQWxKYmdreWppazFnckdHa0pEaFB4LW1NRlkwOGR3OXVRQmpTbldyYzJt?oc=5",
       "source": "Stocktwits",
-      "published": "2026-06-21",
+      "published": "2026-06-27",
       "feed": "google-news",
       "snippet": "Sezzle Stock Sizzles 16% After The Bell As Investors And Retail Traders Cheer Record GMV Growth Stocktwits",
       "summary": "Sezzle reported record GMV growth, sending its stock up 16% after hours \u2014 signaling strong consumer demand for BNPL/installment financing at the point of sale. For Snap Finance, this suggests the broader alternative financing market remains robust, though Sezzle targets a different (prime-adjacent, smaller-ticket) segment than Snap's lease-to-own, subprime-focused model.\n\nSignificance: medium \u00b7 Category: earnings",
@@ -619,6 +619,87 @@
       "published": "2026-06-16",
       "feed": "google-news",
       "snippet": "What Is Sezzle? Breaking Down this BNPL Service Charlotte Observer",
+      "summary": ""
+    },
+    "17aa08875e2dfe40": {
+      "title": "Sezzle vs. Affirm: Choose the Right Buy Now, Pay Later App",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFY3FfUnB0emlmOHQ3U1lOcUZ3bGxJbWppX3NLUTAtcS1DWWg3LTdNaDNacmw2RUNOMm1yVTlQWXFaOFlxN3d4R0VFMmloNE1UR2M0WE9aUjJ1OWNsOFdXQVNLUDVVVXRtUEpMMHJ5bXpSSDBST216cw?oc=5",
+      "source": "Charlotte Observer",
+      "published": "2026-06-29",
+      "feed": "google-news",
+      "snippet": "Sezzle vs. Affirm: Choose the Right Buy Now, Pay Later App Charlotte Observer",
+      "summary": ""
+    },
+    "e9ef2630e482bd1c": {
+      "title": "Sezzle vs. Afterpay: Which BNPL Is Better for Your Finances?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02TzZqSHRmLWp0WUNCemJ5ZnNlNXlGMU1WLWM2anNzdFd3UENTZzAzV1hNc3psQkpOZUQ2VENwWUJ1YXJtRk03aVkzNy15RE93WWIzaVA5MWtDZ1FYcXBkNE16aDVhTDVUOVlSMg?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-06-29",
+      "feed": "google-news",
+      "snippet": "Sezzle vs. Afterpay: Which BNPL Is Better for Your Finances? Sacramento Bee",
+      "summary": ""
+    },
+    "64830e8e31a25886": {
+      "title": "Sezzle vs. Klarna: Comparing Two Popular BNPL Providers",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yRy04bEx2VmZBSGEzMU1LajRTMDlCQWtlU0dtanZJNlZMUUZTdEk1TDZlbGVmeEM2NXAtZHFFb1hIX0xfLTE3MnNHYnJXRVM0d1BhY21vUllKd2tsNzVuQzJjUmNkOERoYXc?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-06-29",
+      "feed": "google-news",
+      "snippet": "Sezzle vs. Klarna: Comparing Two Popular BNPL Providers Sacramento Bee",
+      "summary": ""
+    },
+    "a2e31b3baca9c500": {
+      "title": "Sezzle vs. Affirm: Which BNPL App Is Better?",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uNkFtTVZtYWI0czJKaXJSeVBpb1lQLTlROWs0S3JlZHV4VUQzNy1ibUJHeWZfa1hTX1BlWWF2MjlGelh6N0xYV0x2UHdwS0l5WkRLb2dDQm11RkFsYzAwelo0cnVUalpRamc?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-06-29",
+      "feed": "google-news",
+      "snippet": "Sezzle vs. Affirm: Which BNPL App Is Better? Sacramento Bee",
+      "summary": ""
+    },
+    "8c5703d37fd76ad0": {
+      "title": "Sezzle CEO Says BNPL Market Share Is Coming From Regional Banks, Not Rivals, as Stock Soars 150% YTD",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkhUbFVtLW5SeGp1S2JPYno0WVRMZWJXWlRUbEdNRGIwOHdnYWhqR3MtcVdxZlV2d1hNZEUwaVFoZXZXbjJid05FemxvZTlreXVIS0dZdHdOa1VReTFnSEpZdWFZNXZZOXJVejZocHR4ZGdxR0dRT2dwV012Vm9RbWUwZmpxcDhjNW1XM3ZOazJvQ3c3VC1v?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-06-26",
+      "feed": "google-news",
+      "snippet": "Sezzle CEO Says BNPL Market Share Is Coming From Regional Banks, Not Rivals, as Stock Soars 150% YTD Yahoo Finance",
+      "summary": ""
+    },
+    "75d622c4924c8744": {
+      "title": "Sezzle CEO Charlie Youakim on the state of the 'Buy Now, Pay Later' space",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkw5cGtTMDNCWldpdlFXQzQxOUhQTGpOU1o0THJnZVlJV1BFdjQwRlIzcGFvOTVRNlFTTVczZWVuS2dHNTJrZTQ4eFdHQU5yMGNmVmxLMGduaUpYcmduT1JiQ3dPWkdSb2pIdW5ZcDI4Ui1Tek5zNGNwS1ZCOWU5cUpzWkF3MDdBR0hSS3RkZ1ljMDZCUHd4UXlBSXRfVGdrc21ITXhwUWVWWG5GVVdqdjRHZw?oc=5",
+      "source": "CNBC",
+      "published": "2026-06-26",
+      "feed": "google-news",
+      "snippet": "Sezzle CEO Charlie Youakim on the state of the 'Buy Now, Pay Later' space CNBC",
+      "summary": ""
+    },
+    "8e51fd7a2fa41d14": {
+      "title": "Sezzle: A Host Of New Product And Service Offerings Renew My Strong Buy Rating (SEZL)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTRCYXJ5TjZ2X1dDbGRvYUJKQ1RsbEVNU0lEcXVRbHNXMndNSnctUjFHLWhCcXZQR0tTUVdkTV9ybXVRejFYbjVwQl9XRENlZFhndnNXVjNab2pIZEpzZzFxNi1LeldDcUVQN2VSY2tkUC1IYmtlMFR2RVJ4cTE3VmRWSTJQWTdWYU9TUDZhdi11WHBFeWJIVVlfa01vSEpLaVJxek5EYUkzelNtSldUd0NzZVZKWWs?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-06-26",
+      "feed": "google-news",
+      "snippet": "Sezzle: A Host Of New Product And Service Offerings Renew My Strong Buy Rating (SEZL) Seeking Alpha",
+      "summary": ""
+    },
+    "a039336c4e776b33": {
+      "title": "Sezzle Stock Has Surged 102% Since April. A Short Squeeze Could Be Next.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWhOcHpZejJBQ0x6UkpTMFdiOFFNb2ljVkQ1Y0lIS0w4a1lJZFJiTDltS2kzYXc0T2FlS2YtRzJDcExPNnlKa0dwckZMZEc4LTh1YWllTHFocVd0Q0lHejB5YUdVanFSSC1wM09RWTE0U0hyRmVpSVpOOEpzTng1bHJxRkljaUxkTW96dkdWZmpDNklCbTJSem9B?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-06-25",
+      "feed": "google-news",
+      "snippet": "Sezzle Stock Has Surged 102% Since April. A Short Squeeze Could Be Next. Yahoo Finance",
+      "summary": ""
+    },
+    "737ed8269b51a2f2": {
+      "title": "Sezzle Review: Everything You Need to Know",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TVDJVMnc3ZG5fWnNUY2FHSFAxQ0ZfZ0NXcTU4R1NoQVloYkZCMThSRkd1d0U5VlgyQm83X1UyTlBwWmQybS1BZTZUVWhwVFVsanJJaWR5NklQdjdtUHd2VUxULXlkZw?oc=5",
+      "source": "Sacramento Bee",
+      "published": "2026-06-19",
+      "feed": "google-news",
+      "snippet": "Sezzle Review: Everything You Need to Know Sacramento Bee",
       "summary": ""
     }
   }

@@ -2,19 +2,28 @@
 title: Progressive Leasing — Recent Coverage
 type: news
 competitor: [[progressive-leasing]]
-count: 38
-created: 2026-06-22
-updated: 2026-06-22
+count: 48
+created: 2026-06-29
+updated: 2026-06-29
 ---
 
 # Progressive Leasing — Recent Coverage
 
-_Updated: June 22, 2026_  ·  News & PR for [[progressive-leasing]]
+_Updated: June 29, 2026_  ·  News & PR for [[progressive-leasing]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-29 | — | TradingView | [Price to earnings forward of PROG Holdings, Inc. – NYSE:PRG](https://news.google.com/rss/articles/CBMingFBVV95cUxQUHQzQUpUa3ZfakJtWm50NlN1VDBTVVRfZHFJU2RiQkM3UHFUeHVHclExbGdfYVUxZlIzV3JobDUtNTBrWHlLNzZLcm11MWlTaVBRcDBUUVloQ2FyTy1zRkl2NUZNbTJ2YnJ3MHJuelBIV2RvMzVvcFBHbTJtWEkydzNvVGwzeUJYX0IxbGUxemw4aG1nMDduZU5QUnVIZw?oc=5) |
+| 2026-06-29 | — | marketscreener.com | [PROG Holdings, Inc.(NYSE: PRG) added to Russell 2000 Growth Benchmark](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjdtMk9vd2dfRWJ3S3FlRXhIMlVXYUg2TldFUkdudGloYTZSU3F4dGM2aEl5VDU1WXdTQy1vR0dLSHY3QVZIM25naGZqZ2lJc095UGhvZVhCQTlHbUEyTm9OUWhRNVlmaUNmNkFiWjdYcWQwOEczSGRHYl9uaFkxRWx2RDNxZ2JPT195MDFoakdpUXpGbTV0Z3R2eEMzOG5aNWhwMldVLUJHYTJLc1ZmU0U3ZllhQnZkd3c?oc=5) |
+| 2026-06-29 | — | marketscreener.com | [PROG Holdings, Inc.(NYSE: PRG) added to Russell 2000 Growth-Defensive Index](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbml6NVltdVdlOXNMeUpCbnU3aGh3TzkxSDZBVXJkTkc1NHFYMmlYd3YwTlN6NFBiMVU0cUhhdXoyU3lGVFRoYTM4NjQ5cUlPeDR2R0h4Smt6eGRCcTk2eHB6d2ZiQlAwUzhIZm11V3hpQmVfTk9fRTJuMUZXc19VUzdrN196SjRMR0JxdVRLV2c4akxKZVZ4OGdoYVFGeHBjWWNaNS1UVUZibl9xWlZPUU56Y3lxUTRHNldZaDlxcjU3QQ?oc=5) |
+| 2026-06-27 | — | TradingView | [Price to book forward of PROG Holdings, Inc. – LSX:A2QKD7](https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGd3SGRqU0FKWWJrUnZVeTFJSTF6cGI2WXFLbXFaZF9FWGxVbUNMMVFveDBJOVNFVlRScHBqQXMwc3JXdTh1WUxpTlFidElpRUFPQTJmLW9WZEl0Vk5QVkhGRzYtR2dsbDVRMndVSDJqd0Vla05YZFZkUVhFelBQQ1hWX3N4QWxscmlqdnpZWWZKSzdNS1B6VHBDaw?oc=5) |
+| 2026-06-26 | — | Yahoo Finance | [PROG Holdings (PRG) Soars 5.1%: Is Further Upside Left in the Stock?](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDhJTGpDVkd6ZGFRenhQdDFWdzA1M1ZQSEJhWWJoZ2RuTld2VF9iR2VfUFRCU3d2MFBaM2lLNlNfNVcyNlBxemQwMzlVbGdzd19xMHZfSGZsc0tpSG55a0M2NlVfMWdORVdRa3ota09aeTFremVzZ216ZFJhbU5HRW9ieG45SVFMVWlnRmJYdVhZdzl5?oc=5) |
+| 2026-06-26 | — | MSN | [PROG Holdings (PRG) soars 5.1%: Is further upside left in the stock?](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlJVTEl5eXd3Wjd6NGNHVEJnUnZ6UURJdGNmNGdvX1JsUWNucXhWdk14MklTeHpyVVFFUEttaW5BTjU0NkxHZDlQcWo3SzhiRWhFQ0Q2X0ZYMl9UUXFhS1d3S0tpMGNkN2xnUDVNQV9IR2RydmlNMjJxZlpCSmpYMDhVdmEyd3pGMXZpZXNzdlE2S1lsb0tBZFdKWmFBU3QwT3ViUm5DMHZoc29wZzN6Skp4UnluRl9L?oc=5) |
+| 2026-06-26 | — | MarketsMojo | [PROG Holdings, Inc. Hits New 52-Week High of $44.27](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjZSY0lkQVpYQVFIWmRQcTIyMUNiYmR1NFVLUmJCR0NrRUZqYXVONzRtWThaSjhmVVlZQk1LQkxuaDZ0QVVfalFTalBCVmZ4Zk1SOVRaaUxzN0hHSzVLcE5LWk9Nb0NNN1NjRnhMcWEwaFpINFlCcVlFTUhyZjlNd2t6RVR3WkZZSlNGdFlhbi1XN0thYTRDdGh3bldENUlxb1RVNkJIUks?oc=5) |
+| 2026-06-25 | — | Investing.com | [PROG Holdings delivers 63% gain after Fair Value spotted opportunity](https://news.google.com/rss/articles/CBMixwFBVV95cUxNWG1CdlliZGF5V2xJd3l0SjZoclowVkRWSzk5bTJBeE9uVENqWDhReHE0ZzVpLWF5NmFRMGhTUUhFWWNQaFE5dm9xNUJXQUVhb3B3dy1oNGxiSHMzazBabUNIR1U5ZkIwaG1Fa3JPR3JRcWVnZ01YTENvdFhDb2h5SmdHSU9DVG9CaTJQbjlTU2lVdS1OeE5XRUl5dlR4dERySE5XV0hpUDhyeUh2dkY2V1pNMTExd01XS0hJczhHS3h6MU9remtB?oc=5) |
+| 2026-06-24 | — | Investing.com | [Prog Holdings stock hits 52-week high at 41.16 USD](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkFUV0FQVjhHdHlvSUMtNEtSODVCZ0dqV2YzbkgxLWhFaFZKYkN0dTV0SXZ0UklSalFEV1lBa2RSbkFieGI3STBTVWFhVlI4alpOOG01VGhSR05UWGctNkctT0RTV2JlMWR4ZU9Lc1AtRXVfNlFBV0xkVXVvNlpIYXROdUdwU0lBYlp5c3JaYWZOcm1IRmFXVzZ0Zkw4a2xVbVE5MVBEcHo?oc=5) |
 | 2026-06-18 | — | TradingKey | [PROG Holdings Inc (PRG) Earnings Forecast: Future EPS & Revenue Growth Estimates](https://news.google.com/rss/articles/CBMibkFVX3lxTE03Sk45TTI2blZ6a2hUNlc3SWdkZ2VtSWExRVVUbS1jV1JVcDg5QzFKZEoyYWgtQUN2cGxPVURXSjNwUHp4OTNOdVF6UVFFSnpPZWk5VVpNSS1CRkVDeGE0ZGxjcVBfUU5NLUduZTZB?oc=5) |
 | 2026-06-18 | — | TradingKey | [PROG Holdings Inc (PRG) Technical Analysis: Support, Resistance, Indicators & Moving Averages](https://news.google.com/rss/articles/CBMib0FVX3lxTE82Y3NGUDBrMU1JMldVaGFiaXdyM1p0UWNtNEJKR2R5RUtINTVNN2wxaXp1LXNEd25hTUZOUXYwNk5zMnZkSHB2ODI5aml4YVVNQU5nQ1BiSUQ1VGJCcW9WN2c2ZW9OaElPSVBJbTYzWQ?oc=5) |
 | 2026-06-18 | — | TradingKey | [PROG Holdings Inc (PRG) Financial Health: Profitability & Balance Sheet Analysis](https://news.google.com/rss/articles/CBMieEFVX3lxTFBpbkxTckhEY2dEMU1PUl9GYlpOWFc3OHk3YkZKSE12bmREWGsxLW0zWVlOMjRWZFhSRUdwOE1vZk1hVW9QS1NET0FQNTc1WmQ0a3BleEFmeW1sZE9PWC0xSmJjUHpmM1VmTlpkMXJWUk5Dd2IycVphRg?oc=5) |
@@ -27,6 +36,7 @@ _Updated: June 22, 2026_  ·  News & PR for [[progressive-leasing]]
 | 2026-06-10 | low | Stock Traders Daily | [How Prog Holdings Inc. (PRG) Affects Rotational Strategy Timing](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSVFvUmd5dE4wT3Z2cjQxRjFWTGVuejk2LU9kcXpwWnExSjcxU0o0LXhGUE1HQ3RSNHQ1dUg0RDJOQzYwc2doU05zbmdwQVhkZk9ZamxONk1TUDNPV3lENjlOYWpLNm45dEpZQ25yMk15TWFTNWdyd1B1S1NMV2pBOGRnYk13a0JDTlhTaE5VZE11T2EzdUhFcHRxTlB4TUE1Q21pQWNPejVPRmlkaEpTdGI1Mnl4WmJfdFJJc0hkdzRFZk5qUTBoRUJNaDZIa09uMmltV3Bwcw?oc=5) |
 | 2026-06-10 | medium | newsline.com | [PROG Holdings (PRG) Q1 2026 Earnings: Shares Dip Despite Massive EPS Beat - EPS Surprise History](https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWVIQzBhcjhoRU1FMUFtSW5TWF9BTHdPekgtTU5nLW5tUFgwMmJMRmxSUV83SXd2N3JSNzdkUXNkMVM5UkZOMkhoTUxidGNEbXdsQm1sa0Zfd2VyQW9JQ0tuUlF3bkJQOTZldGNuWElJWTVJUjFHa0JxdG1XbV9aVGtvTUZySHl5RjdXNGFybWllcFJYLW8zQmtrRmVoSFZvNlQwdVZ1cFpXbXNqTG9SVWZR?oc=5) |
 | 2026-05-29 | low | newsline.com | [PROG Holdings (PRG) Edges Lower as Stock Consolidates Within Recent Range - Revenue Growth Stocks](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1dycjE2YzhtT1VDZXR1aXIyYnhnOWJLUEhCbmNxN0FaTGxRaTYwNWkyOFphdXNsUmpnMDd4aTIwaUxmNFlXT1hBUEpmd1FJQ1ZQVkdlRktRV0tKTXhPbVRsbm42Y1RCd1dLYnF4SjgwR0NVMEgxeXB6aURUc1dfOG1QX0dnQWhLLTRXWThULTFhWkFIOFd2S1BpQjBjRS1KeHFtTDFsNkFobnREbVdxSTdR?oc=5) |
+| 2026-05-27 | — | Finviz | [PRG - PROG Holdings Inc Stock Price and Quote](https://news.google.com/rss/articles/CBMiREFVX3lxTE9NWEY0cTAzWGx4bXlVZHZZU1BnS2VCMkswNW1oQXBFM3BQQ2JlSTlrWEwxOENoQ1VKQTdycjhwdk5raEJL?oc=5) |
 | 2026-05-25 | medium | Yahoo Finance | [How Flat Sales And Weaker Credit Quality At PROG Holdings (PRG) Has Changed Its Investment Story](https://news.google.com/rss/articles/CBMingFBVV95cUxOXzVwaTY5ell0bTYwU3h2bV9mWXpGOVVieXJCU0FKWlY3ckV1QlVOdGtuQUZMdWw4dHYxSE5nNVhxOHBDekxWRWpxN0Y4bWRqVTM4cERQVk5leXBVa1BLTFdPUGZKMFI0MHRhTV9MOWQwQ3A4RUl2RVFEZVRPVXQzVzQ5aEhYakZxTGlDSlU0V0p6NUlQajFaRmxWeHdrQQ?oc=5) |
 | 2026-05-21 | medium | Yahoo Finance | [Wall Street Analysts Think PROG Holdings (PRG) Could Surge 35.67%: Read This Before Placing a Bet](https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWhkVEJzMnVKQmlSckZnVHg4Q1pSWWRvUFNCQ1FoMUxvTTVhRHdvR3pRUmdYcFJiVEZiaTB3ZDFqZVdHM3BHV1JQcmpLRkVZUFZKNUkxeGxuZ0p2RU1hVXFMM254WWFDY3JtYzRqaWxicjhjQ2dIaVJYZlNnZVBBX1cxb0VFem5WWEZqMHdfY214XzRUdHhWRkN4dHQ?oc=5) |
 | 2026-05-18 | low | Yahoo Finance | [Are Finance Stocks Lagging Prog Holdings (PRG) This Year?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGRRM1B2Uy1qaC1JY2tRX3VadlBPNXVQanFacnJfd3hfQ1NoYzJ6NEdPWWtGYXJrYTIzbmd6Z2pwdi0xcDJYRnlOZGxMQndxODJVUWlsVjhUUWpkLTNubHlUTkxYQlBfM3VlQy1QY2ZPN0VMWXM1Y2ota0gyOGdpejRJLVlGLUdiY0E?oc=5) |

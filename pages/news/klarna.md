@@ -2,39 +2,56 @@
 title: Klarna Group — Recent Coverage
 type: news
 competitor: [[klarna]]
-count: 55
-created: 2026-06-22
-updated: 2026-06-22
+count: 72
+created: 2026-06-29
+updated: 2026-06-29
 ---
 
 # Klarna Group — Recent Coverage
 
-_Updated: June 22, 2026_  ·  News & PR for [[klarna]]
+_Updated: June 29, 2026_  ·  News & PR for [[klarna]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-27 | medium | Stocktwits | [KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVnlGWlJ1aVJwczBaUU1PVUNMZmEyZFZSa2poV0RuMkxOM1pSU3dIcl93aFZSZzJTVThpMW9XcTBtUHUwWWRZQTh4VWdtamdhbVVmRzBjTUh1WDRkczVCaHdfY1dxUmd6NFpXYnoxM1hnS29hQVEyNThwcXNIN2RpTzdyX3E0cEdYUmszVEpwVE9ZX2R0eW5pQUtBOU9YdlZXZWNTSU1QWEt4RTA1bUY2MVplZ1BzT3pmVksxdlFTTHplUUxkbUVMekwxckZRT2tMamZBNFBaVExsMmd5am9Mb2stVHNxWmJF?oc=5) |
+| 2026-06-26 | — | Yahoo Finance | [Klarna (KLAR) Partners With Bolt To Bring Payments To Four European Markets](https://news.google.com/rss/articles/CBMinAFBVV95cUxONDRfR25XVTZJTE5BWXdmaERyWk1EbVk3MDFENTdWWTZNbDRwcDl1enJKY19XMHBFMGx3RENKUEh2aVMzdEhIcHg2bkozdDAtdzk4d2R4d2Ztd3JJWUdsOGFEY2RLRkF0YW9xdHpTeEpHWi1MSElENWw4bzVWaXVHZEtBczB6R1R3LTdWYUlyWDdITEZHd0hKOHcyV0Y?oc=5) |
+| 2026-06-26 | — | TradingView | [Price to sales forward of Klarna Group plc – NYSE:KLAR](https://news.google.com/rss/articles/CBMimwFBVV95cUxORklZVzBQRklrUXRxVWIzTEZXRTFSdTF5WDlOb2M3eUNSYzVGQjhUWDJhaWxoZWZJSU1UaGlCcnBOT3BrYUh0WFctNU13NUNjWUxZbzlGeFoxaGVSUWhIYXpXN1hCWG9YOEdNdkMzUW5pOUFnWUd2T2dHa3pjWjBya0I4MHc4ZHhyQ0pUS1J3c3JKbXBUMFBxMEppQQ?oc=5) |
+| 2026-06-26 | — | TradingView | [Price to book forward of Klarna Group plc – NYSE:KLAR](https://news.google.com/rss/articles/CBMimgFBVV95cUxObjVuWVRqbFBjaVpuWXM2ZHdvdTVUdWtsSFNhZEVyS25uRFBNd2FYRW9JZWNtVklDcC0yZVFxUU93eGt1WVRKYnltNXQ3LXJQMzJVSktCeGZOYTFuMmdvblRVdXpYWFVWaHgzZHNNSUtwUmdsTnFyODVYbzBTOWVLTW9OdHBlV3UyVHoxUFdyYklPQ204cWVRNm5n?oc=5) |
+| 2026-06-26 | — | TradingView | [Price to earnings forward of Klarna Group plc – NYSE:KLAR](https://news.google.com/rss/articles/CBMinwFBVV95cUxObFY0eU5penV1cnZBRk9iY0tXMWlMMzhOdVFkczZMS1hvYmdfdzBNY0FVbEdjczJrMVctUzBhM2gzc3hUeC1sNjlZQWJNbFNHYURpNkhxR3ZXSVRCa3d3S1lwa2JibFF0WUMta29ySkxGQXltbXZWejJJb2dQcFFiMldoOG5sek9DUHNiTW5qSkkyUHNYM3FadDVudkF6NHc?oc=5) |
+| 2026-06-26 | — | TradingView | [Enterprise value to revenue forward of Klarna Group plc – NYSE:KLAR](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHJKQUlsY1JSaDZBUnA3NlMxU0xCbFFXRHdOUGREYnY4cENocmJsRVJSTGQ2T0tnRldCaE9leklhendtdE9CSVNUakJDVGJlTTlNNlVTZlpVQ1hqMEhWc01vdzQ1ZEVGZmRJSm1CTEUzLUFRSUQ3bG91SUdRV1AydnNYR0JBYkpOdll0MUZlSTZ0Yk05TlNuclNiMmFUZGd5NTZJYW9mcGJJZw?oc=5) |
+| 2026-06-26 | — | TradingView | [Enterprise value to EBITDA forward of Klarna Group plc – NYSE:KLAR](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOTk1bEZybnVWUWFBdFhrOGN3VWRpcnNEaW1Ra1VIYVU1bFRZSTV1LURJWEhiVWdHeEtVQ2ZfdjZnQmQwQnFmTXdmYTF3STExajcyaEw4OWtvLUlUVWVOVE1vZnZIUnZMNUtDUUJtcTVXeGpIX01ZRXNRQWxHWWlPLUVmM2Y1U1cxZElLcXNTblBCVHF2ODdKU2xrRlZhRHczMEZhNlBIRWJXX0E?oc=5) |
+| 2026-06-26 | — | TradingView | [Enterprise value to EBIT forward of Klarna Group plc – NYSE:KLAR](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjVvbEtCQXNNaFEtSy1zemxMLVRrMHlSSXdmYzFobGU2UHVxNTNjcC1CVmpWcy1JSTZSWl9VMl85SDNKUHBteW9WRWliZVVLb254V2UyTmVybVhmYm5nMmxWNEJtdUlwaEhGaG82WVhKSE10bmpsUlhIdnBoU3lHNHc1TEtEQ3dHdzBJdHpNWjcwWGo0MkF0NmVobktkRFBxMzBaTmNtRGY?oc=5) |
+| 2026-06-25 | — | 24/7 Wall St. | [Here Are Thursday’s Best Wall Street Analyst Research Calls: Brown-Forman, CoreWeave, Intel, JFrog, Keurig Dr. Pepper, Klarna Group, Qualcomm, Shift 4 Payments, and More](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPaVdHMW8wV096VVZDcHdoYW5adWVBVmpONHp1UmpBYVhJYVNEYWt2WElFZ1o5UVhJUDVYWHpYMTFNYlBOTTAyR1Vha3NWOElycDF4b2lXVWdFM2I5WlpocG9fUEtGWmYwdFNyQlJ0R3VBa2ZuQVJsZjdZNVJtalJfRXV6RWZxME15bkdhNTdzNHZuTHZiRl82cm4wZjJyeDRDT0RqQlJ1OUJBdzFHNldVZ3dzWDNWVUc5eFJFYmFtdm5nR1I3dWNYdTN4aTZEN3hCbnZxR3MteXZaa0RKRy1vTUpSdkNPVmxTd2p5SzliN0NRb2FuMldqMzlGU1ZXZnFNM291WE1uUk5mUDFYMzVodnlkYk4xaVYwOVVjQ2NFeEZENVJYMDN0bmtR?oc=5) |
+| 2026-06-25 | — | Yahoo Finance | [Here Are Thursday’s Best Wall Street Analyst Research Calls: Brown-Forman, CoreWeave, Intel, JFrog, Keurig Dr. Pepper, Klarna Group, Qualcomm, Shift 4 Payments, and More](https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkE4MFZBUWxLWi1zLV9qNldjUndEODlPT1JMTmNpY1VaQm9DRk9TOTZjM1l0b0U3am1yM3U4VXR4YjlIS1dBRERSVmRRNEFrMnVCbHUzbDNmUkl1SzRiSnhSTDlKR2N0Rm4wQlFxNEhLYXc1OTVsMGs0YVB2NnZsTFNIY1RYWm9YaUdGV3hHcDVTYTU1ZmVRSGd5SXJkOGs?oc=5) |
+| 2026-06-25 | — | Moomoo | [Klarna Initiated at Buy by Freedom Broker](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTEFzWDVwQTNscHZyeTl6Nl9CMFQwMm9FQkU2NXFnWkY4UHZWaDNEVmJrNXd4cjc4aVBfWlpYTVpzeU5EMkxTMnBhOEtvVHFhaXlZZXlJNkNRVWU3SmFwVWQ5ZE9leEFNaW4yRUJzZnMwQUVXOG5UZUMwRXBwdDE1TDBOM3FmUDdVNU5r?oc=5) |
+| 2026-06-25 | — | MSN | [Here are Thursday’s best Wall Street analyst research calls: Brown-Forman, CoreWeave, Intel, JFrog, Keurig Dr. Pepper, Klarna Group, Qualcomm, Shift 4 Payments, and more](https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMjF3OVVfV3hJZWw5ZWZ5dTA2R2Y0WDlaRF8zRHk1T2lXaG01Q0V5T1lxUm9jT1E2NXd2RzBEcF9hWGRqTlhpRlZDY0d6WHpKYk90Nkp2UEFMZFkySUkzUUpTeEhTYnBEa1hvLVpWMFgwUmVEM0tKcmd0alZsREtxazdhZEhnanRWRk0tN0RPVlFobDV1YXp4eUJjeFNkSUFRY0ZobWZGSVZkTTE4cTVTRUZhczJWVmhueXNxVUViV3NvUWNLLU1EZjNIMGxIMHlvdy1FeEx5a1NwUVE1VEZOckdvbHVIYTBxWllva1ZDS0dxeHU3TUxvblFjdXhvY2FUX04tZG9UV2xVd3BQRTd3Wk9mWVk5Y3Z1SWhMa0xVOWdwZEtMNC1zRi1VUWZCdjR6VjVMMTFSZlktazFUcGNsdzQxUzF5aGJDcG11OW5IeFEzRTlUanJuOQ?oc=5) |
+| 2026-06-24 | — | Moomoo | [Klarna Group - Judgment Now Scheduled for Jul](https://news.google.com/rss/articles/CBMingFBVV95cUxPaGtwVmtBOU1JcW9ienJRbERKY1lVYTRLUGRLR1lyX1ZEa1RfbTRnTWhpX01CUmZGU2I1T1I0RVJDbUZpOXc0T3RiSHA3ZWFwZXFnbV94M1hYRU9QVHBLd1JIZzNJOVc0cVB0c0tDNXlvZXBRTTNCUXdRVXpOWXJpemFjOHNldTdWanhVLWJUQW9vZU9kVHpPMzNoLUN5dw?oc=5) |
+| 2026-06-24 | — | The Motley Fool | [Klarna vs. LendingClub: Which Technology Stock Is a Better Buy in 2026?](https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzRMRjRnbzJ6QXAwd2lUVENJeWdHVm5VWVk0YnNoX3dKZVg4SGtFajZKeFYxWGdrTEVVdDNweV9yQm5xdzJPSGt2NlMzRDZMdFZwTnU0SkxNS2FlaG1vR0RQNVdlbUhkbE9PTmtLNDdPYVpqdVRXVFlsSmdIQVRWX0tOMTZReld0NGUtWXoxQnhNXzZ1WHJTb2VjbXFQTUE2THZhTzZUazRpNThUVzQ5TzJqeXFiVVpFc2lBODh3?oc=5) |
+| 2026-06-24 | — | Seeking Alpha | [Klarna confirms delay of Swedish court's judgment on against Google (KLAR:NYSE)](https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2NWcEhNc25WQWJ5T2tXcy1ZUC1MWU5tYUNLeHB0cXY2MGxBR3JTeHZNbzd3a2I0alIyS0F2WU5BSEhjRko2Z2VMV1dtS0FpUXBYT1VSWkdiWW1yazhfaHpSWDRzOFQ5NkdWQVBkOHMzeDhSYnd6Z3ppU3J0ZHpMYmVnSTBHc1NVM19aVE53OF8zRmdUNUVWdm9zUURJUFJUUkhlOTFfaw?oc=5) |
+| 2026-06-23 | — | Moomoo | [BMO Capital Maintains Klarna Group(KLAR.US) With Hold Rating, Raises Target Price to $19](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUnBlUUlLd3p4aTFmQU5TbjU3SnFmS200OGRyMF9yUjdaVE5tZGRPVHQyNnNUNThQT28tdnZNODhqRDFTU0hUSlppWWNwcjNYU2ZRcnJLS3pTa3ctYV9UTTVDOUdZUTE4T2ViUDE5R25aRzZtaGFQNkNtc2Y2YVBtQmhGdUtUekFfdTQ2X2l2ODBfQkVVU0FrRnN6dkR5TmFiVEF5dy1rWFo2U0E?oc=5) |
 | 2026-06-22 | — | Moomoo | [Wells Fargo Maintains Klarna Group(KLAR.US) With Buy Rating, Maintains Target Price $26](https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2ZnTFVSTTRsMHBuM3F2NVFpME9wYnZuSUxUeG1yZ3d1Ymc4bU8zYzltTTdIRDdLZXk3VDVsRF9ic01vYXBoWG83Rk13Z2Q2TlkxQjVtdjdWREVraVRhOVhiQklkRmhDWHZYdUthUVh6Z0YxZGxfZ1JmaUdCTV83NllnakZtcjNkR2lXczVMZWdzckpmVE5TNkQ4cDBpRFJKNEprclRuWnNoS25xUXc?oc=5) |
+| 2026-06-22 | — | TradingKey | [Klarna Group PLC (KLAR) Earnings Forecast: Future EPS & Revenue Growth Estimates](https://news.google.com/rss/articles/CBMib0FVX3lxTE9obEZSbHZyd3ZwV1Fad2hqTmxoRFVMUjQ5MVEydUpKcWlWeDQ4UkNhMngyZE5jZWJNWll6NjFCckswOEl5V2tSRDluYWJqQWwyMnhKZFh3ZENvRC10Vm15TS1JZzFoTkc0UThnalVlbw?oc=5) |
+| 2026-06-22 | — | 富途牛牛 | [Wells Fargo Maintains Klarna Group(KLAR.US) With Buy Rating, Maintains Target Price $26](https://news.google.com/rss/articles/CBMirAFBVV95cUxNclNJQVdMV0dfMWNPN1NsYmkyOHVSeXRNV0Mwbl8wcGtCajBjd2o0NDJUUDFQN24tRW9CNkRhYVFLQkQ3aFpWMG53dXI4VUpwNlR5UUtKZDIwX0tSNEM0MC1aVmotZF9jQ3NFeW1MWVdJdGp4NW1TbVpmREwwZVN0TnJJUERKUlRwdndwTTdTSllkZmhmb1pZNlptX0xmdEpqdFluT05wQkpYeEZf?oc=5) |
 | 2026-06-19 | — | Quartr | [Klarna Group (KLAR) Q1 2026 earnings summary](https://news.google.com/rss/articles/CBMickFVX3lxTE1NWlRXVGVicVlYTnhxeDEwR3hsNmRfaENWcU52cGRob3JKRzVhYjdMUHA3Q3FQQnNjZmtTVjFTYXBSZUhXbW5YRjN1WkhXVVFIRUdaOUx6eHpFUjQwZkpjV0VWN3FacmdMemtsdXUzeWhJZw?oc=5) |
 | 2026-06-19 | — | Yahoo Finance | [Can Bolt Partnership Accelerate Klarna's Payment Growth Strategy?](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFRmZ2U3WmFSdU8yRndBa0FkT0pmSlpHX3RmM09RYnhBbGFrb2ZOdktaRmtQQWcwOVA3eGZNTzhNSVJ3d2FieFZHemg3Yy1VeWhTeFdUNzR2cU9WWllVR1FsWkprNzJ4V3hFY3pjUlhwSlVWNEJBUjMtTWtpeGhMRHVWRlpVYmdlOTlPLWZOLTB6SDB0a2F5VDhRR2h4T1hpUG1YNlFsQVgxYi1s?oc=5) |
 | 2026-06-19 | — | Yahoo Finance | [Klarna (KLAR) Launches FDIC-Insured Savings Accounts in US with 3.28% APY](https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmhpY241d2ZqNm51YjBJZVBtZFdxTWZ1OGlHbHFKTHhzanRKLVpYV3BUM21Ha0E1SE1BaW9jbnhkTHBLOUpLeEJWX0FwWWlBUDQ4SW1Wc0ZSOVJkNlFoZVQ3dkY5YjR4b3c2ejl0NEt3LTNVeDN5Mk5hazlJaWtza0VraTNlYV9rU09Qd0FDUWd0TkRRMmdxdU1OdXQzUXM?oc=5) |
 | 2026-06-19 | — | MSN | [Can Bolt partnership accelerate Klarna's payment growth strategy?](https://news.google.com/rss/articles/CBMi2wJBVV95cUxQcndQcGcyb1hQNVJfeXhLdl9nSXVIWWRwb0o4dnVEak8tcTFyVnUwbGhUTnBmVGViQWJOa3pCQkc4ejNJUHdZVEJpa2FEaDdlVmhaWTVieS1RRG52T0Fyd2hzRnktQmVPZWl6ZER3QkNGUWFaYUJVUUc5bjVrVkxmVFFkSlNzcDhkM2l5MEhQT1lEaXkzRlhoRnBEc29mTDB4enVuWHQxQzNHYlNVazFWeFRJQVlBZTdMYndKUnB3TW50eGNSTmRNSU80WWZ2UUh4el9tanlEeUtHYmNyUkpOalZEY2ZPdFFqYTBBc3BQMVpSNENHTmZzeXZ4MXZhcENvU2tFaUIwM2lGWXlhanAtMHhlbHNsZ2tOMUNxeENjaC14d1VtVTZzbld6dmFseTJxZmg1NUlNLTdQcjVrZEhpdU1FaVU3MHFjeHpPMkJSbGJoSGNEdjNhcWNIcw?oc=5) |
+| 2026-06-19 | — | TradingView | [Can Bolt Partnership Accelerate Klarna's Payment Growth Strategy?](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWVIbUo4RThNQkd2aEdhWkNnYllHeFlsc0Z4MEs3VXhYX3J2TkVQelJiRGctU295c3FpM29GZExmY29QZzZ5Yy1RVHBldkpoYzIwdmdiWFloM1hEZEVTSlNwTWhSU3pTQTVyQTZTVWl4Um10ODVlNFJTRzNyWGdnc19XbldzZkdlZXkyZm9JbmJKUlBvUUtDaF83TnRqa0F0Tnh3SVRfYjJZWG9mWUhocjhpZDdIQ0g1THVnUg?oc=5) |
 | 2026-06-18 | — | TradingKey | [Klarna Group PLC (KLAR) Technical Analysis: Support, Resistance, Indicators & Moving Averages](https://news.google.com/rss/articles/CBMicEFVX3lxTFBTMmZ3N205bTZRZzJvUDVvQUF2MWJZTk1LX0J4RnlaQ1pYWnhDNlJjLWlkTXZwTWpuT1FqUU55WXpGOVhwbHItVlZ4VndiSmhaSHptV2dTU3FNWTM1X1FWOUNfemFfZHlKaXhFTTJZdjU?oc=5) |
 | 2026-06-18 | — | TradingKey | [Klarna Group PLC (KLAR) Valuation: PE, PB & Fair Value Analysis](https://news.google.com/rss/articles/CBMie0FVX3lxTE1NOWJDMU9YNHY5UjBCU1VISnlfQnNxTkdGSXB5QnFQRms2MUxPdXBDSkhEdDZnS1pKNUE1WjliY3ZOSzdjNlYzanRMcE1kME1TWDRZTGc1b2cwaGRiLVlMYlZQSDBiU29ibmgtTWMwSDM2Tm11Y0RnQkVRVQ?oc=5) |
 | 2026-06-18 | — | TradingKey | [Klarna Group PLC (KLAR) Institutional Confidence](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTk5ZSVZFYWJBZkhzcl9WN25vSjlIcnBYMkk0UnVuVHFMWHlBZFV1aUJFcnBTUXRGMEZUR21FSFNfdFQ0S0J4aE81aldqMlMwZEtTd3Jac2hUSk1ndHNTY0k0UTJ1VmluSU5yUWRPUWM?oc=5) |
 | 2026-06-18 | — | TradingKey | [Klarna Group PLC (KLAR) Risk Assessment: Volatility, Financial Risk & Investment Risk](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pWlRHd3psLW92X1laQUdOeTl5cHFibUluT3RUZUlEMWo2U21mazhWbDhzUWFlem1YZ1RCSTVCVzJYRngzYWNMQWdHX0FrUUJJc29saUpEVW9vRV95ODhxRXpVNDlNcDc3R0FLY1J2RXYwV0hYQVNF?oc=5) |
 | 2026-06-17 | — | TradingView | [Klarna Group Announces Partnership With Bolt To Integrate Payment Options Into Bolt App](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM3RzTzhwZldEMnlNSm9XUDk2anFiXzB6XzNwUFd6cWVYNzVaUXZRY244SDdTMzVxNDNBbFZ1R2djNHFIMThaYzM3OHZXYnd2RlpJeTNBZVdrTjNxLWxiMU14V0dXNzI5ZWRncE95UFhJMWtVUW5ZRmRrOW1VaXk2cUJwcS03WVdQa3RzY1hWc2haNzZhU0xRQmFmYTVUSDRQUnlZWmNlSDFFQm9HcDNBS1FwYUpKc09pYkZjS0NxT3Bfd3ZMRVlfSG5oZXlGZm9XT1FjZWV5Q2JsaGtjMWNWei1MZmhBSmlJaGg5OHp3?oc=5) |
 | 2026-06-17 | — | Seeking Alpha | [Klarna: Valuation Gap Should Close As Profitability Improves (NYSE:KLAR)](https://news.google.com/rss/articles/CBMiogFBVV95cUxPekdKZmZmRmVRZFRQZW1zSDQtZFlaMXdjVnJLemRTN3hUXzRpV3hPUXh2ZXJuVU1TVzVQTFB0V292TEJQVzYyb2pqVEZsUVRhR1JxMWFRbWl5QVlVSnZzNUdZYlM5cWZmQUtoemJ2TkZDSnFyX1FfMjIteXN0a1RPbkZEYWFOaDV6aENCSVNiNXRMcFZ0dWlvTG1NRWZoX195NVE?oc=5) |
-| 2026-06-17 | — | TradingKey | [Klarna Group PLC (KLAR) Earnings Forecast: Future EPS & Revenue Growth Estimates](https://news.google.com/rss/articles/CBMib0FVX3lxTE9obEZSbHZyd3ZwV1Fad2hqTmxoRFVMUjQ5MVEydUpKcWlWeDQ4UkNhMngyZE5jZWJNWll6NjFCckswOEl5V2tSRDluYWJqQWwyMnhKZFh3ZENvRC10Vm15TS1JZzFoTkc0UThnalVlbw?oc=5) |
 | 2026-06-17 | — | TradingKey | [Klarna Group PLC (KLAR) Dividends & Stock Splits: Historical Payouts and Event Timeline](https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bGhucnVEM1R0VUJHYUV0eTc1R2VES0tPemFUa0dWWFVvVmdvNGs0VENPXzBnUG12eFNaT1JSLXJtbjBtQ2FOSlpIeWVCdnVUR3hVaXBqaFROQ1NKcWNaUThPR091MHRENldRdHVZMWc5Tl9fZWtqWg?oc=5) |
 | 2026-06-17 | — | TradingKey | [Klarna Group PLC (KLAR) Financial Health: Profitability & Balance Sheet Analysis](https://news.google.com/rss/articles/CBMiekFVX3lxTE4zMUxRUHpZT0U2dTR6V3JsdF9xVVJ5ZkV2aUNxa2U0R09JVzhQWlJ4d0VNUkhieURmSE9sMjUwNmVVVFdwSXN6TzIydmQtb255ajNQUU12R0FseTVqWTBaUnAyT09YM1FseGdJUHBsNWJhRzRWaGNUeTB3?oc=5) |
 | 2026-06-17 | — | TradingKey | [Klarna Group PLC (KLAR) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution](https://news.google.com/rss/articles/CBMibkFVX3lxTE5Wd2xMOVo2NG9uSkdUSmdUZ1Y1WmNtbzhkSWUtR3NReDFtQWl1VVJ2S1dEZjlXcHBmSmlSa25jN2FpckxWb3VzQ1phaFVleUlyQ3d3czJoV2JXN2NfRF9BZ09ZZDF2cXlyQkpfNWZR?oc=5) |
 | 2026-06-17 | — | investors.klarna.com · PR | [Klarna Partners With Bolt to Grow ‘Pay in Full’ for Rides and Scooters](https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Partners-With-Bolt-to-Grow-Pay-in-Full-for-Rides-and-Scooters/default.aspx) |
 | 2026-06-16 | medium | Yahoo Finance | [Klarna (KLAR) Partners With Ulta Beauty To Bring Flexible Payments To U.S. Shoppers](https://news.google.com/rss/articles/CBMingFBVV95cUxOU0xmNGJsUWQ1Nk9MeVBCZmZPUUhIQVY4dHduc0pCc0JnaDNkMVQwZ2ZYc3gyOHhpNW9mNkdZNDJHUDZudFFRdG1HNW43OWZkOENIaXA4bFd2V1Z3S0czZWxxcUg3VEJtRDJGcjdBQUZnUUdiblpvQUM3WXpNNWp1NXZDQURZLTFSdGZxR2JTekQ3Y0p0M0NXWW9WaWcxZw?oc=5) |
 | 2026-06-15 | low | Moomoo | [Wolfe Research Maintains Klarna Group(KLAR.US) With Buy Rating, Cuts Target Price to $22](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUFEbk55Y1VrR2tsSXRXNVVtNlRUVC1nOUVmbmNicG9wSXV4MDBObnozZ25kM1lQT2IxVFQ4QUdfVnotMWVTR3M0cV9sdnVOdXV2bmU2TGV3c0J6Q3hJaEFkMFVkRndRaTFYdWFzbFA5N201QjBZNm1SYnpQNmlwSU95ak84ejdGWjFyMjhBNVp4dS1GNEZUMDJHZnJUMDFuZmdnRnFYN3VpRWM?oc=5) |
-| 2026-06-14 | medium | Seeking Alpha | [Klarna: GMV Acceleration Is A Fantastic Signal](https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0dTTi1hcWhEdDRodENuR05FV2xONXlpSTZXbnVUYmloZTJaYUpsZUZ3alR3dFQ5MXVZaUVFZDJhaEtaVEpXMDREa1VObXhVakZqUFY1QkdfWnQybGVOSks2WlhPckNQazF1THlMM3NfanBKVXp4VDg2a3NjM1BhNnlsV0dmTzFseGRJTw?oc=5) |
-| 2026-06-11 | medium | Stocktwits | [KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVnlGWlJ1aVJwczBaUU1PVUNMZmEyZFZSa2poV0RuMkxOM1pSU3dIcl93aFZSZzJTVThpMW9XcTBtUHUwWWRZQTh4VWdtamdhbVVmRzBjTUh1WDRkczVCaHdfY1dxUmd6NFpXYnoxM1hnS29hQVEyNThwcXNIN2RpTzdyX3E0cEdYUmszVEpwVE9ZX2R0eW5pQUtBOU9YdlZXZWNTSU1QWEt4RTA1bUY2MVplZ1BzT3pmVksxdlFTTHplUUxkbUVMekwxckZRT2tMamZBNFBaVExsMmd5am9Mb2stVHNxWmJF?oc=5) |
+| 2026-06-13 | medium | Seeking Alpha | [Klarna: GMV Acceleration Is A Fantastic Signal](https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0dTTi1hcWhEdDRodENuR05FV2xONXlpSTZXbnVUYmloZTJaYUpsZUZ3alR3dFQ5MXVZaUVFZDJhaEtaVEpXMDREa1VObXhVakZqUFY1QkdfWnQybGVOSks2WlhPckNQazF1THlMM3NfanBKVXp4VDg2a3NjM1BhNnlsV0dmTzFseGRJTw?oc=5) |
 | 2026-06-11 | medium | Sahm | [Klarna Expands Beyond BNPL With U.S. High Yield Savings Launch](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUZvY3NraWZuVHZnWE1MUlFXVFBaWjIzb2syaVlwbU1za0VOazQ3ZE5UNjdOZ0w0WGpldFJwU0JMbkpXUzRFcnpfQlpqY0xDLVRsdHNsc0xfclkxVDdqTTBKNGRSUkJzNHNQRWhmNjd4eGdPYWlSZE5weWFFLTR4eVZqRGVtM0U4MkpFa2RQalU3U2ZNMVJYNWlLMWk4Smp3X2s3ZFQ5MWYxQjBTY2JDdkJR?oc=5) |
 | 2026-06-10 | medium | Banking Dive | [Pagaya sues Klarna over alleged trade secret misappropriation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVpMSFdMNUwwa2tmVkM2WkdvMml0T2xxOFBwSXlWZ2FwUTNZalNhQTBCMTVUanpBTDZmN01hYTRLbGV2SXc5aHI2WnBUWE9YNUoxbnVraFJlZ1I1LWxXRWYwU1hHTUR3V3RXYWpUbkE4UEV3VEd3SVFMcGJrbllJaF9DNzZ2b1RjLVpSSHVESkoybmpKd0ctd2dZMDFvY29Pa3lEYw?oc=5) |
 | 2026-06-10 | medium | HarianBasis.co | [Klarna Launches High Yield Savings Account to Expand US Financial Services](https://news.google.com/rss/articles/CBMickFVX3lxTFBCQVU1NkhJNEsyd1FraWpCdTRBYjROLVNKTVJvYkdiRUg2dTkwRzh4TWNTR2Y3TEdaeWRBaVp2RVRiWDBkMGV6ejZrUTd1UGhuam04SEhkdE14eEVNMElLRmpwVjZuVE1nTmU4U1BKa1Ezdw?oc=5) |
@@ -73,6 +90,14 @@ _Updated: June 22, 2026_  ·  News & PR for [[klarna]]
 
 ## Coverage notes
 
+### 2026-06-27 — Stocktwits
+
+**KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off**
+
+Klarna reported a Q4 loss with a weak forward forecast, causing a stock sell-off, though retail investors appear unfazed. For Snap Finance, this signals potential ongoing profitability pressure in the BNPL space, which could challenge Klarna's ability to invest aggressively in growth or underwriting — though the snippet is too thin to assess magnitude or specific drivers.
+
+Significance: medium · Category: earnings
+
 ### 2026-06-16 — Yahoo Finance
 
 **Klarna (KLAR) Partners With Ulta Beauty To Bring Flexible Payments To U.S. Shoppers**
@@ -81,19 +106,11 @@ Klarna has added Ulta Beauty as a retail partner to expand its BNPL/flexible pay
 
 Significance: medium · Category: partnership
 
-### 2026-06-14 — Seeking Alpha
+### 2026-06-13 — Seeking Alpha
 
 **Klarna: GMV Acceleration Is A Fantastic Signal**
 
 The headline and snippet are too thin to extract specific details — no GMV figures, growth rates, or context are provided beyond the title itself.
-
-Significance: medium · Category: earnings
-
-### 2026-06-11 — Stocktwits
-
-**KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off**
-
-Klarna reported a Q4 loss with a weak forward forecast, causing a stock sell-off, though retail investors appear unfazed. For Snap Finance, this signals potential ongoing profitability pressure in the BNPL space, which could challenge Klarna's ability to invest aggressively in growth or underwriting — though the snippet is too thin to assess magnitude or specific drivers.
 
 Significance: medium · Category: earnings
 

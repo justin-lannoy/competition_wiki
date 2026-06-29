@@ -2,23 +2,24 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 6
-created: 2026-06-22
-updated: 2026-06-22
+count: 7
+created: 2026-06-29
+updated: 2026-06-29
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: June 22, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: June 29, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-25 | — | Hindustan Times | [Credit Card Options for International Travel from India in 2026 \| Hindustan Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWE5MeWRSWEs1THpNUHhIMG9XWXZHYTBnX2xnTHNrYjAzd0J3THNxMnpKY09XWi11c0JHYm1zaGJSLVVLa3c3Tm4zc2dBOXJlNUQ0Rk9MUXQtNUV5bWh3Yjh0Z0I5X0VrOTBZNm4wLTVrdWtwLWFWaGpGU3hRdVZsQ1c0THh1WEZSUzhDbkNaZV9LNFVIVUNLQ1lBZGd1NV9EMld5eUtUeWd2Zkt1ekJ4MUNMMzFJUm9wSnNqTEFxYjLSAcYBQVVfeXFMTVkzT0tGXzRvWG04bG4xcUZMUzNCZTNMOEJfNmVZMUtKeXBWblV0QXNrdHBnYjY3MThsY2pkTUZhUnNlUElGU2VsMGIyY3VJLTc2VU1IVFpkVmRhdHV4NXpvRmhIUXFWWDY3aUE5RnJoOGc3WFVWS1Vfd2Rqd2U2aWdZaGhpSzJadHRlTjhfS0NRZUVIdEN6czVPUkJJYTUtN0FxTGVmTjlDaDVvN3FDd2tLLW9HNTFqX2F1cjVGZTMtUmlySE9B?oc=5) |
 | 2026-06-09 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
 | 2026-06-09 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
 | 2026-06-09 | low | NerdWallet | [What Is The Bank of Missouri, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGVhM0FwdDJibTBmSnl2MWN0YmIwdWhLQ2RSWGFERGItT3lBUTBNLVpaek53RndSb2Z2dkk1cG96TWlVbnU3YkdRSVhOWjFWMGFyZWJoZWRtTUhrdnEzUW1iYV9XdXZVeGdadjYtRzVZVVJVTlRIby01ZEFwU3c?oc=5) |
-| 2026-05-27 | low | CardRates.com | [List of Subprime Credit Cards (June 2026)](https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNlZxTURwa0ZMeXI3SUEyYVZDUnBXZUh6dHQ1M3c5dEJaeHRWcUtkeXp5a2NOWFJYUEUxdUN1REptVm85SlZ1TnlXMU9qVkFaUzJMdTdXVEVBX1Voa1BaQ1otWnFRZGdBVlpyWElVOU4?oc=5) |
+| 2026-05-27 | low | CardRates.com | [List of Subprime Credit Cards (2026)](https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNlZxTURwa0ZMeXI3SUEyYVZDUnBXZUh6dHQ1M3c5dEJaeHRWcUtkeXp5a2NOWFJYUEUxdUN1REptVm85SlZ1TnlXMU9qVkFaUzJMdTdXVEVBX1Voa1BaQ1otWnFRZGdBVlpyWElVOU4?oc=5) |
 | 2026-05-14 | medium | Claim Depot | [See if you qualify for the $5,825,000 Genesis Financial Solutions Maryland loan class action settlement](https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZVVWTmdWYm9DLTJ4NkZ0MnVWZDliQ0haTzZoQWw5UjlMaDBfTWQ3RmNhOUx2UE1WWHp3aWhlLVhDdDRnMVJsSTVFUVV3WVdGLU9yRVJxeDRnVmtNOVBEWkg1NGIwcnV5T0JSZS1Yd2VjR1Bh?oc=5) |
 | 2026-05-12 | medium | PYMNTS.com | [Concora Credit Says Non-Prime Shoppers Still Have $5 Trillion to Spend](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWU9Lazkzb2tvMWRFb19GQjZ2SlVPVGRWR0R5OTVSbUJGbmpFSDU0NUgyU0NEeE90Qmx2aG80UU12QjJidHFNbFdJbFpiMXFWYWpwT1BqbkZtTXF5UWNuUHlucXd5U3l1NlRCZlVZNjhsUTdBX290dWtLWG80bE95MXhfczQ4dlluOFBMOVJydlJDM1RudTRkcm12TDZJN25BTGQyRU9kaw?oc=5) |
 
