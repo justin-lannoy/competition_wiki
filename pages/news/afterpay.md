@@ -2,19 +2,29 @@
 title: Afterpay — Recent Coverage
 type: news
 competitor: [[afterpay]]
-count: 68
-created: 2026-06-29
-updated: 2026-06-29
+count: 79
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Afterpay — Recent Coverage
 
-_Updated: June 29, 2026_  ·  News & PR for [[afterpay]]
+_Updated: July 6, 2026_  ·  News & PR for [[afterpay]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-07-05 | — | adnews.com.au | [Afterpay’s Katrina Konstas appointed REA’s chief commercial and marketing officer](https://news.google.com/rss/articles/CBMisgFBVV95cUxPekR4OTRBS3pVSTdURVhvUmlndGV5TnRENk5DWHNTUlpicUdGeDZkQk1IRDdLck9nXzBVS1Y3bmt5Rkp4dm01bFdOMnl1cnZoZVA3SlFmdXFJNFEtdzJhdkdfckdpNlBhUHhEX3k1bTFILWlVbFQ3TzBBcXhvLVlmZUZDd0g2UlZVY0dmNmkyM29FZHFTenZpclMwWjlaenpGMDR4bktycGNxR3VSbDJJblhR?oc=5) |
+| 2026-07-05 | — | Kabul University | [How to purchase Aethir with Afterpay: Full Tutorial](https://news.google.com/rss/articles/CBMifEFVX3lxTFBEQkdxZDhjNTN1Ny1hLXFqQURVRGNHZGQ4Sm5NOEFpYnhxUERSdnpISmQ5OFBNaTdyVExyVEZiTGZnSF9ERHR5VGFINmNsOU9ZR3RyRXhPUkVfMnV0UkhsZTVid1c1dUpVUVZ6bGY1eEY4WUVFX0JIWEhUaEM?oc=5) |
+| 2026-07-03 | — | Kabul University | [Buy Zeta with Afterpay: Cheapest, Process & Guidance](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5Q0RGUS1VTm1EWTNpaEo5SHZ5Q3JObW9wWE1YY1MtR3dJQzFwYTYwYXBPOEV0emFMTU5uTG96WG1ia1BSMzQxUkhvYjhiR0VZai05b3B2Um1BWHBfcVNaOGh1SXVIMHk3RldabEc2Tl83QWRaak52MjBn?oc=5) |
+| 2026-07-03 | — | Kabul University | [Purchase Taiko with Afterpay: Fee, Procedure & Insights](https://news.google.com/rss/articles/CBMifkFVX3lxTE5TVlZDQ3FTczROYmsxYUZzTUJ4c2ZoY1BrOVdMbFpwSGduUUh0Rjk5WldQbWU1ZHJHdlpya2lXNVY1dVYxdlRtUVpJN2pSU0lrMmZYLTR0ejdldG5TLTl0R2VpSlNWbWo2dm50R1BvOTduWXRHMWNsdVJELWJRZw?oc=5) |
+| 2026-07-03 | — | Kabul University | [Buy Sanctum with Afterpay: Charges, Method and Guidance](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTVDMWN6TW44ZmFOQTNnNTU2LVFFQm9oeUJFWEpyeGFnb21WYzFqQkx5OElzUWtESmx3X0VBc3JMSlp3MmlFLXIwdHFiUjJicVM5XzNZODZ5NWxkd05INWJDV00xa1c5QXVCc2xDM1Z0VVRqdnJXck9ZRG9uMkVERWZR?oc=5) |
+| 2026-07-03 | — | Mi-3.com.au | [REA marketing and audience GM takes new marketing role at Qantas Loyalty; property marketplace giant recruits Afterpay exec as new chief commercial and marketing officer](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRG93b3d3QW93QVRfcnBNTlp6Y192YXRlWHlOSHp3bUF2SElIU2NQdVI3UXJOQ2dyUk10anZHbFhyd1ZaVzQwcl9SWDc3cElyVXdET3V6MXZ3U2VsdGJvVFA0ZWMzX1kwT2w2X2ZzWmdOOVRYWEQyWWhJM0IySHhJWnVTZ3VHOW5hcEx3c0dYcmUxenpPdURkTTNLbmZUREZMQTVYZkJ1aTNudjZpSkJPdGN3?oc=5) |
+| 2026-07-02 | — | investors.block.xyz · PR | [Block to Announce Second Quarter 2026 Results](https://investors.block.xyz/investor-news/news-details/2026/Block-to-Announce-Second-Quarter-2026-Results/default.aspx) |
+| 2026-07-01 | — | iTWire | [Afterpay's Pay Monthly lands at Apple in Australia at 0% interest, right as Mac and iPad prices climb](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRW0zSEVOTzA1SjZ4dkFrNmcyekJYM0RvNWppT1VqVnJWNjVmaW1GWjAzZXdRejVxZk9ET2xrNXZFMjhmN2xYRVVLSndVcU1FQ0Q1elNmaXJxZzIza25wRVFuUHlXbER4ekhQQ0ZYYkZQY0Q4UFdJckY1NDk3bXljVk5zN2d4RHVBYmF4b21OT1h4aGRBSmNUNDBKRXEtVmJrdXF1dWhDRVBreXItMklaSVlsV3B1UUxGSDVXSG1oSk04Z25tYndaQlF1b2Qzd1RaOUF6ag?oc=5) |
+| 2026-07-01 | — | FinTech Magazine | [Top 10: BNPL Providers](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LOENkc2J1ODZ6R0ZMb1BQS2FZeEdLUEx1NEFVdG41UGxvRUVVVExlS1BSQXd6VmU4MkxnYUlNWW84LWoxVU1laXRjWFJnMGZLX0hSandQSDRkZUZoM1hWaEtKS3RKdw?oc=5) |
+| 2026-07-01 | — | investors.block.xyz · PR | [Square Introduces New ChatGPT and Claude Integrations, Helping Sellers Reach Customers Through AI-Powered Discovery](https://investors.block.xyz/investor-news/news-details/2026/Square-Introduces-New-ChatGPT-and-Claude-Integrations-Helping-Sellers-Reach-Customers-Through-AI-Powered-Discovery/default.aspx) |
 | 2026-06-29 | — | Sacramento Bee | [Sezzle vs. Afterpay: Which BNPL Is Better for Your Finances?](https://news.google.com/rss/articles/CBMibEFVX3lxTE02TzZqSHRmLWp0WUNCemJ5ZnNlNXlGMU1WLWM2anNzdFd3UENTZzAzV1hNc3psQkpOZUQ2VENwWUJ1YXJtRk03aVkzNy15RE93WWIzaVA5MWtDZ1FYcXBkNE16aDVhTDVUOVlSMg?oc=5) |
 | 2026-06-29 | — | Charlotte Observer | [Apps Like Klarna: Other BNPL Options to Try](https://news.google.com/rss/articles/CBMieEFVX3lxTE1TUk01X1k4NDh5a25xMHdSTHpVbDZxQmNtNE5KTkxKSFFUeUI0SnNUN2ZMdHZ2dUE5cFJCZ1VVcmJTbmhySXI0OWFOZTVwQzB3YTc4NUYtMGFNejFCc2hKbndHWFFicmtHNW1NUnBUelRvVmZUQWdaaA?oc=5) |
 | 2026-06-29 | — | investors.block.xyz · PR | [Sherwin-Williams Selects Square as Newest Partner in Digital Alliance Program](https://investors.block.xyz/investor-news/news-details/2026/Sherwin-Williams-Selects-Square-as-Newest-Partner-in-Digital-Alliance-Program/default.aspx) |
@@ -28,6 +38,7 @@ _Updated: June 29, 2026_  ·  News & PR for [[afterpay]]
 | 2026-06-19 | — | Mediaweek | [Afterpay Arena unveils design-led venue overhaul](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnhDQU5VcUZYc0ZPZFFSLTYtMWZPNS1lNEtLSXQ1SnQ1WUkwa3lWRFo2TTVTU3BMNDJVdVJSOVcwazFsM2xUWXAtTmxxWWJ3di1BS2QxcnRsVWk0NUZrY0kwRFQ5OTZkalZQc0ROTHBONkNnZkhGUzlzWVRjcU9TeGU4YmI?oc=5) |
 | 2026-06-19 | — | Kabul University | [Purchase 1inch with Afterpay: Fees, Process and Guidance](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHJNOFNvQV9HSy1FOEFuVUV5MHoxMi0xamFpUWxPRm9ncXVoRXhFZ0RXak1xREkzY25odkswQUx4dHMzNWVFY0thQzhFOFRPaWs3LXhFNkQ1YlBxOG5WcVh0V0lTdEJ2QkEzY09ncGtHdE1ncDdXRWtranBMaVJyWEdvV1RrQQ?oc=5) |
 | 2026-06-19 | — | Charlotte Observer | [Target Buy Now, Pay Later: What BNPL Options Look Like](https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUJMZ2NQVkhvOVhFNDA5bjBHUkItM0o1Mk9FN0hKTnZ0Q1ZQUDFvRy1tOHE5eEhBSTdKek96OHhxNkcxeWpaSHRxNHhjMGx5clhRX2gtVEoxWjFjUGVhaktqTUtJX3FZQ0dpb2VHcEN6MW1nQ2ExWHZvemd2U1BfbDV0RQ?oc=5) |
+| 2026-06-19 | — | Kabul University | [Purchase Reth with Afterpay: Fee, Checklist & Insights](https://news.google.com/rss/articles/CBMifEFVX3lxTE9FZDBBSEppaDdHWER6TlV3aVZDYTVSS0hzRloyNEM0Y0RCc0JKVWt0RFZoSHYzQTN4NDdzemZfdGMxcnRPWUpDQU93OGoyYjhrNV9XWlQ0NUlPU0xrWE82clRaWmF2b1NpY0NHTmltME1aVU9VMFAzdkdGZjQ?oc=5) |
 | 2026-06-18 | — | Little Black Book \| LBBOnline | [BUCK Reimagines Afterpay Arena as Gallery with LED Installation](https://news.google.com/rss/articles/CBMijgFBVV95cUxONFdwX084OHg5XzNvRnFFNmdFTWVKdUhQNGtYN0xjel9SZEFGUGhDYThXLTZFZnFwSlNmd1A2d3VlOElBUHJtM0Y4bWd3QVloZVhfaFVFOEwwR0NfZzNsSXFDcjE2MHBDQmIxMjZBeDgtbVFVOVlJc0l4SHJSUVhvTm5nUHZxV1dhNkRHYXFR?oc=5) |
 | 2026-06-18 | — | Kabul University | [Learn to buy Vana with Afterpay: Thorough Tutorial](https://news.google.com/rss/articles/CBMifEFVX3lxTFA5cUc2VnRKUEJ4VHB2YVNzTTBXYkRwWXNQYUVaYTBLUmRNUTEtQ2FwYU9FM0ZZZC14dWNpNUFlR01RQXZpcWZVS2NzWFJJRFhYN0NYZEVWNi02V1o4S1VlSXJNX3FNVUdYYVFrN1JVb1M5VXlkYzduZ29xNHk?oc=5) |
 | 2026-06-18 | — | Kabul University | [Purchase Lamina1 with Afterpay: Fee, Roadmap and Advice](https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWVDQlF4aTJvZlh0aW1HWFBLYmFRTFFsanFFTl9vYkNXYWpMUWJEVEplaGtKVFBNLVZNaG9OQktqSXhzdExmWThZN0pJaFBYM3NNbVpOdlNrVGxoQ2JfUHBPTXRxdFpkcmhFWV9ZXzN2N3pYMjBoOEs3Si1sMGlrdVBLd2g?oc=5) |

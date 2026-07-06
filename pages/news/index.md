@@ -1,33 +1,33 @@
 ---
 title: Competitor News — Tracker Index
 type: news
-count: 734
-created: 2026-06-29
-updated: 2026-06-29
+count: 867
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Competitor News — Tracker Index
 
-_Updated: June 29, 2026_  ·  **734** items tracked across **19** competitors.
+_Updated: July 6, 2026_  ·  **867** items tracked across **19** competitors.
 
 | Competitor | Items | Latest |
 | --- | --- | --- |
-| [[acima]] | 58 | 2026-06-29 |
-| [[affirm]] | 71 | 2026-06-28 |
-| [[afterpay]] | 68 | 2026-06-29 |
-| [[american-first-finance]] | 53 | 2026-06-27 |
-| [[bread-financial]] | 59 | 2026-06-29 |
+| [[acima]] | 74 | 2026-07-06 |
+| [[affirm]] | 83 | 2026-07-05 |
+| [[afterpay]] | 79 | 2026-07-05 |
+| [[american-first-finance]] | 55 | 2026-06-27 |
+| [[bread-financial]] | 76 | 2026-07-05 |
 | [[easypay-finance]] | 0 | — |
 | [[genesis-credit]] | 7 | 2026-06-25 |
 | [[healthcare-finance-direct]] | 6 | 2026-06-10 |
 | [[kafene]] | 5 | 2026-06-16 |
-| [[katapult]] | 57 | 2026-06-29 |
-| [[klarna]] | 72 | 2026-06-27 |
+| [[katapult]] | 64 | 2026-07-06 |
+| [[klarna]] | 89 | 2026-07-06 |
 | [[koalafi]] | 4 | 2026-06-12 |
-| [[progressive-leasing]] | 48 | 2026-06-29 |
+| [[progressive-leasing]] | 51 | 2026-07-01 |
 | [[scratchpay]] | 3 | 2026-05-27 |
-| [[sezzle]] | 73 | 2026-06-29 |
-| [[sunbit]] | 9 | 2026-06-21 |
-| [[synchrony-financial]] | 89 | 2026-06-29 |
+| [[sezzle]] | 81 | 2026-07-02 |
+| [[sunbit]] | 12 | 2026-06-30 |
+| [[synchrony-financial]] | 108 | 2026-07-06 |
 | [[uown]] | 0 | — |
-| [[zip]] | 52 | 2026-06-29 |
+| [[zip]] | 70 | 2026-07-05 |

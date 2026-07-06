@@ -2,19 +2,22 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 9
-created: 2026-06-29
-updated: 2026-06-29
+count: 12
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: June 29, 2026_  ·  News & PR for [[sunbit]]
+_Updated: July 6, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-30 | — | The National Law Review | [Sunbit Launches on Stripe, Unlocking Flexible Financing for In-Person Service Businesses Nationwide](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFN3VGxLLUFQVEZDUWViRlVKSU54X0hfTk1LTXltck9QcWFjSk5sdk5EOWRxTWJCbmV2TTNvLUJiT1BwZXQ4cUdjRlQ0NmlxZ241YjBXOUxKWUpGakljdWZoZ0J5TVVYSDBVNDZQdTFnZ1NkcG8zMHVzb1NmTTIxVnFkYkEyMXdBeUx0Q1FwaUZkR1dhNTIyUl9iLTdmMWd1TWUwa0drX1NfYVplQjQ0?oc=5) |
+| 2026-06-30 | — | AOL.com | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmhpSm9EdW40T0c4alJrdWE1UGhhRVFpalFzdFFsenE1NTVKM0VXREFXX0RLd0FiRklrX1R1T1NlXzRMN3d6dkxwNmFhcURYRXg5azQ2dTk3OWFYNU0tTVBJSzFoemlqbng5WExFUFJrTnpQTFoyd0hGb1cxV19LOUxEUQ?oc=5) |
+| 2026-06-29 | — | Business Wire | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjdEX0dFckkzc3J3UmpKMWhLVjJNenBZdXhoTWxDdFJVRjlDWTE1NGctMzE2X1hqTmRuZmhHdzVVOVdWWHJVdjBrMUpBQkJYSG91eDBsbEJpLUZXajFJZmtnVHRmdmYybVlhS2hiR3lqWmxvZXljRmo2bWVMTVJvWE1nWVVxRE44MHp0RThlcU02aHplOW9CYl8yNEpWaWJBTl9XZGlHNWlJdFNkZi0zalc4YmtYbFhvZnQxMkc0Vy1zZWtqOWU4UGI5TkFJU0Ftd2hFZXJGV3c3UTVJZ08yd2NR?oc=5) |
 | 2026-06-21 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
 | 2026-05-19 | high | CollisionWeek | [Crash Champions Activates Sunbit Consumer Financing Program](https://news.google.com/rss/articles/CBMingFBVV95cUxOREhwZ1FFRkY2VzdUcFM1aW54TGpwZ0hvODVUdXktSUM2Y3F5RGZfSXMxeG90RDRBMldmMVU4S2pzM1E4ajBDNEVkYlpLN0kzd3gybExkLVZRZkhmamZEWm9WbzNuTFJoQ0o5eVBqMGZTRWtEODg2d093Rmxha204TDJ2QXUxcGZuRndtMy1VTXBkOEZTV0lOcVNTRXRsUQ?oc=5) |
 | 2026-05-18 | high | PR Newswire | [Crash Champions Rolls Out Nationwide Fix Now Pay Later Solutions with Sunbit](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY01PLWNqWEN5eHFBNnBlSXpMRVJFdHJlOWhwcFRpYTJCUkxDZjlTdWlsemp3MVRMd2VwUkxtdlhEZVRQV1lCRkVVMFd4U0F0ZmdWb0VYeTFEdlJ0alV1bWI4SFZQXzgyWnNPUlBLaEV4WkM5N29wamRqRlRMWDd2RUMwX3o3cG1yd2xzV01EeHFlbUhfVUFsbWR1YU9HZGFhVmpsX2s0NzZZbTl4SGxVVkpiVWpQQlphcTByUWlsM2t5VjZzN09sQWNmdzg?oc=5) |

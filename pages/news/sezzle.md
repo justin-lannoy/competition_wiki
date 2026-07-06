@@ -2,19 +2,26 @@
 title: Sezzle — Recent Coverage
 type: news
 competitor: [[sezzle]]
-count: 73
-created: 2026-06-29
-updated: 2026-06-29
+count: 81
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Sezzle — Recent Coverage
 
-_Updated: June 29, 2026_  ·  News & PR for [[sezzle]]
+_Updated: July 6, 2026_  ·  News & PR for [[sezzle]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-07-02 | — | Sacramento Bee | [Sezzle vs Shop Pay: Which Payment Option Makes Sense?](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ydDRiUVUzMmZwLWZVakNhRXVxZmQzdk1Zb0o5eV9xbkc4SzdyUmNDTmpsU2psNmhJQ2pkYjVRSmZuOEZoV2lvODlsdmZVck1ZZHlBV2J4TkNmMG1CVWtNa0lfOUx4WnNPQWJ2dg?oc=5) |
+| 2026-07-01 | — | Yahoo Finance | [Sezzle Still Looks Attractive at Its Current Level](https://news.google.com/rss/articles/CBMipAFBVV95cUxQOS1tT0RwWEVpNU9lN0RhTnVET2NuQkNQelpKaHM3b21xbjRMemhfck5rUDczU09uVlI1UkdIcDlWaGxiSGZFUG9CWU93MVUyU2RJWlRfWGRYMTRVWF91N0lTWktVLVdvRGdtN09hcTVVaUU2UGFGVHE2Z1dzMnhQN28ybHJkdml4VWVJc2g4V0QzVlFDbXVlemE5eU1xUzNyTC1pWQ?oc=5) |
+| 2026-07-01 | — | Charlotte Observer | [Shop Pay vs Sezzle: Detailed, Side-by-Side Comparison](https://news.google.com/rss/articles/CBMie0FVX3lxTE9hM1dsanNCcmJ6dW9TVzNMV2VXUl9BSU8tRktNanh5ekpCTGdXaDVMT1l6YzVKdkUtT1VKem1nV1NPV0otM0xJWS1wWHVSX0JfVkJBR29VTlEzRlhHeXFVRVVHNDRZNTFWaldiQUNFSjNQSHNybzJQLVhQaw?oc=5) |
+| 2026-07-01 | — | The Motley Fool | [Sezzle Still Looks Attractive at Its Current Level](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXdFaEM4R0k0dTVuNnZjS1A1T3R5WG9vaGpSMzRCLXo2VlVaZDYzUHoxWDV5bWJTS3ZYTFZ4Z1p1b2dONERSdXJEZmZQdENVeU5mNnAtNnVxa2hsUHVpUG0weGNnRjlJMGJaa0JrQ2o1UDQ5S2VLWHd6S2lSLXc0Mlk2WHNaV0pyem5tUFl5bnBJNVhSVkNURA?oc=5) |
+| 2026-06-30 | — | Yahoo Finance | [The Zacks Analyst Blog Highlights Visa, Paymentus, Corpay, Sezzle and Remitly Global](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZm4taTFJdVhhNG9GNWJ1WFRGb2FHemNJdHgxaDBCNzhaWUxwd1lsOEZ4X3BSVzRmNXc3U09yTmJtVlh5UDZwU2tuUEJEQXFRSFV1Z1F5RUNlVjlIcEkyUWs0N1FrM1RWNHlSVVpfM2RmTVpTQ2d5YzM2ZjNDaWR2UjU1QnRhdUM0dm9tSkpPTEc2Mk1Da3NIUXJiWmtRTHpu?oc=5) |
+| 2026-06-30 | — | Charlotte Observer | [Sezzle vs Credova: The BNPL App I’d Use (+ Which I’d Avoid)](https://news.google.com/rss/articles/CBMiekFVX3lxTFB3S2JOX3BVTHBWeUJ2LXRoSkhsejF3alFURGFJQVEtYjdpSGthcUpBemN6Xy1mcjY4STlpTHFVb21HRnk4dl8xaEtZRUg1bllQTEY3ZE1xRzF6NDl1bndNbWNDZWh5ZWhLcUY2SVVGQlFhY3doYWhLc2VB?oc=5) |
+| 2026-06-30 | — | Seeking Alpha | [Sezzle: The Next Financial Ecosystem Leader? (NASDAQ:SEZL)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzc4eDl4WVhlRFUzX2N4TldoTXc1VDd2TXpOcWY3aTROQWY0dXdjN3ZTckJNNXR5WFBmMkREOFRYcWgzWW5qN2dXUWVwenVyTnpkMEFiWkhCQUJSLVRja0lVOE1FQWlnVTlRZ0NfTFlDeF80bVRkaENZckRreDhndTN6QWtkeGFNb0t3?oc=5) |
 | 2026-06-29 | — | Charlotte Observer | [Sezzle vs. Affirm: Choose the Right Buy Now, Pay Later App](https://news.google.com/rss/articles/CBMieEFVX3lxTFBFY3FfUnB0emlmOHQ3U1lOcUZ3bGxJbWppX3NLUTAtcS1DWWg3LTdNaDNacmw2RUNOMm1yVTlQWXFaOFlxN3d4R0VFMmloNE1UR2M0WE9aUjJ1OWNsOFdXQVNLUDVVVXRtUEpMMHJ5bXpSSDBST216cw?oc=5) |
 | 2026-06-29 | — | Sacramento Bee | [Sezzle vs. Afterpay: Which BNPL Is Better for Your Finances?](https://news.google.com/rss/articles/CBMibEFVX3lxTE02TzZqSHRmLWp0WUNCemJ5ZnNlNXlGMU1WLWM2anNzdFd3UENTZzAzV1hNc3psQkpOZUQ2VENwWUJ1YXJtRk03aVkzNy15RE93WWIzaVA5MWtDZ1FYcXBkNE16aDVhTDVUOVlSMg?oc=5) |
 | 2026-06-29 | — | Sacramento Bee | [Sezzle vs. Klarna: Comparing Two Popular BNPL Providers](https://news.google.com/rss/articles/CBMiakFVX3lxTE4yRy04bEx2VmZBSGEzMU1LajRTMDlCQWtlU0dtanZJNlZMUUZTdEk1TDZlbGVmeEM2NXAtZHFFb1hIX0xfLTE3MnNHYnJXRVM0d1BhY21vUllKd2tsNzVuQzJjUmNkOERoYXc?oc=5) |
@@ -24,6 +31,7 @@ _Updated: June 29, 2026_  ·  News & PR for [[sezzle]]
 | 2026-06-26 | — | CNBC | [Sezzle CEO Charlie Youakim on the state of the 'Buy Now, Pay Later' space](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkw5cGtTMDNCWldpdlFXQzQxOUhQTGpOU1o0THJnZVlJV1BFdjQwRlIzcGFvOTVRNlFTTVczZWVuS2dHNTJrZTQ4eFdHQU5yMGNmVmxLMGduaUpYcmduT1JiQ3dPWkdSb2pIdW5ZcDI4Ui1Tek5zNGNwS1ZCOWU5cUpzWkF3MDdBR0hSS3RkZ1ljMDZCUHd4UXlBSXRfVGdrc21ITXhwUWVWWG5GVVdqdjRHZw?oc=5) |
 | 2026-06-26 | — | Seeking Alpha | [Sezzle: A Host Of New Product And Service Offerings Renew My Strong Buy Rating (SEZL)](https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTRCYXJ5TjZ2X1dDbGRvYUJKQ1RsbEVNU0lEcXVRbHNXMndNSnctUjFHLWhCcXZQR0tTUVdkTV9ybXVRejFYbjVwQl9XRENlZFhndnNXVjNab2pIZEpzZzFxNi1LeldDcUVQN2VSY2tkUC1IYmtlMFR2RVJ4cTE3VmRWSTJQWTdWYU9TUDZhdi11WHBFeWJIVVlfa01vSEpLaVJxek5EYUkzelNtSldUd0NzZVZKWWs?oc=5) |
 | 2026-06-25 | — | Yahoo Finance | [Sezzle Stock Has Surged 102% Since April. A Short Squeeze Could Be Next.](https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWhOcHpZejJBQ0x6UkpTMFdiOFFNb2ljVkQ1Y0lIS0w4a1lJZFJiTDltS2kzYXc0T2FlS2YtRzJDcExPNnlKa0dwckZMZEc4LTh1YWllTHFocVd0Q0lHejB5YUdVanFSSC1wM09RWTE0U0hyRmVpSVpOOEpzTng1bHJxRkljaUxkTW96dkdWZmpDNklCbTJSem9B?oc=5) |
+| 2026-06-24 | — | Investing.com | [Sezzle stock gets Hold rating from Freedom Capital in new coverage](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcUpKSUNOSnZSV2NSZHpaWXFJNnpnUjAxdk1pcVNKUEZhZ0Z2d1JXb3JLcWdFUUpkRUNHem5PeEM5b2FoZ3RXTWRacnZ1Z01VUDZlMGJYN2o2WkJxeno1dkR1M3VWd0NKTmFERmgzVXYzZnJyZF9UV0h6cnc0V0pjYkdDRzZiUEF2OW9KMFRKeTFkQ191SXpXSDh0dE9NcWxqbkF4MXFvV0xmZzNheVJ2ODIwc2lhbDc0ZkZuSFQ3enlZYmlC?oc=5) |
 | 2026-06-20 | — | Yahoo Finance | [Sezzle (SEZL) Among The Tech Stocks To Sell According To Billionaires](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUG0tMzNPSmVkLTVaWklELTQ5NGVoRkl3V0VJSjZYT21Vbk10bHh6WWhlbFRucXhHV3ByTmNfNkdqbjU1SWZHMHVGcXBQVU5xTWxQQVc5UXdGTW90c2VreTNENk5aa1lGQ2Uyd3NtSU1PQnF1bHVHRDUxWHRfRno0WjVCaDlQeGlpX1UtUEtOVnR6LUd0NGY3d0hR?oc=5) |
 | 2026-06-19 | low | Sacramento Bee | [What Is Sezzle Spend? How It Works Inside the App](https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjhBNFBVU0lVRVhfZXhsWWtFQ25RWXJubTR0emZOUENHaDEwWEI2Y3JUZDBWazUxOXZqSzFoRnpDY1BqMmpLcTJvaHpQWHc0Xy1MdDhxSVNCbm51cHB1Wkg5bzVRR3FuSldyMVZVSGFOWkllZkJOVk9Ea0ZEajhtbA?oc=5) |
 | 2026-06-19 | — | Sacramento Bee | [Sezzle Review: Everything You Need to Know](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TVDJVMnc3ZG5fWnNUY2FHSFAxQ0ZfZ0NXcTU4R1NoQVloYkZCMThSRkd1d0U5VlgyQm83X1UyTlBwWmQybS1BZTZUVWhwVFVsanJJaWR5NklQdjdtUHd2VUxULXlkZw?oc=5) |
