@@ -2,19 +2,20 @@
 title: American First Finance (AFF) — Recent Coverage
 type: news
 competitor: [[american-first-finance]]
-count: 55
-created: 2026-07-06
-updated: 2026-07-06
+count: 57
+created: 2026-07-13
+updated: 2026-07-13
 ---
 
 # American First Finance (AFF) — Recent Coverage
 
-_Updated: July 6, 2026_  ·  News & PR for [[american-first-finance]]
+_Updated: July 13, 2026_  ·  News & PR for [[american-first-finance]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-06-29 | — | DonanımHaber | [FirstCash Holdings (FCFS) Edges Higher: Technical Levels in Focus - Earnings Sentiment](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFUyRktON2pYNGZNbUYzLWJjSTRyRVo5dG5GM1V1dEIyalplR1VidUJvcDZkZmRoVDBnSGJMUGQ0VTdfbW9uT2VWQWl4Sks5bmlKWUF1RDkyeWVTWFozZFFySVlWWDBnT3RoamNCZno3QWpKQ0tGNWxlQkUyck9YaEJWcHBtWjNIbDNLcHhCTmNQWEs4RnNJSDE3YnViZGtjY1QxTXFEVnB1V3lZREE?oc=5) |
 | 2026-06-27 | — | TradingView | [Enterprise value to revenue forward of FirstCash Holdings, Inc. – NASDAQ:FCFS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNU21VeHNfWG1TQXpiMUlzU0tmeEx0Z0UwVVpaX0gwaU4tR09WNHJONklXaHA0MUtiV3d4Z2tXVmMwQmFDU3U5YXViLXhVaUFQSG4yd3dOUmFJTkcwdndMck9KYjBRYnFOa3lEdmh2S0pFa0VvNk13bGxoT3ByY2QyU0dVT2hkUW5IRTlGVzlnZm5WYm1aM0JPbUU4b0hUUnl1VTQ0TjZXV09ZdzNt?oc=5) |
 | 2026-06-23 | — | investors.firstcash.com · PR | [FirstCash to Acquire Ramsdens, a Leading Pawn, Retail and Financial Services Operator in the United Kingdom](https://investors.firstcash.com/news-releases/news-release-details/firstcash-acquire-ramsdens-leading-pawn-retail-and-financial) |
 | 2026-06-22 | — | TradingKey | [Firstcash Holdings Inc (FCFS) Earnings Forecast: Future EPS & Revenue Growth Estimates](https://news.google.com/rss/articles/CBMib0FVX3lxTE5tV0dhY2FkM1JBS2h5Y3dsR00ySzRaTmJxYy1taVNhRWhzLUxuLVlyTDkzNDhBTGJJT1Blei1XVjVsU05GQktZdVpGNHAySGViX2JubGhkNXhBUUNOSXZrQkdSQUE3by10dnNESWFPTQ?oc=5) |
@@ -44,6 +45,7 @@ _Updated: July 6, 2026_  ·  News & PR for [[american-first-finance]]
 | 2026-05-30 | low | newsline.com | [FirstCash Holdings (FCFS) Q1 2026 Earnings: EPS Smashes Estimates by 14% Despite Flat Stock Reaction - Operating Income Trends](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUstS3AyUHNMSEVDeHJ4V19naFN5WVYzbEdtMFFDaFlMQUdoYXpWYVRzSHk4YmtEZ1lmZ2NKSXlJcnYzZTVxdFo5OUdKLTVPYmVMM0ZhZnY0bFRGdVo4bU9NN3lib19Qa2U2Q0duQWFqUTYzdlZYQ2oyUG9Xa25XaHlEYi1sZllnWTIyVllxUFgzUUVQVE94UVZBdEFhRWNQbm9YQ0lCTWtWNmlLSkFfNWFkZEwtZWJZMWJTYXktNkU2aXRNQVhHYXB4RkdZcm91?oc=5) |
 | 2026-05-29 | low | The Legal Advocate | [FirstCash Holdings (FCFS) Dips 1.3% Amid Cautious Trading, Support Levels in Focus - Volume Breakout Ideas](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbWVjWW9fenpERXpscWhzR0ZuRnpnMlhPOU0zTmttMXlicHkybGNYX2g4UlBYcFlwMThIR0FyY1BqNUJEeWFURkU5QWY2VzdaQnZqMHJLaXBUaVIzNjVvZWpRdUJkN3g2aTVvTUZ2VWEzSXNkX2dkUzJCTU1YSFZhUloxcld1UEl0elNxeEFFc01iZ0RMWDRleHJzcDBPNXZ3ZjJPN3dBekVKS2g1X1N4S0NjRG1raldGbW4wVzZZa3M2aERod0M3eQ?oc=5) |
 | 2026-05-29 | low | newsline.com | [FirstCash Holdings Q1 2026 Earnings: Strong Earnings Beat Driven by Operational Efficiency - Book Value Growth](https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGFMd056TTFZSW5wSnZqN0tuWVAzWmxkN2dTSVlGeEJMU3FBR3pRaTEtcFJLV1h3QkdPQnYtTHA0VlVxUjNFUHRtUEhfNjY2QVgtdktZZUZTOUhRZnh2emR6bHVMOV9pa256dE1NR2ZQa2liQTU0a3ZvTHNBYjZzTVNlUFEwZjJ5dmRKN29VdWhKVGRTZGhMV2NrYVVZSVVlX3BZdVF5eVZUSmc4RTNNaWh5Tll0cHNCRDdtdEVwUzhoTDk4aHVBVW9B?oc=5) |
+| 2026-05-29 | — | Bölüm Sonu Canavarı | [FirstCash Holdings (FCFS) Dips 1.3% Amid Cautious Trading, Support Levels in Focus - Stop Loss Guidance](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGdfYkxTR3pwa0pZOUJfb0g3XzBMOVJmM0NjYmNaUTFmeFQtbHItV21lRlRaeHdpdkFVZVM1dzc4UkRkNzhiaTlUM3FaWUZVRkctaUV4NlZrTnlLbG0zWmt6N3d1Vk8zZkVkVFhhV3FDbHlaWmt0ZTluaExvejlhOFlCMUhaVWVsMEdQLTdBTWR0eWJTZ2U5VkdRbWE5YjIwZDZZWnpreGpJVENLd25pcWxSWDNxZkwxTEw2cDFmcVpfbnllcTlz?oc=5) |
 | 2026-05-28 | low | newsline.com | [FirstCash Holdings (FCFS) Slides 3.3%: Key Support and Resistance Levels in Focus - Channel Projection](https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUtaNGtiRFJhUzdnU2ZFVnp1NkZjNDVSWEktcVJhVEpBcVRSWFQ1bEJrQ3NzV19naU4tSm1ZZmhybVNQZl8yWHRmM2FmRmZUVWRLWkY4YVZKSkk0eGoxcjJiQVVTMENMajBiZ3dnczJ1X1RYb3lhS0pRdVNBeTkwMU5GNGx6eEQ5bERDUDgwUER2LUZHZjNrTy1xWDZNNHdWWTNMZnF0SXdqdmQwZ2FDaTFraGFPQlU?oc=5) |
 | 2026-05-28 | low | newsline.com | [FirstCash Holdings (FCFS) Slides 3.3%: Key Support and Resistance Levels in Focus - Ease of Movement](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnpBXy1hMUwtWnRaWXNPbkVuQ3pQT3IySVFUSFlJX0NtTi03Zmw4Y01IRHNHd0ZDUWZJaFpGcjNZdlFBVGptV2J6QVgyZlAtYXYxUHhDSUlBZGdYU01DQVhjX0laTXA4anJLckNBLU4tRXdhcWoybW1uS3VHbUh2d3BxUHdOTHFIblhUdjhNT0ZVUzJxQU1hTG9zaUhqeFN4aVFfTUppTHgtN2NaTTR3YnM2MGR3TXhTV3c?oc=5) |
 | 2026-05-22 | low | newsline.com | [FirstCash Holdings (FCFS) Q1 2026 Earnings: Strong EPS Beat Driven by Operational Discipline - Earnings Season Review](https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUtUeDFZQVB5Z1k2QzAxOG5rWTVfbVlUSnZrdi1Qemhjb28xd1FCLVJxVGxEbWVYWmVKVXVoYmF5SUhIYkZMNU9YLXMtTXFLSVNkV0Z6ZEY0Q3lENUNEMkNHeWVvd2Zra3A0aFVTanhTeFhCUkhqNjJUX29VRnNLcU9lZW5meHpMTXZ2ZlhuRGViYVIxcm95ZHFEMlVDVE5ROWVpNEhWZlBJbk9nQ2p2Z3NYMkM3cUdKS2xxTFBqdFIwM2RETTRIcmpB?oc=5) |

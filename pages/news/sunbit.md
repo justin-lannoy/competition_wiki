@@ -2,19 +2,20 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 12
-created: 2026-07-06
-updated: 2026-07-06
+count: 13
+created: 2026-07-13
+updated: 2026-07-13
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: July 6, 2026_  ·  News & PR for [[sunbit]]
+_Updated: July 13, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-07-09 | — | Built In | [Top Buy Now Pay Later (BNPL) Companies](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wel8tLUhWMTdCLVd3OFQ0eEpPbDJfMlVGajlGcHR5d1pyb1JQemptbVlfamt4Xy1qOXJITXRwMFYzcEtnN3NCUzdkUnV3MHBOQ2Ytdm9VMUdla1NUS2x0UGpGeDVaamM?oc=5) |
 | 2026-06-30 | — | The National Law Review | [Sunbit Launches on Stripe, Unlocking Flexible Financing for In-Person Service Businesses Nationwide](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFN3VGxLLUFQVEZDUWViRlVKSU54X0hfTk1LTXltck9QcWFjSk5sdk5EOWRxTWJCbmV2TTNvLUJiT1BwZXQ4cUdjRlQ0NmlxZ241YjBXOUxKWUpGakljdWZoZ0J5TVVYSDBVNDZQdTFnZ1NkcG8zMHVzb1NmTTIxVnFkYkEyMXdBeUx0Q1FwaUZkR1dhNTIyUl9iLTdmMWd1TWUwa0drX1NfYVplQjQ0?oc=5) |
 | 2026-06-30 | — | AOL.com | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmhpSm9EdW40T0c4alJrdWE1UGhhRVFpalFzdFFsenE1NTVKM0VXREFXX0RLd0FiRklrX1R1T1NlXzRMN3d6dkxwNmFhcURYRXg5azQ2dTk3OWFYNU0tTVBJSzFoemlqbng5WExFUFJrTnpQTFoyd0hGb1cxV19LOUxEUQ?oc=5) |
 | 2026-06-29 | — | Business Wire | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjdEX0dFckkzc3J3UmpKMWhLVjJNenBZdXhoTWxDdFJVRjlDWTE1NGctMzE2X1hqTmRuZmhHdzVVOVdWWHJVdjBrMUpBQkJYSG91eDBsbEJpLUZXajFJZmtnVHRmdmYybVlhS2hiR3lqWmxvZXljRmo2bWVMTVJvWE1nWVVxRE44MHp0RThlcU02aHplOW9CYl8yNEpWaWJBTl9XZGlHNWlJdFNkZi0zalc4YmtYbFhvZnQxMkc0Vy1zZWtqOWU4UGI5TkFJU0Ftd2hFZXJGV3c3UTVJZ08yd2NR?oc=5) |
