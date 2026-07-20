@@ -2,19 +2,20 @@
 title: Katapult — Recent Coverage
 type: news
 competitor: [[katapult]]
-count: 66
-created: 2026-07-13
-updated: 2026-07-13
+count: 67
+created: 2026-07-20
+updated: 2026-07-20
 ---
 
 # Katapult — Recent Coverage
 
-_Updated: July 13, 2026_  ·  News & PR for [[katapult]]
+_Updated: July 20, 2026_  ·  News & PR for [[katapult]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-07-16 | — | TradingView | [Price to book forward of Katapult Holdings, Inc. – NASDAQ:KPLT](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTJUWGFhWFpSTmVwTFJqRlJVS3doNlh0QzdnRnF2ZzU3SDZ0RDZPeU5UZ3dNVDFGYk1jNnE1alBpTHkzX29kakliQTNieG10aHZRekVOOUhwMEg1eWk1X2dwUW5XbXB3N1E0SFdQaU9tM0otcHJtbzNfdllzOG5EZlQyNFRIbUh2emRLcHlJUGdHZVJLbmcwTW5XRWE?oc=5) |
 | 2026-07-08 | — | TradingView | [Enterprise value to EBITDA forward of Katapult Holdings, Inc. – NASDAQ:KPLT](https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHFPd3IxXzU3NjVUM1M4ekJVMGxTcVpyOUlUVldjdVNTMW4wLTg5U2JVRWtPZEV4cEZpNjJaNE5ldFlqaDNTM1VHZWxkdWhMbkhzUTZ2MkttQlp4TGJYVEpieDRPa1hBVzZBRHdoMThLUmRLa3QzNlRnS1dVcHFPaVlmR281TVZZSS14RWxud0V3Y0NzNHAwNXlybjN3S2xGd21zUnlaRk45c3VaR1E?oc=5) |
 | 2026-07-06 | — | - Disrupt Africa | [Katapult Africa opens applications for latest climate-focused accelerator programme](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFhieFFxMTNaQU9rWXkxTXVlNlFSNXlRaURsNGNKdklNX3p1SEFjcDdXd3FRTDlFdk8wMGJxZFBRVUFFLVNVeWxtc3BNS3BuTEM0Q1VYbUpwS0xiMU9ZcFNhekQ3SFozcWphMGt4VEIzY3NEVGE1THpaTkFWOG00UjBCSVFzQmUzVXEzYUVRczZMRUgyVHF6eWF2SjdPTDBQOFZyV1dVQUNJaWdfLVc2NWJ5QUpmdUNuRnBmai1B?oc=5) |
 | 2026-07-03 | — | TradingView | [Enterprise value to revenue forward of Katapult Holdings, Inc. – NASDAQ:KPLT](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXB0Yi1EQjBFT3FNYkhSN2VjaE5NejBXWnRFSm55VlBvRVNlMTJoZXZFUTNCNllxN3ZKSjRZLVF0Vk5STHBoakRoY1RINmYxeFF4b25HMkppRnRZejlZMFFCUTNpOGZjNUJCc2RmbTcyU05oeFVWRXNCV291UmZwcVllUExrRWVVdHYxU1ZHWkI3VkFHc1FFUk91Z2ZIUkxxN1hNamxkclNjTXlX?oc=5) |

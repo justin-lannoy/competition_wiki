@@ -2,19 +2,25 @@
 title: Zip — Recent Coverage
 type: news
 competitor: [[zip]]
-count: 79
-created: 2026-07-13
-updated: 2026-07-13
+count: 85
+created: 2026-07-20
+updated: 2026-07-20
 ---
 
 # Zip — Recent Coverage
 
-_Updated: July 13, 2026_  ·  News & PR for [[zip]]
+_Updated: July 20, 2026_  ·  News & PR for [[zip]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-07-17 | — | FOREX.com | [Zip Co Ltd Share Price - Share CFDs](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbkZQdW5UN1k4WjA1LXZyUVZCWjR5Si1UeW1qNy03Q0ZyZjlBcGF3RzNDaUpfMlVjM19nX3FOV1dIeFZPd2xCMFlqbV9vR1h3bGJXVXF3alp1VXVWV0RKUTFNTQ?oc=5) |
+| 2026-07-17 | — | grafa.com | [Zip Co exits New Zealand market in strategy pivot](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYWM0WU9Ub09tSmJvYlgyUmtPOThKUG1UTHQycldrVjVXTVVJNVBLenhmRzhmLVFmUDVfcW5LR01ER05FS2NnWllRNjZteFhmTmo5UkhiUHE4VDhEaDJKSERnQ0RjMVRqT18xVTB2MXNRektvdVkxVU1xWV9XMW9yRnFycms5TVVyc2ljeGlB?oc=5) |
+| 2026-07-17 | — | 1News | [Buy now, pay later provider Zip withdraws from NZ market](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEZLNFR4UEtFSlVqLVZXVm4wdEFzaW40STBMT29ZdkRWUXREQmxUNmttSHRzemhNZ2wxSDNPdnRHbXE0TGFHOWJ4RVk0S1BRUGl2Z2pfcndvQjFvQ1V1V045MDdncnR4SERpcldmTFpISWhuNlgzZmFSdnJzaXFXRnRRamNmZk93S0FXM3FuN1BJXzdNMEE?oc=5) |
+| 2026-07-17 | — | RNZ | [Zip exits NZ buy-now-pay-later market](https://news.google.com/rss/articles/CBMihwFBVV95cUxPOVZmWE96b3RNVlp4RDJ5WE5tcjBlMXVZc3l5RlNPYzFPUzA4eXA3MnJrTzQwZUxsWFJRWW9BMG1rc2YzMEQ5Z2c5UnNoRE5GOG9qVlBhU0xsdVV3eUpjMGdhdU9GRUhidUtRaEJfYUpteEVVODhnanFBUlhSb3RvaGMtQi1kaEk?oc=5) |
+| 2026-07-17 | — | BusinessDesk \| NZ | [Buy now, pay later firm Zip to exit New Zealand](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFdjUUc2aWRaUlpjWkZNQjZkbTBQbHB0ZmwyZEFHZVlWQU45cDgyRzFDU3RXU2pGRE5nZ0RDTEstMFJkWk5GSGZMM1hPZTlxbDNWQ1VnRndkZExMZHRNbG9RR1IyMDZnQnFGck92LUljaF8zVms3MVJCUTV3R0tFdUs4dlBCV2xmTGZYd1QxRGRIQ3M?oc=5) |
+| 2026-07-15 | — | MSN | [Zip shares jump on US growth and earnings upgrade](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjNwcElWekczUTlxY1BFUEJacmsyR3F2VkxkVEEtcHJpQ3JZdDdiMDlqSG1URjhFNGpfanFQSVhBTEF4V212TG5QbzZEcTJBZkU5alFVc3o1WDh5cHZrZHFoRzBwWlc3aEVlWURkOU5KVDdGRUZCQmRjdDdYM25LY2NXR2NySW5uNW16OWU1dUxSd2JsVDRSSEIzcTFJcUZrV0lGdnl5NjM4bVRrNi0tbmZMMEZ4UldPU25yZDlXVjMtWnBKUHJaYkpzamp5ZzAtamxqSmtyV3o5Q3FJdGFIWVBhSkVwQQ?oc=5) |
 | 2026-07-11 | — | MSN | [Analysts split on Zip’s FY27 share price outlook](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV0lVdy14Nndybmk1UGdBdzhTajN6bDJldlB2S2tRSFJ3UlJSSjR6bDliQVRPX1ZMZzJjRXZEQWVDdFFaZkNZZVJiNTk0NGdlVEZEV0RiT3VLR3Q2MUtZbDNRTTRZUThCZkZBdUtCME9lMXdfRkp0Tm03RVFmZGVLVzkyRHNNemZUdGxOUml1bUFuZV9oOEgzVzdhRFhleEhxcG1CdTB3OFJ3dlpJQmtPTU5aSzkySUdPYmZ0Uk0xeFhwcGUzS01LY1VPNmQ3S3drd0J4STFRYW1TWXN3SnpRazBDcm8?oc=5) |
 | 2026-07-08 | — | AFR | [After a $400m exit, Quadpay’s Lindenberg returns with a home loan bet](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlU3aDZhdTJvS0IteERXWEc2T1J2Rmo3LWZMeENLVm00bi1pUUV2LW5Za2I2VjZoeGYtbnUzX0JLaTVlZXY1OWtIUGJDSmpQY3dDRGkzTjY4WldzbzJMODEwdldaNTNiOElLYkZEeGVjeXpKY20tUnVucHlGN1JzVnNRY0tPdEV5d2VCc2l1UTZpRXNFQjZ3ZDVFeWF3ZXBkeXJVU3M4LWFKdzBNSnhkV1laVS10dw?oc=5) |
 | 2026-07-05 | — | Market Index | [ChartWatch ASX Scans: CSL, Cochlear, Artrya, Anteris Technologies, AMP, Zip Co, Graincorp, Pexa](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2NNczVhTzFRUUdJMjByUlJXY2xXV1dEVGVhQkFrejVKdXdwRlZWcmJqLVBmVXN4ZlEyQVdGRC1OREhsYUZDcEVSYjE5anZtdmQtamJHeXJDdkR6ZnZCVkdxMzd0UHhaRklLU3BNckxFZnhHZEtEYVk1aEo4RzVCaW0yZ1djN3hZRmVLQlZ6eVZQZFNNeVo4TEwzb3dYUFdPQUxJelNwVGh3ZTRFSnJCVVBhWVN1NFgxbjRtLU4ybFI?oc=5) |
@@ -31,6 +37,7 @@ _Updated: July 13, 2026_  ·  News & PR for [[zip]]
 | 2026-07-04 | — | Kabul University | [How to buy Immutable: Value, Cheapest & Beginner Primer](https://news.google.com/rss/articles/CBMifkFVX3lxTFBETEY1dDFNTXNhOFAwRXNUTW1UNW9LMFNWZnpLRnFLU3NERllrd21KUXVqZFAxR3RWSTAwN3BUVEQtdldjUkNJUlNHRi1PT090YW9ZenF2ZFg3UXVvX25yZk83TmRLNlJPWEtQTUdkWGdqbXQ0cWlOemdtc1VPdw?oc=5) |
 | 2026-07-03 | — | Kabul University | [Buy Gnosis with Zip Pay: Charges, Roadmap & Insights](https://news.google.com/rss/articles/CBMiekFVX3lxTE4tbFczejExT3FETTZ6M2pCVEJZM2I2SVVodWFTRV9jd0NaRl9GWml5Z0xzcWM1SHVJT2dnVnZxY09VRnR0amdjbGpfYzFBTWJNT1RGOUNBM2RrYUktdlJWOURjQmF0aU43U01BN1pJWHdoSXhJSDMwenF3?oc=5) |
 | 2026-07-03 | — | Kabul University | [Purchase Element Finance with Visa: Complete How-To](https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjZPU2E1NjEzTGxfdkhnd24zRWFDSnVVbEVuNERsT2tLWUV1cW5mRlFyNmEyTlJZX3l6X05hX3dCdlBGelg5N0lYZ3ctOGRkYU1BYjB6anJhM1pDM0o2QUVzV09ubnJEUFhsckwxZWNPZVRNZUIyVmJ3YjVJeUdHRQ?oc=5) |
+| 2026-07-03 | — | Kabul University | [Renzo Introduction: Learn to purchase Renzo Digital](https://news.google.com/rss/articles/CBMigAFBVV95cUxOTklFaVpRYTF4c1dLWHFXaGdGZDN3bTJiNVpId3FpNVF5UGVYZjBlWjVLbnpDREtQMWtvMUwxNHJTWlVhamVtUmlYRVU1cUFNMk9Kazlwak9uVm5icUUyYm55TW9wXzIzOGFjZGMtaGVKYjJPaXFmTndfWEcyd3E4MQ?oc=5) |
 | 2026-07-02 | — | Kabul University | [How can I buy Ooki with Zip Pay: Thorough Guide](https://news.google.com/rss/articles/CBMid0FVX3lxTE9iQ0hLVzhobk96ZUE4WEowZzVSekR2emt5cGxFVk1PMFRQR3NYaXhCRjczSnFUWjU4SDhybXBwU3hDeThfUU81RzI3RldRNWIwc1RuSFZqc1AxTDhkWVVzMEI1ejlJeVdCb1YzQWRRY3J4Q3JzOWxJ?oc=5) |
 | 2026-07-02 | — | Kabul University | [Purchase BitTorrent with Zip Pay: Fee, Process & Advice](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QbUc3V2NkOEZLcDdCdEI3NmNOYmV5enU0WTJDd09wclg4YUJ5LXN0UWNsUFBzNXJWNENwUTRTLWRQNk1qRGo4QXJ1ZzNWTkNucTBqSEpFUnVCUUk2d3JXMFFJWjhINHgyNkx5d2ZwdFR3ZE01TTBCTGlEampMVTA?oc=5) |
 | 2026-07-02 | — | Domain | [Zip co-founder Larry Diamond revealed as buyer of $17 million mansion](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmVST3F5M1NlajhwRjlaMkVnbW5PZmNGbEd5dnNUc1pSVmV2eDNlU0pidXc0dXVVV2V4U3NjcTRWZ2FFNXJiaVRPN0ZKRHBNTWRfT2NVMkx2ZkQ4R0ZSMFUtbWpHYkRrejFsdmstbDRYcGhxd3g2VzB0OHc5eXJ4ckxqMi1RZ1VTZ1lJRWktTktZOW1xakJYOFZra1U2a29zRThQNFlHdGpaVXp3?oc=5) |
@@ -47,7 +54,6 @@ _Updated: July 13, 2026_  ·  News & PR for [[zip]]
 | 2026-06-27 | — | TradingView | [Enterprise value to revenue forward of Zip Co Ltd. – MUN:YRRA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFRHcEpiQzU1Y2d5ZDE4eDRwZ2FqSUZUSjZZRkJZYTRtNWJzZHo0RVY3bUVrQnhJU0Z4VlZIazh4UGZPRnlKWTV3YkpXUzFsOE5sZHZ6dGtQTl9VVllwR3VjaEk4LVN4cUswVEJwSUJfWTBzY0FlZkdSdUhaeDE1cDRfdGtSQmhveE9LaFlNMUxtMEpwaXNnSm96X0Zmal9vdTRpNlA4UjE?oc=5) |
 | 2026-06-27 | — | TradingView | [Enterprise value to EBIT forward of Zip Co Ltd. – ASX:ZIP](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjZuNGNkUFVyUWRxc2JPRVRDS3FQcDFPY1lDa3I1ZXdvOElaOFdIMTNRVnd6VkVRd21uZ1ROWEZyZUlvbENlcXF1Q3JTZi1pMEV1b3BEVENJWm1VSFBLbUl1ajVTeXltUk5NRlZfQkhYVWp3RHpsdXJVc2JRN055Z3BLUm1Dem1sTWlORTZKaU0yYl9OeF9TdXdpTHkwRVFRSmkya0lB?oc=5) |
 | 2026-06-27 | — | TradingView | [Enterprise value to revenue forward of Zip Co Ltd. – ASX:ZIP](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUw2RzBOTmxfZFFTaFJKb3ZFTHdWLXN2ZXRNdEhGX3JNWWhoTWtKWW9WaWRQbzgyaUVRSXJFR29SM0xUN1lvS25ocEcyZklyczY2X3M1d2NVT2ZDWi04M3gxSmpsbmlGV2FLZGNFaGVNOU9pcmFhaS1uRGM2NE44NHQ4aGFKRF9NbFFmUmdqMjBOOE5SZ2JSbm9HRW5uZzNRWDh5bkU0OA?oc=5) |
-| 2026-06-26 | — | FOREX.com | [Zip Co Ltd Share Price - Share CFDs](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbkZQdW5UN1k4WjA1LXZyUVZCWjR5Si1UeW1qNy03Q0ZyZjlBcGF3RzNDaUpfMlVjM19nX3FOV1dIeFZPd2xCMFlqbV9vR1h3bGJXVXF3alp1VXVWV0RKUTFNTQ?oc=5) |
 | 2026-06-25 | — | TradingView | [Price to book forward of Zip Co Ltd. – OTC:ZIZTF](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFpOdmZGQ3JVX0xCLS1hVkZuMEJTSzNiNnhqdEtHRHN2VHptNDl4QzZFdk81RG1VUk9ZNWRKRFFhWld2TzZkYmNCUHVUd2NscU5HWjNpM245V0hIanQzSTR2eTgzRGpKaVMwVV9VUVJQLVRaenR4TUJnXy1KTFhILXEwQldISFRXNDVlNmF6cFl1NlZpdVJNOERB?oc=5) |
 | 2026-06-25 | — | TradingView | [Enterprise value to EBITDA forward of Zip Co Ltd. – ASX:ZIP](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2tPZEpyVWFXOS1sT0RmdmdfMWJoSUViN2syYVNTOXVzeUw5dVpoZ2JfSDVWb292cnpzMU5Sem9CQzZOVURaS1VLVktUYmpNeG5IcHplR1l0M2lCV3k0b1dsc21nRmVRZWNxNlZGaEFoMFdDUDNTVklJenVkNnFRZV8zcDBObVpvOFpzQzJad0tUQ1Z1ZEpHQlJJMng0cE5XMmk5LTFmbUY?oc=5) |
 | 2026-06-21 | — | Kabul University | [How do I buy BRETT with Zip Pay: In-Depth Tutorial](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaVM2MjU4b1ExdnpHbWFDekl5ek50eFJwV3ZKQ0ZNSVdqYzd2NnJRR1J5ZWdFdWFiMjdsc1UwdjEycUxKcnY2WjE5RW1NWllBTThieFQ4b2tOWmI2cmp0M1RXMHRXbG9wU19FWnNURDNfXzFINzdxZURqTmdZWGU3N0VOTlc4MjQ?oc=5) |

@@ -2,24 +2,41 @@
 title: Klarna Group — Recent Coverage
 type: news
 competitor: [[klarna]]
-count: 109
-created: 2026-07-13
-updated: 2026-07-13
+count: 126
+created: 2026-07-20
+updated: 2026-07-20
 ---
 
 # Klarna Group — Recent Coverage
 
-_Updated: July 13, 2026_  ·  News & PR for [[klarna]]
+_Updated: July 20, 2026_  ·  News & PR for [[klarna]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
-| 2026-07-09 | medium | Stocktwits | [KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVnlGWlJ1aVJwczBaUU1PVUNMZmEyZFZSa2poV0RuMkxOM1pSU3dIcl93aFZSZzJTVThpMW9XcTBtUHUwWWRZQTh4VWdtamdhbVVmRzBjTUh1WDRkczVCaHdfY1dxUmd6NFpXYnoxM1hnS29hQVEyNThwcXNIN2RpTzdyX3E0cEdYUmszVEpwVE9ZX2R0eW5pQUtBOU9YdlZXZWNTSU1QWEt4RTA1bUY2MVplZ1BzT3pmVksxdlFTTHplUUxkbUVMekwxckZRT2tMamZBNFBaVExsMmd5am9Mb2stVHNxWmJF?oc=5) |
-| 2026-07-09 | — | Yahoo Finance | [Klarna Group (KLAR) Deepens Travel Ties With Flix, Southwest Amid Push For Klarna Bank USA](https://news.google.com/rss/articles/CBMingFBVV95cUxOY1R2ZWl1TWIyVnRaenpEZGg3RnRlOC1FM1pMVEl6WWd1c29MNFNRbnNGSlB1WDZEV3dBOG9CVmxpYW1paFhpWUdSb3Y0Y0ZFd2lkV2Ntay14TmJKTDNsN1JxWHY5TW5WZ1RqY2RFdXRkRzl2YVNSb2VxTVBZMXlxQlZORXpGV2wtYzRzbVFPa1hlVkRmNEVFX3daRmlvdw?oc=5) |
-| 2026-07-09 | — | Yahoo Finance | [Klarna Group (KLAR) Could Be 56% Undervalued As Travel Deals And Bank Plan Expand Reach](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFBMUVkwUXJlVWRVeDhfV3Q3dmFqX3VkcnhYUVFKbF93dE5KbEJEamNLd1FmaTNKRHQ1Yno2RFQwOTlvR0RyZG45Y08yeFRESm1QMmFRX2dBc191YnFPVTBZcW8zVk5BSVl5V0xlaXBpV1RpVTBLYy1jUDRTSEE4b3UtX2RkcFdmS2VYTDRuaXFZdFpaVUE?oc=5) |
+| 2026-07-19 | — | FinanceFeeds | [Klarna $KLAR stock price forecast: $25 bull case, $12 bear case](https://news.google.com/rss/articles/CBMieEFVX3lxTE12cVNqTlZLVXU0U0J2cTVnUUNFTGVOVmFlTEZtc25zSW5OQ3ZpczNRVUt0SnRZX1RUVVoyUlg1UEFDVl8ybFMycGhVVVBEbnI0bVBacVNOUmJDelM0ZnNDa1RjNGFmbG1VRi0yNXQzQkh6dWxvZmxuNA?oc=5) |
+| 2026-07-18 | medium | Stocktwits | [KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVnlGWlJ1aVJwczBaUU1PVUNMZmEyZFZSa2poV0RuMkxOM1pSU3dIcl93aFZSZzJTVThpMW9XcTBtUHUwWWRZQTh4VWdtamdhbVVmRzBjTUh1WDRkczVCaHdfY1dxUmd6NFpXYnoxM1hnS29hQVEyNThwcXNIN2RpTzdyX3E0cEdYUmszVEpwVE9ZX2R0eW5pQUtBOU9YdlZXZWNTSU1QWEt4RTA1bUY2MVplZ1BzT3pmVksxdlFTTHplUUxkbUVMekwxckZRT2tMamZBNFBaVExsMmd5am9Mb2stVHNxWmJF?oc=5) |
+| 2026-07-18 | — | Stocktwits | [KLAR Stock Rebounds After Earnings Shock: Analysts Split, Retail Believes Dead Cat Bounce Likely Next](https://news.google.com/rss/articles/CBMitwFBVV95cUxPdS1ZRHYwNkdZREdENnpxMVBlRXg3OXZCZWZyVjVvXzlVRTFwYWFjOGZnTkpCUG01bVYydDJkVVliR2N2T3U1OFZXckhrSndnR2JjM251ZUcxVW9NQzBCSXVZZE9hZmZYM2l4VUNzQWVaRE5kdm12bDloQ3hmb3ExMUFTOTktOGU3alNrRWEtMTdQQmtwUmhlVDBiLUFNTTBYTnJkLThkZmRmcTNCMVVGZlZmbmlodkE?oc=5) |
+| 2026-07-17 | — | Moomoo | [Klarna Continues to Drive Capital Efficiency With $518M Securitization to Support $12B of Lending](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmVwY0F3VHFlLTFMQk5TLTlMSEhaQ1YtRTBNeE55aVJLbDdPNEVIMWpEM0xnZEVDeWczbmVVVW1pWnBzVVI0ZU5QWlhyR0hKaGpQaERTRmEzUEREaTdsb29yMUVDWFZ4NWlTQlZLU2dnajZKTDhWZ2tHa21qbFp1RXF3VnZVc3lQUnk4QjJvY3Rfa3JFeVNwbms2U1Ffd2ppN2VxLVdscm5lVE5mb2ltNUZwUXA?oc=5) |
+| 2026-07-16 | — | Yahoo Finance | [Zacks.com featured highlights include Jabil, CECO Environmental and Klarna](https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1J6b1pOSXpURlJ4aThpaXZfTk9GWS1NekIyYk1QUGxXVzVzS2RFOGE1VkZGN2didHFnRi10Ukh5MjBYSEVzSFRaVGpMZlNIRHo4dmd3TVE0WDZMcG9wVVViZkxRY1FlX1hraU5XMEhFNnpDaExWNVo2dVFMZzdlQnUzekI4UWFoUkh5TTFDWVRadVB6S0dZTklCWjNWMW5ZRGc?oc=5) |
+| 2026-07-16 | — | Moomoo | [KLARNA GROUP - COMPLETES $518 MLN SIGNIFICANT RISK TRANSFER](https://news.google.com/rss/articles/CBMioAFBVV95cUxOU2V2Z0IxMkRIWi1jaENvbFUtRDhWZFJuVEVNeTFWZVg4RHdiMXd3NVBLRklET0ZoZi01LUpXSDVKZldVclA2STJSM05uQm5MWkU5cVZ2UnYzRTdUU2ZtQ29YUkI1ZWV5SW5CVTdWWUlSQ1RQS2xic3Npc205bDFiQnVCeXdwQXJMX29ORy10WDJwa2t6VVQ2ZlJJTGQteGc2?oc=5) |
+| 2026-07-16 | — | MSN | [These analysts revise their forecasts on Klarna Group following Q1 results](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXNncExCN1FfRzd5LUY4RmVkRFNZUG9hYm84T1M4MmlybFJNWEROSmdzR1dnam9JS2R4cjF6TV9KQmVnazlOMTk4SVEzSFRkTDNkcjRoYVhSc2ZiRFBRX3M1YkJrWUw1Mk5qbnJuRU1TQUpQbHF0YkdLNUk5ejVuTzJLX1psbDRzSWtMZThnTjRtTGk3T0duUnh5LVBtd3BrUnF1aHotd043eFJoNWt6OEZFMGVPZFZaZ2lKWjN6blc?oc=5) |
+| 2026-07-16 | — | investors.klarna.com · PR | [Klarna Continues to Drive Capital Efficiency With $518 Million Securitization to Support $12 Billion of Lending](https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Continues-to-Drive-Capital-Efficiency-With-518-Million-Securitization-to-Support-12-Billion-of-Lending/default.aspx) |
+| 2026-07-15 | — | Seeking Alpha | [Klarna Proves Their Successful Fintech Acquisition Model - Value Thesis Still Compelling](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjhKZkVnWjMwLVFqMGo0U1FPUnExZXZHMUZlaWdpTkNFZHRoMkxfbmlGaTU5VjJDZXd6eHV3WEVEdlpkWkcteDVWU2QwR0xVSkRLTG1scy1fRERMUXVOYUp3YXRJU3plRnhzV2VtVDVVYmtQS1VqM0M0bTVwSmNlWXhxYlBFZlpzS25xaVV5dVB2N1d1dHY1Q0RKaHhDeGRrZU00RzQxal9CNklNNVFINDlReXhacDdidlRIeGJNd0NFVVk?oc=5) |
+| 2026-07-14 | — | Moomoo | [Market Chatter: Klarna Group Planning SRT to Boost Capital for International Expansion](https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2lSSUVwLTM2Vkc5UVZUbXpScDRHQ1ZwWUZTZERnZDVWVl9zc2t1QllXQkNZazY3ekZGVkNpM1BCRVRxUGhxUHB3Y3pLdFBUbFppM3lhUmVHTkhIZlVPdVFHaW5qdFJtelFhbWJHaXZEN3dKeE5WRU1aTjZjOWFCdUltTTUtYVlCYmV2UmhGZlRsYnhEcWtJMWdYSGJPZDc3WER3QTZ3?oc=5) |
+| 2026-07-14 | — | Seeking Alpha | [Klarna: Priced As BNPL, Should Trade As A Neobank (NYSE:KLAR)](https://news.google.com/rss/articles/CBMikgFBVV95cUxOX2hJc0pUX3RYckw3WEpZeHZxSXlqcXl6bFZleHUtN3RBNkxDLUstdUxfdFI2eThYSnNUVUNnVm80elN1ZThWZVQwbmVJbEpFa19laUFXUV9saldBYU9QT3Y3eGZwVmJNdkFKUGFXSnpyTjJoa0dNeUhxVW41bHVxQllzN0w5M3c2SE0tOUhtWk1FQQ?oc=5) |
+| 2026-07-14 | — | 富途牛牛 | [BofA Securities Maintains Klarna Group(KLAR.US) With Buy Rating, Maintains Target Price $23](https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFhDUk1NOGh2YVROVE5IQ1dGQnBtcUZyOGZtLWxnUERZamp3bUQ0WEhRUlpPVTNTb3FSYjRmY00tV0xkNVFkclRpSjlhMWJZRllUX2pDSDhLdThxaGo3cVFQQ1pfOUg0SUJwREpNUzdPNWhkQWhmdGpJa1lTQ2QxQV9JeTJmYmtqWGFlYi04em1LVDZ2RGFfQm05aGVmdXV0em1ERmRXTFpEV19Qb05wNW5n?oc=5) |
+| 2026-07-13 | — | Moomoo | [BofA Securities Maintains Klarna Group(KLAR.US) With Buy Rating, Maintains Target Price $23](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYUNHQlg2U3lzZkRNeWMxU0c5LTdVWkxjVFkyU2tuU2VDaS1oZ2lZWHlkalJabHRHRGNFVVlzeGhJa3NmS2tfUDNPWWY4N0c1SEFNNmxqWHZuMVNrVkRGOVVweEZvdmVCeG1Tdk1yeDdzZEpNMnZOSzdIQ19EMzRMOTFReldWLVFXb2RjNnZkaEFwV1VNNzFIWjEyV0RTZlViNlBGUHRXRGxvOEhCcnVCX2R2RQ?oc=5) |
+| 2026-07-13 | — | Moomoo | [Press Release: Klarna to Publish Q2 2026 Earnings on August 18, 2026](https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3ctWDF0ZzBpanJuMUxxN2dvcXVLb0VOOEhJOHg5Ml81U2VyalRuRzJWT2w5V3lwbDR1bnFSLWxUNldCQ3llcmhSeVhna0FhWnlQdGl3b1lzRUxMZVhSYUVwWGwwSDRGQkNSUWNXby1lMHZBRWpWbEtGZC0yUWduWVlveldmZkFoMzdkOGtDQ2lXX3lKVFByQjVQQ094enZBT1E?oc=5) |
+| 2026-07-13 | — | investors.klarna.com · PR | [Klarna to Publish Q2 2026 Earnings on August 18, 2026](https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-to-Publish-Q2-2026-Earnings-on-August-18-2026/default.aspx) |
+| 2026-07-11 | — | Sahm | [3 Bank Stocks That Could Benefit Most From Higher Interest Rates](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjd6RHpOVUJxejRkZkVNNTRjTkhXTDlEVUJhd0ppTXhyRmJfSUFMSHRxR0tacFhRVEpkTmlqRFZjVFZ4NEFOYVpDV1BtdFdUWUNYRFZ6R1dqRVRBQVMwOFlWV05iUVh1NzJBek4wNEJTRkpNcGx6Qk5ZVE5DM0gtdUZvLXhaRC1EMTNUaUFSUUM1M1NjTHJkZ3h1Rmt5YmRyeTc5X0dpc0ttSzkya0tha0UxdUlkQVk?oc=5) |
+| 2026-07-11 | — | Sahm | [Is New Klarna Partnership And Air Premia Tie-Up Altering The Investment Case For Southwest (LUV)?](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdm9TX0g2NnVfSXhWTU9tckloaVdTcHlnLU1fcTJjelAwZmk1UmlzcE1ibndwaWZpZktWVTFHODROSmVzc2dKQktJNEpKQjdEVEpQZ003UmxJTWlwVm5rczIyeEVORDJLVm54cXJxc0ZzTDhhV25rM1JtUlRpdEpqNkRyQVFHb0FWUVVPRkxwNmdKWExOMWJQWnduWXRSVWlXdXdXYmVsbUhheUc1T21HamlHMlZfRWE1UHg2RjFUNERrTVAtSlVBbHRCVUtwYjNqTW9BbWVEOEI5anVlbmpz?oc=5) |
 | 2026-07-09 | — | 富途牛牛 | [Goldman Sachs Maintains Klarna Group(KLAR.US) With Buy Rating, Raises Target Price to $25](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR25yeEdjaG9jYXpNVEwyaGFCUzJrWWJpamd0Tk9DeHNKQnBzMklLM0NrenB4SXVtNGRlSTl3UGhMbm5LYUtMR2lfaHZ1djVLUW9YT293RWp0MXZiV3JWdnRhTnhldmtnY2I3VnhBUGVwaW5XM2hWaEIxUThDQlF1RDJrektzcF9JTHA0SFd0aEM3el9PV29jQmZWT2NFeXhPQWJMUlE2U0E5NGs?oc=5) |
 | 2026-07-09 | — | investors.klarna.com · PR | [Klarna Adds Germany to Its Capital Efficiency Platform With €900m Facility Supporting €5bn of German Financing Expansion](https://investors.klarna.com/News--Events/news/news-details/2026/Klarna-Adds-Germany-to-Its-Capital-Efficiency-Platform-With-900m-Facility-Supporting-5bn-of-German-Financing-Expansion/default.aspx) |
+| 2026-07-09 | — | dars.gov.et | [Klarna Group (KLAR) Surges Over 5%: Testing Key Resistance at $20.99 - Elliott Wave Count](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUkwbkVDMzdXbTltNkZjUF8yMFE2encwVzFLUTdiVUU0c21tQlhQZUF4MkFyejFrYVo1Z1pNQk12QzhybWhNbEtwQXpTTkwtNG1kLVIzZmRORm1IUWMzbXBhLWxrOGpxaktDc1NXUF9GNXhjQS1MMm55Ukw4Y0hMZTFRRTdNckJnQXBVM05HdVBXbTNRMk5VMnpzeC1KekxoVFE5YUlxTQ?oc=5) |
+| 2026-07-08 | — | Yahoo Finance | [Klarna Group (KLAR) Deepens Travel Ties With Flix, Southwest Amid Push For Klarna Bank USA](https://news.google.com/rss/articles/CBMingFBVV95cUxOY1R2ZWl1TWIyVnRaenpEZGg3RnRlOC1FM1pMVEl6WWd1c29MNFNRbnNGSlB1WDZEV3dBOG9CVmxpYW1paFhpWUdSb3Y0Y0ZFd2lkV2Ntay14TmJKTDNsN1JxWHY5TW5WZ1RqY2RFdXRkRzl2YVNSb2VxTVBZMXlxQlZORXpGV2wtYzRzbVFPa1hlVkRmNEVFX3daRmlvdw?oc=5) |
+| 2026-07-08 | — | Yahoo Finance | [Klarna Group (KLAR) Could Be 56% Undervalued As Travel Deals And Bank Plan Expand Reach](https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFBMUVkwUXJlVWRVeDhfV3Q3dmFqX3VkcnhYUVFKbF93dE5KbEJEamNLd1FmaTNKRHQ1Yno2RFQwOTlvR0RyZG45Y08yeFRESm1QMmFRX2dBc191YnFPVTBZcW8zVk5BSVl5V0xlaXBpV1RpVTBLYy1jUDRTSEE4b3UtX2RkcFdmS2VYTDRuaXFZdFpaVUE?oc=5) |
 | 2026-07-08 | — | Moomoo | [Barclays Initiates Klarna Group at Equalweight](https://news.google.com/rss/articles/CBMikgFBVV95cUxOR2pkelVXZS10V2tYUFJQTGxGV09sQi1FM2p6UVNLNlRjQXhTUGQwNURaVldkaTdLdzNmb0ZrZTFORURQNE8tdnpTS21qbGNQYklqSktwci1FTDgzd0FOaHNiYjBsVmtjUEVXUTlnS19QU1ZjaG01cVdLaElid3RPaWpKQlNURHFrZUVJZDA3Mk9jQQ?oc=5) |
 | 2026-07-08 | — | Moomoo | [Klarna Available in New European Markets for Flix Bus Services](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVRpX0J1MFRoWEt5c1JMUXpvZmoyZG12YVp1bGdQYVJvMF81VjZoSjR0RGp2anpZS0daTExqZDQxNlBQaHN0RmxYMzRlU0IwWG9iWWNHclg0c2ZhNFdVUmdJM21FSGJQVUJKWDFyWmdqNUUwVEZmRThnV0kwVDAtbjNFN05sSzJFUjJ5R24wdV9sUjZNZjlTLXVHcnRzcWZ0NWRNWE4wTQ?oc=5) |
 | 2026-07-08 | — | investors.klarna.com · PR | [Flix and Klarna Expand Partnership to Give Millions of Travelers Across the U.S. and Europe More Ways to Pay](https://investors.klarna.com/News--Events/news/news-details/2026/Flix-and-Klarna-Expand-Partnership-to-Give-Millions-of-Travelers-Across-the-U-S--and-Europe-More-Ways-to-Pay/default.aspx) |
@@ -127,7 +144,7 @@ _Updated: July 13, 2026_  ·  News & PR for [[klarna]]
 
 ## Coverage notes
 
-### 2026-07-09 — Stocktwits
+### 2026-07-18 — Stocktwits
 
 **KLAR Stock Gets Whacked After Q4 Loss, Weak Forecast: Retail Investors Are Shrugging It Off**
 

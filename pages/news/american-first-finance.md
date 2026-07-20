@@ -2,22 +2,28 @@
 title: American First Finance (AFF) — Recent Coverage
 type: news
 competitor: [[american-first-finance]]
-count: 57
-created: 2026-07-13
-updated: 2026-07-13
+count: 63
+created: 2026-07-20
+updated: 2026-07-20
 ---
 
 # American First Finance (AFF) — Recent Coverage
 
-_Updated: July 13, 2026_  ·  News & PR for [[american-first-finance]]
+_Updated: July 20, 2026_  ·  News & PR for [[american-first-finance]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-07-18 | — | dars.gov.et | [FirstCash Holdings (FCFS) Q1 2026 Earnings: Earnings Per Share Surpasses Estimates by 14.32% - Financial Health Score](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkFtd2syR3hBaGljazJOcFk1aG0zQVpuZ1JEZUVIYlh1U0dBSTd6MmdPc2p1OXZ3YXFXT2FkWGlNYVpZbmVaTm1UUHkwMXpRcnBzLTNyQWIwaU5qOFRIN2F2WHVjSE9XdkVpU0RzOFF5bnkwSXZNMTNReWZlVG5lT0hYX0ptbEVMbU9Cdkthc2cwRlA2dVRNM0pEdXFqYmt2NXBVcW14Q3JqU21ZUkVDQURJN2pOLWd5MGJ2ZVNEdnpKc290WXY3Wg?oc=5) |
+| 2026-07-17 | — | TradingView | [REG - Ramsdens Holdings FirstCash Holdings - PUBLICATION OF THE SCHEME DOCUMENT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaURDS0RVcEhHd1VIOGVfOEk5M2VkTGtuTUliVVR1QlNYMHpQV2VOYXVWVWlhdl9SaDE4VXNpRV80YVotVFZ4UGhHcUFXa0NlM0Zrb2JuQmYyaEdPUzdkbi1wMHJ6aGRvR19VX01LUzNESEdOWktwRm5OaS0zY3JXMmtab2lHQTY3cmlKX1BiT1FOeDV6SG5uUEJmVUtyN2w1TzFxNUtUT2RGN3hOUkxQRDZRbEtMN0JVZzEwYmI0RmZDV2JwU3pKcXUydWhTWUdGYV9aMW5objNMNnJ1RGtSVkxaVUJDdw?oc=5) |
+| 2026-07-16 | — | TradingView | [REG - FirstCash Holdings Ramsdens Holdings - FINAL* RECOMMENDED CASH OFFER](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGFmS2NNVjZxOUNacFNGSFlNTmpYSmR1ZkNpNW5aWnNGUFNxbjNWbVlXSXlKT0dtVFdnTHhuUk9qTm1raDJ2YWZfSUFMTTBZQmNiTDdzd19ESE44c1BlLUFUSkYtYTgwN1M4Snp1Ujl0cFQ5Q3pKZmtxVnVST1J3THBpTjVUdzZTS3FaVVlZalg2Nl96M1FmX2I5aG1aQU41T1J6Y2p6aDZxYTVmNkRNQjBjZ2hQdnhuRlV3QzNmRTdsUlZSZXJnWEVqTmpaelFBQWRPSFdXUFhvTHBaN1E?oc=5) |
 | 2026-06-29 | — | DonanımHaber | [FirstCash Holdings (FCFS) Edges Higher: Technical Levels in Focus - Earnings Sentiment](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFUyRktON2pYNGZNbUYzLWJjSTRyRVo5dG5GM1V1dEIyalplR1VidUJvcDZkZmRoVDBnSGJMUGQ0VTdfbW9uT2VWQWl4Sks5bmlKWUF1RDkyeWVTWFozZFFySVlWWDBnT3RoamNCZno3QWpKQ0tGNWxlQkUyck9YaEJWcHBtWjNIbDNLcHhCTmNQWEs4RnNJSDE3YnViZGtjY1QxTXFEVnB1V3lZREE?oc=5) |
 | 2026-06-27 | — | TradingView | [Enterprise value to revenue forward of FirstCash Holdings, Inc. – NASDAQ:FCFS](https://news.google.com/rss/articles/CBMirAFBVV95cUxNU21VeHNfWG1TQXpiMUlzU0tmeEx0Z0UwVVpaX0gwaU4tR09WNHJONklXaHA0MUtiV3d4Z2tXVmMwQmFDU3U5YXViLXhVaUFQSG4yd3dOUmFJTkcwdndMck9KYjBRYnFOa3lEdmh2S0pFa0VvNk13bGxoT3ByY2QyU0dVT2hkUW5IRTlGVzlnZm5WYm1aM0JPbUU4b0hUUnl1VTQ0TjZXV09ZdzNt?oc=5) |
+| 2026-06-26 | — | TradingView | [Price to book forward of FirstCash Holdings, Inc. – NASDAQ:FCFS](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlBaOHFuQjlFdTdqQXZBbF8tMU9VeElHdHR6bG5ydHp0OENlOUdYSVVmQzJHdDhyZU5jZ1Z4a20xbFZ0a2E0ODZGejBzQjVjc2Y0aTRUYlMzc0NEY0NNc3VqTHlwa2VXM2piOWlTVjZJNlFwLXpLd3FPSE1IZldfeElyRkxnSXpYSk0xTV9PRXRBdjNVR0tiazZpelE?oc=5) |
 | 2026-06-23 | — | investors.firstcash.com · PR | [FirstCash to Acquire Ramsdens, a Leading Pawn, Retail and Financial Services Operator in the United Kingdom](https://investors.firstcash.com/news-releases/news-release-details/firstcash-acquire-ramsdens-leading-pawn-retail-and-financial) |
+| 2026-06-23 | — | geneonline.com | [FirstCash Holdings Agrees to Acquire UK-Based Ramsdens Holdings PLC](https://news.google.com/rss/articles/CBMimwFBVV95cUxQelc2YzY4TVZabHNtb21ycVMxMFpaUllpeVNKTlNNRGF1VkcxUE1ReXpJVDVEdUZTWC10bXFDWXp0bVZ6SlVWTFE1VW91MktLa3NqNnFYYjlsMUhheFRWZnBkUHBoX2R4Z2lHRHRzTTBKdllXT1NubUMwQVFiZkxGdmtKd3ZzYUNLaWJWbV9tVlFnNThXSlpCbW5xVQ?oc=5) |
+| 2026-06-23 | — | Addleshaw Goddard LLP | [Legal Counsel to Ramsdens Holdings PLC on its proposed £206m takeover by FirstCash Holdings, Inc \| Addleshaw Goddard LLP](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcGFxQ3pNOG1jQkxEaU8xU1dmNUVvWFpjQjNIZ1VvSXdtQ3cyMFZaMlp4b0M5N0RxV2dtYjNlXzg3YzlpLXdUUWJ3TjZLRFlqVFBQMUpva2FIV1ZaUEZsaS14UVU0VkxYanNHODhHMXQ4TFo2VDJrd29peExlUGlBZ3ZXNTBLVnhDOGI1MHBoV3RxNDh4TkhRVEhqWHhucGVaR2huNW1KVk05N3IyWnJRcGI2ZDF1VUZtUlk1RXA0Vkx3QzBZX2l1MUpIQQ?oc=5) |
 | 2026-06-22 | — | TradingKey | [Firstcash Holdings Inc (FCFS) Earnings Forecast: Future EPS & Revenue Growth Estimates](https://news.google.com/rss/articles/CBMib0FVX3lxTE5tV0dhY2FkM1JBS2h5Y3dsR00ySzRaTmJxYy1taVNhRWhzLUxuLVlyTDkzNDhBTGJJT1Blei1XVjVsU05GQktZdVpGNHAySGViX2JubGhkNXhBUUNOSXZrQkdSQUE3by10dnNESWFPTQ?oc=5) |
 | 2026-06-19 | — | sekbernews.id | [FirstCash Holdings Stock Shows Bullish Momentum Driven by Alternative Credit Demand](https://news.google.com/rss/articles/CBMiekFVX3lxTE40Zk5fVzdnS3VObWFzWU51cmVWWTBGUDRnemo3T1d3elFTMEJlS1FDTFZka3kxbEludzNqamVfMGVpdDdmY0JvVUc4UzBDN0dVZnVrZkczcFpyc01hNlA3VVZXdU1sRVJKcTA2SlhRLWNKOWptQ003VW13?oc=5) |
 | 2026-06-18 | — | Investing.com | [FirstCash Holdings completes reincorporation from Delaware to Texas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDRrd3JwaS1zMDRLcVl5Q1cyaFI1ZTVwMXU1NXRYbW9pd2ZCbXhtTi1iV2xuR1pxaVRHTmNJbDhLUzczM0Jfal9NRmFiWWdSc3A3dlpOWG9EVkFhZnZBQkRsZXBTMEFTanlrbW41VkdjeDI5OGRHS0lGdTNjeGNRT1lYUG1EcXdKd2JmLUsxekRYWTI5d0dBanpxdUdpRDJQNm5LVVRkUEthLUpuaExESkRjWEJLVlNIaWVqQ1R3T2Y?oc=5) |

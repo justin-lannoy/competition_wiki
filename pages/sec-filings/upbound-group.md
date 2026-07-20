@@ -5,13 +5,13 @@ competitor: [[acima]]
 parent: Upbound Group
 ticker: UPBD
 count: 28
-created: 2026-07-13
-updated: 2026-07-13
+created: 2026-07-20
+updated: 2026-07-20
 ---
 
 # Upbound Group — SEC Filings
 
-_Updated: July 13, 2026_  ·  Filer for [[acima]] (UPBD)
+_Updated: July 20, 2026_  ·  Filer for [[acima]] (UPBD)
 
 ## Financial trends
 
