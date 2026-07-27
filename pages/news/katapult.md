@@ -2,19 +2,30 @@
 title: Katapult — Recent Coverage
 type: news
 competitor: [[katapult]]
-count: 67
-created: 2026-07-20
-updated: 2026-07-20
+count: 78
+created: 2026-07-27
+updated: 2026-07-27
 ---
 
 # Katapult — Recent Coverage
 
-_Updated: July 20, 2026_  ·  News & PR for [[katapult]]
+_Updated: July 27, 2026_  ·  News & PR for [[katapult]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-07-27 | — | TradingKey | [KPLT\|Katapult Holdings Inc\|Price:6.890\|Chg%:-0.280](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lSldxUl9oemR4bXNYM0M2MDk5UXNucmsxYkc5ZmJKWjVpbWdIbmt4cm1zUW14c0RuSHczcTVzYnlTN1cwTDc2SnlXVTRtTHhDM0pwNmlwZ09CLVFSWS1UaldaVzNXQVJW?oc=5) |
+| 2026-07-26 | — | TradingKey | [TradingKey](https://news.google.com/rss/articles/CBMicEFVX3lxTE1BcE83d2thbzhNY1ZSRmhmZm1ndURfc2IwRGVOekdSSUJRbUdSOUlST0RTQXNRdlozMVdDMlB2RWlCUkQzS3Y3R1RRM2pfUTFYYkpxRDRQM3VYSWR6eGFoc1ViMVc3ZWRSTTJjMHU1Zy0?oc=5) |
+| 2026-07-24 | — | TradingKey | [Katapult Holdings Inc (KPLT) Valuation: PE, PB & Fair Value Analysis](https://news.google.com/rss/articles/CBMickFVX3lxTE1yVWNyMmVLcUlPWVUycWZ5UXRJc2FoQ2lGbmNyZFJzTzQyZGVXR1pGRnJHZWkyU0hfMHJJQi0wbzhGOGVuYW9ycWRYZVYzdEd0bzlyaEc4VU9EbFFfajZEM3o5WFNrZFJGRWpVUnF6bFBsUQ?oc=5) |
+| 2026-07-24 | — | TradingKey | [Katapult Holdings Inc (KPLT) Technical Analysis: Support, Resistance, Indicators & Moving Averages](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kM2xXRl9qcTYyMEg4djFNS19lSTM3SXJOdHEyMWpmX1BlTkM5WXJPX05vbFpvTnhEemt6MzBHWGQ4RVVGNjhZam5CaG5MVDJMMDgwS0d6a0tOOUhXY3BjYmVCbnJWLU0?oc=5) |
+| 2026-07-24 | — | TradingKey | [Katapult Holdings Inc (KPLT) Financial Health: Profitability & Balance Sheet Analysis](https://news.google.com/rss/articles/CBMicEFVX3lxTFBINk4tTjNHeWp3ekZodGhyTlpoVzNRYmR0SHhFTVhsSG9wak9zUjFoNklpeVR1TFdPazRIVlZOOGNtT1hqNGduUjdwbUM2UFdNWWNKZmZxSjlIemh0Nm5YaU1SSlNjaG1PNFZJSXI4VDA?oc=5) |
+| 2026-07-24 | — | TradingKey | [KPLT\|Katapult Holdings Inc\|Price:6.890\|Chg%:-0.280](https://news.google.com/rss/articles/CBMibkFVX3lxTE1CM01lSkR6bk9FQkx6cVRYb2cyMmhCUVNkSGl0LWxJYnQ0aGpNUEN5eS1XU0FMOHczc0JHcWtQS09PRzlUa1ZPQTBkMHRKOU9PQWxuQ04wR2pfVGF1Tjh0U2YzYzZiMnRocUZzNFV3?oc=5) |
+| 2026-07-24 | — | TradingKey | [Katapult Holdings Inc (KPLT) Risk Assessment: Volatility, Financial Risk & Investment Risk](https://news.google.com/rss/articles/CBMibkFVX3lxTFAwa0hXN29naDZKSi11LUlDUkxSZ0xsM0daN0lreTFOOWRFZlI0ak1ZWm9scEwwczljYmJEUFBUR0hLVE1XcTNLcVItWGQ5bnRvWTY4THZBSXVMbl8zdDJ0U0VwcUJmU2l6bFhrOVFn?oc=5) |
+| 2026-07-23 | — | TradingKey | [Katapult Holdings Inc (KPLT) Earnings Forecast: Future EPS & Revenue Growth Estimates](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zcEZtSDhrcGFwem9MX0JvT25IYXYtZ0tJLTVPYVhhMVNqY01iNHJ1T3lMTTN5c0NZbjNwcDVWVEVLc2IxNWtRNk1aRnY3N2pRcXllOHZPS2ZLZ1RGaVNXUGx6ZWxzUQ?oc=5) |
+| 2026-07-23 | — | TradingKey | [KPLT\|Katapult Holdings Inc\|Price:7.200\|Chg%:-0.370](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOcE91bHJfMWhNZDMtdjBEVk0xcmNUS2ZBWGl0MWtGS3lyUjRsbGdfem43YmhQSndlVTI1WDh3NmRvczRyWVhNeXJuN3ZzYkhuQlhWMDlxVDNJdw?oc=5) |
+| 2026-07-21 | — | GlobeNewswire | [Katapult to Announce Second Quarter 2026 Financial Results on August 4, 2026](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMnhqM1V2aENYTUFuVUQxdmJDMXlUQzQ1Wkp1eGR6QjRwWDF6TzNQY1E4UzltMEM4RU5uQ1gyWDJ1WjV4QU1GN1lfOTJ5Q0REOWFDUFhuRjRLNzNKX2dEMzZ4NkptaVJrWXdmVHhSQnV4VHF2YWRmZTB4Yi1lTFNRdVc4a3ZpOG12d0RFQVlNT3hjNjZUeFZUTk1PZnp1aGZnV2pvQmlRNFdkc3pjSHlCcXU1RGFtZTBIMjN3ZUd2cnc4UGcyLUJaaGc3RVhhMllPZGdpdEYtd0I1anNKa1ZINg?oc=5) |
+| 2026-07-21 | — | ir.katapultholdings.com · PR | [Katapult to Announce Second Quarter 2026 Financial Results on August 4, 2026](https://ir.katapultholdings.com/news-events/news/news-details/2026/Katapult-to-Announce-Second-Quarter-2026-Financial-Results-on-August-4-2026/default.aspx) |
 | 2026-07-16 | — | TradingView | [Price to book forward of Katapult Holdings, Inc. – NASDAQ:KPLT](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTJUWGFhWFpSTmVwTFJqRlJVS3doNlh0QzdnRnF2ZzU3SDZ0RDZPeU5UZ3dNVDFGYk1jNnE1alBpTHkzX29kakliQTNieG10aHZRekVOOUhwMEg1eWk1X2dwUW5XbXB3N1E0SFdQaU9tM0otcHJtbzNfdllzOG5EZlQyNFRIbUh2emRLcHlJUGdHZVJLbmcwTW5XRWE?oc=5) |
 | 2026-07-08 | — | TradingView | [Enterprise value to EBITDA forward of Katapult Holdings, Inc. – NASDAQ:KPLT](https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHFPd3IxXzU3NjVUM1M4ekJVMGxTcVpyOUlUVldjdVNTMW4wLTg5U2JVRWtPZEV4cEZpNjJaNE5ldFlqaDNTM1VHZWxkdWhMbkhzUTZ2MkttQlp4TGJYVEpieDRPa1hBVzZBRHdoMThLUmRLa3QzNlRnS1dVcHFPaVlmR281TVZZSS14RWxud0V3Y0NzNHAwNXlybjN3S2xGd21zUnlaRk45c3VaR1E?oc=5) |
 | 2026-07-06 | — | - Disrupt Africa | [Katapult Africa opens applications for latest climate-focused accelerator programme](https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFhieFFxMTNaQU9rWXkxTXVlNlFSNXlRaURsNGNKdklNX3p1SEFjcDdXd3FRTDlFdk8wMGJxZFBRVUFFLVNVeWxtc3BNS3BuTEM0Q1VYbUpwS0xiMU9ZcFNhekQ3SFozcWphMGt4VEIzY3NEVGE1THpaTkFWOG00UjBCSVFzQmUzVXEzYUVRczZMRUgyVHF6eWF2SjdPTDBQOFZyV1dVQUNJaWdfLVc2NWJ5QUpmdUNuRnBmai1B?oc=5) |
@@ -25,7 +36,7 @@ _Updated: July 20, 2026_  ·  News & PR for [[katapult]]
 | 2026-06-27 | — | Stock Traders Daily | [Precision Trading with Katapult Holdings Inc. (KPLT) Risk Zones](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlZmcHFwQlNWalM0em51N3k1VGNUSEVQVUM1VTJ6YjFRRHNqbE9YRGd1U3I1NTZWTnkxaDlWNmxVZ3BReHZqSDJSWHJvT2dyWjBINTFsLVFoMklwSkgtTmt6U0xIVXktbHcteF9wZGh0UW1sNUx2blpoVl9ObGQ2OGhhMFp4SG9HM0lLY0EtajBxVGZtdWt1SGpTRjNSQ2VUYTh3QWRKU085MTdiSmFFbmxmQXowMHhVbXRYNWdBMW1Uck05NkJCdXhGczdaZ2FnNC1HSW1zTWM?oc=5) |
 | 2026-06-27 | — | Stock Traders Daily | [Precision Trading with Katapult Holdings Inc. (KPLT) Risk Zones](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYnpLMVozMWJWeFZpZFZkczFFTWo3SzdxeTVwaHVOT3QxVlU2YlpkcDVSTlJranp3WF9aZFhNeFlLUzR6MUZQSU5HV1pSOEhJNTBRTXJwMVRqZTc3R3lGSlNQTmJJMlVrbHZjMHhDcGJubWdTYkhyc2NOSF9lVGdYQU1LbUVkQlY5VlRCR3lZOEdObVpWbFpLcXlIQmRRTU5JYThsaWxKNkVSaHNaRGN0N2t5aHRIamNLdWZKb1R4MktQdVVFbzFocmE1WGRXT3hWeWtzODlYZw?oc=5) |
 | 2026-06-26 | — | TradingKey | [Katapult Holdings Inc (KPLT) Institutional Confidence](https://news.google.com/rss/articles/CBMicEFVX3lxTE83RWNCTFZGWWlhSzhCeXpsWjVqWFhta1ZidWJLYWQxaE5UOUJ3eW5KZTItMnZmVF92VmRyay1YcHNHR2hkc1lYU3NMQVVlTUtWc2JWZXRxTDNlQTMweUFORWd0YXJ2OXFCazdnVVBwU18?oc=5) |
-| 2026-06-25 | — | Blooloop | [Katapult partners with The Lego Group and Merlin Entertainments on Ninjago pop-up](https://news.google.com/rss/articles/CBMiV0FVX3lxTE81R2dUS0s5QzNIdlRvOGtRcURUWmhTMmV0X2pteTcxQ2tmYWxRVXRwbTdUamJIbmlySkliNElEQjJDdUdRVXFKd0hucEM3bXlqUEJURWptdw?oc=5) |
+| 2026-06-25 | — | blooloop | [Katapult partners with The Lego Group and Merlin Entertainments on Ninjago pop-up](https://news.google.com/rss/articles/CBMiV0FVX3lxTE81R2dUS0s5QzNIdlRvOGtRcURUWmhTMmV0X2pteTcxQ2tmYWxRVXRwbTdUamJIbmlySkliNElEQjJDdUdRVXFKd0hucEM3bXlqUEJURWptdw?oc=5) |
 | 2026-06-23 | — | TradingKey | [Katapult Holdings Inc (KPLTW) Technical Analysis: Support, Resistance, Indicators & Moving Averages](https://news.google.com/rss/articles/CBMickFVX3lxTE5BRGZ4QXBCMzkxaWQ5ZFhVZ1prUlFpYlM0eUVTLUZtei1TVWJqUFlvWGsyQWRqajFzcFpUWTVadE9qeUdHRFZoaTRHUWV1eGRKNllMS2JjTGJtN2FyTUt0dW54N09US201bFoxUFRqZ1l4UQ?oc=5) |
 | 2026-06-22 | — | TradingKey | [Katapult Holdings Inc (KPLT) Technical Analysis: Support, Resistance, Indicators & Moving Averages](https://news.google.com/rss/articles/CBMicEFVX3lxTFBUYjZhcnpnZ0JlLUxjVHBhSUQzcjZyalRFNlNaMGh5UDdoekgwd1FYMXRjMmk5d2VzZkdRXy00OS1mZF92aVRHU2gxcFhTcnk4NkI0N0x6LUFybjlseEZ1eUFLU3EyejBQX0k0OVdQX3E?oc=5) |
 | 2026-06-20 | — | AD HOC NEWS | [Katapult Holdings Stock - analyst consensus and business model review](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUtqREdXZmhNdFJhbFhtYW5fUjFSRXlMYkhWNkRnQVpEb1RyX1hGMlBIR3U1NkFhaXljMlJQS2NnZXV1NE5vMVo4ZXZqZnpWekJSMmZDcWduenM0QVFQWXFrblR3NTVXajh2WDhZU3NaSUlnUTdYSmhMR0tSZXBvYTJ2UVJ6S0RXQVFRSmhkcG9WVkhYNGxtOF9MUmFsNUtZUFNkLW1lNXhIdUJrYU5WQy1lRFh4cXBvcWFiSHZhLVFkX1hf?oc=5) |

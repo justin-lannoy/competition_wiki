@@ -690,6 +690,26 @@
       "description": "8-K",
       "local_file": "2026-07-14_8-K_0001101215-26-000065.htm",
       "summary": ""
+    },
+    "0001101215-26-000069": {
+      "form": "8-K",
+      "filing_date": "2026-07-23",
+      "report_date": "2026-07-23",
+      "accession": "0001101215-26-000069",
+      "primary_doc": "bfh-20260723.htm",
+      "description": "8-K",
+      "local_file": "2026-07-23_8-K_0001101215-26-000069.htm",
+      "summary": ""
+    },
+    "0001101215-26-000068": {
+      "form": "8-K",
+      "filing_date": "2026-07-23",
+      "report_date": "2026-07-23",
+      "accession": "0001101215-26-000068",
+      "primary_doc": "bfh-20260723.htm",
+      "description": "8-K",
+      "local_file": "2026-07-23_8-K_0001101215-26-000068.htm",
+      "summary": ""
     }
   },
   "financials": {

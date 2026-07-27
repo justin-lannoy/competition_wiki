@@ -2,21 +2,22 @@
 title: HFD (Healthcare Finance Direct) — Recent Coverage
 type: news
 competitor: [[healthcare-finance-direct]]
-count: 8
-created: 2026-07-20
-updated: 2026-07-20
+count: 9
+created: 2026-07-27
+updated: 2026-07-27
 ---
 
 # HFD (Healthcare Finance Direct) — Recent Coverage
 
-_Updated: July 20, 2026_  ·  News & PR for [[healthcare-finance-direct]]
+_Updated: July 27, 2026_  ·  News & PR for [[healthcare-finance-direct]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
 | 2026-07-07 | — | TMX Newsfile | [Apptly Strengthens Advisory Board with Appointment of Four Healthcare Leaders](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjhabERpaF8xMTZIWGpqYTVqaVotcWdCMFh5ZzluVjhwVEJIUU5MS25QTGllaW03bnlsb1ZaeE1hVkROSXBwWGw5QmZLSmVEbFJkTC1uZGhHcVN6YjYxbFNJeUp1U0t6OXBUNnRScndJWUhVOENoSW1LT3l4Q2ZGMDQ3ak50TFJINWQ0dWMxV1RlbFBVZUw2Z0ZUWlJFNWRhUFVVa194eGVmX2l5WlYxS3FVanJGZHdvbFFjbUtn?oc=5) |
-| 2026-07-03 | — | GetLatka | [HighLevel Revenue, Funding & Growth History (2024)](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EdkI1Z0FhR1VOWnMyRTAteGQ3ajBuQmsyX0R0VkVkNVZYLXRfQ041cVlZVVFoLXlfeDY2TGZpQXZ5aktpQ19DZU9wc2RYNTR1eXhGag?oc=5) |
+| 2026-07-07 | — | Yahoo Finance | [Apptly Strengthens Advisory Board with Appointment of Four Healthcare Leaders](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGZPeG1UOVNKYzFHNXd5bjl1S1VBX0RnVjBTOHljbG1fZkZyR0tTSjFoZmQyNHlCbmFLRDRHRFNldGxVVnBIcW5WVHp6MmpucGY4MDAzLUx2VTRLQUphSTNXVWF2VVVVRkt5cGotc1lvRFhhX3R4b0g3M05YWGNjM1RKOUhSczFFNzBFYmY3SGtOWUhLT0R6eVp5MGxzZ3NPQ0dZWG5sbjA0QQ?oc=5) |
+| 2026-07-03 | — | GetLatka | [HighLevel Revenue 2024: $82.7M Est. ARR, $60M Raised](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EdkI1Z0FhR1VOWnMyRTAteGQ3ajBuQmsyX0R0VkVkNVZYLXRfQ041cVlZVVFoLXlfeDY2TGZpQXZ5aktpQ19DZU9wc2RYNTR1eXhGag?oc=5) |
 | 2026-06-10 | low | gohfd.com · PR | [How to Make Invisalign Affordable for All Patients](https://gohfd.com/how-to-make-invisalign-affordable-for-all-patients/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-invisalign-affordable-for-all-patients) |
 | 2026-04-13 | low | gohfd.com · PR | [What Is a 0% APR Patient Financing Program? A Clear Guide for Providers](https://gohfd.com/what-is-a-0-apr-patient-financing-program-a-clear-guide-for-providers/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-a-0-apr-patient-financing-program-a-clear-guide-for-providers) |
 | 2026-03-30 | low | gohfd.com · PR | [What Is Non-Recourse Financing – and Why It Protects Healthcare Providers](https://gohfd.com/what-is-non-recourse-financing-and-why-it-protects-healthcare-providers/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-non-recourse-financing-and-why-it-protects-healthcare-providers) |

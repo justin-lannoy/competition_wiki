@@ -3,13 +3,13 @@ title: Uown Leasing — Recent Coverage
 type: news
 competitor: [[uown]]
 count: 1
-created: 2026-07-20
-updated: 2026-07-20
+created: 2026-07-27
+updated: 2026-07-27
 ---
 
 # Uown Leasing — Recent Coverage
 
-_Updated: July 20, 2026_  ·  News & PR for [[uown]]
+_Updated: July 27, 2026_  ·  News & PR for [[uown]]
 
 ## Coverage
 

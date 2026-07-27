@@ -280,6 +280,16 @@
       "description": "FORM 8-K",
       "local_file": "2024-07-23_8-K_0001104659-24-081581.htm",
       "summary": "#### Key financials\n- None noted.\n\n#### Segment & competitive notes\n- Acima Digital, LLC and Acima Holdings, LLC (collectively \"Acima\"), Upbound Group's virtual lease-to-own segment, filed suit on July 22, 2024 against the CFPB in the U.S. District Court for the Eastern District of Texas, challenging the CFPB's statutory authority to regulate lease-to-own transactions \u2014 directly relevant to Snap Finance as a competing LTO/point-of-sale financing provider facing the same regulatory environment.\n- The lawsuit stems from a previously disclosed CFPB investigation into Acima's products, services, and practices, signaling active federal regulatory scrutiny of the broader virtual LTO industry.\n\n#### Risk-factor changes\n- The CFPB's assertion of jurisdiction over lease-to-own transactions represents a material regulatory risk for the entire LTO sector; Acima's legal challenge (filed July 22, 2024, Eastern District of Texas) could set precedent affecting Snap Finance's own compliance obligations and product structure.\n- Outcome of this litigation could either limit or confirm CFPB authority over LTO products industry-wide; no timeline for resolution was disclosed.\n\n#### Material events\n- On July 22, 2024, Acima filed a federal lawsuit against the CFPB challenging its authority to regulate lease-to-own transactions; the filing was disclosed via 8-K (Item 7.01, Reg FD) the same day, signed by General Counsel Bryan Pechersky.\n- The press release (Exhibit 99.1) was not deemed \"filed\" under Section 18 of the Securities Exchange Act of 1934 and carries no Section 11/12 liability; no financial statements or new capital transactions were included."
+    },
+    "0001193125-26-310605": {
+      "form": "8-K",
+      "filing_date": "2026-07-22",
+      "report_date": "2026-07-21",
+      "accession": "0001193125-26-310605",
+      "primary_doc": "upbd-20260721.htm",
+      "description": "8-K",
+      "local_file": "2026-07-22_8-K_0001193125-26-310605.htm",
+      "summary": ""
     }
   },
   "financials": {

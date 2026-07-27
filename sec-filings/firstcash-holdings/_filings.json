@@ -420,6 +420,26 @@
       "description": "FORM 8-K",
       "local_file": "2026-07-16_8-K_0001104659-26-084072.htm",
       "summary": ""
+    },
+    "0000840489-26-000082": {
+      "form": "8-K",
+      "filing_date": "2026-07-23",
+      "report_date": "2026-07-23",
+      "accession": "0000840489-26-000082",
+      "primary_doc": "fcfs-20260723.htm",
+      "description": "8-K",
+      "local_file": "2026-07-23_8-K_0000840489-26-000082.htm",
+      "summary": ""
+    },
+    "0000840489-26-000080": {
+      "form": "8-K",
+      "filing_date": "2026-07-22",
+      "report_date": "2026-07-22",
+      "accession": "0000840489-26-000080",
+      "primary_doc": "fcfs-20260722.htm",
+      "description": "8-K",
+      "local_file": "2026-07-22_8-K_0000840489-26-000080.htm",
+      "summary": ""
     }
   },
   "financials": {
