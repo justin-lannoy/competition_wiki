@@ -3,13 +3,13 @@ title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
 count: 7
-created: 2026-07-27
-updated: 2026-07-27
+created: 2026-08-03
+updated: 2026-08-03
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: July 27, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: August 3, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 

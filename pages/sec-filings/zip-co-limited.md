@@ -5,12 +5,12 @@ competitor: [[zip]]
 parent: Zip Co Limited
 ticker: ZIP.AX
 count: 0
-created: 2026-07-27
-updated: 2026-07-27
+created: 2026-08-03
+updated: 2026-08-03
 ---
 
 # Zip Co Limited — SEC Filings
 
-_Updated: July 27, 2026_  ·  Filer for [[zip]] (ZIP.AX)
+_Updated: August 3, 2026_  ·  Filer for [[zip]] (ZIP.AX)
 
 _No filings in the last 24 months._

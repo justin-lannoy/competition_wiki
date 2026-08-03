@@ -290,15 +290,30 @@
       "description": "8-K",
       "local_file": "2024-07-24_8-K_0001808834-24-000094.htm",
       "summary": "#### Key financials\n- Filing announces Q2 2024 financial results (quarter ended June 30, 2024), disclosed via press release (Exhibit 99.1) and earnings supplement presentation (Exhibit 99.2) dated July 24, 2024; detailed figures are contained in those exhibits, which are not reproduced in the 8-K body.\n- No specific revenue, EPS, or balance sheet figures are included in the 8-K form itself; full financials require review of Exhibit 99.1.\n\n#### Segment & competitive notes\n- None noted.\n\n#### Risk-factor changes\n- None noted.\n\n#### Material events\n- PROG Holdings, Inc. (NYSE: PRG) filed an 8-K on July 24, 2024 under Item 2.02, reporting Q2 2024 results via press release; the exhibit is furnished (not filed) and thus not subject to Section 18 liability.\n- CFO Brian Garner signed the filing; company is headquartered at 256 W. Data Drive, Draper, Utah 84020."
+    },
+    "0001808834-26-000106": {
+      "form": "10-Q",
+      "filing_date": "2026-07-30",
+      "report_date": "2026-06-30",
+      "accession": "0001808834-26-000106",
+      "primary_doc": "prg-20260630.htm",
+      "description": "10-Q",
+      "local_file": "2026-07-30_10-Q_0001808834-26-000106.htm",
+      "summary": ""
+    },
+    "0001808834-26-000101": {
+      "form": "8-K",
+      "filing_date": "2026-07-29",
+      "report_date": "2026-07-29",
+      "accession": "0001808834-26-000101",
+      "primary_doc": "prg-20260729.htm",
+      "description": "8-K",
+      "local_file": "2026-07-29_8-K_0001808834-26-000101.htm",
+      "summary": ""
     }
   },
   "financials": {
     "revenue": [
-      {
-        "end": "2023-09-30",
-        "val": 582877000.0,
-        "label": "Q3 2024"
-      },
       {
         "end": "2024-03-31",
         "val": 641870000.0,
@@ -321,8 +336,8 @@
       },
       {
         "end": "2025-06-30",
-        "val": 604663000.0,
-        "label": "Q2 2025"
+        "val": 588503000.0,
+        "label": "Q2 2026"
       },
       {
         "end": "2025-09-30",
@@ -333,14 +348,14 @@
         "end": "2026-03-31",
         "val": 742674000.0,
         "label": "Q1 2026"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 719715000.0,
+        "label": "Q2 2026"
       }
     ],
     "net_income": [
-      {
-        "end": "2023-09-30",
-        "val": 35012000.0,
-        "label": "Q3 2024"
-      },
       {
         "end": "2024-03-31",
         "val": 21966000.0,
@@ -359,12 +374,12 @@
       {
         "end": "2025-03-31",
         "val": 34718000.0,
-        "label": "Q1 2026"
+        "label": "Q2 2026"
       },
       {
         "end": "2025-06-30",
         "val": 38483000.0,
-        "label": "Q3 2025"
+        "label": "Q2 2026"
       },
       {
         "end": "2025-09-30",
@@ -374,15 +389,15 @@
       {
         "end": "2026-03-31",
         "val": 36054000.0,
-        "label": "Q1 2026"
+        "label": "Q2 2026"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 37029000.0,
+        "label": "Q2 2026"
       }
     ],
     "operating_income": [
-      {
-        "end": "2023-09-30",
-        "val": 54884000.0,
-        "label": "Q3 2024"
-      },
       {
         "end": "2024-03-31",
         "val": 39817000.0,
@@ -405,8 +420,8 @@
       },
       {
         "end": "2025-06-30",
-        "val": 60724000.0,
-        "label": "Q2 2025"
+        "val": 59311000.0,
+        "label": "Q2 2026"
       },
       {
         "end": "2025-09-30",
@@ -417,14 +432,14 @@
         "end": "2026-03-31",
         "val": 65309000.0,
         "label": "Q1 2026"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 65630000.0,
+        "label": "Q2 2026"
       }
     ],
     "eps_diluted": [
-      {
-        "end": "2023-09-30",
-        "val": 0.76,
-        "label": "Q3 2024"
-      },
       {
         "end": "2024-03-31",
         "val": 0.49,
@@ -448,7 +463,7 @@
       {
         "end": "2025-06-30",
         "val": 0.95,
-        "label": "Q2 2025"
+        "label": "Q2 2026"
       },
       {
         "end": "2025-09-30",
@@ -459,14 +474,14 @@
         "end": "2026-03-31",
         "val": 0.89,
         "label": "Q1 2026"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 0.91,
+        "label": "Q2 2026"
       }
     ],
     "net_margin": [
-      {
-        "end": "2023-09-30",
-        "val": 6.006756142376522,
-        "label": "Q3 2024"
-      },
       {
         "end": "2024-03-31",
         "val": 3.422188293579697,
@@ -485,12 +500,12 @@
       {
         "end": "2025-03-31",
         "val": 5.193977511414842,
-        "label": "Q1 2026"
+        "label": "Q2 2026"
       },
       {
         "end": "2025-06-30",
-        "val": 6.36437155903371,
-        "label": "Q3 2025"
+        "val": 6.539134040098352,
+        "label": "Q2 2026"
       },
       {
         "end": "2025-09-30",
@@ -500,7 +515,12 @@
       {
         "end": "2026-03-31",
         "val": 4.854619927451345,
-        "label": "Q1 2026"
+        "label": "Q2 2026"
+      },
+      {
+        "end": "2026-06-30",
+        "val": 5.14495321064588,
+        "label": "Q2 2026"
       }
     ]
   }
