@@ -2,21 +2,23 @@
 title: Zip — Recent Coverage
 type: news
 competitor: [[zip]]
-count: 94
-created: 2026-08-03
-updated: 2026-08-03
+count: 97
+created: 2026-08-10
+updated: 2026-08-10
 ---
 
 # Zip — Recent Coverage
 
-_Updated: August 3, 2026_  ·  News & PR for [[zip]]
+_Updated: August 10, 2026_  ·  News & PR for [[zip]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-08-05 | — | International Business Times Australia | [Zip Co Shares Surge Nearly 9% as Buy Now Pay Later Lender Extends Rally on US Growth and Buyback Push](https://news.google.com/rss/articles/CBMidkFVX3lxTFBWbGVLcVFGNGJQLXVhaVoycml2Y1BKUWJFZVAwN0tqa1BCRzBHRnNiUHl2U2dkSWRRdm13aW5XVkhzUVVReG9pX0dEVklGbnJHWUF4SGdTT3JJdXNqb1RURmlJVmRYd0ladjAyU1hIOFFkWEp0M0E?oc=5) |
 | 2026-07-28 | — | Revelio Labs | [Zip Number of Employees 2026 \| Employee Count & Headcount Data](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNmVDZXZpZmpwWV9BZmNWdXhNVlJ1YXA3czVYZFlPOWFxTGJCSlljX2g1V19mTlhvVDZLTzZlbGk4Q0g1SGJKNVRYdVhtd1U3bllWREdrTlFsT0pGei1vOQ?oc=5) |
 | 2026-07-21 | — | 01net | [Zip Research Reveals Two-Thirds of US Shoppers Turn to AI Before Making Purchase Decisions](https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZtZnpjdkNhRmlZTXhUYWN5a3ZwLXVjYTFkWTEtQU45aENZWU5mLVF2NWNqWS1nM0tRV09DamxwMmJsTVdBdXhxekFnZlhuZDJsNW5wREIwWkprS2xUQU5hTHFSd0ZmWmNCMnkxa0pOYjJPSld1TUdmWTh0cUptZGNxSTMyVUxtSXcwSlgyMWdZYzlzU3Ata0s0LVZzRGtjVndxUkxQLU5UMWlkUDYtUmdn?oc=5) |
+| 2026-07-19 | — | Moomoo | [Citi Maintains ZIP CO LTD(ZIZTF.US) With Buy Rating, Raises Target Price to $2.49](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVpMNTFVVXlnTnNtakI5WVNYVzctQWRpSG5OdWk4MG0xZ2tSNmQ3TzdjTmJKdHZhdklRZzVQeFJoOUNWNk9OSXJpTkk2bzhRd2ZWMDJTTzlScVktS2JwUlg1MDNCQWxhbDNEZlh3ZHQyMnFYRXJ1QlJRcTFDMHc4M1RzWmZRVjlVNnR3T2lSRkMtRXlkSl9oYmZYWDVHYUk?oc=5) |
 | 2026-07-17 | — | FOREX.com | [Zip Co Ltd Share Price - Share CFDs](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbkZQdW5UN1k4WjA1LXZyUVZCWjR5Si1UeW1qNy03Q0ZyZjlBcGF3RzNDaUpfMlVjM19nX3FOV1dIeFZPd2xCMFlqbV9vR1h3bGJXVXF3alp1VXVWV0RKUTFNTQ?oc=5) |
 | 2026-07-17 | — | grafa.com | [Zip Co exits New Zealand market in strategy pivot](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYWM0WU9Ub09tSmJvYlgyUmtPOThKUG1UTHQycldrVjVXTVVJNVBLenhmRzhmLVFmUDVfcW5LR01ER05FS2NnWllRNjZteFhmTmo5UkhiUHE4VDhEaDJKSERnQ0RjMVRqT18xVTB2MXNRektvdVkxVU1xWV9XMW9yRnFycms5TVVyc2ljeGlB?oc=5) |
 | 2026-07-17 | — | 1News | [Buy now, pay later provider Zip withdraws from NZ market](https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEZLNFR4UEtFSlVqLVZXVm4wdEFzaW40STBMT29ZdkRWUXREQmxUNmttSHRzemhNZ2wxSDNPdnRHbXE0TGFHOWJ4RVk0S1BRUGl2Z2pfcndvQjFvQ1V1V045MDdncnR4SERpcldmTFpISWhuNlgzZmFSdnJzaXFXRnRRamNmZk93S0FXM3FuN1BJXzdNMEE?oc=5) |
@@ -74,6 +76,7 @@ _Updated: August 3, 2026_  ·  News & PR for [[zip]]
 | 2026-06-16 | low | Moomoo | [$Zip Co Ltd (ZIP.AU)$ cashed out 1/3 positions at 2.87[Joyful]](https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjNJQXpfRVZyU25fRkozeEl5a0xVYjRId3RrTklaQW9QOGZsTmYyRjBJamZkeFZ1SFhncmFCbXdsVTkxX2RrdGt3VE85eWhKMkVpdjFLNG44Qnk0Y21NWXpsZWFRc1BFUUlJaWsxNGF5SFN0ZDNTc2c0RUpzdENoY1ExNUk1dXkyNDZKbWp2UTRzd3lNMXhLb0hWSUI?oc=5) |
 | 2026-06-16 | — | News-Press NOW | [Zip US Expands Partnership with Stripe to Bring Flexible Payments to Agentic Commerce Through Shared Payment Tokens](https://news.google.com/rss/articles/CBMingJBVV95cUxQaGg5MXV5bi1HaEp4N0g1UWdBdDJXeG1WejllbDFNbE1nSEFITlNQWVMyWGx5VU9UUWZsVzE1eUR5VWs3a2ZCZWJpaURRU3hzZlZzaWszMjdjSUVqQWpHeVB6d3RNVm9ObTVlZkhuOV9SMWVEZENvTFBMV29UUlh4TUQ0US05XzhsOXF3bW9jenZzLXhnd19FaE5tVHlMWkttWm1iaEdGTzUxeFVPRG5LNWhRYXhJdHl1Zml3MHdvMkJiUlZSdmdlNlc1ZUNPWmRheGlQZ0ZPQzcxNHd3dDJ2WXZjMlJPaEcwSkw1WVJjWGVoZjBuMGZrZFgtOGpBNTdZaTd3SV9EU3V6dmFjS2pHNWpEZ1BlcXZOLUhMWDlR?oc=5) |
 | 2026-06-16 | — | The Motley Fool Australia | [Up 96%: What on earth has happened to Zip shares?](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1JXOTVRVThhTDBuQXNQNzVHRFhyT0lIQWxxbDRRLXktZnRGZXMtNXFuOElDelBRbl9jTTNPdnVZWGJ5dmtFVjI0WVlGVmZBeVZPMS1HQ1NOMndNak1BVzZIMkt6MnYzVlZ4eTJZbmVaWUlnUW8xTUFyWGdKQm4xcS1RLXUxcDBUR2c?oc=5) |
+| 2026-06-16 | — | The Motley Fool Australia | [Could this ASX 200 share double by 2030?](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXNEMFJ6ZzJtSEQwT1VrWHdxYk1Rck9pcEJscXI4QlFiSVBMMzM0NDdHOUNsa1RYS0NyS1JUbWdlSTJJY3o2dWE0SGFJMDVwblBUUm0yNFppY1N5dVdZQ19hZHVLYjlxakpmM20wcThBcnYzUDRKOVU2d0ZhckVIMw?oc=5) |
 | 2026-06-15 | low | The Australian | [Zip chair defends disgraced ex-Star boss Bekier](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcEdSOF9SazA1MTNReHp0d2JiNUpYX2JfQXptRFhBSkQ3WUU5YTZxaFkyZXhYcGlDdHRoeVVTSUlvZXRDaFJPd0R1Y3hLY045SGNreG9wMENKNUE2V19kUzFwSE16TFBCNjZSNG5VbVhucEFuRXRoMldLbmU4WFN0Wnh0UWdMa0JOSU9ZQ084VC1LOFJVVGZfNWhPWlFNZF80UTVlcjhEN3Rlb0lOZkZYa19PQ0RGT2VRQkZHNnhWM1Yya3lLY2JVRm5rdkdsMUhoT0dGZWhsQ0I2RUFtMDRkOVdWa3pBTmR6bVJGT19fLU5CVWptVVHSAfsBQVVfeXFMUDdUakQxTXBoeUVnRTRTWnZkQ0NXRXprSVYxZ1NoQ2M0LWp6QmQzTWtCcWxJa1FlbWpGb3VkNVp2SHB3TVJic3QtN0dhbXV6WHBRdVRSOWNUYTM5bTRmWC0zTlUydzVVdXJpOE92TnM0OGlFWnBLSjlMQU9wdkhSYXhiWHpiN192SzVScU9RLUxuZjBLNGlKLUV3WVZxNXdWQXc1Y0ZYLXd3a19HbnYzVER4Skx5X1Y0N1YxQWRJNHEtVmNfeERKbEJvbExaLWkwU004VUMyaWNvNjJwNjNJUElyZ2dROTBkV0pXcFZOTmpQLVQyaGRsTER5WE0?oc=5) |
 | 2026-06-14 | low | Bez Kabli | [Zip Co Rallies 9% as Buyback Draws Attention Ahead of FY26 Numbers](https://news.google.com/rss/articles/CBMilgFBVV95cUxORDJuaS1mdVI0ekhFRGR6emhIaXoySW9lOTNzaG5hMGZmbko4dlcwX1BCOFNiblVraUZrY0tDRTNRNVFuUUhqUFA2OEEzSkJWa0d5Zlk0YzBUV09XNnZjWS1KUm94UHVPWXBjMnlVOWEweERPVnEzeC1OVTlyenVVX0RMMWN6MkQ3ZEc3bVFIX01Ndi1QZlE?oc=5) |
 | 2026-06-12 | medium | Bez Kabli | [Zip Co Shares Gain 9% After Buyback Ahead of FY26 Profit Target](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUE1rMnhyRHRhVmNWZ2JmVEY5elUyVldMSVgyNHc5M25sYmU0UDM2OXlyeVhlQmQ1eDQxdHVWa3RONEE2LUJ2dTZIcThjdjBIeTlCbzFacEctdnBEc2lGSkVaZlhWMzlkRlNVYk9sY1dLWmJnYkpORTRtR3JsQXM2RTVkcVRnX3RCS19nNmJFdEtpQQ?oc=5) |

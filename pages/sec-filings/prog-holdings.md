@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[progressive-leasing]]
 parent: PROG Holdings
 ticker: PRG
-count: 31
-created: 2026-08-03
-updated: 2026-08-03
+count: 32
+created: 2026-08-10
+updated: 2026-08-10
 ---
 
 # PROG Holdings — SEC Filings
 
-_Updated: August 3, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
+_Updated: August 10, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 
 ## Financial trends
 
@@ -41,6 +41,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-08-05 | 2026-08-05 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000118/prg-20260805.htm) | [file](../../sec-filings/prog-holdings/2026-08-05_8-K_0001808834-26-000118.htm) |
 | 10-Q | 2026-07-30 | 2026-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000106/prg-20260630.htm) | [file](../../sec-filings/prog-holdings/2026-07-30_10-Q_0001808834-26-000106.htm) |
 | 8-K | 2026-07-29 | 2026-07-29 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000101/prg-20260729.htm) | [file](../../sec-filings/prog-holdings/2026-07-29_8-K_0001808834-26-000101.htm) |
 | [8-K](#f-000180883426000071) | 2026-05-07 | 2026-05-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1808834/000180883426000071/prg-20260506.htm) | [file](../../sec-filings/prog-holdings/2026-05-07_8-K_0001808834-26-000071.htm) |

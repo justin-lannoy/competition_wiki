@@ -450,6 +450,16 @@
       "description": "10-Q",
       "local_file": "2026-07-27_10-Q_0000840489-26-000085.htm",
       "summary": ""
+    },
+    "0000840489-26-000087": {
+      "form": "8-K",
+      "filing_date": "2026-08-06",
+      "report_date": "2026-08-06",
+      "accession": "0000840489-26-000087",
+      "primary_doc": "fcfs-20260806.htm",
+      "description": "8-K",
+      "local_file": "2026-08-06_8-K_0000840489-26-000087.htm",
+      "summary": ""
     }
   },
   "financials": {

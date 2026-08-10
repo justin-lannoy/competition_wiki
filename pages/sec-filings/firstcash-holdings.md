@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[american-first-finance]]
 parent: FirstCash Holdings
 ticker: FCFS
-count: 45
-created: 2026-08-03
-updated: 2026-08-03
+count: 46
+created: 2026-08-10
+updated: 2026-08-10
 ---
 
 # FirstCash Holdings — SEC Filings
 
-_Updated: August 3, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
+_Updated: August 10, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 
 ## Financial trends
 
@@ -41,6 +41,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-08-06 | 2026-08-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000087/fcfs-20260806.htm) | [file](../../sec-filings/firstcash-holdings/2026-08-06_8-K_0000840489-26-000087.htm) |
 | 10-Q | 2026-07-27 | 2026-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000085/fcfs-20260630.htm) | [file](../../sec-filings/firstcash-holdings/2026-07-27_10-Q_0000840489-26-000085.htm) |
 | 8-K | 2026-07-23 | 2026-07-23 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000082/fcfs-20260723.htm) | [file](../../sec-filings/firstcash-holdings/2026-07-23_8-K_0000840489-26-000082.htm) |
 | 8-K | 2026-07-22 | 2026-07-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/840489/000084048926000080/fcfs-20260722.htm) | [file](../../sec-filings/firstcash-holdings/2026-07-22_8-K_0000840489-26-000080.htm) |
