@@ -5,13 +5,13 @@ competitor: [[american-first-finance]]
 parent: FirstCash Holdings
 ticker: FCFS
 count: 46
-created: 2026-08-10
-updated: 2026-08-10
+created: 2026-08-17
+updated: 2026-08-17
 ---
 
 # FirstCash Holdings — SEC Filings
 
-_Updated: August 10, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
+_Updated: August 17, 2026_  ·  Filer for [[american-first-finance]] (FCFS)
 
 ## Financial trends
 

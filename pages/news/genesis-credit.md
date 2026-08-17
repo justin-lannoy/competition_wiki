@@ -2,20 +2,21 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 8
-created: 2026-08-10
-updated: 2026-08-10
+count: 9
+created: 2026-08-17
+updated: 2026-08-17
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: August 10, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: August 17, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
 | 2026-08-03 | — | Yahoo Finance | [Chris Peterson joins Concora Credit as Chief Risk Officer](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFdWX1NkNWlWU2l6U1hYUDdXOENxVU5qWEFWM1lBUkptNjMwLWcwRm1CRngzdUZLLWtlSG9PVnNDcHJ3ZTVMYmNSYTJYWjZpZm9BRnl5U3h4RThFLW9MdUZUcjFmQWtzOVB6Z2ktYkNVeWdqajI5bHdvM2JjT3hZdUx6TlhOS2JobUNTOUo5Z05pUkk4V1NaZzVHS3UxeDlJakE?oc=5) |
+| 2026-07-30 | — | Citizen app | [Man Attempting to Commit Fraud at Genesis Credit Union](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uM2FPWXdFd0RlQ05MemhwOUUwRk1TZEJubXB6bW55aHphbDVzYlJUV0VoektRT0xLeVhwUEFGMnJpbUZvMXg2dE4xUENGVXNublE?oc=5) |
 | 2026-07-14 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
 | 2026-07-14 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
 | 2026-07-14 | low | NerdWallet | [What Is The Bank of Missouri, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGVhM0FwdDJibTBmSnl2MWN0YmIwdWhLQ2RSWGFERGItT3lBUTBNLVpaek53RndSb2Z2dkk1cG96TWlVbnU3YkdRSVhOWjFWMGFyZWJoZWRtTUhrdnEzUW1iYV9XdXZVeGdadjYtRzVZVVJVTlRIby01ZEFwU3c?oc=5) |

@@ -345,7 +345,7 @@
       "title": "Sezzle Stock Sizzles 16% After The Bell As Investors And Retail Traders Cheer Record GMV Growth",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2hkbDdvOVlIUFhxZTVFRHFaVGZqRmo2SnpLeXlDdkNfZU5XbnlBUXBNR3Q4MUxBN1NUQ3BsQVBrcGI0OGRDRVNmSWdodEtIY1gwZmgyekZHMWdxZlZzaEtfeW1yQUpBVFFpQ2p3NTg0NUt6SjFqXzhjMF9ISS0zUWg4RUNyeC1wQmhhZlJsS204SmJRWWlhcmdsREdoeWtsMU1FUEFLVmRNa0laNlJGd1BVQWxKYmdreWppazFnckdHa0pEaFB4LW1NRlkwOGR3OXVRQmpTbldyYzJt?oc=5",
       "source": "Stocktwits",
-      "published": "2026-08-07",
+      "published": "2026-08-13",
       "feed": "google-news",
       "snippet": "Sezzle Stock Sizzles 16% After The Bell As Investors And Retail Traders Cheer Record GMV Growth Stocktwits",
       "summary": "Sezzle reported record GMV growth, sending its stock up 16% after hours \u2014 signaling strong consumer demand for BNPL/installment financing at the point of sale. For Snap Finance, this suggests the broader alternative financing market remains robust, though Sezzle targets a different (prime-adjacent, smaller-ticket) segment than Snap's lease-to-own, subprime-focused model.\n\nSignificance: medium \u00b7 Category: earnings",
@@ -1209,10 +1209,10 @@
     "ec11a0d12baa026b": {
       "title": "Sezzle Inc. 2026: Revenue $149.68M, EPS $1.17\u2014 10-Q Summary",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOanV0NW1pWnRQNFh2NEZmZV9WTzdwdlh6RGE5Zm5ubTE2OHp0RFBlVFFLbnBDS01UeHhMTWRQNWZ4bElxRjdCREhhY1Mtb2QzbENNREl0VGR1M1pMNjZDTjFJSzV0dkJRXzJCOVprcFhNU2xlX1d2T1o5RzZ1QmpjUHViazNna2IwWlRUcDIzaUFEV1d3YW8yT05ZdGhfc20wa3ZaM2ZTbTZXR2tjY2FfOXdXNnZ4dw?oc=5",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published": "2026-08-07",
       "feed": "google-news",
-      "snippet": "Sezzle Inc. 2026: Revenue $149.68M, EPS $1.17\u2014 10-Q Summary tradingview.com",
+      "snippet": "Sezzle Inc. 2026: Revenue $149.68M, EPS $1.17\u2014 10-Q Summary TradingView",
       "summary": ""
     },
     "b53f40bb8e68feda": {
@@ -1285,6 +1285,168 @@
       "published": "2026-07-27",
       "feed": "google-news",
       "snippet": "AI Across Sezzle: Can It Help Scale Efficiency and Product Velocity? Yahoo Finance",
+      "summary": ""
+    },
+    "d2ca10ee785ae8d9": {
+      "title": "Is Sezzle (SEZL) Fairly Valued As It Raises 2026 Guidance And Secures $300 Million?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT19tbndFOTh3TTVhMlFxOHRJYUNpZzNkRmx5MVJVUXN6ZFh5WXVVamRpeDRYMWFzdDhrRTIwa3hHZ2FoaGdzTktnb3FlcEE2WEhJWXdKUzlqQ2NsSWpmUlY0ajBYZUZnMk02N3Y4ekVCaF81eGJDZVJwRjVqOTN4SVNPU2NydlhSdWlGZlE2NlROZS0taGN2cVZrUE9zZw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-16",
+      "feed": "google-news",
+      "snippet": "Is Sezzle (SEZL) Fairly Valued As It Raises 2026 Guidance And Secures $300 Million? Yahoo Finance",
+      "summary": ""
+    },
+    "73ce4dafc81013a0": {
+      "title": "Why Is Sezzle (SEZL) Pursuing A National Bank Charter Now?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNampNXzJSVE5VOVFjengtdmhEYkJ4czZqclBrbkxZUlEzVENILXRQTV9ESHhoNDR3N05xeV9GQ3lQRXR2bERibG1WQ2pJQi01M0ZDZW5IOHdqamY2bXJKaHdRRmY3cFdFWUhhWVpEV3dwWUNEX1loWEl0RDdPdzB1cDFrRXdtTEpxTkFwa2U4bmM2ZGtUT0dYQmE5OFYzRms?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-16",
+      "feed": "google-news",
+      "snippet": "Why Is Sezzle (SEZL) Pursuing A National Bank Charter Now? Yahoo Finance",
+      "summary": ""
+    },
+    "db63cf27a4415bdb": {
+      "title": "Sezzle (SEZL) Is Up 9.3% After Raising 2026 Guidance And Securing New Credit Facility \u2013 Has The Bull Case Changed?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcl9SdUZWZkRXSm1SUWJwVXRwQWVkeGNPWER4Y3hNS3MySUZwOUVQU3RVcHRzQWQyd0tWY010N045UHhaaFdPcWVnaTVGeEVkUUtfekVwdFpsa29La2NRR3V6N3gzdlVOaE9DVkljOHZhYmpBMk9EdTZGYkdpd0tXTjhVc3Q1cU1MMzQtdi1kNXRnQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-16",
+      "feed": "google-news",
+      "snippet": "Sezzle (SEZL) Is Up 9.3% After Raising 2026 Guidance And Securing New Credit Facility \u2013 Has The Bull Case Changed? Yahoo Finance",
+      "summary": ""
+    },
+    "7a6a33f67d32a02b": {
+      "title": "Sezzle pivots to national bank charter",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHlFbE5JVFU0V1VWMVFMVUlyZ21kM1ZFZUVDSFl4SGRmQzk4S3daWGNoQi1tN0hxend2bURtcElCMFZWNVhILW55dU5MZ2dUd3NBbnJKbGtWbVpSR1lITDRjb3FJV3A0WDR6SDJaUnRmeGhDbm45NG14QWQtZ3lqSnFMQlJTSzA?oc=5",
+      "source": "Payments Dive",
+      "published": "2026-08-13",
+      "feed": "google-news",
+      "snippet": "Sezzle pivots to national bank charter Payments Dive",
+      "summary": ""
+    },
+    "033ae9b8e03a243f": {
+      "title": "Sezzle pivots to national bank charter",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWFPWnJFUGtkUVVwQnJGM2VHVjdRQUtQblhwOXQ5QnRBWkhIdFRGQ1FxRk90ZTloX2Q0Q3VfVjMwUE90M0t3cWVqTzhLc0VtNEtJNEIwUXo3V1lZMWpqV0lYb2hlT0dteld0eEVGSGR3dkNxLUdyVkpScEtFeEdOcGxBaWtQMWc0SkxDOE51MTJDRG1SOXZMZ2Y2TVp6MWcwYkE?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-13",
+      "feed": "google-news",
+      "snippet": "Sezzle pivots to national bank charter Yahoo Finance",
+      "summary": ""
+    },
+    "8f999cc61f80d21a": {
+      "title": "What to Know About Sezzle After Insider Filings, a Post-Earnings Drop, and a Quick Rebound",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRVZkTUpqUWRtSzFHemN0QUZpVkJzYXZvXzFvY29oUmFpZk94N0V4VjlVTjc4dmdpVGEzRjUyQjVIcC0xck1yZmZPZWtyX3BPUUFxM3VCVGQyVFF3ajZfaUFFS0VwaExuZEJrQlBxb3EwdnAtRjZtM1ZBNzlzaFhCVk03OUJfcm4tWmZCVGVlaFBIYTlRemdWLUFfRktLMHZ6c25obGpZSWpUWE80alU4eUM5d0lQNk9HSldWd0phQWY5YldZQVlzNkZzblc0OU5RR21GZQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-08-13",
+      "feed": "google-news",
+      "snippet": "What to Know About Sezzle After Insider Filings, a Post-Earnings Drop, and a Quick Rebound The Motley Fool",
+      "summary": ""
+    },
+    "143abd86958dd710": {
+      "title": "Sezzle's President Holds $145 Million in Stock. Here's What His Post-Earnings Insider Filing Signals",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSG04ZFNyaEt2SWJobUk1N2FDQXNwaU1TZTRnVG9BeGZ2WWdqMnNGYlY5bWxocFNRSHQ1NXVKR0o5UFRnYWYtVVFySGtLd195N0dsWTBZN1R4N0JrLXkyTEFnb3MzMlNldGprUDNDY3g1LXJEYzZVLUhRdGNGRGJkSC15R1ZNZmdTSmRBc1VDYmd5LXRMQlpfMDh5a0VqNHRRLVI0WENJREhDM3FlYnhUNi14aWVsM0g4R1Uwb0xqeXc3NEkybVdNRm5jSUJpdktrMHhWMG5rWG81UmpyXzYycWZZbFdVZw?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-08-13",
+      "feed": "google-news",
+      "snippet": "Sezzle's President Holds $145 Million in Stock. Here's What His Post-Earnings Insider Filing Signals The Motley Fool",
+      "summary": ""
+    },
+    "59e351cbfde6c60e": {
+      "title": "What Sezzle's Marketing Pullback Means for Growth, and Why an Insider Move Shouldn't Rattle Investors",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdTJJN0ZjTzFCRl9DelhPQjdTYVIzWjhrT1pXbmxaTGlEekZEUS1fb215Y081U2RmNnR4Q2dMVllFaUhHek9tMG5US21rR0NzMl9ReWhzMV8wdGZDMkFlV3FsVHJRRC1iY3RFRjdnWS1mQ09Va0drc0Q3X2VIUmZsQWlZTU5RSXVFMjJLRHV5ZWtnSE1uZ01feGRIbTlSelVQU2xQaDd0Wl9rMHg5eGp6V1JMN05TTjFmN2l5TDd4bjdLbzY5MzE2OTY0MktDOW9CSlY0RnU4Z3U3Uk5TYVQtVFBMYWg?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-08-13",
+      "feed": "google-news",
+      "snippet": "What Sezzle's Marketing Pullback Means for Growth, and Why an Insider Move Shouldn't Rattle Investors The Motley Fool",
+      "summary": ""
+    },
+    "4de4896094ab7273": {
+      "title": "Should You Worry That Sezzle's CEO Disposed of Shares as the Stock Crashed? Here's What to Know",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVQwaUdCdjNkVzVzODI0X1JUMHUxeE1ZNUJuYnFBZ29sUTRpbm5NV1c0ck83Y1dzMzVzWTRLVjM0NjY0czBNLWFGMWlBVE5zLUVxcXc5bmlYTTBiMU93azJDRERqWDBwc040UkhUQlgyeTgzR2JIeGlTVHRUdjFhT1ByWE03SnJGT2ZfT1lVX05MZzFUajJfQ2o1UVZEQmdFak9pSkJrSXpJM0h2dkFsSDlobW5iYzZQWHRhTlJ2Ql9UU0pjcmtuZEhTLTZubnVzZDgxcVF5cXdXYzdQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-08-13",
+      "feed": "google-news",
+      "snippet": "Should You Worry That Sezzle's CEO Disposed of Shares as the Stock Crashed? Here's What to Know The Motley Fool",
+      "summary": ""
+    },
+    "f5e9b52ad70b2407": {
+      "title": "Sezzle Inc. (SEZL) is an Incredible Growth Stock: 3 Reasons Why",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX21Gend4SEdKdzZTM2cxcGRwZkF6ck96dnpiQU85X3BoQkJQSkgxbFB2WUdJa2x5cDhPd1NBeEpIdjI5UVNSWGZoVGJXU2p5ekxiYlRPY1REb2c5OHFySnRVZTl1OHg3Ym0zS2hWbkF0VXpqM1V3c01zUUs4bXYxbzU2R1h5WjdaNUprUDEwS1pNMVpoWFJ3Y2xJV3JpbDg?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-12",
+      "feed": "google-news",
+      "snippet": "Sezzle Inc. (SEZL) is an Incredible Growth Stock: 3 Reasons Why Yahoo Finance",
+      "summary": ""
+    },
+    "2915704fa74fc0dd": {
+      "title": "Sezzle Stock Whipsaws As Earnings Beat Collides With Selloff",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yVVprMWJvaUsxakl1VDZUeEZMWFg3cUFYajNNb0d6NmM0RHlSWkVHRHZYMUtMdVRGbWtOYnNFbV9SWWFNXzVQZE5XVnhzOVVtUF9Oam13bjA4QlF1TENUY3M1OGFNWG9WLVZpR2JDRjk?oc=5",
+      "source": "stockstotrade.com",
+      "published": "2026-08-11",
+      "feed": "google-news",
+      "snippet": "Sezzle Stock Whipsaws As Earnings Beat Collides With Selloff stockstotrade.com",
+      "summary": ""
+    },
+    "e3e7f2a9a87718d8": {
+      "title": "Sezzle Stock Plunges 34% as Cautious Growth Outlook Overshadows Quarterly Earnings Beat",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkE3MUFDM2NWZ2F2ajlJY3FhSFpSTFdVd3JkQkh0YV9jdVdXTVpYNzFoUjNYVzhEUjB6SEN5cjhrWTFhelczNjdOWG9xZUNHblkyNDU4NzZVNWpBUzRHTkFDSjY0aEJWSGV5dmxlT29uQV9uTVYtNFJ2NTQyWmh0Q3R4NnhIVFU?oc=5",
+      "source": "TIKR.com",
+      "published": "2026-08-10",
+      "feed": "google-news",
+      "snippet": "Sezzle Stock Plunges 34% as Cautious Growth Outlook Overshadows Quarterly Earnings Beat TIKR.com",
+      "summary": ""
+    },
+    "ad0a959785f859a8": {
+      "title": "Sezzle Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:SEZL) 2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2lLMU9TZkNNdE5yQ3BYel9wUkVsdGRXYW0tcDVuemVfdmQtWmJudXlaUmdCbzJhODRyUnJIR01ZMVJ5MExDaEU5ODBUQzBkTkpDMDB6U1BqU25YX2tWbHJid1dpRmg1Y0piYnpBZTgwYTBQTHV5Y0dSRXZZRUFhMkJnWmx1UjJEZG5nX0JmN3p4OTBMTmthenlR?oc=5",
+      "source": "Seeking Alpha",
+      "published": "2026-08-10",
+      "feed": "google-news",
+      "snippet": "Sezzle Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:SEZL) 2026-08-10 Seeking Alpha",
+      "summary": ""
+    },
+    "b768ccfd2a0609e4": {
+      "title": "Why is Sezzle stock gaining today?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWxYWXdxM3dhTzh1LU1oNEw1SDZMX1pzT3F4VEVPSGV6eGNBWVdfWjF4eHZhRlJGYTZWbFc2b3d6Ylp6RnVFOHFoeTQ1dWQ1ZENETmZVMDczclJSUmE4LXIxX1VoUWJ0aThoRmd5bGxaNmRDZ3dfNTZTTEdtMW5TWng0MDlqSmw5dmJGNXZxT1ctbV9jQnlpZ2p2cw?oc=5",
+      "source": "Investing.com",
+      "published": "2026-08-10",
+      "feed": "google-news",
+      "snippet": "Why is Sezzle stock gaining today? Investing.com",
+      "summary": ""
+    },
+    "6ef17a489cee282c": {
+      "title": "Sezzle Q2 Earnings Call Highlights",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHU1ZVJoNFFiREtZQzROcjJtS29URXM4OGtRLWFLUUV5RmpZd1lPVmhVaUktRm1pQi1oVVgwWnJ0TlNoN0dxOXlNNTRrSXdxZncxbjN6S0tMLTQ0Wm9KVXhkUzJmcGdwSXBVUFMtendrUHctQmI0TU5ZRGhnRkkzcnBfSzc4eEtCR0xub3JTWTczY1R5VTYtWDVSUGZ4VFNk?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-07",
+      "feed": "google-news",
+      "snippet": "Sezzle Q2 Earnings Call Highlights Yahoo Finance",
+      "summary": ""
+    },
+    "e7c779a28aef4571": {
+      "title": "Why is Sezzle stock plunging today?",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZElNVFhCb29PS3phV2l3YkNkbFo2ZEFMRWxPVGExdXg0UVJ0dDF1a2trQk5XYVlYaW5MS01RTV9nTDl5Q19LS213ZUdGUDNPeHBUbWttdmFpSTViYl80S3RtOXRHQ1BabGE1SGg0QnBIR3pRblRYRENvYlp1Y211WnpyeExFc2s1WEJ6dlljbzlscXNhRGZXZWJreUw?oc=5",
+      "source": "Investing.com",
+      "published": "2026-08-07",
+      "feed": "google-news",
+      "snippet": "Why is Sezzle stock plunging today? Investing.com",
+      "summary": ""
+    },
+    "bcb43fe50aab105e": {
+      "title": "Sezzle Shares Plunge After Outlook Fails to Meet Wall Street Expectations",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNandmY1ZyeVNyMHZkNnF6a0h0aEdSbG1kMDJEU19fbzBhM3FYZHRrOVVJc0N6Y1VEdFo0MEZya2daeThvb3dUQlpuS01BTHplWm11SmsxYW8wWFlxTThNZERNLTJ5MDYzOVhNTnpsTzc3M1NJS0dzcW9rSmRxcGVvYzRCemRPaVgxSGtKX0dBOUNuUUJkZkp3YW40ZzVoUnlpY1VDYg?oc=5",
+      "source": "Moomoo",
+      "published": "2026-08-07",
+      "feed": "google-news",
+      "snippet": "Sezzle Shares Plunge After Outlook Fails to Meet Wall Street Expectations Moomoo",
+      "summary": ""
+    },
+    "1bd6ee972bdef92a": {
+      "title": "Sezzle Is Maintained at Buy by Needham",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzR3N2piZ0VYY003TXZPVVlwalJTZjI3cklBdjQ4OThneTZIQ1VXNl9nLUozaFA2RGVCdUpZc044ZDBWQ1A0alMySC0yMjMyVnd6X0h2NlB6cTlHbnkyYjRhOTh2OE5URDdPZXRESUhEeHpZVk5tckFHTkVoYk5BVFV0dFNFd2M?oc=5",
+      "source": "Moomoo",
+      "published": "2026-08-07",
+      "feed": "google-news",
+      "snippet": "Sezzle Is Maintained at Buy by Needham Moomoo",
       "summary": ""
     }
   }

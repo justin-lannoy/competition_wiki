@@ -2,25 +2,28 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 15
-created: 2026-08-10
-updated: 2026-08-10
+count: 18
+created: 2026-08-17
+updated: 2026-08-17
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: August 10, 2026_  ·  News & PR for [[sunbit]]
+_Updated: August 17, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-08-14 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
+| 2026-08-13 | — | inc.com | [Why AI Is Raising the Bar for Marketing Leadership](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHFBaFc5bGpWT2xxV2pwU19kMUtBRlN4OGROMDRsalBNQ2N0eVJvWThuZlFLMG92UHZ3QzBfR0ZPanVSQ1pJbmx2dmZWSjg3REozbEtRZ3hSUklDZHljN09TRzA2VGFGek54a3JFX25kbGd3dnNVcllpaXVlTGhxZGJrQXJhd0JvdC16VjdNVXhleXhORlRkeg?oc=5) |
+| 2026-08-11 | — | Business Wire | [Sunbit Named to the Inc. 5000 List of America’s Fastest-Growing Private Companies for Fifth Consecutive Year](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWkt5N04xcmlNbUdIdVNFb2cyUGNZNDR2YmhtRUlnaE9UTVlXRDNJLUtPNXNtMGhvX0hIa3hfOHBocEJGUEpycWVmM3VNTUlEcXh6TzR1UmxEQXEzYkYzV2NvUGpCTUtXNVBmVzVXYzRYSW1GVngyTVduaHR1S0pjMjZpa1ozTU1nMVNISThqd3lSSEk1RFk4eXZUQzN4Y3BvZFcwNzFGcndYSTdsTG9pVTNPbnA2c3BTYnJnaWkwU2ZtWm90QWE4bWhQYnpMNEQzeFRPRjRHQkxKOTFDakZLZDNVNHgwWnNvUngyakNFdnlWRTVadjJr?oc=5) |
 | 2026-07-09 | — | Built In | [Top Buy Now Pay Later (BNPL) Companies](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wel8tLUhWMTdCLVd3OFQ0eEpPbDJfMlVGajlGcHR5d1pyb1JQemptbVlfamt4Xy1qOXJITXRwMFYzcEtnN3NCUzdkUnV3MHBOQ2Ytdm9VMUdla1NUS2x0UGpGeDVaamM?oc=5) |
 | 2026-06-30 | — | The National Law Review | [Sunbit Launches on Stripe, Unlocking Flexible Financing for In-Person Service Businesses Nationwide](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFN3VGxLLUFQVEZDUWViRlVKSU54X0hfTk1LTXltck9QcWFjSk5sdk5EOWRxTWJCbmV2TTNvLUJiT1BwZXQ4cUdjRlQ0NmlxZ241YjBXOUxKWUpGakljdWZoZ0J5TVVYSDBVNDZQdTFnZ1NkcG8zMHVzb1NmTTIxVnFkYkEyMXdBeUx0Q1FwaUZkR1dhNTIyUl9iLTdmMWd1TWUwa0drX1NfYVplQjQ0?oc=5) |
 | 2026-06-30 | — | AOL.com | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmhpSm9EdW40T0c4alJrdWE1UGhhRVFpalFzdFFsenE1NTVKM0VXREFXX0RLd0FiRklrX1R1T1NlXzRMN3d6dkxwNmFhcURYRXg5azQ2dTk3OWFYNU0tTVBJSzFoemlqbng5WExFUFJrTnpQTFoyd0hGb1cxV19LOUxEUQ?oc=5) |
+| 2026-06-30 | — | World Business Outlook | [Sunbit Appoints Britt Provost as SVP of Human Resources](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFA0TGtWNlBFTFFwQjlMQjZEM2tyWTc0UWVLaVFtYjhIeXJjQUEwTm9pdEs5alBaZWFPMFFfNEk0cTE1b1QxUTE4LTlGeXFNVGRnOWtuY1ZaVGRfVzl3cnFEYVRvVlNMT1JGZGRMUzRwdWJuRDE2WkRoTFdvS3ZFS0p5TXBsazRHUXpTaHJTZlNySG8?oc=5) |
 | 2026-06-29 | — | Business Wire | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjdEX0dFckkzc3J3UmpKMWhLVjJNenBZdXhoTWxDdFJVRjlDWTE1NGctMzE2X1hqTmRuZmhHdzVVOVdWWHJVdjBrMUpBQkJYSG91eDBsbEJpLUZXajFJZmtnVHRmdmYybVlhS2hiR3lqWmxvZXljRmo2bWVMTVJvWE1nWVVxRE44MHp0RThlcU02aHplOW9CYl8yNEpWaWJBTl9XZGlHNWlJdFNkZi0zalc4YmtYbFhvZnQxMkc0Vy1zZWtqOWU4UGI5TkFJU0Ftd2hFZXJGV3c3UTVJZ08yd2NR?oc=5) |
 | 2026-06-29 | — | Yahoo Finance | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1F5Vld3eWFkV0NiQ0RXb0U3N1N2WS1PbVlkLTZwZTBBaVlZZHhfNDlUb1dKaV9HR25PU2RpZm9aYjdDNW9qUWFMVFUtandhR18wcUIxU1ZzUVBkSEVRN1JIcGtQbTdYUUhLTFA1Q0M5Tm11bzcxNUtUZDJBYkFQVjFXNEZHeFMzY1BhMjJVRnB0SkdJUlpvd0pR?oc=5) |
-| 2026-06-21 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
 | 2026-06-20 | — | cotidianul.md | [Dumitru Vangheli, first reaction after the accusations regarding the fake CV: "Some formulations were summary"](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3NuOUhwYVBpdzNrcUU4V01LUjFCeWJHeXpTR2llRlFLWjJyajV6cC1mT3JwNDFMUlJseU1fMURVWTNqRkxUY2IwZjBtcXFNS1kzZldjd0lDX1UyX2Q1QnYyLXlIZFFwWVNxMzdGUFJ3VWtFYzNqcEdOOTRjejlVVHNDdFJWaXZfaHd2UF9uZ0o5WXl2TndnaFZnN2pjcVQ2eERodnY3bXUxZTlWU1VXU1pFUDNPYXRsLVVVSHpDaXd4TnA0RkdoRC1OOUIwWkh3SXBMZEs3dlFxTFVMVnU3NmpzTzdzMl9YZFE?oc=5) |
 | 2026-05-19 | high | CollisionWeek | [Crash Champions Activates Sunbit Consumer Financing Program](https://news.google.com/rss/articles/CBMingFBVV95cUxOREhwZ1FFRkY2VzdUcFM1aW54TGpwZ0hvODVUdXktSUM2Y3F5RGZfSXMxeG90RDRBMldmMVU4S2pzM1E4ajBDNEVkYlpLN0kzd3gybExkLVZRZkhmamZEWm9WbzNuTFJoQ0o5eVBqMGZTRWtEODg2d093Rmxha204TDJ2QXUxcGZuRndtMy1VTXBkOEZTV0lOcVNTRXRsUQ?oc=5) |
 | 2026-05-18 | high | PR Newswire | [Crash Champions Rolls Out Nationwide Fix Now Pay Later Solutions with Sunbit](https://news.google.com/rss/articles/CBMizAFBVV95cUxOY01PLWNqWEN5eHFBNnBlSXpMRVJFdHJlOWhwcFRpYTJCUkxDZjlTdWlsemp3MVRMd2VwUkxtdlhEZVRQV1lCRkVVMFd4U0F0ZmdWb0VYeTFEdlJ0alV1bWI4SFZQXzgyWnNPUlBLaEV4WkM5N29wamRqRlRMWDd2RUMwX3o3cG1yd2xzV01EeHFlbUhfVUFsbWR1YU9HZGFhVmpsX2s0NzZZbTl4SGxVVkpiVWpQQlphcTByUWlsM2t5VjZzN09sQWNmdzg?oc=5) |

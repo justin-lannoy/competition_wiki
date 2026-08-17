@@ -2,21 +2,25 @@
 title: Zip — Recent Coverage
 type: news
 competitor: [[zip]]
-count: 97
-created: 2026-08-10
-updated: 2026-08-10
+count: 103
+created: 2026-08-17
+updated: 2026-08-17
 ---
 
 # Zip — Recent Coverage
 
-_Updated: August 10, 2026_  ·  News & PR for [[zip]]
+_Updated: August 17, 2026_  ·  News & PR for [[zip]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-08-15 | — | Market Index | [ZIP:ASX Announcement - Change of Company Secretary - 14 Aug 2026](https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0tmdDE1dW9CYWs1YmNFNHk4QzNNUGFZaE4xYnBjT1lIQXFvQ0s5RUloX3dNRkJMdnNxb205QTVqaElqd0xlTXlYUHZaWlRjSW9KUGRMWFRGdXdjZ0F6ZlFxZWQ3OU5Gc2M2Zkw4RUpzdW0yQVZOVGZEcGhtb0FoOGtyOGZ1SDZwNkNvS3ZyMHNRb0Rl?oc=5) |
 | 2026-08-05 | — | International Business Times Australia | [Zip Co Shares Surge Nearly 9% as Buy Now Pay Later Lender Extends Rally on US Growth and Buyback Push](https://news.google.com/rss/articles/CBMidkFVX3lxTFBWbGVLcVFGNGJQLXVhaVoycml2Y1BKUWJFZVAwN0tqa1BCRzBHRnNiUHl2U2dkSWRRdm13aW5XVkhzUVVReG9pX0dEVklGbnJHWUF4SGdTT3JJdXNqb1RURmlJVmRYd0ladjAyU1hIOFFkWEp0M0E?oc=5) |
+| 2026-07-30 | — | Sahm | [Buy Now Pay Later Stocks Worth Watching After Apple’s Supply Chain Warning](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMF9xZjY0bVJrQ1VLRWdydF9UeWNLUFVCYmtIUWN5bVk3bkplZ1JXblRwZjJUbl9fVTdQWkR1MXpKdVk2V0FJUmlSczNkLTEzQjZvV2o1QkhudTFLT0cwTnNDVVBya21QR0dUaU5PcmlIN0dnLUEwOWwtSklyV2YxWnl2aEljTkpJNnFVdDk4MVJ3Tk0yUU1PeTBVVndSY2pQTDc2eHJ1RTFvM2I4MURVdHZGS2dRRHhVdDdrRG5qdnBnVTg?oc=5) |
 | 2026-07-28 | — | Revelio Labs | [Zip Number of Employees 2026 \| Employee Count & Headcount Data](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNmVDZXZpZmpwWV9BZmNWdXhNVlJ1YXA3czVYZFlPOWFxTGJCSlljX2g1V19mTlhvVDZLTzZlbGk4Q0g1SGJKNVRYdVhtd1U3bllWREdrTlFsT0pGei1vOQ?oc=5) |
+| 2026-07-28 | — | The Motley Fool Australia | [Should I buy Zip shares before the end of July?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGZEd1Z4RXdxRHVLcU01UUFaUkRZNjJJWmpmNElieVdmNWJlZUFaMlVqdmNLanE3aUxuMFBpRm5wRmJaTDFLZkRYclRMVUpIa1kyemszZFJlNmdJUDM0eTZFa0d1aEE1LWdGZm1lMEozcUdtbFJVSm4wX1l0c1N0RlVfa3BvcDJvVWc?oc=5) |
+| 2026-07-24 | — | The Motley Fool Australia | [Zip shares are going wild. What investors need to know](https://news.google.com/rss/articles/CBMikwFBVV95cUxPamNFMVFWVHo3a1daU3Y4aEtaYmp5RlIzVVh4NGVDSjlWZTk5X3BIeWRTd3E4T0pnNXJTUjBKYWJZbFZmTV9kNG5fUE5DUzM3S2lKMVhGYlp2OHZ6eHhib2xNaWdpVDVPejM4UDFpR2ZicC1HN2t4ekwxQldFNElMdVg1LXpwSFJpNktMeXhOZ0lZN0k?oc=5) |
 | 2026-07-21 | — | 01net | [Zip Research Reveals Two-Thirds of US Shoppers Turn to AI Before Making Purchase Decisions](https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZtZnpjdkNhRmlZTXhUYWN5a3ZwLXVjYTFkWTEtQU45aENZWU5mLVF2NWNqWS1nM0tRV09DamxwMmJsTVdBdXhxekFnZlhuZDJsNW5wREIwWkprS2xUQU5hTHFSd0ZmWmNCMnkxa0pOYjJPSld1TUdmWTh0cUptZGNxSTMyVUxtSXcwSlgyMWdZYzlzU3Ata0s0LVZzRGtjVndxUkxQLU5UMWlkUDYtUmdn?oc=5) |
 | 2026-07-19 | — | Moomoo | [Citi Maintains ZIP CO LTD(ZIZTF.US) With Buy Rating, Raises Target Price to $2.49](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVpMNTFVVXlnTnNtakI5WVNYVzctQWRpSG5OdWk4MG0xZ2tSNmQ3TzdjTmJKdHZhdklRZzVQeFJoOUNWNk9OSXJpTkk2bzhRd2ZWMDJTTzlScVktS2JwUlg1MDNCQWxhbDNEZlh3ZHQyMnFYRXJ1QlJRcTFDMHc4M1RzWmZRVjlVNnR3T2lSRkMtRXlkSl9oYmZYWDVHYUk?oc=5) |
 | 2026-07-17 | — | FOREX.com | [Zip Co Ltd Share Price - Share CFDs](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbkZQdW5UN1k4WjA1LXZyUVZCWjR5Si1UeW1qNy03Q0ZyZjlBcGF3RzNDaUpfMlVjM19nX3FOV1dIeFZPd2xCMFlqbV9vR1h3bGJXVXF3alp1VXVWV0RKUTFNTQ?oc=5) |
@@ -30,7 +34,9 @@ _Updated: August 10, 2026_  ·  News & PR for [[zip]]
 | 2026-07-15 | — | MSN | [Zip shares jump on US growth and earnings upgrade](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR3E5Tk4yT0FuZUc5cU9CZnlhSm1YTTZETHdBMXd6OVptLUxVNWhiM0VRVnRUUkQ5MC1taVNtUHNsOW4xVy1pc2hubGNkdXlVUFJodUZ6MUtJRk5hak02QnNMakhTVENGak42VDFxLU1RNjR1dG1nb3U5WWJYcDRjMVNsQUNtZWFUNEEyU0tTSzVXd2NxenhybjVEU1RlMTdMX2F2S2pzdEljNWpSSUZUbF9YUWFrX3Z4TGFRRlhkWHY3cmJTOXl3VDhvN1hrOFBUYWszaVVR?oc=5) |
 | 2026-07-11 | — | MSN | [Analysts split on Zip’s FY27 share price outlook](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV0lVdy14Nndybmk1UGdBdzhTajN6bDJldlB2S2tRSFJ3UlJSSjR6bDliQVRPX1ZMZzJjRXZEQWVDdFFaZkNZZVJiNTk0NGdlVEZEV0RiT3VLR3Q2MUtZbDNRTTRZUThCZkZBdUtCME9lMXdfRkp0Tm03RVFmZGVLVzkyRHNNemZUdGxOUml1bUFuZV9oOEgzVzdhRFhleEhxcG1CdTB3OFJ3dlpJQmtPTU5aSzkySUdPYmZ0Uk0xeFhwcGUzS01LY1VPNmQ3S3drd0J4STFRYW1TWXN3SnpRazBDcm8?oc=5) |
 | 2026-07-09 | — | Moomoo | [UBS Maintains ZIP CO LTD(ZIZTF.US) With Buy Rating, Raises Target Price to $2.85](https://news.google.com/rss/articles/CBMingFBVV95cUxPTEFhNU44MDlyM3ZsWEJoZWxpRDBjYXJrTU5fRDE4TlBTVFN2dkYzQzllOGtqRlZZVW51QmpSWlRnSnVQNmlYUU9qQjBkMjBELVQ5RmlBeEFIbFJ3aXRGUE5NMmp1RVdIYWVoOW4zYnJuRnkzcjJmemkzdFFveHpCQzQ0Wm03M3NGUHo5bi1HU3B5eXFvbTZjX1FGSzV0QQ?oc=5) |
-| 2026-07-08 | — | afr.com | [After a $400m exit, Quadpay’s Lindenberg returns with a home loan bet](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlU3aDZhdTJvS0IteERXWEc2T1J2Rmo3LWZMeENLVm00bi1pUUV2LW5Za2I2VjZoeGYtbnUzX0JLaTVlZXY1OWtIUGJDSmpQY3dDRGkzTjY4WldzbzJMODEwdldaNTNiOElLYkZEeGVjeXpKY20tUnVucHlGN1JzVnNRY0tPdEV5d2VCc2l1UTZpRXNFQjZ3ZDVFeWF3ZXBkeXJVU3M4LWFKdzBNSnhkV1laVS10dw?oc=5) |
+| 2026-07-08 | — | AFR | [After a $400m exit, Quadpay’s Lindenberg returns with a home loan bet](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlU3aDZhdTJvS0IteERXWEc2T1J2Rmo3LWZMeENLVm00bi1pUUV2LW5Za2I2VjZoeGYtbnUzX0JLaTVlZXY1OWtIUGJDSmpQY3dDRGkzTjY4WldzbzJMODEwdldaNTNiOElLYkZEeGVjeXpKY20tUnVucHlGN1JzVnNRY0tPdEV5d2VCc2l1UTZpRXNFQjZ3ZDVFeWF3ZXBkeXJVU3M4LWFKdzBNSnhkV1laVS10dw?oc=5) |
+| 2026-07-08 | — | Startup Daily | [Sydney mortgage fintech LendUs banks $5 million Seed round](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFk1SUZwaDd1UHd3UF90R3J1U3Jzei1CT3h6R3JlbDVINmpqNnN0a1FuNXp1LVVWSmVybnZZUnM0eFRVcUVmcENkZ0xPLVdSZEZRc0M3SFZwMEJyTkhqeDZFcldSZ1lXOXgtN3hFRW1pNHJMX2szeVVQXzJSSGJhTXh4R2hjc0U5VlQ1M0dod1Y4ZHBDbUNyX0ZHMkxMQmpXNUdj?oc=5) |
+| 2026-07-07 | — | Moomoo | [B. Riley Securities Initiates ZIP CO LTD(ZIZTF.US) With Buy Rating, Announces Target Price $3.26](https://news.google.com/rss/articles/CBMinwFBVV95cUxPanB3NkxhUmxjV2RUYTBzOVJXZjJybDhSS3daSUlHd3V3TTk3SkIwZm10N0JUUnlvb203OTBfclVqMHZYWDNKWE9kV0NOb1puRVA5VGxNa3dySXRkZnBXMDVQcE9aUEpLM0pRRE01ektTUjl6eUN1aXZWd1hUV2Vhb0Vzd0NGaWZNNE9zNDhqaVZTWmJvTXotblVrbVBaTjA?oc=5) |
 | 2026-07-06 | — | Market Index | [ChartWatch ASX Scans: CSL, Cochlear, Artrya, Anteris Technologies, AMP, Zip Co, Graincorp, Pexa](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2NNczVhTzFRUUdJMjByUlJXY2xXV1dEVGVhQkFrejVKdXdwRlZWcmJqLVBmVXN4ZlEyQVdGRC1OREhsYUZDcEVSYjE5anZtdmQtamJHeXJDdkR6ZnZCVkdxMzd0UHhaRklLU3BNckxFZnhHZEtEYVk1aEo4RzVCaW0yZ1djN3hZRmVLQlZ6eVZQZFNNeVo4TEwzb3dYUFdPQUxJelNwVGh3ZTRFSnJCVVBhWVN1NFgxbjRtLU4ybFI?oc=5) |
 | 2026-07-05 | — | Kabul University | [Purchase GOAT with Zip Pay: Fees, Method & Tips](https://news.google.com/rss/articles/CBMid0FVX3lxTE5UV1FCZlgxZWhtcDUyVkViN0Y1REtXdDY1bTNhNFM1NVNNM05Kbjk3Y0ZfMmp2cTAyNDBDdy1PZlVYQXM4MDBnc2g2bWtmY3UyZjVjUjZ0THNkME1oUzY5UV9hdFlyNVRpOE9QUzI2QWdESVJhODlJ?oc=5) |
 | 2026-07-05 | — | Kabul University | [How can I purchase Thena with Zip Pay: Detailed How-To](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGR0MVZZUEVqc2pBUVo2Y0stWTFfREVPOFplcUtsd3RsZGhMWHV6Z0RJY2l2YkRtSTNCMm5jeTBHcW9Vdk4zUzFJcXFCVHBmdG5JaDhUT2xUZGVqYkNyOUVHSElmSE5FbzhHTi1ja05abzkwVldBSkhSRHdrZVlYag?oc=5) |
