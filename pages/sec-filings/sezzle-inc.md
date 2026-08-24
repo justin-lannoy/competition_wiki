@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[sezzle]]
 parent: Sezzle Inc.
 ticker: SEZL
-count: 57
-created: 2026-08-17
-updated: 2026-08-17
+count: 58
+created: 2026-08-24
+updated: 2026-08-24
 ---
 
 # Sezzle Inc. — SEC Filings
 
-_Updated: August 17, 2026_  ·  Filer for [[sezzle]] (SEZL)
+_Updated: August 24, 2026_  ·  Filer for [[sezzle]] (SEZL)
 
 ## Financial trends
 
@@ -41,6 +41,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-08-18 | 2026-08-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000144/sezl-20260812.htm) | [file](../../sec-filings/sezzle-inc/2026-08-18_8-K_0001662991-26-000144.htm) |
 | 8-K | 2026-08-12 | 2026-08-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000132/sezl-20260812.htm) | [file](../../sec-filings/sezzle-inc/2026-08-12_8-K_0001662991-26-000132.htm) |
 | 10-Q | 2026-08-07 | 2026-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000126/szl-20260630.htm) | [file](../../sec-filings/sezzle-inc/2026-08-07_10-Q_0001662991-26-000126.htm) |
 | 8-K | 2026-08-06 | 2026-08-06 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1662991/000166299126000124/sezl-20260806.htm) | [file](../../sec-filings/sezzle-inc/2026-08-06_8-K_0001662991-26-000124.htm) |

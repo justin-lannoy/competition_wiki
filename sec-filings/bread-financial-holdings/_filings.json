@@ -720,6 +720,16 @@
       "description": "10-Q",
       "local_file": "2026-07-28_10-Q_0001101215-26-000074.htm",
       "summary": ""
+    },
+    "0001101215-26-000076": {
+      "form": "8-K",
+      "filing_date": "2026-08-17",
+      "report_date": "2026-08-17",
+      "accession": "0001101215-26-000076",
+      "primary_doc": "bfh-20260817.htm",
+      "description": "8-K",
+      "local_file": "2026-08-17_8-K_0001101215-26-000076.htm",
+      "summary": ""
     }
   },
   "financials": {

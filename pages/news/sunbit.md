@@ -2,22 +2,23 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 18
-created: 2026-08-17
-updated: 2026-08-17
+count: 19
+created: 2026-08-24
+updated: 2026-08-24
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: August 17, 2026_  ·  News & PR for [[sunbit]]
+_Updated: August 24, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
-| 2026-08-14 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
+| 2026-08-23 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
 | 2026-08-13 | — | inc.com | [Why AI Is Raising the Bar for Marketing Leadership](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHFBaFc5bGpWT2xxV2pwU19kMUtBRlN4OGROMDRsalBNQ2N0eVJvWThuZlFLMG92UHZ3QzBfR0ZPanVSQ1pJbmx2dmZWSjg3REozbEtRZ3hSUklDZHljN09TRzA2VGFGek54a3JFX25kbGd3dnNVcllpaXVlTGhxZGJrQXJhd0JvdC16VjdNVXhleXhORlRkeg?oc=5) |
 | 2026-08-11 | — | Business Wire | [Sunbit Named to the Inc. 5000 List of America’s Fastest-Growing Private Companies for Fifth Consecutive Year](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWkt5N04xcmlNbUdIdVNFb2cyUGNZNDR2YmhtRUlnaE9UTVlXRDNJLUtPNXNtMGhvX0hIa3hfOHBocEJGUEpycWVmM3VNTUlEcXh6TzR1UmxEQXEzYkYzV2NvUGpCTUtXNVBmVzVXYzRYSW1GVngyTVduaHR1S0pjMjZpa1ozTU1nMVNISThqd3lSSEk1RFk4eXZUQzN4Y3BvZFcwNzFGcndYSTdsTG9pVTNPbnA2c3BTYnJnaWkwU2ZtWm90QWE4bWhQYnpMNEQzeFRPRjRHQkxKOTFDakZLZDNVNHgwWnNvUngyakNFdnlWRTVadjJr?oc=5) |
+| 2026-08-11 | — | citybiz | [Sunbit Makes Inc. 5000 for Fifth Year as Payments Platform Expands](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDFMcmtLSnNzdGpUa05hQzhjS2JRNlp5N2VabEVsLS1jSndSakgyNW1BMGpEcjRSUUhhTk5rc0Z5ZXhqeHh3SS1VSk03UjF5ZHdRNHJaWVFBREQ5aEZPRU1nd1REdzVEQWpWUlA1RlluT1lHOGVWU1hXZ2gzeFh0eTZFUFVHMkNwbEtORno0YzNxbnRld0lwVUY2U2FUS1NBU3dPb2sxSQ?oc=5) |
 | 2026-07-09 | — | Built In | [Top Buy Now Pay Later (BNPL) Companies](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wel8tLUhWMTdCLVd3OFQ0eEpPbDJfMlVGajlGcHR5d1pyb1JQemptbVlfamt4Xy1qOXJITXRwMFYzcEtnN3NCUzdkUnV3MHBOQ2Ytdm9VMUdla1NUS2x0UGpGeDVaamM?oc=5) |
 | 2026-06-30 | — | The National Law Review | [Sunbit Launches on Stripe, Unlocking Flexible Financing for In-Person Service Businesses Nationwide](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFN3VGxLLUFQVEZDUWViRlVKSU54X0hfTk1LTXltck9QcWFjSk5sdk5EOWRxTWJCbmV2TTNvLUJiT1BwZXQ4cUdjRlQ0NmlxZ241YjBXOUxKWUpGakljdWZoZ0J5TVVYSDBVNDZQdTFnZ1NkcG8zMHVzb1NmTTIxVnFkYkEyMXdBeUx0Q1FwaUZkR1dhNTIyUl9iLTdmMWd1TWUwa0drX1NfYVplQjQ0?oc=5) |
 | 2026-06-30 | — | AOL.com | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmhpSm9EdW40T0c4alJrdWE1UGhhRVFpalFzdFFsenE1NTVKM0VXREFXX0RLd0FiRklrX1R1T1NlXzRMN3d6dkxwNmFhcURYRXg5azQ2dTk3OWFYNU0tTVBJSzFoemlqbng5WExFUFJrTnpQTFoyd0hGb1cxV19LOUxEUQ?oc=5) |
