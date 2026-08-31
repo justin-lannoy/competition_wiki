@@ -2,19 +2,20 @@
 title: Koalafi — Recent Coverage
 type: news
 competitor: [[koalafi]]
-count: 6
-created: 2026-08-24
-updated: 2026-08-24
+count: 7
+created: 2026-08-31
+updated: 2026-08-31
 ---
 
 # Koalafi — Recent Coverage
 
-_Updated: August 24, 2026_  ·  News & PR for [[koalafi]]
+_Updated: August 31, 2026_  ·  News & PR for [[koalafi]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-08-24 | — | Furniture Today | [Financing beyond the checkout: Integration throughout the shopping journey drives traffic, conversion, tickets](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmZnQUFZbGVuOWd2UHdQdWxNYnRlb3F6RlBwM1Zlc0ROYVVhTFBnZmtPY1FlOVIxQ1owWHFXLVBNYTkzSmpiTFJEWnhKMEVZd1l5dmo3Q1hwNHVVZkdqN3VrVkJfTTBmTTB0Z2Q0eUhZbWtzdDhFams1UkNjVnM5dGlqSEJMUXJNVnpiU2JOSHJRLVY1Rm9NdTdsOTFFM1NxVnAyektKUVQxLWlUbE03QUxMdnAtUWtWWGFKbDBZcERfLVo3VFNHWjFqbldOTGpSTVVraGV6RGg1a0kySEFNYg?oc=5) |
 | 2026-08-10 | — | Furniture Today | [40 Under 40: Scott Patrick, Koalafi](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0w5TmlORTNaTTdBN21Xb3pkWERReUZReTJXMXJkVk9tMGdTS3hUUzZzMG5QcjFjSHNIR2ZNM1pTbWZOQVI3Z0dhMWVIWVl1VFVFU3RreG5MTDVFS0lhb0xMdGdleFlQSTZTbkxiV3J4TU9GcGVEQS1YYTczOWp6N0FsZU5FOFlueXc?oc=5) |
 | 2026-06-22 | — | Furniture Today | [Meeting the moment: Consumer finance providers challenged to smooth the process in unsure times](https://news.google.com/rss/articles/CBMizwFBVV95cUxQeHlBcFloVTJCUWNxQ05tXzM0Ml8yTWNfVGczM1dCVHZCSTFEX0Y3ZEJIcVM5Wi1PdjE0MVpBaEtKX2pCcFVwb2xMYlFZTlJEUlRZVE8wMVRkNkl3blhXMGNVT2p5aHJZYU9ycXFvdlNJT1JTQVdJMHZKQ1BoSEZIMEU4eDNjQ0NPRm51Ny02eGhzeWxuN2NaRnVlNlgzN3ZwOXZTYUxzemd3MVdTWmNlYnlWaEQ4QVFqMTV2WHlnbHZsUFRCVU90NVFab01neFE?oc=5) |
 | 2026-06-12 | low | Pulse 2.0 | [Capital Bank Appoints Don Busick To Board Leadership Team](https://news.google.com/rss/articles/CBMigwFBVV95cUxQS3hMdlhSZkxVOVBKSGZiTEJJRWdnQVpwOUFhclg3djlMekdnUkQ5bHNUVzhXa1NSbDZKdHlqZVZJd184VW1NX09zRjhzdjhDUzVDbzhydXNxM2oyaGJBTWNXUUNBTmpmaDBvdmhLMFVwd1VKZGx0WFBxR3g3QzB1TTRuVdIBiAFBVV95cUxNSk5TQXYtQV9mem5DdDA4azY0RTZuQ05QUGl6QVNMUUE2Q2UwTHZvWWx5ZVZIZ1RlclREQmZlWEVNNE5QQlo0emNxbFZEZGFQdTB0bTBvaGhPc0gyYkY4dGE4T3RtQ3F5TlIxYUZaLXdrczBuOHJMZU5OM1cyUzdLb1NYdTZNaDAz?oc=5) |

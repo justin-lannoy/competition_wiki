@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[affirm]]
 parent: Affirm Holdings
 ticker: AFRM
-count: 31
-created: 2026-08-24
-updated: 2026-08-24
+count: 33
+created: 2026-08-31
+updated: 2026-08-31
 ---
 
 # Affirm Holdings — SEC Filings
 
-_Updated: August 24, 2026_  ·  Filer for [[affirm]] (AFRM)
+_Updated: August 31, 2026_  ·  Filer for [[affirm]] (AFRM)
 
 ## Financial trends
 
@@ -41,6 +41,8 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 10-K | 2026-08-27 | 2026-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026059279/afrm-20260630.htm) | [file](../../sec-filings/affirm-holdings/2026-08-27_10-K_0001628280-26-059279.htm) |
+| 8-K | 2026-08-27 | 2026-08-25 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026059271/afrm-20260825.htm) | [file](../../sec-filings/affirm-holdings/2026-08-27_8-K_0001628280-26-059271.htm) |
 | 8-K | 2026-06-25 | 2026-06-18 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026045491/afrm-20260618.htm) | [file](../../sec-filings/affirm-holdings/2026-06-25_8-K_0001628280-26-045491.htm) |
 | [10-Q](#f-000162828026032294) | 2026-05-07 | 2026-03-31 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032294/afrm-20260331.htm) | [file](../../sec-filings/affirm-holdings/2026-05-07_10-Q_0001628280-26-032294.htm) |
 | [8-K](#f-000162828026032105) | 2026-05-07 | 2026-05-07 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032105/afrm-20260507.htm) | [file](../../sec-filings/affirm-holdings/2026-05-07_8-K_0001628280-26-032105.htm) |

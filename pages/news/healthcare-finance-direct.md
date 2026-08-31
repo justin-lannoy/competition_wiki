@@ -2,19 +2,20 @@
 title: HFD (Healthcare Finance Direct) — Recent Coverage
 type: news
 competitor: [[healthcare-finance-direct]]
-count: 9
-created: 2026-08-24
-updated: 2026-08-24
+count: 10
+created: 2026-08-31
+updated: 2026-08-31
 ---
 
 # HFD (Healthcare Finance Direct) — Recent Coverage
 
-_Updated: August 24, 2026_  ·  News & PR for [[healthcare-finance-direct]]
+_Updated: August 31, 2026_  ·  News & PR for [[healthcare-finance-direct]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-08-27 | — | GetLatka | [Agiloft Revenue 2024: $71.4M Est. ARR, $45M Raised](https://news.google.com/rss/articles/CBMiT0FVX3lxTE83cWRaTnJYV1N1RnNuMWlwZTBON25rd085UFVldWRBRTRyVDR4bjR3aElZclVRSkV2Z2hEMzYwRWxlX0cwZ3NwOU9heU41R3c?oc=5) |
 | 2026-07-07 | — | TMX Newsfile | [Apptly Strengthens Advisory Board with Appointment of Four Healthcare Leaders](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjhabERpaF8xMTZIWGpqYTVqaVotcWdCMFh5ZzluVjhwVEJIUU5MS25QTGllaW03bnlsb1ZaeE1hVkROSXBwWGw5QmZLSmVEbFJkTC1uZGhHcVN6YjYxbFNJeUp1U0t6OXBUNnRScndJWUhVOENoSW1LT3l4Q2ZGMDQ3ak50TFJINWQ0dWMxV1RlbFBVZUw2Z0ZUWlJFNWRhUFVVa194eGVmX2l5WlYxS3FVanJGZHdvbFFjbUtn?oc=5) |
 | 2026-07-07 | — | Yahoo Finance | [Apptly Strengthens Advisory Board with Appointment of Four Healthcare Leaders](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGZPeG1UOVNKYzFHNXd5bjl1S1VBX0RnVjBTOHljbG1fZkZyR0tTSjFoZmQyNHlCbmFLRDRHRFNldGxVVnBIcW5WVHp6MmpucGY4MDAzLUx2VTRLQUphSTNXVWF2VVVVRkt5cGotc1lvRFhhX3R4b0g3M05YWGNjM1RKOUhSczFFNzBFYmY3SGtOWUhLT0R6eVp5MGxzZ3NPQ0dZWG5sbjA0QQ?oc=5) |
 | 2026-07-03 | — | GetLatka | [HighLevel Revenue 2024: $82.7M Est. ARR, $60M Raised](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EdkI1Z0FhR1VOWnMyRTAteGQ3ajBuQmsyX0R0VkVkNVZYLXRfQ041cVlZVVFoLXlfeDY2TGZpQXZ5aktpQ19DZU9wc2RYNTR1eXhGag?oc=5) |

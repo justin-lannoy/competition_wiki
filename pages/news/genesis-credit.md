@@ -2,24 +2,26 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 9
-created: 2026-08-24
-updated: 2026-08-24
+count: 11
+created: 2026-08-31
+updated: 2026-08-31
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: August 24, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: August 31, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-08-29 | — | Law360 | [Concora Credit Flouted FCRA When Hiring, Applicant Says](https://news.google.com/rss/articles/CBMickFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDd9IBckFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDdw?oc=5) |
 | 2026-08-03 | — | Yahoo Finance | [Chris Peterson joins Concora Credit as Chief Risk Officer](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFdWX1NkNWlWU2l6U1hYUDdXOENxVU5qWEFWM1lBUkptNjMwLWcwRm1CRngzdUZLLWtlSG9PVnNDcHJ3ZTVMYmNSYTJYWjZpZm9BRnl5U3h4RThFLW9MdUZUcjFmQWtzOVB6Z2ktYkNVeWdqajI5bHdvM2JjT3hZdUx6TlhOS2JobUNTOUo5Z05pUkk4V1NaZzVHS3UxeDlJakE?oc=5) |
+| 2026-08-03 | — | PR Newswire | [Chris Peterson joins Concora Credit as Chief Risk Officer](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSktQT19rRWxfTnVxNzF2aVBoQjNHbU1xc21PbnFtMFQ2U1BGV29xOGdWeG1uZjBpekpyNG5pNHhGOXVwUzViVEFiNmRDOUIyVXh0bGRDZl9iODdKREdrX2E0Q0g4RGkyeGdRMGpIZ19xR2FoZDRBZnhlYjc2RzJCdERqb1JValktdjFLaDJqdXlITnQtZHpjVDJ3U2toSkt5VlZDczA4clNQOWZOenFhbFVGVQ?oc=5) |
 | 2026-07-30 | — | Citizen app | [Man Attempting to Commit Fraud at Genesis Credit Union](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uM2FPWXdFd0RlQ05MemhwOUUwRk1TZEJubXB6bW55aHphbDVzYlJUV0VoektRT0xLeVhwUEFGMnJpbUZvMXg2dE4xUENGVXNublE?oc=5) |
-| 2026-07-14 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
-| 2026-07-14 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
-| 2026-07-14 | low | NerdWallet | [What Is The Bank of Missouri, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGVhM0FwdDJibTBmSnl2MWN0YmIwdWhLQ2RSWGFERGItT3lBUTBNLVpaek53RndSb2Z2dkk1cG96TWlVbnU3YkdRSVhOWjFWMGFyZWJoZWRtTUhrdnEzUW1iYV9XdXZVeGdadjYtRzVZVVJVTlRIby01ZEFwU3c?oc=5) |
+| 2026-07-14 | low | nerdwallet.com | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
+| 2026-07-14 | low | nerdwallet.com | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
+| 2026-07-14 | low | nerdwallet.com | [What Is The Bank of Missouri, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGVhM0FwdDJibTBmSnl2MWN0YmIwdWhLQ2RSWGFERGItT3lBUTBNLVpaek53RndSb2Z2dkk1cG96TWlVbnU3YkdRSVhOWjFWMGFyZWJoZWRtTUhrdnEzUW1iYV9XdXZVeGdadjYtRzVZVVJVTlRIby01ZEFwU3c?oc=5) |
 | 2026-06-25 | — | Hindustan Times | [Credit Card Options for International Travel from India in 2026 \| Hindustan Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWE5MeWRSWEs1THpNUHhIMG9XWXZHYTBnX2xnTHNrYjAzd0J3THNxMnpKY09XWi11c0JHYm1zaGJSLVVLa3c3Tm4zc2dBOXJlNUQ0Rk9MUXQtNUV5bWh3Yjh0Z0I5X0VrOTBZNm4wLTVrdWtwLWFWaGpGU3hRdVZsQ1c0THh1WEZSUzhDbkNaZV9LNFVIVUNLQ1lBZGd1NV9EMld5eUtUeWd2Zkt1ekJ4MUNMMzFJUm9wSnNqTEFxYjLSAcYBQVVfeXFMTVkzT0tGXzRvWG04bG4xcUZMUzNCZTNMOEJfNmVZMUtKeXBWblV0QXNrdHBnYjY3MThsY2pkTUZhUnNlUElGU2VsMGIyY3VJLTc2VU1IVFpkVmRhdHV4NXpvRmhIUXFWWDY3aUE5RnJoOGc3WFVWS1Vfd2Rqd2U2aWdZaGhpSzJadHRlTjhfS0NRZUVIdEN6czVPUkJJYTUtN0FxTGVmTjlDaDVvN3FDd2tLLW9HNTFqX2F1cjVGZTMtUmlySE9B?oc=5) |
 | 2026-05-27 | low | CardRates.com | [List of Subprime Credit Cards (2026)](https://news.google.com/rss/articles/CBMicEFVX3lxTE5tNlZxTURwa0ZMeXI3SUEyYVZDUnBXZUh6dHQ1M3c5dEJaeHRWcUtkeXp5a2NOWFJYUEUxdUN1REptVm85SlZ1TnlXMU9qVkFaUzJMdTdXVEVBX1Voa1BaQ1otWnFRZGdBVlpyWElVOU4?oc=5) |
 | 2026-05-14 | medium | Claim Depot | [See if you qualify for the $5,825,000 Genesis Financial Solutions Maryland loan class action settlement](https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZVVWTmdWYm9DLTJ4NkZ0MnVWZDliQ0haTzZoQWw5UjlMaDBfTWQ3RmNhOUx2UE1WWHp3aWhlLVhDdDRnMVJsSTVFUVV3WVdGLU9yRVJxeDRnVmtNOVBEWkg1NGIwcnV5T0JSZS1Yd2VjR1Bh?oc=5) |
