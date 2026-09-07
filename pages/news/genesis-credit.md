@@ -2,20 +2,21 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 11
-created: 2026-08-31
-updated: 2026-08-31
+count: 12
+created: 2026-09-07
+updated: 2026-09-07
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: August 31, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: September 7, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
 | 2026-08-29 | — | Law360 | [Concora Credit Flouted FCRA When Hiring, Applicant Says](https://news.google.com/rss/articles/CBMickFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDd9IBckFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDdw?oc=5) |
+| 2026-08-29 | — | Law360 | [Concora Credit Flouted FCRA When Hiring, Applicant Says](https://news.google.com/rss/articles/CBMitgFBVV95cUxNckFiVTVFdlJDSG9MUEZBZVpwMnY1LXNhSFFsN3lhdWRseU1xZjg1bzBtMFRDT2N0ZzRmQm1CdFVqb1YyZFlKUlp4UzBaczNZUktoSEZJVVVlZDVKN0xZSHZaT01BMVgxUHFBSFFwV0J2RlBpeG5yS0R3QWc3X3B3X2RQM2dVQUdtRXl4WkN6QW1iVHN4T3V4ZTBKd19QS3hCcXBLcHZLYTVBeTNrMXJSOWYwMzFYZ9IBckFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDdw?oc=5) |
 | 2026-08-03 | — | Yahoo Finance | [Chris Peterson joins Concora Credit as Chief Risk Officer](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFdWX1NkNWlWU2l6U1hYUDdXOENxVU5qWEFWM1lBUkptNjMwLWcwRm1CRngzdUZLLWtlSG9PVnNDcHJ3ZTVMYmNSYTJYWjZpZm9BRnl5U3h4RThFLW9MdUZUcjFmQWtzOVB6Z2ktYkNVeWdqajI5bHdvM2JjT3hZdUx6TlhOS2JobUNTOUo5Z05pUkk4V1NaZzVHS3UxeDlJakE?oc=5) |
 | 2026-08-03 | — | PR Newswire | [Chris Peterson joins Concora Credit as Chief Risk Officer](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSktQT19rRWxfTnVxNzF2aVBoQjNHbU1xc21PbnFtMFQ2U1BGV29xOGdWeG1uZjBpekpyNG5pNHhGOXVwUzViVEFiNmRDOUIyVXh0bGRDZl9iODdKREdrX2E0Q0g4RGkyeGdRMGpIZ19xR2FoZDRBZnhlYjc2RzJCdERqb1JValktdjFLaDJqdXlITnQtZHpjVDJ3U2toSkt5VlZDczA4clNQOWZOenFhbFVGVQ?oc=5) |
 | 2026-07-30 | — | Citizen app | [Man Attempting to Commit Fraud at Genesis Credit Union](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uM2FPWXdFd0RlQ05MemhwOUUwRk1TZEJubXB6bW55aHphbDVzYlJUV0VoektRT0xLeVhwUEFGMnJpbUZvMXg2dE4xUENGVXNublE?oc=5) |

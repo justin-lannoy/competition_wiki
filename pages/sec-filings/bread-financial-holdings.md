@@ -5,13 +5,13 @@ competitor: [[bread-financial]]
 parent: Bread Financial Holdings
 ticker: BFH
 count: 73
-created: 2026-08-31
-updated: 2026-08-31
+created: 2026-09-07
+updated: 2026-09-07
 ---
 
 # Bread Financial Holdings — SEC Filings
 
-_Updated: August 31, 2026_  ·  Filer for [[bread-financial]] (BFH)
+_Updated: September 7, 2026_  ·  Filer for [[bread-financial]] (BFH)
 
 ## Financial trends
 

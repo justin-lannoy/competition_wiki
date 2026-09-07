@@ -2,26 +2,28 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 22
-created: 2026-08-31
-updated: 2026-08-31
+count: 24
+created: 2026-09-07
+updated: 2026-09-07
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: August 31, 2026_  ·  News & PR for [[sunbit]]
+_Updated: September 7, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-02 | — | GetLatka | [Alianza Revenue 2025: $345.8M ARR](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZ21oVFd0cWxBa0ZtSnF3NEJfWEpPMTlyU2F3QTFkd2ZoMXpKMjZVWnR6cVhLSGVBOW5ZT3NtNGlvdmRqc1h2V0RPR2ZneG1za2J2bw?oc=5) |
 | 2026-08-27 | — | The National Law Review | [Hollywood Feed and Sunbit Introduce World Elite Mastercard Design](https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXBtNkJTajA1RWNmWkFKNFZKUzk3dUFXQnJEbmJwTjhJeThnemNDZVNtNVJPUGV2T0d3U0E2MVlQUnJJaFpLN1I1ckZ4ZUpRWmpvNGxKcFBGNjlpUmZFRjJWejYxUEF0ZzFLRDRBMXZGZTdmcEhUUTU3T2RXWXlfRHdGdGdlbG15UU9mUzBRaXZFck9wdG5iQzQySEpFVkZySXk0aDRsLXU3d3JjTG4wU2tGclQ?oc=5) |
+| 2026-08-27 | — | EIN News | [Hollywood Feed and Sunbit Introduce World Elite Mastercard Designed for Today's Pet Parents That Pays Customers to Shop](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYnZabUszNUgwcWhobmtSZjdjWEJjSkRoSjk0ci1rb2c4Vm9JbmJTTTRObVh6TDRzaXZBOU1MSHI1VjNCR2VDS21ZcDFLYi1DOWt5OFctMElrWGhid2lsM3pfa3lJY1pHRkZvUjBQUnY2YkgwdkVIZXBXV2JlYnlhUlhNTDhsOWlUOHFHS0RMS2RncTR5ZXpPYmlNdEFIQXRlT2RCRGNRQlBXemtkNEtoazBOMVYxd2xIaUdwaWtSZFgydW1aMlRHNmt2MGh4VFlNWGJYcHR6X2U0dDlhalFDRjkzcnZNbURDenRvVEotZW8ycUk?oc=5) |
 | 2026-08-23 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
 | 2026-08-13 | — | inc.com | [Why AI Is Raising the Bar for Marketing Leadership](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHFBaFc5bGpWT2xxV2pwU19kMUtBRlN4OGROMDRsalBNQ2N0eVJvWThuZlFLMG92UHZ3QzBfR0ZPanVSQ1pJbmx2dmZWSjg3REozbEtRZ3hSUklDZHljN09TRzA2VGFGek54a3JFX25kbGd3dnNVcllpaXVlTGhxZGJrQXJhd0JvdC16VjdNVXhleXhORlRkeg?oc=5) |
-| 2026-08-11 | — | Business Wire | [Sunbit Named to the Inc. 5000 List of America’s Fastest-Growing Private Companies for Fifth Consecutive Year](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWkt5N04xcmlNbUdIdVNFb2cyUGNZNDR2YmhtRUlnaE9UTVlXRDNJLUtPNXNtMGhvX0hIa3hfOHBocEJGUEpycWVmM3VNTUlEcXh6TzR1UmxEQXEzYkYzV2NvUGpCTUtXNVBmVzVXYzRYSW1GVngyTVduaHR1S0pjMjZpa1ozTU1nMVNISThqd3lSSEk1RFk4eXZUQzN4Y3BvZFcwNzFGcndYSTdsTG9pVTNPbnA2c3BTYnJnaWkwU2ZtWm90QWE4bWhQYnpMNEQzeFRPRjRHQkxKOTFDakZLZDNVNHgwWnNvUngyakNFdnlWRTVadjJr?oc=5) |
+| 2026-08-11 | — | businesswire.com | [Sunbit Named to the Inc. 5000 List of America’s Fastest-Growing Private Companies for Fifth Consecutive Year](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWkt5N04xcmlNbUdIdVNFb2cyUGNZNDR2YmhtRUlnaE9UTVlXRDNJLUtPNXNtMGhvX0hIa3hfOHBocEJGUEpycWVmM3VNTUlEcXh6TzR1UmxEQXEzYkYzV2NvUGpCTUtXNVBmVzVXYzRYSW1GVngyTVduaHR1S0pjMjZpa1ozTU1nMVNISThqd3lSSEk1RFk4eXZUQzN4Y3BvZFcwNzFGcndYSTdsTG9pVTNPbnA2c3BTYnJnaWkwU2ZtWm90QWE4bWhQYnpMNEQzeFRPRjRHQkxKOTFDakZLZDNVNHgwWnNvUngyakNFdnlWRTVadjJr?oc=5) |
 | 2026-08-11 | — | citybiz | [Sunbit Makes Inc. 5000 for Fifth Year as Payments Platform Expands](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDFMcmtLSnNzdGpUa05hQzhjS2JRNlp5N2VabEVsLS1jSndSakgyNW1BMGpEcjRSUUhhTk5rc0Z5ZXhqeHh3SS1VSk03UjF5ZHdRNHJaWVFBREQ5aEZPRU1nd1REdzVEQWpWUlA1RlluT1lHOGVWU1hXZ2gzeFh0eTZFUFVHMkNwbEtORno0YzNxbnRld0lwVUY2U2FUS1NBU3dPb2sxSQ?oc=5) |
-| 2026-08-10 | — | GetLatka | [Alianza Revenue 2025: $345.8M ARR](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZ21oVFd0cWxBa0ZtSnF3NEJfWEpPMTlyU2F3QTFkd2ZoMXpKMjZVWnR6cVhLSGVBOW5ZT3NtNGlvdmRqc1h2V0RPR2ZneG1za2J2bw?oc=5) |
-| 2026-08-10 | — | GetLatka | [HarmonyCares Revenue 2025: $346.2M ARR (Bootstrapped)](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNVhrLVBPdThWYzY5ekRrRW5vQVlJQUtVcEVXdkhpR1JZN1hWeW5sUzl5OXJ0VHhXVElDeGtGbDBpYnF2WFV3bXZIOVo2RWVDVXlXclpyYXh3bVU?oc=5) |
+| 2026-08-10 | — | GetLatka | [HarmonyCares Revenue 2025: $346.2M ARR](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNVhrLVBPdThWYzY5ekRrRW5vQVlJQUtVcEVXdkhpR1JZN1hWeW5sUzl5OXJ0VHhXVElDeGtGbDBpYnF2WFV3bXZIOVo2RWVDVXlXclpyYXh3bVU?oc=5) |
+| 2026-07-20 | — | AutoSpies.com | [WEIRD SCIENCE? This New Dealer Option Is SO STRANGE, You’ll Want to Hear the Pitch And You MAY Say YES?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUUNBbXQwTHNWdU9GaFNLRGZfTmJzcHlFT0FYeG1KNkhtTU1RX1pfVml0V3pmQXoxWW13S2JSM1dpRFZCV1Q4ZlVKQUhWVVNlY1IzMGs4QlVucW9jTDZsWHo0b2tLeGJhRFZKN25xN3lsRWpQVnJFQXNwSDJXNWxYN2M3dlF0X2wtWkR5X0pIX3Fkdl92ME9FYS05MHdhc2p1c3VDSXB5S1JXV0ViVllZdlBlVVlQdS1zUWFzRTVJeV91YVlfY2lxeUVFT1phXzhTSGF0S2Fn?oc=5) |
 | 2026-07-09 | — | Built In | [Top Buy Now Pay Later (BNPL) Companies](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wel8tLUhWMTdCLVd3OFQ0eEpPbDJfMlVGajlGcHR5d1pyb1JQemptbVlfamt4Xy1qOXJITXRwMFYzcEtnN3NCUzdkUnV3MHBOQ2Ytdm9VMUdla1NUS2x0UGpGeDVaamM?oc=5) |
 | 2026-06-30 | — | The National Law Review | [Sunbit Launches on Stripe, Unlocking Flexible Financing for In-Person Service Businesses Nationwide](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFN3VGxLLUFQVEZDUWViRlVKSU54X0hfTk1LTXltck9QcWFjSk5sdk5EOWRxTWJCbmV2TTNvLUJiT1BwZXQ4cUdjRlQ0NmlxZ241YjBXOUxKWUpGakljdWZoZ0J5TVVYSDBVNDZQdTFnZ1NkcG8zMHVzb1NmTTIxVnFkYkEyMXdBeUx0Q1FwaUZkR1dhNTIyUl9iLTdmMWd1TWUwa0drX1NfYVplQjQ0?oc=5) |
 | 2026-06-30 | — | AOL.com | [Sunbit Appoints Veteran HR Leader Britt Provost as Senior Vice President of Human Resources](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmhpSm9EdW40T0c4alJrdWE1UGhhRVFpalFzdFFsenE1NTVKM0VXREFXX0RLd0FiRklrX1R1T1NlXzRMN3d6dkxwNmFhcURYRXg5azQ2dTk3OWFYNU0tTVBJSzFoemlqbng5WExFUFJrTnpQTFoyd0hGb1cxV19LOUxEUQ?oc=5) |
