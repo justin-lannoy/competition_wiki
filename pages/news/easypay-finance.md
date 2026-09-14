@@ -3,13 +3,13 @@ title: EasyPay Finance — Recent Coverage
 type: news
 competitor: [[easypay-finance]]
 count: 1
-created: 2026-09-07
-updated: 2026-09-07
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # EasyPay Finance — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[easypay-finance]]
+_Updated: September 14, 2026_  ·  News & PR for [[easypay-finance]]
 
 ## Coverage
 

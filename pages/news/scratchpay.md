@@ -2,19 +2,20 @@
 title: Scratchpay — Recent Coverage
 type: news
 competitor: [[scratchpay]]
-count: 3
-created: 2026-09-07
-updated: 2026-09-07
+count: 4
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # Scratchpay — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[scratchpay]]
+_Updated: September 14, 2026_  ·  News & PR for [[scratchpay]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-10 | — | GetLatka | [Scratchpay Revenue 2023: $12.3M Est. ARR](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qbzZ1T2lHbGdtcklMZUlYc3hmbHZ0UlZ1OTBQLVlQY3NhMWJhU01LbzFPWTctWVVmVTJmaEZEcTFiVWptTGQ0NUxPR1hTa29ZUG9ncnFNYng?oc=5) |
 | 2026-05-27 | low | openPR.com | [Healthcare Finance Solutions Market Rewriting Long Term Growth Story \| PayZen, Walnut, Scratchpay](https://news.google.com/rss/articles/CBMinwFBVV95cUxOenRoZzhuUjlzRWR6TFdfSENTT1hDTkRQWU9JUExnWmpycjcyclA5YjNUcklaRnRSeENmRXpYQnN2TGVDazRYcV9ZY1RFT0NqeEZBdVBfVmpxc251SE80c3oycEdmQnA3amFxVWUwbkVIVXBaZDZGbGk0b1J5NHJWTW81VnFRM1NDSGYtQjBHWG9WOUIxMC11TDlJYzFYWWc?oc=5) |
 | 2026-05-13 | medium | Yahoo Finance Singapore | [Scratch Financial, Inc. announces purchase facility with Victory Park Capital to expand technology platform that offers financing options for veterinary care](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWdOWFFwS09GY3RXWEdJaG9TRThOajhSanZ3bDdUQWx4WGZ6cE1CT0FyV1UycVBqc0pTaVlRdHQxVTBfNHcxQ3FwV3ZFVURFYlpkQnlnaGpuMHFnb2hZcUVQU1FYMUd3QnZMX3pQWHBVdGQ0eTZDSDk3U0w3THRZOWxrWlY3MnJwYzQ4dDd3WDlRbmc?oc=5) |
 | 2026-05-13 | — | PR Newswire | [Scratch Financial, Inc. announces purchase facility with Victory Park Capital to expand technology platform that offers financing options for veterinary care](https://news.google.com/rss/articles/CBMitgJBVV95cUxOdkZhdjBEblpoLVVaV1VVQTVNWUtoMnlGZ3lZYUVheTBGNmVMcDZzWTRNcW1QaHlOSnNTQno4TWdleFc5UDNXR25ob1l2S3pON2duMzJycFNFUXI3X3lRbG9yNUxwOVh0Z1JfNFJUbTFxbE9lOHFzWGNBcG9oU3AwR2diTEJQM2dMMWFTMExiZXkxdGNnWFdSeGFSeUVobUtHQl9vcHBETThGZ3o5cFZmQW5pdVNMTXZ5ODIxNjA5clB5LWItN1hLSkZMNnpIRjNONnNBRkNQQ3RXbmF0YzJScVVMLTdNaGhHSnF5dFNGeFBKS1M0UDAyRnR4ZmU2bTR0ZGFVY0c0VTVkSENubWtxV1oyZjRUamlFazhlUEpJcmlsQlhSUkdPcWRqV3h0aTd2dFIwcEN3?oc=5) |

@@ -2,19 +2,20 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 24
-created: 2026-09-07
-updated: 2026-09-07
+count: 25
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[sunbit]]
+_Updated: September 14, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-09 | — | DrBicuspid.com | [Hygienist shortage pushes practices to rework staffing models](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeGRFcHpiOUNMMmhKWDFpOWhPeUVEanktNEd3TjZBMjhXNFY4bmlOVVNvQzFERW13RWZXUmZia3VoYW8wdzRVelo4Umx5WVNvM1lYQVgtOXZMWEFxVHJ0aGhieklKY1kxX08zWFZxVmw0aUhZbnpUa0dWSEdoTHNaYXQxNTNFSHJDM0k4S294cjhWM3AwRlAtZXpvZjQ4M1VYbUxDbU9GS2dnY1k0alNZOGR6a2pCUGlLTkpTdmFMWXhQXzlNb0I3eFJNS21oM25nTXptbVZRZnVkekd1b3J0cTlVQjhDeldMMTBN?oc=5) |
 | 2026-09-02 | — | GetLatka | [Alianza Revenue 2025: $345.8M ARR](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZ21oVFd0cWxBa0ZtSnF3NEJfWEpPMTlyU2F3QTFkd2ZoMXpKMjZVWnR6cVhLSGVBOW5ZT3NtNGlvdmRqc1h2V0RPR2ZneG1za2J2bw?oc=5) |
 | 2026-08-27 | — | The National Law Review | [Hollywood Feed and Sunbit Introduce World Elite Mastercard Design](https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXBtNkJTajA1RWNmWkFKNFZKUzk3dUFXQnJEbmJwTjhJeThnemNDZVNtNVJPUGV2T0d3U0E2MVlQUnJJaFpLN1I1ckZ4ZUpRWmpvNGxKcFBGNjlpUmZFRjJWejYxUEF0ZzFLRDRBMXZGZTdmcEhUUTU3T2RXWXlfRHdGdGdlbG15UU9mUzBRaXZFck9wdG5iQzQySEpFVkZySXk0aDRsLXU3d3JjTG4wU2tGclQ?oc=5) |
 | 2026-08-27 | — | EIN News | [Hollywood Feed and Sunbit Introduce World Elite Mastercard Designed for Today's Pet Parents That Pays Customers to Shop](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYnZabUszNUgwcWhobmtSZjdjWEJjSkRoSjk0ci1rb2c4Vm9JbmJTTTRObVh6TDRzaXZBOU1MSHI1VjNCR2VDS21ZcDFLYi1DOWt5OFctMElrWGhid2lsM3pfa3lJY1pHRkZvUjBQUnY2YkgwdkVIZXBXV2JlYnlhUlhNTDhsOWlUOHFHS0RMS2RncTR5ZXpPYmlNdEFIQXRlT2RCRGNRQlBXemtkNEtoazBOMVYxd2xIaUdwaWtSZFgydW1aMlRHNmt2MGh4VFlNWGJYcHR6X2U0dDlhalFDRjkzcnZNbURDenRvVEotZW8ycUk?oc=5) |

@@ -2,19 +2,20 @@
 title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
-count: 7
-created: 2026-09-07
-updated: 2026-09-07
+count: 8
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[kafene]]
+_Updated: September 14, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-13 | — | eKathimerini.com | [‘There is no village life without the “kafeneio”’](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkM4bGlhYXY4eHdaT19ySmdnUVdSdU9BUkR6RmFxTFdOclBTemlHeF93dmd4bkczRVUxS1Q3Z1JabGhWRDJlWkk0NkJSMmxHSGZWZzU0X1BnUk41dkhMMHlEOWk2TmlucDM5MFNJbGhjZ2Z0dy1mRVpWaHdqeFNqZkdVcHZ0NExmbDE1ZlYtc1JHNk1zX1hiNXhZbl9NcnhmMENNY1hfWHN4RXBrc0E?oc=5) |
 | 2026-08-25 | — | Politiko.al | [Beware of your morning coffee! One cup can have as much caffeine as 4 Red Bulls](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWphUW9OQktVbmNlOFBleUlaMFFrbW1mUFlPOVF0N3FhWkVpN0o5UUp5TzRtX3RSMTlFdzBiXzdrM3YyX1F1bE5HZDBkTDZnYXEwZ21TUnl2V1NDZ2VNMnZhTVZxeU9UbTNqTVdodEp5QmVvd1YtTU5odTI0THNlNFpHT1JSalRSbHNzYWQzWnljaERFTUN6OVlSQkVHMW1Cb3JvbVp4VHlkSVptaTZHRA?oc=5) |
 | 2026-07-03 | — | Pamfleti | [After receiving death threats and being banned from cafes, former South Korean coach flees to the US (Video)](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXcxb1VJWTVqSVVObHZSVFBVQTVxNFhSOHlxa0JyNHVPbWdmRXhubWh4TnUyRlJKU0xmVEt5LTEtRF9kbUYyTDZYaDdOa3hQeExYeVF0YnVRZVRJQ1VlejRTaExKb20yZ0pTODlkUXpoWFJUVGZPYzliZXdEQklHUTZETmRCa1BUQ1dYbkxwa0lfNEVVZjBTb1RFY2pKemN6d1BHc3pIaG14R1FlS1BaMQ?oc=5) |
 | 2026-06-16 | — | Home Furnishings Business | [Furniture First Golf Tournament Raises Over $56K for Three Charities](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeE1qdE1BT21BSEw2aDM1cVNpVU9vQ3dtTEZDVWNQVDhWeFd3dDdTRTBYME1hVWhwTnhCeTRfaDJsMU0zODZ1QkZITkVXX3RxTUtWUmN0eXF4Qk85d2NPM3FXbElRaXQwZW1IX2lKMWY5UVBRdHFNRzNNWVo4NU0wM0cycl9hNHlWOXhmUm9ZSDVjcmcteXdDanpPcy1HZFlrOVFaV29YMkZDOTAxUk1FdlN3?oc=5) |

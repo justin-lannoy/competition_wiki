@@ -2,19 +2,22 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 12
-created: 2026-09-07
-updated: 2026-09-07
+count: 15
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: September 14, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-11 | — | tcpaworld.com | [MR. NUMBER 1 WINS AGAIN!: Concora Credit to Pay $9.375MM to Settle TCPA Wrong Number Class Action As Another Company Bows to Greenwald](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1ZtMjhQT0FDd2ZaSXpfdTN3NzdiNmVxMDlaNk9OTTZqRzkwVEFWUXhXWlFYT1JYdGcwWE5aeWZzZHdneVd2MGJlUkxGaE5yLXZjdkx2SjBpTk5MT0tWdWN4OHh5R3o3b1JZVkFsa193c2ZuSVdGU3VEanFBa0hTRWRaMzdkRFd6VlI4RUxmX0RMVHpfODlSTTJ5dndORmhjVlBiOTlLTWVud1dBOGgtOEk3V21ycWQxSUpsWmVSUFhqTzJadUwyVkl5V0Zxa3lwcUx4VTJJM2IxV0dudGdldVFZZExxLTBtQjBaSHZYX3B1NU1Zc2Uw0gH8AUFVX3lxTE5FVW4tVmZ1ZkYzU2pRSjZsWU1VN0lHS1N6dU1BZExySkpsQ3lOU3o2R0Jfamd1Z1B4VG1FeFd5aVl1MkExNGpSVUFqeENXMzFzeEwwZl9wSVdlVVhoaXFZamItUlI0R0xhN18tX2VLbV9NWndhV3hfSFJhdlJoQ0I0XzRYOVNGOUxrVGFQU1dPX0RXemdfTGZxOU5pcEpPa3c0dDhVRlRQMUNnZlJBUmZ5QzFXTXJnRXMyMGQ3Y3hTbHBKMXc3TTU2MkkxVEt6Vmk3clFzN1A0cGpIa21jOFp6SGFzV1hFbEs1ZXRjVUlwWUFaenlrOXkyQUhGeA?oc=5) |
+| 2026-09-09 | — | Claim Depot | [Concora Credit $9.38 Million TCPA Class Action Settlement](https://news.google.com/rss/articles/CBMibEFVX3lxTE04RnAtSU9mQmFvaWplcGM4MkM3ZTI1N3RSeDlYWU1RdTRJR3JybFpyb0gtclBqX0RTR1pjelBXWXNHVkpYZC1KeEVRMzVveW9Fd0dDMHdfQkZvNjVxR2RJaTVUOS1mZTktU3NqMg?oc=5) |
+| 2026-09-09 | — | PYMNTS.com | [Surprise Bills Test the Value of Subprime Credit](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRk1ZVWh0cHZEYUJkTlhFdlNUeV9BU2tfaVdLVFFVdWNuR1hJY0p0eUl0d1dfX3hoOUlCNF9ZUmh3bU1paklCdV9IODkwbDNNWHo5Qncyell3ZmZXQXVYWWlscXhYbHpKcWFUQ21HN2NnQnl4RXYyZG0tWW5qdVFiVmxaM2d5OWRXNjZOZVpnZXA1MXd0X3ZLc2ln?oc=5) |
 | 2026-08-29 | — | Law360 | [Concora Credit Flouted FCRA When Hiring, Applicant Says](https://news.google.com/rss/articles/CBMickFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDd9IBckFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDdw?oc=5) |
 | 2026-08-29 | — | Law360 | [Concora Credit Flouted FCRA When Hiring, Applicant Says](https://news.google.com/rss/articles/CBMitgFBVV95cUxNckFiVTVFdlJDSG9MUEZBZVpwMnY1LXNhSFFsN3lhdWRseU1xZjg1bzBtMFRDT2N0ZzRmQm1CdFVqb1YyZFlKUlp4UzBaczNZUktoSEZJVVVlZDVKN0xZSHZaT01BMVgxUHFBSFFwV0J2RlBpeG5yS0R3QWc3X3B3X2RQM2dVQUdtRXl4WkN6QW1iVHN4T3V4ZTBKd19QS3hCcXBLcHZLYTVBeTNrMXJSOWYwMzFYZ9IBckFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDdw?oc=5) |
 | 2026-08-03 | — | Yahoo Finance | [Chris Peterson joins Concora Credit as Chief Risk Officer](https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFdWX1NkNWlWU2l6U1hYUDdXOENxVU5qWEFWM1lBUkptNjMwLWcwRm1CRngzdUZLLWtlSG9PVnNDcHJ3ZTVMYmNSYTJYWjZpZm9BRnl5U3h4RThFLW9MdUZUcjFmQWtzOVB6Z2ktYkNVeWdqajI5bHdvM2JjT3hZdUx6TlhOS2JobUNTOUo5Z05pUkk4V1NaZzVHS3UxeDlJakE?oc=5) |

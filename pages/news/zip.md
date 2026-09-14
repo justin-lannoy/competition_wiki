@@ -3,13 +3,13 @@ title: Zip — Recent Coverage
 type: news
 competitor: [[zip]]
 count: 129
-created: 2026-09-07
-updated: 2026-09-07
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # Zip — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[zip]]
+_Updated: September 14, 2026_  ·  News & PR for [[zip]]
 
 ## Coverage
 
@@ -18,8 +18,8 @@ _Updated: September 7, 2026_  ·  News & PR for [[zip]]
 | 2026-09-06 | — | Moomoo | [$Zip Co Ltd (ZIP.AU)$](https://news.google.com/rss/articles/CBMie0FVX3lxTE1xbkQxeFNiNjhxcFBRTERPLXBVaTZ0Qm52RTczMXZkdzFiSzJFbG1NbzRUUUpDZUhNTFZKRl9qMkY2c2hZRnRUN3EwZVFtOU9PS1VDOUNwanhYc2dxWGVIbXVEUC11dk5qTTE2UnFDdzREcmlKY0hTOWhBQQ?oc=5) |
 | 2026-08-31 | — | Moomoo | [$Zip Co Ltd (ZIP.AU)$ keep buying for a huge return](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOdTZIUlVLbXp0ZXJDYmtBQ1dMLVY2bVczVkdmSllPeDRCY2tQcUo5VVZMbEhqd0ZIRVE4REhQRjVXM2ppYVFHMTBBZ3p5cGlVV1RRWk9oRVZjdG9SWkJ5cjc1bEhYRXBOOENWWGMxZHF1Q3FxUmVaOXVXN1VXa1RzakdyTlZ1bDRHSldtMExET1F0aTVFV3VTZVB1TTZuT1JxQ3JpWnU0SU53LWc0bllHNXUwY29UWEpRVnRvNllmUHlhV1NqRG5CcS1RaWVRRVZrNGYycVExTkg0UF83MXpqQzBoa3R0aE5JMUxVd2NPVWliTkRxWUROTnNEMkZtV1JOYnNJX2lWcTZhWlNnenVuMTM3OGhkMjJWVmhwa2RmamlrYkZYVWhqLWxQZmMzU3lkM0lvdkY3dHJpSVhwNHB6dEUxcEZDMHRIYko4UFRnZE8tZVQ4eXgwdGIxMzZSRk54UGJremtraXVWVE0?oc=5) |
 | 2026-08-28 | — | FOREX.com | [Zip Co Ltd](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkbkZQdW5UN1k4WjA1LXZyUVZCWjR5Si1UeW1qNy03Q0ZyZjlBcGF3RzNDaUpfMlVjM19nX3FOV1dIeFZPd2xCMFlqbV9vR1h3bGJXVXF3alp1VXVWV0RKUTFNTQ?oc=5) |
-| 2026-08-25 | — | TradingView | [Zip Co Limited Announces New US Funding Facility](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGloc0hRRzZjc1JUUWw5WGNHVGhUaHcxM25WYV95OHRCbVRCdzBzZ0ZnNnFpbFJaa3ZWWGk3aHE3ZmVLX2ZBXzdsS2drMGhUVlQ3bGVEZkdpN0d4Q20tZWRTSUZtS1VVa1IwMy1OemNJZnpvWTQ1NE9OOHRTUWdDc05KRGQzVXFSa0tWZmRmb3RNaG5lVENoeGhCdzMxOFdvSEpzdjlGclVmNmNWajFXZG10RVFEX1Etdmc?oc=5) |
 | 2026-08-25 | — | Market Index | [ZIP:ASX Announcement - New US Funding Facility - 25 Aug 2026](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdThKYlk0RzVPaUpqVnR6RDZXVGt5Q2xVTkQ1R2R1RDVKeFh4aWVRT2lneHNpdXVONVNrcnJrU0pBSjN6OHVTak5GOTNWOWR5ZkdXSXZ3Qm1fTnNqbXBMbDQwM1NTTk1td09uQ1FnY3V6TEM3SzBtaF9mbndRRWVMUG11RGJMODR4anZBTmF4RQ?oc=5) |
+| 2026-08-24 | — | TradingView | [Zip Co Limited Announces New US Funding Facility](https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGloc0hRRzZjc1JUUWw5WGNHVGhUaHcxM25WYV95OHRCbVRCdzBzZ0ZnNnFpbFJaa3ZWWGk3aHE3ZmVLX2ZBXzdsS2drMGhUVlQ3bGVEZkdpN0d4Q20tZWRTSUZtS1VVa1IwMy1OemNJZnpvWTQ1NE9OOHRTUWdDc05KRGQzVXFSa0tWZmRmb3RNaG5lVENoeGhCdzMxOFdvSEpzdjlGclVmNmNWajFXZG10RVFEX1Etdmc?oc=5) |
 | 2026-08-24 | — | marketscreener.com | [Zip Co Establishes $300 Million US Funding Facility](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdThyNmEwd1dabHc5U0JCWkhDSXlWcGppQ0k1M1RUTmZPdENTTk9pMFNnLWNVajl2Z25pUlNHeWs1M3NmNkR1NzNwMDlUaktwd3dGUkMtRmFnTlBITU52UXg4TG56Q0ZpNjU1NzBDVGtIa0EwZjdrVE5LZEtkSENMTUdxbHh5aHROWnlVX05NTVRkaGFILXpVVjd5ajlocDNmLXV0S0d3?oc=5) |
 | 2026-08-23 | — | Moomoo | [$Zip Co Ltd (ZIP.AU)$ This is a golden opportunity, so don’t let it slip away. Act early and stay ahead of the investors.](https://news.google.com/rss/articles/CBMiqgNBVV95cUxQRzRvalV3a0hzTFpUOVNYcjdaMWdfcjlVRl9YZEd1dEhwOUlHWWo0OXVPazVpZk4wckxDN0VsMkRoZEJDWFRBeEhGRnB0azFaZ2hCZzN4dldvRjZXQU4yb204aHQ0eDRabV8wYl9Hb2hXcUFtR0xJaVF5cUxGSTVxRzdfRnMzN3BRSXNMcVBudS0xMklJUFQ5UjhKaW1KcHI4M04zLUdYWGZUaWZoaDVOcExRcnd2Ukw5UWZtYTBaTkZGcmQxd2Y1dHBwNXhaZ2NucXNWWFM5NGloOWhIaTU3YXRUVVFLekdQTjljWVdfYWlIenhJNlB0MUwtN0Jkbm9RM1g2cWhBUGYzMHlKSUxTRXVyRVpQb0xhWVh5cWI5MjRQMGx2UEdqdU8xa0U0SDFFV1Jxdld4MUZUaVBCdFNnMl9mMVhXMnRDZ2ZPZHVBd1A0TWRKNUF4S0FJLUR2a0FnLWNxWDI5dFRDVlNQUlhCUENackgzNEQ1UVhQaGxXYUtuQW55VkdMMkV3RmhTa1pHZTB3R09pMUdTUGFtcDFDc0hCeDBwcVMyVlE?oc=5) |
 | 2026-08-21 | — | Investing.com South Africa | [Why is Zip Co stock sliding today? By Investing.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUF6Y1BLQllsaFpkZVlHYmt4b21yYnlfSk9DOG9vRmVOX3pFUkRaczZWRk1BNTVXZ2w2aUl2R0xweFR2Wk5iS0M1OHotSHVfcDZiQXB6cUtWQ1h6UTJ4cWNKQ1Y2Rlk1VC1oWUcwbE5ZaUxBT0tqMTI4aDlJVlVlYUxaWkd2eTlwVWgtSGlUdlh2YTk4cEJCbVZB?oc=5) |
@@ -44,7 +44,7 @@ _Updated: September 7, 2026_  ·  News & PR for [[zip]]
 | 2026-08-15 | — | Market Index | [ZIP:ASX Announcement - Change of Company Secretary - 14 Aug 2026](https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0tmdDE1dW9CYWs1YmNFNHk4QzNNUGFZaE4xYnBjT1lIQXFvQ0s5RUloX3dNRkJMdnNxb205QTVqaElqd0xlTXlYUHZaWlRjSW9KUGRMWFRGdXdjZ0F6ZlFxZWQ3OU5Gc2M2Zkw4RUpzdW0yQVZOVGZEcGhtb0FoOGtyOGZ1SDZwNkNvS3ZyMHNRb0Rl?oc=5) |
 | 2026-08-05 | — | International Business Times Australia | [Zip Co Shares Surge Nearly 9% as Buy Now Pay Later Lender Extends Rally on US Growth and Buyback Push](https://news.google.com/rss/articles/CBMidkFVX3lxTFBWbGVLcVFGNGJQLXVhaVoycml2Y1BKUWJFZVAwN0tqa1BCRzBHRnNiUHl2U2dkSWRRdm13aW5XVkhzUVVReG9pX0dEVklGbnJHWUF4SGdTT3JJdXNqb1RURmlJVmRYd0ladjAyU1hIOFFkWEp0M0E?oc=5) |
 | 2026-07-30 | — | Sahm | [Buy Now Pay Later Stocks Worth Watching After Apple’s Supply Chain Warning](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMF9xZjY0bVJrQ1VLRWdydF9UeWNLUFVCYmtIUWN5bVk3bkplZ1JXblRwZjJUbl9fVTdQWkR1MXpKdVk2V0FJUmlSczNkLTEzQjZvV2o1QkhudTFLT0cwTnNDVVBya21QR0dUaU5PcmlIN0dnLUEwOWwtSklyV2YxWnl2aEljTkpJNnFVdDk4MVJ3Tk0yUU1PeTBVVndSY2pQTDc2eHJ1RTFvM2I4MURVdHZGS2dRRHhVdDdrRG5qdnBnVTg?oc=5) |
-| 2026-07-28 | — | Revelio Labs | [Zip Number of Employees 2026 \| Employee Count & Headcount Data](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNmVDZXZpZmpwWV9BZmNWdXhNVlJ1YXA3czVYZFlPOWFxTGJCSlljX2g1V19mTlhvVDZLTzZlbGk4Q0g1SGJKNVRYdVhtd1U3bllWREdrTlFsT0pGei1vOQ?oc=5) |
+| 2026-07-28 | — | reveliolabs.com | [Zip Number of Employees 2026 \| Employee Count & Headcount Data](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNmVDZXZpZmpwWV9BZmNWdXhNVlJ1YXA3czVYZFlPOWFxTGJCSlljX2g1V19mTlhvVDZLTzZlbGk4Q0g1SGJKNVRYdVhtd1U3bllWREdrTlFsT0pGei1vOQ?oc=5) |
 | 2026-07-28 | — | The Motley Fool Australia | [Should I buy Zip shares before the end of July?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGZEd1Z4RXdxRHVLcU01UUFaUkRZNjJJWmpmNElieVdmNWJlZUFaMlVqdmNLanE3aUxuMFBpRm5wRmJaTDFLZkRYclRMVUpIa1kyemszZFJlNmdJUDM0eTZFa0d1aEE1LWdGZm1lMEozcUdtbFJVSm4wX1l0c1N0RlVfa3BvcDJvVWc?oc=5) |
 | 2026-07-24 | — | The Motley Fool Australia | [Zip shares are going wild. What investors need to know](https://news.google.com/rss/articles/CBMikwFBVV95cUxPamNFMVFWVHo3a1daU3Y4aEtaYmp5RlIzVVh4NGVDSjlWZTk5X3BIeWRTd3E4T0pnNXJTUjBKYWJZbFZmTV9kNG5fUE5DUzM3S2lKMVhGYlp2OHZ6eHhib2xNaWdpVDVPejM4UDFpR2ZicC1HN2t4ekwxQldFNElMdVg1LXpwSFJpNktMeXhOZ0lZN0k?oc=5) |
 | 2026-07-21 | — | 01net | [Zip Research Reveals Two-Thirds of US Shoppers Turn to AI Before Making Purchase Decisions](https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZtZnpjdkNhRmlZTXhUYWN5a3ZwLXVjYTFkWTEtQU45aENZWU5mLVF2NWNqWS1nM0tRV09DamxwMmJsTVdBdXhxekFnZlhuZDJsNW5wREIwWkprS2xUQU5hTHFSd0ZmWmNCMnkxa0pOYjJPSld1TUdmWTh0cUptZGNxSTMyVUxtSXcwSlgyMWdZYzlzU3Ata0s0LVZzRGtjVndxUkxQLU5UMWlkUDYtUmdn?oc=5) |

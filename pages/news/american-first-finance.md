@@ -3,20 +3,20 @@ title: American First Finance (AFF) — Recent Coverage
 type: news
 competitor: [[american-first-finance]]
 count: 136
-created: 2026-09-07
-updated: 2026-09-07
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # American First Finance (AFF) — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[american-first-finance]]
+_Updated: September 14, 2026_  ·  News & PR for [[american-first-finance]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
 | 2026-09-04 | — | Benzinga | [Director At FirstCash Holdings Sells $829K Of Stock](https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkx1WjNvU25UbWYtYnZHb1lmZ1pyUlV4aTZ4SjRNellTdm82Nk5peEtkeEl2a0xFX1JsbGVSdUw1XzdxRDE0S0VKWGNmMWR4TjgwbmVaa1R5VHBGaHlWVEMwRnRGbU5TNXBqWXJRNV9pRHFXWmFHeVRoSy1pN0RMNmZ5akk4bmFxZ3ZyRnd2RUw2ZTA?oc=5) |
-| 2026-09-02 | — | Benzinga | [Here’s How Much You Would Have Made Owning FirstCash Holdings Stock In The Last 10 Years](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmY2c0hHOHFvZU9lNTYtRnhRNFdsT1lrVk1teE43cHMwQXo3SlVEZTdNSjU3MDdBaExkV01vVlFhQkt2MVFUSDZTQUNEQmtJa2N5MjYwMkY1OVpldHJid2UwbkdiRnBNM0FfWUppT1ZkQTZRUlRtb0ZiQjlONnhIbmJ3S1dKN0dGT3htNklobjBraHppbUpId3Z0REtuT3RrV1RSRWpabHR3dHRvQTYyeGY5ZVdBNlJBVU9TaDVtVUQyWWZq?oc=5) |
+| 2026-09-02 | — | benzinga.com | [Here’s How Much You Would Have Made Owning FirstCash Holdings Stock In The Last 10 Years](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmY2c0hHOHFvZU9lNTYtRnhRNFdsT1lrVk1teE43cHMwQXo3SlVEZTdNSjU3MDdBaExkV01vVlFhQkt2MVFUSDZTQUNEQmtJa2N5MjYwMkY1OVpldHJid2UwbkdiRnBNM0FfWUppT1ZkQTZRUlRtb0ZiQjlONnhIbmJ3S1dKN0dGT3htNklobjBraHppbUpId3Z0REtuT3RrV1RSRWpabHR3dHRvQTYyeGY5ZVdBNlJBVU9TaDVtVUQyWWZq?oc=5) |
 | 2026-08-31 | — | marketscreener.com | [FirstCash Holdings, Inc. Upsizes And Extends Term Of Unsecured Bank Credit Facility; Size Of Committed Facility Increased From $700 Million To $1.1 Billion; Maturity Date Extended To August 2031](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUp3dlU3VGFFOENvOW1vRVlLYkRWSWlrdUNkZzlJX2ZVczQ0OGYxVThKUW0wZzMxYXdWQWFVWUhWSEk5d1pCd29PWVBuUHMxUEZaTWRURkVvampkNlRiUGRRWDlHNU1tcHVyVzBBWGRYRHZGbXdyR0p6ODBmNHpacHc3dk9vcHJKZW9NQmZRUkd0bTk4OWNGWEhMN3U1cEE3LTlnSVhRVXpVb0Q0dHNQdkdfVWxiV3lrNWdYZHNiSWpFVUlKMFltdEYyaHdTbXhURS1sMWZ2dG1xb0pjbWpnN3ZpbmQ?oc=5) |
 | 2026-08-28 | — | Syfe | [FirstCash Holdings, Inc. (FCFS) Stock Price & News](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkUWZhMnpjMHZlaUpWWW85bEF2ZXhmSl9Dd0d4ZEVpSkg2cVZlZk9UU0dCZlB3TXpwLW9hQ0REV2s1ek9nWFg1eXZMVQ?oc=5) |
 | 2026-08-26 | — | qz.com | [FirstCash Holdings, Inc. (FCFS) Hits Fresh High: Is There Still Room to Run?](https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0syTHctdU5vUTJwSEJETDRIdXYwVE9NWkdQWVhOZDBwR0NVQm1sa1djYTNtakplRUsyVkV6SkVPMFBWRGpyblJFU0JmOXozWmRiNVZpNi1vVUxRQWR5TlZVU3N3dngtUFdiUlJJVmxaX0EtcEUza2dWU3FCTTBiQ1JIUVZkZDhyQXdiTHlR?oc=5) |

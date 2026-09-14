@@ -2,19 +2,21 @@
 title: Progressive Leasing — Recent Coverage
 type: news
 competitor: [[progressive-leasing]]
-count: 138
-created: 2026-09-07
-updated: 2026-09-07
+count: 140
+created: 2026-09-14
+updated: 2026-09-14
 ---
 
 # Progressive Leasing — Recent Coverage
 
-_Updated: September 7, 2026_  ·  News & PR for [[progressive-leasing]]
+_Updated: September 14, 2026_  ·  News & PR for [[progressive-leasing]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-10 | — | Yahoo Finance UK | [Breach Inlet Capital Issues Presentation Highlighting that PROG Holdings is a Misunderstood Transformation with Potential Catalysts](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGtQVGVDT3VDa3RLUkhkbnlBTXlldEptazdPRzJVMmJFbEhoNjJiaUpISzNNYUpSNVFNb1pDcHlYZ0Y5aFVBSzkyYndIR3E3Zmp1akthUnVBbEtIUnRJU1ltWnQ4dzhQUWQwaDJNVGp1V1llak1vcmpXSWRLWlNCeWtvYnl5aGtnLW5BbVNXdmY5dms?oc=5) |
+| 2026-08-28 | — | Value Research | [PROG Holdings Inc. (PRG) Key Financial Ratios – Valuation, Profitability & More](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0xsb0FPT2hxRzFJd1FnbXg3TEpLN0trUHZlRnJBMEZPcU03MEkySTRQc0g1c0ZJdV9VWUZMU0NoeU1CUDltNXBrVE40N3FId1BkdDBfVVdHRjB2cXJCY1ZpSlA2Y2tJN3dMTWJVT2lfSGloNzFsQkFDQUxBb0xWaU85RmxDVzlYeS1F?oc=5) |
 | 2026-08-23 | — | scanx.trade | [PROG Holdings Q2 Results: Adj. EPS $1.19 beats estimate](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDdyUy02dUp0dS1HRGFoS3lvMmxLbmVmb2p4VWNCZ1pFbUtVNXFJNThqS1hBTjZJOVoxdC1za3RpOV9nUDZCMktQNlIxUUR0S0tWcmY2U3FaVUdoUFRKdVBVZUZlSjZqXzhseVNueWw1ekk1YTBBU3lUQ1dWMUY5UFBYUi1NaXZzRU03a2xFN0EwTFdDOXdVbllTUEJQQjJtR3J4aFE2Z0ZxeHE3REE?oc=5) |
 | 2026-08-13 | — | Seeking Alpha | [PROG Holdings: Growth Is Outpacing Its Valuation (NYSE:PRG)](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDVqVTVZX0hZdWtmUDJ5YmlrZl9adWp4Q3ItbkRuSV9KVzBvczlIVFluSHpISEF2U0o3UmszLUt3WW5HTWtKbWVkMjUyOUM4N0dmajBtSlNCcG5vVUc3UDFWSFAzXzNzNGxUMGRoNExBWkdpTG9uSHpUaU1COEpMWXJxV3JYZ1JCcFNPdWFQUU5EQQ?oc=5) |
 | 2026-08-13 | — | Pluang | [PROG Holdings reports 22.3% revenue growth and shifts toward digital products, reducing risk from large-ticket items.](https://news.google.com/rss/articles/CBMihwFBVV95cUxNWm8wWDI5dWZVZ090VS15eW9aV1RhNnZXLWlteFF2Tm9lMUd5MndTWjdDbGlZQlhVb0txWHdGekJGbHZsaktMdTFjT21uVW9pZF9lMVVNeXd1amNwMVZRNnE3YldsS2VBYkQ3SlVxSDFGQ0h1UTNOSmRkQ3F3UDdUTmtiZGFNWXM?oc=5) |
@@ -60,7 +62,7 @@ _Updated: September 7, 2026_  ·  News & PR for [[progressive-leasing]]
 | 2026-07-29 | — | Yahoo Finance | [PROG Holdings, Inc. Q2 2026 Earnings Call Summary](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdmlBcXdmRV8yWWMzNDdmU2tnWEtaUWRPakNOTUhkblB5STNrakI5SGJ6WENTZmFQM19jcW9LUkNqMS1PLTNtNHlMam9WUFJDaDRjSFZBeTA5N3REaTJkdU1iSTBDaHFwY3ZRSkhZVW0wbkI5YllyS1ZZRnlkWkM5akVxb3RLYXB0LWpaVnFwZ0FxamR5?oc=5) |
 | 2026-07-29 | — | Yahoo | [PROG Holdings (PRG) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates](https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHVrTHl5THhXbVlOZWJVaVBfQWduWHZBUHdfV3FxM0VGd0dlU2dQMjBFOXNzREZMVEprNHdWdWhXMEF6dGRSMjU0Y09zRC02X1FoMS1BVzJ3QWdCRzVTM2NtSDdhQUxzT2d3T3l5TnlCOXhoU1hRcndVbXZxQlYwMXJR?oc=5) |
 | 2026-07-29 | — | Investing.com | [PROG Holdings Q2 2026 slides: strong beat, raised outlook, shares fall](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb2d4U3g5Mk9iMVNBU2Zsc3VsZ3NSaEtyd0lGbFluMzdFRWtBMTJKU184ZFBPRmIxMDFyUEdZUkt4SloxcUxBT1NaT1IzbkdZMzBZYlBSU0tLSVdRcjJUZjdNREpQdUY5XzlwUGwybGt4OTBqcWNMWGxsRGRkOG9WbGwtbkwzNzA0NTZmVUFzMmZnVGltMUp1NC1nUmdQNlo0bTlBcDJQdHBLajQtWUtRRmtOQlI4cFh4Y2J5ajUwNzJpUQ?oc=5) |
-| 2026-07-29 | — | 24/7 Wall St. | [PROG Holdings (PRG) Q2 2026 Earnings](https://news.google.com/rss/articles/CBMikwFBVV95cUxOenVOTFB5Zll3VkZtbHVWQ3c5c2J5azIxMFlCTFRnNmRKcE1yejlOQ1g5eS0zNmlMQVluT0xPdUdrSHM1VEpjMl9tTTROemhKYzlpempWc09kWHJ4UjBzMXlQOU4teTZmUDA4SC1pNTkzU0hRNkZRVDJBcU5CRWQxVzNuZ25EbHRPVVRTa2R0SV9mSEk?oc=5) |
+| 2026-07-29 | — | 24/7 Wall St. | [PROG Holdings (PRG) Beats Q2 2026 EPS by 26% and Raises Guidance](https://news.google.com/rss/articles/CBMikwFBVV95cUxOenVOTFB5Zll3VkZtbHVWQ3c5c2J5azIxMFlCTFRnNmRKcE1yejlOQ1g5eS0zNmlMQVluT0xPdUdrSHM1VEpjMl9tTTROemhKYzlpempWc09kWHJ4UjBzMXlQOU4teTZmUDA4SC1pNTkzU0hRNkZRVDJBcU5CRWQxVzNuZ25EbHRPVVRTa2R0SV9mSEk?oc=5) |
 | 2026-07-29 | — | Investing.com | [PROG Holdings earnings beat by $0.24, revenue topped estimates](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDZTdG00UmItQW1Ebm5KUHVfa0YwR3gxWXdqbmhmbDYtZEw0X0dEdE9hWURabHJRREZHQW13U0J4eVZPaUMxa3ZlWmZGUFg5TWRMcm9Tc1R3a19LdmszSXFRWnUxOXFWQWl1WUR6RWZHWFdkeW12a1pIQk5XUnpoTlJZNDBGOTN0MzBDX00wQmtabGNfd1hHblZhN3YxMFA1dmF1UFFBT3ZrYkU?oc=5) |
 | 2026-07-29 | — | TradingView | [PROG (NYSE:PRG) Posts Better-Than-Expected Sales In Q2 CY2026](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3NmUnpvQldwYURocEtzTW1qS09weDhZUXJJeHMtVDNqNk9rU29qTjBIRXlSTEh3dUh1YWpLalo1bko1RmlsWmJtWTlDam1FeEg3Z0NTbktZVWVKeGZNUjk2cE9STTdYWHhXNnA4TFRPbjdhTTVXanJNd2tiNjhjRV9fSk14cTE2OWtWeG4xdG4tOGwzRXJ0b3NiLU1peGNZbkhPMTRaNTNxNVVpM3hsSHIyQmpoSTdNTGRKOA?oc=5) |
 | 2026-07-29 | — | investor.progholdings.com · PR | [PROG Holdings Reports Second Quarter 2026 Results](https://investor.progholdings.com/news-releases/news-release-details/prog-holdings-reports-second-quarter-2026-results) |
