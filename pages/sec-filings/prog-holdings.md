@@ -5,13 +5,13 @@ competitor: [[progressive-leasing]]
 parent: PROG Holdings
 ticker: PRG
 count: 32
-created: 2026-09-14
-updated: 2026-09-14
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # PROG Holdings — SEC Filings
 
-_Updated: September 14, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
+_Updated: September 21, 2026_  ·  Filer for [[progressive-leasing]] (PRG)
 
 ## Financial trends
 

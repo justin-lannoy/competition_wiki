@@ -2,19 +2,23 @@
 title: Katapult — Recent Coverage
 type: news
 competitor: [[katapult]]
-count: 137
-created: 2026-09-14
-updated: 2026-09-14
+count: 142
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # Katapult — Recent Coverage
 
-_Updated: September 14, 2026_  ·  News & PR for [[katapult]]
+_Updated: September 21, 2026_  ·  News & PR for [[katapult]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-20 | — | AD HOC NEWS | [Katapult Holdings stock holds steady as investors digest recent results](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlZGWGVPcFdrTFQ0eEJMNjFMbi03dFZacGRveXRYYzc2WDJfdGVEMFRKQjRTSmk0a2U3STVramUtLUp1Unl0TlJyenZRRURUZTZieFFnVEtTN1UzOTkxUzA4bEwyWUZBRWRvc2RIMGExbFZzd19zRUJoWXNzWXhUNkFUaTRZNmlvYjNRQzRHMlJUM3hMSFdHM0xrLWFmdGdFNjhQSTh5QTBzd2ZnR0FQOWpOeUQ1U2pKbDlDa2ZoQUpqMWZ2cHdTMHd3?oc=5) |
+| 2026-09-15 | — | marketscreener.com | [Katapult Files to Register 74 Million Shares for Resale](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOW9ZUFR0OXp2dW9SNzlKSUxJRkN6MTJpUkc5VVVjRWt6S0d5UnRrS1k2MXRQekx6R3lRbnlIM1MtNEtiQzBtSWF4Ml9nT1g1dGdTcUZuR0tWTEw1U2JsMVhGTnljajV6eXc2azRTTVZBNGJtVTRuQnRVSnRINmVZcUhYOGNjQWZra05xOVlkb08teU9jRlkyWTlMNndaamI5dGpRaXYwM0FwWVNh?oc=5) |
+| 2026-09-15 | — | Blooloop | [Katapult \| designing for the invisible](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WNTJ2QUU5VEphclk2cC1aNGRCSzB0cUljcTh2ajduNHVNZ3IzZFhxWU01ZEdVdjNvMzJGRG12UU4yTktJWXNySWFOMmNJd2d0SW1FczVuTjF6QXFNVnc?oc=5) |
+| 2026-09-15 | — | Bitget | [Katapult Files to Register 74 Million Shares for Resale](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aVDBiNDNJTjFKaXZJbXpPWkZRZzRPUTFPVjVhZkx4dnNXY3RXY3pybFZTYzduWUU1N0VtcUwzbFZCeFp1eHJjUE5ycUVLMmlXUE1KZ3NwUTM1ZGZBS1h4MC1fa9IBY0FVX3lxTE1aVDBiNDNJTjFKaXZJbXpPWkZRZzRPUTFPVjVhZkx4dnNXY3RXY3pybFZTYzduWUU1N0VtcUwzbFZCeFp1eHJjUE5ycUVLMmlXUE1KZ3NwUTM1ZGZBS1h4MC1faw?oc=5) |
 | 2026-08-28 | — | TradingView | [Katapult Extends Revolving Credit Facility Draw Period to Sep. 30, 2026 With Huntington](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVE2Wm8zbjhoRWhXb2NveHc5b2pZbDVIc05hRWE3dDY4Zm8wWDFybTB2VWk5bU5CVHM0VllWSGlMX1RRa2FzSXdnZW9RS2pFTVZRU2JvYnBTT2tQeXRaclktZWpYdzhLMUE0UUNfQU1fRm9LcjFBT0ltV1FrYUk0bGhudEFHX2dWMXQ5ZDBhVUpuZ01uVmM0M2JhMmZ2TnlMMUwxZzAzQUkwUWRNeF9PNWVIQWs1dDVrSkVvZ1hqdG1wZFpwdl9lT2Z5MjBHejg4YVdPamlYV3BYREJIUVoxMQ?oc=5) |
 | 2026-08-23 | — | vinanet.vn | [Katapult (KPLT) Earnings Snapshot: EPS Lands Above Forecast in the Current Update; Post-Earnings: The Stock Ends Down 1.55% at the Close - EBITDA Estimate Trend](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQemVyd2pGMzJpajBoU0tvaEpGVDNrN0hKcUxEVmt6MUV0RHJuem05MjJFYmJ5ZWd1YmZfNFBHM2d5RzRmbmlQSGU5OC1wR1VZWG1sNGhkbFdhQjUxdW9SVUtzZmhHdjNGYnFwYVFhd2xtOVBiaWxiMEtXZ3NZNGE3SFFqQnBFS2ZmZUhpUE9hLXJQWnN3a2VXMEpLNG5VcWJRVWxlUjAzZmhIZF9iaHY5NHkzSjZWaFVpRUx0ci1zLVZFQkdEb0tuVDB6TlFsX2EtWEMwWGhReWhQamhGbHVzd19nOTFNTzdJY2dFRUI1YmZMNXZKY3NuVVpZalpUOG8?oc=5) |
 | 2026-08-23 | — | Securities.io | [Katapult Holdings, Inc. (KPLT) Stock Price, Chart, News & Analysis](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kTzZyT0YtME0tMDJ0XzF6VF9ibFlla2tFc09RYXVJdGx1ZmtYQWxiVXdKSHowRVVfSk9BZG55X3lIWTFYSkFWRlZKWUJPTDg?oc=5) |
@@ -24,6 +28,7 @@ _Updated: September 14, 2026_  ·  News & PR for [[katapult]]
 | 2026-08-17 | — | dars.gov.et | [Katapult Holdings (KPLT) Slides 7% as Key Support at $6.50 Comes Into Focus - Ease of Movement](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVVWd3B5UUVsQTEwRmdqUXp2YjJINFc4VmpGSDdzOEJEUkR0em5fcFd3Q1JsdUUyMndQcGxNcmk5ajZCQ0xvaU1PcTN6SktEZk5YaFcxekxVUzk0UGxWWVhIRUZ5aFpKZVVOZjFYb1NfN0NEWUN0aGRadlFLRW1Gd28tQlBKaXQ5c0RJUHRMSGlvNE1QeHA0dTNQWGVCZl9YSXF5LUhDMVlSVTJLcFBHd0NXSmM?oc=5) |
 | 2026-08-17 | — | vinanet.vn | [Katapult Holdings (KPLT) Slides 7% as Key Support at $6.50 Comes Into Focus - Elliott Wave Count](https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1Jidzk5Q3VoYlFqakkta0k5enRzTW1nV2xZN0pWM2FfdkpFV0FOUGJXYU95cmVSSU5pSTJlRmlCR0xGUFBYWEFvYzJSNE81RXM0Nmg4a0hkeXF6OUhteHF6WG9aN3FnMjFUbGhHS25JdXZxYmNqdm1teXpQX2NfOFd0ellValRhX2ZUN240aUVUVFNYVXdIQ3hTcVQ5U3NaZ3pwbFJMVFJhd2VXbXlhdVB3?oc=5) |
 | 2026-08-17 | — | dars.gov.et | [Katapult Holdings (KPLT) Slides 7% as Key Support at $6.50 Comes Into Focus - Outside Reversal](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTNOSVRqbjV3RC15YnhzSHJaRDNyZ3hKSjBkT0hsZk8xRkJiSkFUUmh0WkRDSVdwcE4xRU5VaG5iR2VYcU5SRk1fMXZOM2dKT3l0QUNfcDVIWkwyMndGM01mNlpZMGxZZ2VVejc5X1RGRlM2TjQ0bVVCdnBsMWJPSUdOcE5uUjhQMUtUOU03VVU4MHRCSmtqOUQ2d2FCRzBRNU1ZUEN3ZkZBYjI2MEFsUWQ5Ykt0dw?oc=5) |
+| 2026-08-17 | — | careplusvn.com | [Katapult Holdings (KPLT) Slides 7% as Key Support at $6.50 Comes Into Focus - Statistical Arbitrage](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaWFzSmgwM1NVUHJpWEZwR2lJcUFYaUVYdFRabTh0Q2dMR3ZVQ1ZuQjg1X0dudF9LQ2tROUJEX0x6MDUwZGw5NWlIS3BNZ0lmQ0MtcGlmMnhqNkhHTXpLMHZYSnhFLWlEdjFRNm5QTFNYRXJfTHJpekdVU1hIblZQUUZaaFkxQXRlZ2w5SHJPZG9yOWNBa0lKWTJka3FPLU9yRWxBS0tvemFDRWdESTF5d2NPQThCWnE2?oc=5) |
 | 2026-08-13 | — | marketscreener.com | [Katapult Holdings, Inc.(NasdaqGM: KPLT) added to NASDAQ Composite Index](https://news.google.com/rss/articles/CBMivAFBVV95cUxORGhkRHhQQ19KVktNZmNMNEpOeUVlcmNVNUJuOGxpWUVoZy1XcmYwcXZmeWhIZHFKZUp6aFphQmphV05xLXFzUW5YVldTUGEySXpXaVM3d1VvdHc2UDNxbW0zbHp6aUZNX1hzaGhTUWxFYlBsNUcxZHVfTVJ3MXg1MXZ5cThWVlRoOXB6RjYzS1hsVlBfcWVnRXhPZmZBMkZrWjh6a0tQQU9aX3JCelN4M0psVjFVU04wSE1UNA?oc=5) |
 | 2026-08-13 | — | dars.gov.et | [Katapult Holdings (KPLT) Drops 5.96% to $7.41 as Traders Eye $7.04 Support - Dynamic Hedging](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWp2OUQzV1k1N1ZxR0FILUdKeVdzbWtGbGNiS0tsTmRxb0x6WGxKdHVuSzRtSmpzcEV5cWJINzhaTi0ta3NGbFMya1poSWppYlVIU05WemtLQWxNdDYtY3dBYWRXcUdwbDExalhxLV9IQUttaHMtTUd2akxxZ2xWdVp4MGJYQ053eVRueG1DMk1fYzA2MjBsM3Z0UjY4UlIwUmFaWnZzR3Z6NGVQczhCcA?oc=5) |
 | 2026-08-13 | — | dars.gov.et | [Katapult Holdings (KPLT) Drops 5.96% to $7.41 as Traders Eye $7.04 Support - ETF Outflow Streak](https://news.google.com/rss/articles/CBMirAFBVV95cUxQLU9PX2FOWEVpR3BGMm50MlI3NXNzNTN6eTBhOHFhVWYxSmpSZW00WVNLR3J2azdsU1I5OUU3RjVKbTFLR19BQzlObHJId2lhVVJBUW5IMzIwaEUwS3gxdVdTbmhaVUNXOXlWQ3dMa2xvXzJoVEJrcWtkc3I1UTljejZHT2dZUGZQc2lndGdkd2RjajFHSk1FX0NTQUNKVTdVb0ZJY1lIN3ViSzRJ?oc=5) |

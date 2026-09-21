@@ -2,19 +2,20 @@
 title: American First Finance (AFF) — Recent Coverage
 type: news
 competitor: [[american-first-finance]]
-count: 136
-created: 2026-09-14
-updated: 2026-09-14
+count: 140
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # American First Finance (AFF) — Recent Coverage
 
-_Updated: September 14, 2026_  ·  News & PR for [[american-first-finance]]
+_Updated: September 21, 2026_  ·  News & PR for [[american-first-finance]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-18 | — | Yahoo Finance | [FirstCash Holdings (FCFS) Stock Looks Priced At A Premium After Its 165% Run](https://news.google.com/rss/articles/CBMiogFBVV95cUxNai1EQWpUZnlNcnNEeEZHbDBKbE1VZnlGeFY1ZDBIbGZRVGRjQVZNTmo3eXRXZTRHRkVMOEtYOUZnTHVaV2RhMXh2dXFZSEhsMFhUUS05TUJxMXhfd0RPSmxWbkd0ZnhINmxWbzkycDNleFRLb1hhMzhQWUU0VXJseHR3NUJ4MXF2eGZIanRDZXFRZGxwemFrNTRIbG1jcmFSZVE?oc=5) |
 | 2026-09-04 | — | Benzinga | [Director At FirstCash Holdings Sells $829K Of Stock](https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkx1WjNvU25UbWYtYnZHb1lmZ1pyUlV4aTZ4SjRNellTdm82Nk5peEtkeEl2a0xFX1JsbGVSdUw1XzdxRDE0S0VKWGNmMWR4TjgwbmVaa1R5VHBGaHlWVEMwRnRGbU5TNXBqWXJRNV9pRHFXWmFHeVRoSy1pN0RMNmZ5akk4bmFxZ3ZyRnd2RUw2ZTA?oc=5) |
 | 2026-09-02 | — | benzinga.com | [Here’s How Much You Would Have Made Owning FirstCash Holdings Stock In The Last 10 Years](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmY2c0hHOHFvZU9lNTYtRnhRNFdsT1lrVk1teE43cHMwQXo3SlVEZTdNSjU3MDdBaExkV01vVlFhQkt2MVFUSDZTQUNEQmtJa2N5MjYwMkY1OVpldHJid2UwbkdiRnBNM0FfWUppT1ZkQTZRUlRtb0ZiQjlONnhIbmJ3S1dKN0dGT3htNklobjBraHppbUpId3Z0REtuT3RrV1RSRWpabHR3dHRvQTYyeGY5ZVdBNlJBVU9TaDVtVUQyWWZq?oc=5) |
 | 2026-08-31 | — | marketscreener.com | [FirstCash Holdings, Inc. Upsizes And Extends Term Of Unsecured Bank Credit Facility; Size Of Committed Facility Increased From $700 Million To $1.1 Billion; Maturity Date Extended To August 2031](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUp3dlU3VGFFOENvOW1vRVlLYkRWSWlrdUNkZzlJX2ZVczQ0OGYxVThKUW0wZzMxYXdWQWFVWUhWSEk5d1pCd29PWVBuUHMxUEZaTWRURkVvampkNlRiUGRRWDlHNU1tcHVyVzBBWGRYRHZGbXdyR0p6ODBmNHpacHc3dk9vcHJKZW9NQmZRUkd0bTk4OWNGWEhMN3U1cEE3LTlnSVhRVXpVb0Q0dHNQdkdfVWxiV3lrNWdYZHNiSWpFVUlKMFltdEYyaHdTbXhURS1sMWZ2dG1xb0pjbWpnN3ZpbmQ?oc=5) |
@@ -36,8 +37,11 @@ _Updated: September 14, 2026_  ·  News & PR for [[american-first-finance]]
 | 2026-08-14 | — | TradingView | [REG - FirstCash Holdings H&T Group PLC - Confirmation of Post-offer Intentions](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTXBUM0NKV2FIZUg3eE5PV2YzeEU2SmI2dHRCSTE4YmRNaDRwcEFfbFdFQkVNMndTSTNaUXVhblF1WGxfaUNyQlczWlpIMFBWV0hZQWNrT2c1bFlVc2ZtQ0k4RDFXMlB2RjdMYkFyTjVHNVJPdVVQRXRrUHVfX1NnOVR4emhHMEF3SVRFbjl6N2RqQXdkaXY4aGNlMFhRYnpnbFAzaVZMVFo0ek9SaWRFcnhhZkd5WWx5UnVPd3VETEJWSWxYUjJPWDRfXzJ2cmJKZE14OU82ZWZKSlYybUNjQmltTG0?oc=5) |
 | 2026-08-14 | — | dars.gov.et | [FirstCash Holdings (FCFS) Edges Down 1.47% to $210.82 as Consumer Finance Stock Holds Above Support - Cup and Handle](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUFFSTW9kYnlWc3NIR2w2YVRlT0x2OUl6M2VMaExXR2RxRXhxM24zbU85cmJweFdMSGE4V0k1Uk1Ed0NYQUNXbzY0Q0gtdWFRMEZfdU15TmRBdmFoTE52RlhLT0ZXVU4wYXFYM0RjZkFUT0NlQ2xpSGtRbHZxcWdGU2lyWWpqcC1SdkdNajQ3RGlhM3FRUXZBcnowc3QyQURaWEg0Rm5HZTc0eU5YSjFNcDQ4dThtMko1WjFrS0Q5WTQ3ZmRhenZkR3o5b1FxSF81?oc=5) |
 | 2026-08-14 | — | vinanet.vn | [FirstCash Holdings (FCFS) Edges Down 1.47% to $210.82 as Consumer Finance Stock Holds Above Support - Insider Selling Alerts](https://news.google.com/rss/articles/CBMizwFBVV95cUxOaG81SGRBamxhSGRFc09sWThVNnJwZXZkVjRoSnc1SENGRDZhSG5uY0NWcEdnOC1LV0x1WlJEcE03U1pnQl9tNnhDRzNjMkNjSTEzQWRZa3VyWDYtWmFaU0Fpc1pmMGQ3YzEwRE9BYWFjSzIyWXpVZ1NlRlFwb0Y1enJkZ2dXeWhvc3Jqdjh1YjlyUzRVU1FlMVB4Vk02a29WT2dCS0tKOVQwY1RHSHdJcmsxLWVuamp4RnRYNkxuQnJfWS1GOEVVSGNlZEJwUHc?oc=5) |
+| 2026-08-14 | — | careplusvn.com | [FirstCash Holdings (FCFS) Climbs 1.26% to $213.06, Trading Between Key Support and Resistance - AI Trade Signals](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcEsyWk5sZ05BUFpJajhfa1VoZzJuTjg3WnQtZE1RX0tieXl6djVWSkwwMlJjblFJUUwzOTVNR3FtLU1JV1RCZTJsQU9nZngtTFpQSkxWSTBzTENrSnZaRFk4RzNiMDF5LXUycVYwOFhzdmtEb2Y4R1JQUjFTNURuQ3gwT3l4SWdsQVdWeVdSd1otd2gybFJJcjV1aUxVeUdtaDVsTlotbjdDbGZLRVgtakJMeFRPRFVkakV5Rm1sWHZldVZDWEtvb0VDSGc?oc=5) |
+| 2026-08-14 | — | dars.gov.et | [FirstCash Holdings (FCFS) Climbs 1.26% to $213.06, Trading Between Key Support and Resistance - MAMA Signal](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkNjMjBOTG1oN0VUOTJuMjRkcHJnNjJUY1M2NWVmLTd3bjMwNnVaMmtVRC1fQTRWbURPTHlzN1RqTS11Z2VIc184XzZ4YW1fQmN3ZUJGbkdGRnZiM3dTcWx0Q2pVWG5IRDd3OVV3U0JRQkdxc2dtQkxoTEpEU0tZT2l0OXpqbUVtTlBocnB4RXo1WE84bU14cC1iMF9pSl9LTzRsQzloZ2dENy1TMWdhdTgyMFp1TlA2bmxjT2xQV0hGbGVncm9POA?oc=5) |
 | 2026-08-13 | — | dars.gov.et | [FirstCash Holdings (FCFS) Edges Down 1.47% to $210.82 as Consumer Finance Stock Holds Above Support - Value Factor](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEJyUk12TTd2M0hEcGVQYlJFVm1iRVhZbjIycE9zV3E5VEdxRHBMQWQ5V0pWRWMtM2g0S1lnTmg0R19ydWhJNzF0YmdlNFNMRXhlcGFRU1NTYmlieEJqNDMzdnVSN2RTN0Q0QjVhcnA5Mmpwbm1WMjdSd2RFWE04dFRoeElXWEFWc2Vpa1p6emExNy1UeGlvZXFpZHhpdlBfZHR4elVqT3g4bjlaYV9PMXFYVC03MUlJU1FTckxZcngzVTBVNUNXNm9KcjlsYkVGb2hNcw?oc=5) |
 | 2026-08-07 | — | TradingKey | [Firstcash Holdings Inc (FCFS) Earnings Forecast: Future EPS & Revenue Growth Estimates](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wNVUzVGJtWmlRUHBSWjgtNFBBWlZGY3pHN0pVUno0ZjJrcWNtRTlUVjhveDE2c3VPR295d3FfZHBUODMxVzR0LXJNWWN0bktyeDgwN2NvNWt0MVhtSi1HbF8xSGZ3Zw?oc=5) |
+| 2026-08-07 | — | Revelio Labs | [American First Finance Number of Employees 2026 \| Employee Count & Headcount Data](https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbkNiNVFHZ3dpR3RvYW93SmdzcURUc0EtXzZvb0Z5N1d4ZWE0ODFSQXhFa0hDNDBHS0ZrcEtpX2pBczE3SWIyY3RLcUd0RTFBbHpMSnVpNEM2UlBPeVhtQV9Md1paSkRfOUZDN3JqWG9iLUhTZlhhMTNB?oc=5) |
 | 2026-08-06 | — | TradingView | [REG - FirstCash Holdings Ramsdens Holdings - Update on Letters of Intent](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1l1aUJEME15cER3NV9MV2RfOTRoYUNDdXY0WlF5aGo4akFBZDVQUHdhOHlKdlYybURmVTNNOV9oS0J1WnBTSjY4OU5MRzdSV0VOdXFQdzBqbUIyOURvdWFpLVY4b1VBSFFscEtqOGZURXRMUW1HRHVmb2ZPRDdoYmZYdzIxRngxUF9jWGthaEJnOG03VTRLSjU4N202aDhUcWNXSjM2ajRPTHl3aFppQ0dyRVl4X281ZEpyamNVNkdSREhOc0ZEM2xpRkJSWHRaRUgwMjUxMnFYZVNH?oc=5) |
 | 2026-07-31 | — | TradingKey | [Firstcash Holdings Inc (FCFS) Financial Health: Profitability & Balance Sheet Analysis](https://news.google.com/rss/articles/CBMicEFVX3lxTE1nMW11WXdSLU8yMmRIdmdaU0RxRTNVWDRqMmxPQzBCYnJtZDNSTEx4ZmgtSXYtN1JBdGprVjBuY0JvMWRXOXowU25tcmNKNzJlQ1Rpczcxc0JZenE0REpYZ3gzLWxDVG1SV1dCczViN24?oc=5) |
 | 2026-07-31 | — | TradingKey | [Firstcash Holdings Inc (FCFS) Risk Assessment: Volatility, Financial Risk & Investment Risk](https://news.google.com/rss/articles/CBMibkFVX3lxTE5QZUdIREdLQUc3SDhqNVZOeDhQRXI5akctZkctWS1wd1ZaT09OUHV1TVhrYjUxRGpMYkJvNFhDVjNzY29PbkFveXNfTnJuVlgyazJEZmUxMXdUWDV6el9Zcm15R0d2Qnd4bTltSUlR?oc=5) |

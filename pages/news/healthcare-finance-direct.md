@@ -2,19 +2,20 @@
 title: HFD (Healthcare Finance Direct) — Recent Coverage
 type: news
 competitor: [[healthcare-finance-direct]]
-count: 11
-created: 2026-09-14
-updated: 2026-09-14
+count: 12
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # HFD (Healthcare Finance Direct) — Recent Coverage
 
-_Updated: September 14, 2026_  ·  News & PR for [[healthcare-finance-direct]]
+_Updated: September 21, 2026_  ·  News & PR for [[healthcare-finance-direct]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-10 | — | GetLatka | [Boulevard Revenue 2024: $71.4M Est. ARR, $11M Raised](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZXNsdGJEaW55Nl9POTNnNkdLaGQ1c3F6dTNZS2Zpd0ZndXQwY0ZCWWhfOVBTS1cxeDM3a1NzRG9YV2s4d0dLYThXZkNCMG04Qmc?oc=5) |
 | 2026-09-02 | — | GetLatka | [Agiloft Revenue 2024: $71.4M Est. ARR, $45M Raised](https://news.google.com/rss/articles/CBMiT0FVX3lxTE83cWRaTnJYV1N1RnNuMWlwZTBON25rd085UFVldWRBRTRyVDR4bjR3aElZclVRSkV2Z2hEMzYwRWxlX0cwZ3NwOU9heU41R3c?oc=5) |
 | 2026-07-31 | — | Seeking Alpha | [Align Technology: Attractively Valued, But Growth Still Needs To Pick Up (NASDAQ:ALGN)](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVp6SlRpV2lJMlVXQUpReWVnVy0yS29lNEtnWUlkaXQyNTY3ZFBwVTZJNE9kZmF4d2pZaEZ3VzNSZG9KLUgyVlpHLTlhQ0p4SlZXZlV0aUdrX2VzaDZyYlRaa2RCanVEVDVJcVlKVS03cWI0NWt3bUt3YWIxT3NLVDFKOUF0Z2dIZWdSaWtwRmVqS1dEY1lQOW5wbHBmdWVxdE1pWlR3S2NMQUVFUmhLQQ?oc=5) |
 | 2026-07-07 | — | TMX Newsfile | [Apptly Strengthens Advisory Board with Appointment of Four Healthcare Leaders](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjhabERpaF8xMTZIWGpqYTVqaVotcWdCMFh5ZzluVjhwVEJIUU5MS25QTGllaW03bnlsb1ZaeE1hVkROSXBwWGw5QmZLSmVEbFJkTC1uZGhHcVN6YjYxbFNJeUp1U0t6OXBUNnRScndJWUhVOENoSW1LT3l4Q2ZGMDQ3ak50TFJINWQ0dWMxV1RlbFBVZUw2Z0ZUWlJFNWRhUFVVa194eGVmX2l5WlYxS3FVanJGZHdvbFFjbUtn?oc=5) |

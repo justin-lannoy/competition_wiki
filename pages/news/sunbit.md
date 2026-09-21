@@ -3,13 +3,13 @@ title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
 count: 25
-created: 2026-09-14
-updated: 2026-09-14
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: September 14, 2026_  ·  News & PR for [[sunbit]]
+_Updated: September 21, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
@@ -21,7 +21,7 @@ _Updated: September 14, 2026_  ·  News & PR for [[sunbit]]
 | 2026-08-27 | — | EIN News | [Hollywood Feed and Sunbit Introduce World Elite Mastercard Designed for Today's Pet Parents That Pays Customers to Shop](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYnZabUszNUgwcWhobmtSZjdjWEJjSkRoSjk0ci1rb2c4Vm9JbmJTTTRObVh6TDRzaXZBOU1MSHI1VjNCR2VDS21ZcDFLYi1DOWt5OFctMElrWGhid2lsM3pfa3lJY1pHRkZvUjBQUnY2YkgwdkVIZXBXV2JlYnlhUlhNTDhsOWlUOHFHS0RMS2RncTR5ZXpPYmlNdEFIQXRlT2RCRGNRQlBXemtkNEtoazBOMVYxd2xIaUdwaWtSZFgydW1aMlRHNmt2MGh4VFlNWGJYcHR6X2U0dDlhalFDRjkzcnZNbURDenRvVEotZW8ycUk?oc=5) |
 | 2026-08-23 | low | Forbes | [Forbes 2026 Fintech 50 \| The Top Fintech Companies & Startups](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBRFpWdHM1MmVxS21fVGY4WkxDTDVzZEFob2NjbWNuMTk1OFh2dVdRSG8wOVJTYVZrbXdqT3Ewc29YQlZ1SHdXSjJCbTFfdEVt?oc=5) |
 | 2026-08-13 | — | inc.com | [Why AI Is Raising the Bar for Marketing Leadership](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHFBaFc5bGpWT2xxV2pwU19kMUtBRlN4OGROMDRsalBNQ2N0eVJvWThuZlFLMG92UHZ3QzBfR0ZPanVSQ1pJbmx2dmZWSjg3REozbEtRZ3hSUklDZHljN09TRzA2VGFGek54a3JFX25kbGd3dnNVcllpaXVlTGhxZGJrQXJhd0JvdC16VjdNVXhleXhORlRkeg?oc=5) |
-| 2026-08-11 | — | businesswire.com | [Sunbit Named to the Inc. 5000 List of America’s Fastest-Growing Private Companies for Fifth Consecutive Year](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWkt5N04xcmlNbUdIdVNFb2cyUGNZNDR2YmhtRUlnaE9UTVlXRDNJLUtPNXNtMGhvX0hIa3hfOHBocEJGUEpycWVmM3VNTUlEcXh6TzR1UmxEQXEzYkYzV2NvUGpCTUtXNVBmVzVXYzRYSW1GVngyTVduaHR1S0pjMjZpa1ozTU1nMVNISThqd3lSSEk1RFk4eXZUQzN4Y3BvZFcwNzFGcndYSTdsTG9pVTNPbnA2c3BTYnJnaWkwU2ZtWm90QWE4bWhQYnpMNEQzeFRPRjRHQkxKOTFDakZLZDNVNHgwWnNvUngyakNFdnlWRTVadjJr?oc=5) |
+| 2026-08-11 | — | Business Wire | [Sunbit Named to the Inc. 5000 List of America’s Fastest-Growing Private Companies for Fifth Consecutive Year](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWkt5N04xcmlNbUdIdVNFb2cyUGNZNDR2YmhtRUlnaE9UTVlXRDNJLUtPNXNtMGhvX0hIa3hfOHBocEJGUEpycWVmM3VNTUlEcXh6TzR1UmxEQXEzYkYzV2NvUGpCTUtXNVBmVzVXYzRYSW1GVngyTVduaHR1S0pjMjZpa1ozTU1nMVNISThqd3lSSEk1RFk4eXZUQzN4Y3BvZFcwNzFGcndYSTdsTG9pVTNPbnA2c3BTYnJnaWkwU2ZtWm90QWE4bWhQYnpMNEQzeFRPRjRHQkxKOTFDakZLZDNVNHgwWnNvUngyakNFdnlWRTVadjJr?oc=5) |
 | 2026-08-11 | — | citybiz | [Sunbit Makes Inc. 5000 for Fifth Year as Payments Platform Expands](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDFMcmtLSnNzdGpUa05hQzhjS2JRNlp5N2VabEVsLS1jSndSakgyNW1BMGpEcjRSUUhhTk5rc0Z5ZXhqeHh3SS1VSk03UjF5ZHdRNHJaWVFBREQ5aEZPRU1nd1REdzVEQWpWUlA1RlluT1lHOGVWU1hXZ2gzeFh0eTZFUFVHMkNwbEtORno0YzNxbnRld0lwVUY2U2FUS1NBU3dPb2sxSQ?oc=5) |
 | 2026-08-10 | — | GetLatka | [HarmonyCares Revenue 2025: $346.2M ARR](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwNVhrLVBPdThWYzY5ekRrRW5vQVlJQUtVcEVXdkhpR1JZN1hWeW5sUzl5OXJ0VHhXVElDeGtGbDBpYnF2WFV3bXZIOVo2RWVDVXlXclpyYXh3bVU?oc=5) |
 | 2026-07-20 | — | AutoSpies.com | [WEIRD SCIENCE? This New Dealer Option Is SO STRANGE, You’ll Want to Hear the Pitch And You MAY Say YES?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUUNBbXQwTHNWdU9GaFNLRGZfTmJzcHlFT0FYeG1KNkhtTU1RX1pfVml0V3pmQXoxWW13S2JSM1dpRFZCV1Q4ZlVKQUhWVVNlY1IzMGs4QlVucW9jTDZsWHo0b2tLeGJhRFZKN25xN3lsRWpQVnJFQXNwSDJXNWxYN2M3dlF0X2wtWkR5X0pIX3Fkdl92ME9FYS05MHdhc2p1c3VDSXB5S1JXV0ViVllZdlBlVVlQdS1zUWFzRTVJeV91YVlfY2lxeUVFT1phXzhTSGF0S2Fn?oc=5) |

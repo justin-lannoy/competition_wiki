@@ -3,13 +3,13 @@ title: Scratchpay — Recent Coverage
 type: news
 competitor: [[scratchpay]]
 count: 4
-created: 2026-09-14
-updated: 2026-09-14
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # Scratchpay — Recent Coverage
 
-_Updated: September 14, 2026_  ·  News & PR for [[scratchpay]]
+_Updated: September 21, 2026_  ·  News & PR for [[scratchpay]]
 
 ## Coverage
 

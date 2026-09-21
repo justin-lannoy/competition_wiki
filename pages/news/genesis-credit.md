@@ -2,20 +2,23 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 15
-created: 2026-09-14
-updated: 2026-09-14
+count: 18
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: September 14, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: September 21, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
-| 2026-09-11 | — | tcpaworld.com | [MR. NUMBER 1 WINS AGAIN!: Concora Credit to Pay $9.375MM to Settle TCPA Wrong Number Class Action As Another Company Bows to Greenwald](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1ZtMjhQT0FDd2ZaSXpfdTN3NzdiNmVxMDlaNk9OTTZqRzkwVEFWUXhXWlFYT1JYdGcwWE5aeWZzZHdneVd2MGJlUkxGaE5yLXZjdkx2SjBpTk5MT0tWdWN4OHh5R3o3b1JZVkFsa193c2ZuSVdGU3VEanFBa0hTRWRaMzdkRFd6VlI4RUxmX0RMVHpfODlSTTJ5dndORmhjVlBiOTlLTWVud1dBOGgtOEk3V21ycWQxSUpsWmVSUFhqTzJadUwyVkl5V0Zxa3lwcUx4VTJJM2IxV0dudGdldVFZZExxLTBtQjBaSHZYX3B1NU1Zc2Uw0gH8AUFVX3lxTE5FVW4tVmZ1ZkYzU2pRSjZsWU1VN0lHS1N6dU1BZExySkpsQ3lOU3o2R0Jfamd1Z1B4VG1FeFd5aVl1MkExNGpSVUFqeENXMzFzeEwwZl9wSVdlVVhoaXFZamItUlI0R0xhN18tX2VLbV9NWndhV3hfSFJhdlJoQ0I0XzRYOVNGOUxrVGFQU1dPX0RXemdfTGZxOU5pcEpPa3c0dDhVRlRQMUNnZlJBUmZ5QzFXTXJnRXMyMGQ3Y3hTbHBKMXc3TTU2MkkxVEt6Vmk3clFzN1A0cGpIa21jOFp6SGFzV1hFbEs1ZXRjVUlwWUFaenlrOXkyQUhGeA?oc=5) |
+| 2026-09-17 | — | Top Class Actions | [$9.37M Concora Credit TCPA class action settlement](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUJHTGRaVnJjczhTZjhpOTBLWGJTdVVPNDF5X1hDMXFjSFhYX0dEaUl5dllhbUQ1WC13ZXU2TFM0cHEwdWU2T3lyWHZDSVJnSUdGT2V6LWhkX1U4VDdQNktkZmI2ZDRYM2ZCRjNXX3VPVW9Cb0dhdmxYdEItUlhXQk96aUszd1o1MXVreF9EQWpieW5UMTFza1VYMHpobUlZRjRfZVBLVkNYLU4xb2JfQmFoSFB2emxVbUdoVFlzMjQ?oc=5) |
+| 2026-09-16 | — | the-sun.com | [Americans who got pre-recorded spam calls can claim up to $650 from a $9million settlement -- act by October 19](https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0laajdDVFBhemVmMkxzTndtbEdTQVZ5Q01RZnhQQk85LXJiWmJSNTQxTWlpV2FvUXJfRkhxRHU2VDVwWl9FbDdHbkNFRzNlSk52YVlSSkZUcV8wOVpKWXliZGlTdkpOMEx1azVzOGJuek5LMUd4U3NDcl9kaGdUT3I3WjdTTHYxeTR3bk9WTXZBVjI0b2xaN0lRaGM?oc=5) |
+| 2026-09-14 | — | BadCredit.org | [Who Can Claim Up to $650 in Concora’s Robocall Settlement?](https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWh1aF9kYThJUkQ0SXNzOUNqSEg0UHJJWTNENVhKRWVPcklvWFZ0dXZXNHZMUkQ3ejEtVTZUZVVMTEh1dmNPNlh1aE0wRG82cm93RHgzYk9PZG15WmNjZjFMOUJCMmwydmRoYzZQNGZpTWFvQlNZdDkzT1c0WUlLcmNNRnJGUV9lcF9HLXNFd2vSAZYBQVVfeXFMTnhKNmJjOWRYT1BQOFJTb2RTNkxrR2F3Z1JsOUFBYzlpMkxCblhtd25ZZm5SdVhNemVVeFlQVklETVVTX1o1SGZXclVJeEtqQXQ1dDU0VmROSllDRURRRnRCNVVjZW9vUkFUN0JJVFVqcTlxOWdTbTVGTVdUMG42eDNRRWVGcDI1SXpsY2djdGo3Qm1OYTVn?oc=5) |
+| 2026-09-11 | — | TCPAWorld | [MR. NUMBER 1 WINS AGAIN!: Concora Credit to Pay $9.375MM to Settle TCPA Wrong Number Class Action As Another Company Bows to Greenwald](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1ZtMjhQT0FDd2ZaSXpfdTN3NzdiNmVxMDlaNk9OTTZqRzkwVEFWUXhXWlFYT1JYdGcwWE5aeWZzZHdneVd2MGJlUkxGaE5yLXZjdkx2SjBpTk5MT0tWdWN4OHh5R3o3b1JZVkFsa193c2ZuSVdGU3VEanFBa0hTRWRaMzdkRFd6VlI4RUxmX0RMVHpfODlSTTJ5dndORmhjVlBiOTlLTWVud1dBOGgtOEk3V21ycWQxSUpsWmVSUFhqTzJadUwyVkl5V0Zxa3lwcUx4VTJJM2IxV0dudGdldVFZZExxLTBtQjBaSHZYX3B1NU1Zc2Uw0gH8AUFVX3lxTE5FVW4tVmZ1ZkYzU2pRSjZsWU1VN0lHS1N6dU1BZExySkpsQ3lOU3o2R0Jfamd1Z1B4VG1FeFd5aVl1MkExNGpSVUFqeENXMzFzeEwwZl9wSVdlVVhoaXFZamItUlI0R0xhN18tX2VLbV9NWndhV3hfSFJhdlJoQ0I0XzRYOVNGOUxrVGFQU1dPX0RXemdfTGZxOU5pcEpPa3c0dDhVRlRQMUNnZlJBUmZ5QzFXTXJnRXMyMGQ3Y3hTbHBKMXc3TTU2MkkxVEt6Vmk3clFzN1A0cGpIa21jOFp6SGFzV1hFbEs1ZXRjVUlwWUFaenlrOXkyQUhGeA?oc=5) |
 | 2026-09-09 | — | Claim Depot | [Concora Credit $9.38 Million TCPA Class Action Settlement](https://news.google.com/rss/articles/CBMibEFVX3lxTE04RnAtSU9mQmFvaWplcGM4MkM3ZTI1N3RSeDlYWU1RdTRJR3JybFpyb0gtclBqX0RTR1pjelBXWXNHVkpYZC1KeEVRMzVveW9Fd0dDMHdfQkZvNjVxR2RJaTVUOS1mZTktU3NqMg?oc=5) |
 | 2026-09-09 | — | PYMNTS.com | [Surprise Bills Test the Value of Subprime Credit](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRk1ZVWh0cHZEYUJkTlhFdlNUeV9BU2tfaVdLVFFVdWNuR1hJY0p0eUl0d1dfX3hoOUlCNF9ZUmh3bU1paklCdV9IODkwbDNNWHo5Qncyell3ZmZXQXVYWWlscXhYbHpKcWFUQ21HN2NnQnl4RXYyZG0tWW5qdVFiVmxaM2d5OWRXNjZOZVpnZXA1MXd0X3ZLc2ln?oc=5) |
 | 2026-08-29 | — | Law360 | [Concora Credit Flouted FCRA When Hiring, Applicant Says](https://news.google.com/rss/articles/CBMickFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDd9IBckFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDdw?oc=5) |

@@ -3,13 +3,13 @@ title: Koalafi — Recent Coverage
 type: news
 competitor: [[koalafi]]
 count: 8
-created: 2026-09-14
-updated: 2026-09-14
+created: 2026-09-21
+updated: 2026-09-21
 ---
 
 # Koalafi — Recent Coverage
 
-_Updated: September 14, 2026_  ·  News & PR for [[koalafi]]
+_Updated: September 21, 2026_  ·  News & PR for [[koalafi]]
 
 ## Coverage
 
