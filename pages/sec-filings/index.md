@@ -1,14 +1,14 @@
 ---
 title: SEC Filings — Tracker Index
 type: sec-filing
-count: 429
-created: 2026-09-21
-updated: 2026-09-21
+count: 430
+created: 2026-09-28
+updated: 2026-09-28
 ---
 
 # SEC Filings — Tracker Index
 
-_Updated: September 21, 2026_  ·  **429** filings tracked across **11** public competitors.
+_Updated: September 28, 2026_  ·  **430** filings tracked across **11** public competitors.
 
 | Filer | Ticker | Competitor | Filings | Latest |
 | --- | --- | --- | --- | --- |
@@ -21,5 +21,5 @@ _Updated: September 21, 2026_  ·  **429** filings tracked across **11** public 
 | [[prog-holdings]] | PRG | [[progressive-leasing]] | 32 | 2026-08-05 |
 | [[sezzle-inc]] | SEZL | [[sezzle]] | 59 | 2026-08-28 |
 | [[synchrony-financial]] | SYF | [[synchrony-financial]] | 59 | 2026-09-14 |
-| [[upbound-group]] | UPBD | [[acima]] | 31 | 2026-07-31 |
+| [[upbound-group]] | UPBD | [[acima]] | 32 | 2026-09-22 |
 | [[zip-co-limited]] | ZIP.AX | [[zip]] | 0 | — |

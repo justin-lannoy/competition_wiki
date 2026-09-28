@@ -2,22 +2,24 @@
 title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
-count: 9
-created: 2026-09-21
-updated: 2026-09-21
+count: 11
+created: 2026-09-28
+updated: 2026-09-28
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: September 21, 2026_  ·  News & PR for [[kafene]]
+_Updated: September 28, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-17 | — | Balkanweb.com | [It happens in the US! She refused to throw away her coffee, the student is expelled from school](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU9xTnhwX1VsYUprY3AweS1qMkZpTFItTzdMNThaM0ZIOHI0dmdnY1J5N1ExbG96eUFGVWVzcEFYRFhJZUx5Z2VZc2pDTFo2T04xelV6T3luazlHVE1aUklXbjBxZ2tYQWFzVnpXVlFKTkVCSlVzVzFYNjF5aExod3dnMWtQNHBmdzA3d0o1MjI0dXRpcFBsQ3Q1OE1XZHBpWEtveGhoNlhtTUYx?oc=5) |
 | 2026-09-13 | — | eKathimerini.com | [‘There is no village life without the “kafeneio”’](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkM4bGlhYXY4eHdaT19ySmdnUVdSdU9BUkR6RmFxTFdOclBTemlHeF93dmd4bkczRVUxS1Q3Z1JabGhWRDJlWkk0NkJSMmxHSGZWZzU0X1BnUk41dkhMMHlEOWk2TmlucDM5MFNJbGhjZ2Z0dy1mRVpWaHdqeFNqZkdVcHZ0NExmbDE1ZlYtc1JHNk1zX1hiNXhZbl9NcnhmMENNY1hfWHN4RXBrc0E?oc=5) |
-| 2026-08-29 | — | Reporteri | [Presidenti i Sirisë paguan kafenë me kartë Visa, epoka e sanksioneve merr fund](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVFuX2xEbUpNYnBFNzB4N2tFTDREeGJzeUlYUVMwRkRoanR1UmNudmRlOTBJMTFFVnAwalVaWFlKSGJ3djhaeER6dDl6STZhRVRsMWdtUEJ2VTlqOVBjT3hzZmpHcE9odmhFR05Uel82dmV6ZExpRmVsdGQ3UDJUSHN1eW9oMkU2YUNwSWxYOS1hRzd1bzZTbEFidndYalZmbkI0UUNPT20wRVY0ZUlLQ1UtVXA?oc=5) |
+| 2026-08-29 | — | reporteri.net | [Presidenti i Sirisë paguan kafenë me kartë Visa, epoka e sanksioneve merr fund](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVFuX2xEbUpNYnBFNzB4N2tFTDREeGJzeUlYUVMwRkRoanR1UmNudmRlOTBJMTFFVnAwalVaWFlKSGJ3djhaeER6dDl6STZhRVRsMWdtUEJ2VTlqOVBjT3hzZmpHcE9odmhFR05Uel82dmV6ZExpRmVsdGQ3UDJUSHN1eW9oMkU2YUNwSWxYOS1hRzd1bzZTbEFidndYalZmbkI0UUNPT20wRVY0ZUlLQ1UtVXA?oc=5) |
 | 2026-08-25 | — | Politiko.al | [Beware of your morning coffee! One cup can have as much caffeine as 4 Red Bulls](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWphUW9OQktVbmNlOFBleUlaMFFrbW1mUFlPOVF0N3FhWkVpN0o5UUp5TzRtX3RSMTlFdzBiXzdrM3YyX1F1bE5HZDBkTDZnYXEwZ21TUnl2V1NDZ2VNMnZhTVZxeU9UbTNqTVdodEp5QmVvd1YtTU5odTI0THNlNFpHT1JSalRSbHNzYWQzWnljaERFTUN6OVlSQkVHMW1Cb3JvbVp4VHlkSVptaTZHRA?oc=5) |
+| 2026-08-12 | — | Furniture Today | [Which industry brands made the Inc. 5000 list?](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWTBNRTNNNnlqeFNINFAyb3A5QUtLVW90Z29rRnN0TDFBU0xnMlR0dDVlc1hlUXdqZDdRZnN3Yk9mWENac1lZOGttR2xHRjR1WG1lUzRIQzB6bTBLeW8wZ0FtbmE5WHFITmprQ1M5Q2NJbkowV3VWNkVRZkh6dm9TVmNUQUVpNTR1NUlkamtYZUxFaG1nczNBRnlja1dNNWM?oc=5) |
 | 2026-07-03 | — | Pamfleti | [After receiving death threats and being banned from cafes, former South Korean coach flees to the US (Video)](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXcxb1VJWTVqSVVObHZSVFBVQTVxNFhSOHlxa0JyNHVPbWdmRXhubWh4TnUyRlJKU0xmVEt5LTEtRF9kbUYyTDZYaDdOa3hQeExYeVF0YnVRZVRJQ1VlejRTaExKb20yZ0pTODlkUXpoWFJUVGZPYzliZXdEQklHUTZETmRCa1BUQ1dYbkxwa0lfNEVVZjBTb1RFY2pKemN6d1BHc3pIaG14R1FlS1BaMQ?oc=5) |
 | 2026-06-16 | — | Home Furnishings Business | [Furniture First Golf Tournament Raises Over $56K for Three Charities](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeE1qdE1BT21BSEw2aDM1cVNpVU9vQ3dtTEZDVWNQVDhWeFd3dDdTRTBYME1hVWhwTnhCeTRfaDJsMU0zODZ1QkZITkVXX3RxTUtWUmN0eXF4Qk85d2NPM3FXbElRaXQwZW1IX2lKMWY5UVBRdHFNRzNNWVo4NU0wM0cycl9hNHlWOXhmUm9ZSDVjcmcteXdDanpPcy1HZFlrOVFaV29YMkZDOTAxUk1FdlN3?oc=5) |
 | 2026-05-27 | medium | PR Newswire | [Kafene and Harry Ritchie's Jewelers Expand Access to Flexible Purchase Options for Jewelry Shoppers](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYVlaNl9Vcll2X2hWM01xSjh3clF2Qmd4dmpXUUpWamtScVlnZmN5OUZEWk82WFo0eG1SMGtHSldRMlQxQlFnX3I1ZllMa2tlS3duWXRBcU1TaE55TWtvT1UtYU1kUm0xcWQxOXJLRE0tVHlTVjVHTmJLM1B1SzJudmZrdC13RjNtZHhxcmNCeUstQTVzMXloQkVpNjliZGRzUTIyRVFEMDgtLS01Tmd0R21GbmRlVWJHMjhCTmJmNHh0bUJXcGNTVFNzWDFJU2p6M3RoSzBiLXFaNjNVRndrVXhJbmVMZ1hxaFE?oc=5) |

@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[acima]]
 parent: Upbound Group
 ticker: UPBD
-count: 31
-created: 2026-09-21
-updated: 2026-09-21
+count: 32
+created: 2026-09-28
+updated: 2026-09-28
 ---
 
 # Upbound Group — SEC Filings
 
-_Updated: September 21, 2026_  ·  Filer for [[acima]] (UPBD)
+_Updated: September 28, 2026_  ·  Filer for [[acima]] (UPBD)
 
 ## Financial trends
 
@@ -45,6 +45,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-09-22 | 2026-09-22 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000110465926109492/tm2625751d1_8k.htm) | [file](../../sec-filings/upbound-group/2026-09-22_8-K_0001104659-26-109492.htm) |
 | 10-Q | 2026-07-31 | 2026-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000119312526326420/upbd-20260630.htm) | [file](../../sec-filings/upbound-group/2026-07-31_10-Q_0001193125-26-326420.htm) |
 | 8-K | 2026-07-30 | 2026-07-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000119312526324902/upbd-20260730.htm) | [file](../../sec-filings/upbound-group/2026-07-30_8-K_0001193125-26-324902.htm) |
 | 8-K | 2026-07-22 | 2026-07-21 | [EDGAR](https://www.sec.gov/Archives/edgar/data/933036/000119312526310605/upbd-20260721.htm) | [file](../../sec-filings/upbound-group/2026-07-22_8-K_0001193125-26-310605.htm) |
