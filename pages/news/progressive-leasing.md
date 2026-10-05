@@ -2,20 +2,21 @@
 title: Progressive Leasing — Recent Coverage
 type: news
 competitor: [[progressive-leasing]]
-count: 148
-created: 2026-09-28
-updated: 2026-09-28
+count: 149
+created: 2026-10-05
+updated: 2026-10-05
 ---
 
 # Progressive Leasing — Recent Coverage
 
-_Updated: September 28, 2026_  ·  News & PR for [[progressive-leasing]]
+_Updated: October 5, 2026_  ·  News & PR for [[progressive-leasing]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
-| 2026-09-19 | — | Dealroom.co | [PROG Holdings acquires Purchasing Power (January 2026)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzc0cVhpN2FObWEwa3NodE14dDdDUjRDQlhaai1idmMxYk1JY2NWVW5GaUN1N1d4RGVlSGowUzJDZkNCcnBqTGRIN1pzSml5NVBIQ1haWWZPY2xwd2dlUWl0cHhhcnhlY3U5NzFaWEctcHQwRkdsNGpHM1otemUwb1JGUk5LZlhoa3Vj?oc=5) |
+| 2026-10-01 | — | finance.yahoo.com | [PROG Holdings, Inc. (PRG) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQOE1sSnctRTdHT1NIWk5CTDlIV3NXUmlaZ3FUZHMwZE9aV1g5UWVLSEdzSkR6Sk42YU44RDRBbDBPT1MybndDbnFwNUlaMlV4UXpsdmlPR0Q0YUtrV3ZlMkpJazUxTXBxNUpvdVlwR2hJa1dGSEZKOWhxTFZkcjJmSWxWVDJuSG9zMmdXcmw3bw?oc=5) |
+| 2026-09-20 | — | Dealroom | [PROG Holdings acquires Purchasing Power (January 2026)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzc0cVhpN2FObWEwa3NodE14dDdDUjRDQlhaai1idmMxYk1JY2NWVW5GaUN1N1d4RGVlSGowUzJDZkNCcnBqTGRIN1pzSml5NVBIQ1haWWZPY2xwd2dlUWl0cHhhcnhlY3U5NzFaWEctcHQwRkdsNGpHM1otemUwb1JGUk5LZlhoa3Vj?oc=5) |
 | 2026-09-10 | — | Yahoo Finance UK | [Breach Inlet Capital Issues Presentation Highlighting that PROG Holdings is a Misunderstood Transformation with Potential Catalysts](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGtQVGVDT3VDa3RLUkhkbnlBTXlldEptazdPRzJVMmJFbEhoNjJiaUpISzNNYUpSNVFNb1pDcHlYZ0Y5aFVBSzkyYndIR3E3Zmp1akthUnVBbEtIUnRJU1ltWnQ4dzhQUWQwaDJNVGp1V1llak1vcmpXSWRLWlNCeWtvYnl5aGtnLW5BbVNXdmY5dms?oc=5) |
 | 2026-09-10 | — | Yahoo! Finance Canada | [Breach Inlet Capital Issues Presentation Highlighting that PROG Holdings is a Misunderstood Transformation with Potential Catalysts](https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2piRlA3Z3ZNT29ERThXRVJKaVJvRVVYX0lVeG05TFBHLUFHaUJjZVhZOVhjTDNxX0YzMUlUY2s5NWw0NmN5RV9PYUU1YjZIeDJWb1BsNVBKcFR3eldiS2pHR0NpT3JmVjlhOFNLWl9CZ1V2ZzMyWkwyU1BtNHpqeGgtSkJsZzk2aHdyWDRTM1lOVG8?oc=5) |
 | 2026-09-10 | — | Business Wire | [Breach Inlet Capital Issues Presentation Highlighting that PROG Holdings is a Misunderstood Transformation with Potential Catalysts](https://news.google.com/rss/articles/CBMilwJBVV95cUxQSC1yYkZWRjFiVGo3YXZDQ1czRk5KY2Vrc3FwUXgwWU5JWVlDZUljeEszTTdzWXlrNVhhVk1MNHdweDVDZTdRR0xsYkQ2RDFsU01jUmpyT3lhX1IwTlBKVVNybm1xVVFKXzRjX2k3dF93UWI4VU5hTXVpYTRxR29vbGFLdTI2Zm9udWdrMlFFdHRpWDFWSUhvd25GZ0RZRk83OU1XblBEZzlIQXI0Z3ZQN1BURHRTQWZGM3VzMDIySHkzbk9XTEk4ZUNIc05PWDRNXzhwaUIxOW96d0RVd1pfcHNqT1RKbFlRMXd6VzRERnl5ZDkxR0tCQk9ZNG9oeGk3bkdjbllic2hOMlFCQTRmdzViWkJGY0E?oc=5) |

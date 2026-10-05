@@ -3,13 +3,13 @@ title: American First Finance (AFF) — Recent Coverage
 type: news
 competitor: [[american-first-finance]]
 count: 143
-created: 2026-09-28
-updated: 2026-09-28
+created: 2026-10-05
+updated: 2026-10-05
 ---
 
 # American First Finance (AFF) — Recent Coverage
 
-_Updated: September 28, 2026_  ·  News & PR for [[american-first-finance]]
+_Updated: October 5, 2026_  ·  News & PR for [[american-first-finance]]
 
 ## Coverage
 

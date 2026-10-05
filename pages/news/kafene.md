@@ -2,22 +2,24 @@
 title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
-count: 11
-created: 2026-09-28
-updated: 2026-09-28
+count: 13
+created: 2026-10-05
+updated: 2026-10-05
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: September 28, 2026_  ·  News & PR for [[kafene]]
+_Updated: October 5, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-10-01 | — | Balkanweb.com | ["Today the land of eagles does not have a single fighter jet! They have left us to fend for ourselves"/ Ilir Xhemalaj: Everyone in the square, the war is fought here, not in cafes](https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzNyXy1hc1h3VnkxZUR2TFFfNTE5U2wwVTBxMXhteTlMUk53X2pxaHBndmtkcHhsN1ZrbVFhdXlBVzlGY3kwUVFBak9MdmF0a1J6cmp0REFjWmlRTWN6bTdzbmpMMXV2czF2UWREZUJ5Z1BqWWZuVzFNbW1SMFgzRFNTMWRpSW1mUWZMa0Ntb3VudjcwcHVtd1BvU2tOM2duRU1PNkhBZ0FiQ3ctRjJ4eU9HMnc5YkJkOU1NNzRDYTFTUWVOYTJ4RFJack82N0Q2SGtNQnpLQVc2UVBueTV1dm9ta1llaEI5NUstZjRnMmJsVmh3elpFTGstNnNiNnBtTUhfNw?oc=5) |
+| 2026-09-28 | — | Balkanweb.com | ["EU and USA, help us remove this filthy government", Professor Lush Susaj calls on farmers and students: Unite, stand up for the country! Don't rot in cafes and sofas](https://news.google.com/rss/articles/CBMipwJBVV95cUxPVHhLQXN0ZFZDSWxGTVMtcmlyNGd4el9YSzY5YmtseXk0OUFxdW1DeTZPNDRYYW12dENsVUMweWpZcXpGR2tJU3dzejlqYVVPYkt4aXdoXzhpbUpSZHFyMjlGcGdpT2Zmd2k1YnZYX3oxamJlcThocDNZZVRKb2JrR1dVY000WDVqZjlVcmRDaGdKNGFoV1hqUzdoOEIteHZNTG9pVUtXMHAzZHlPZzZQamtQVUI1SklLOVRJck90aldXaDRYM2psX3VVTUVwZVFRcVNPSFE5YlYzUXFYc1F5ZWdTd0IxSDVCSDN4b1Q3aHNnaW1ObUNyTVJzeFRpYkZBYTEwR09WX3NxVmNxZ2gwMDN3UHZ6LW1NdkJiZ056dDd3VHcwY2FJ?oc=5) |
 | 2026-09-17 | — | Balkanweb.com | [It happens in the US! She refused to throw away her coffee, the student is expelled from school](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU9xTnhwX1VsYUprY3AweS1qMkZpTFItTzdMNThaM0ZIOHI0dmdnY1J5N1ExbG96eUFGVWVzcEFYRFhJZUx5Z2VZc2pDTFo2T04xelV6T3luazlHVE1aUklXbjBxZ2tYQWFzVnpXVlFKTkVCSlVzVzFYNjF5aExod3dnMWtQNHBmdzA3d0o1MjI0dXRpcFBsQ3Q1OE1XZHBpWEtveGhoNlhtTUYx?oc=5) |
 | 2026-09-13 | — | eKathimerini.com | [‘There is no village life without the “kafeneio”’](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkM4bGlhYXY4eHdaT19ySmdnUVdSdU9BUkR6RmFxTFdOclBTemlHeF93dmd4bkczRVUxS1Q3Z1JabGhWRDJlWkk0NkJSMmxHSGZWZzU0X1BnUk41dkhMMHlEOWk2TmlucDM5MFNJbGhjZ2Z0dy1mRVpWaHdqeFNqZkdVcHZ0NExmbDE1ZlYtc1JHNk1zX1hiNXhZbl9NcnhmMENNY1hfWHN4RXBrc0E?oc=5) |
-| 2026-08-29 | — | reporteri.net | [Presidenti i Sirisë paguan kafenë me kartë Visa, epoka e sanksioneve merr fund](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVFuX2xEbUpNYnBFNzB4N2tFTDREeGJzeUlYUVMwRkRoanR1UmNudmRlOTBJMTFFVnAwalVaWFlKSGJ3djhaeER6dDl6STZhRVRsMWdtUEJ2VTlqOVBjT3hzZmpHcE9odmhFR05Uel82dmV6ZExpRmVsdGQ3UDJUSHN1eW9oMkU2YUNwSWxYOS1hRzd1bzZTbEFidndYalZmbkI0UUNPT20wRVY0ZUlLQ1UtVXA?oc=5) |
+| 2026-08-29 | — | Reporteri.net | [Presidenti i Sirisë paguan kafenë me kartë Visa, epoka e sanksioneve merr fund](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVFuX2xEbUpNYnBFNzB4N2tFTDREeGJzeUlYUVMwRkRoanR1UmNudmRlOTBJMTFFVnAwalVaWFlKSGJ3djhaeER6dDl6STZhRVRsMWdtUEJ2VTlqOVBjT3hzZmpHcE9odmhFR05Uel82dmV6ZExpRmVsdGQ3UDJUSHN1eW9oMkU2YUNwSWxYOS1hRzd1bzZTbEFidndYalZmbkI0UUNPT20wRVY0ZUlLQ1UtVXA?oc=5) |
 | 2026-08-25 | — | Politiko.al | [Beware of your morning coffee! One cup can have as much caffeine as 4 Red Bulls](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWphUW9OQktVbmNlOFBleUlaMFFrbW1mUFlPOVF0N3FhWkVpN0o5UUp5TzRtX3RSMTlFdzBiXzdrM3YyX1F1bE5HZDBkTDZnYXEwZ21TUnl2V1NDZ2VNMnZhTVZxeU9UbTNqTVdodEp5QmVvd1YtTU5odTI0THNlNFpHT1JSalRSbHNzYWQzWnljaERFTUN6OVlSQkVHMW1Cb3JvbVp4VHlkSVptaTZHRA?oc=5) |
 | 2026-08-12 | — | Furniture Today | [Which industry brands made the Inc. 5000 list?](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWTBNRTNNNnlqeFNINFAyb3A5QUtLVW90Z29rRnN0TDFBU0xnMlR0dDVlc1hlUXdqZDdRZnN3Yk9mWENac1lZOGttR2xHRjR1WG1lUzRIQzB6bTBLeW8wZ0FtbmE5WHFITmprQ1M5Q2NJbkowV3VWNkVRZkh6dm9TVmNUQUVpNTR1NUlkamtYZUxFaG1nczNBRnlja1dNNWM?oc=5) |
 | 2026-07-03 | — | Pamfleti | [After receiving death threats and being banned from cafes, former South Korean coach flees to the US (Video)](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXcxb1VJWTVqSVVObHZSVFBVQTVxNFhSOHlxa0JyNHVPbWdmRXhubWh4TnUyRlJKU0xmVEt5LTEtRF9kbUYyTDZYaDdOa3hQeExYeVF0YnVRZVRJQ1VlejRTaExKb20yZ0pTODlkUXpoWFJUVGZPYzliZXdEQklHUTZETmRCa1BUQ1dYbkxwa0lfNEVVZjBTb1RFY2pKemN6d1BHc3pIaG14R1FlS1BaMQ?oc=5) |
