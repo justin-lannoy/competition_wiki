@@ -2,19 +2,22 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 28
-created: 2026-10-05
-updated: 2026-10-05
+count: 31
+created: 2026-10-12
+updated: 2026-10-12
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: October 5, 2026_  ·  News & PR for [[sunbit]]
+_Updated: October 12, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-10-08 | — | Yahoo Finance | [Sunbit Adds Three Senior Leaders from PayPal, LendingPoint and LendingClub](https://news.google.com/rss/articles/CBMingFBVV95cUxNU2p5WUpMcXh1WTl4WE5EYm1Hc0tPdTdhQkpZdUpVRFlYUXZLRVdZMHhsQXNxT3E3ZHl0ZDQzYzIzNzVNaV93LUttTzZCRDdvRF9wRks2eExhdU1VaE5ray1Ic3JkUGlNWlNLR2JyeTIxdmFDTUlHM2k4dUJkT0xxOHMwWUEwYzN4bXNJX2lNWVJ1UmtlYWNiUUp3bGhzZw?oc=5) |
+| 2026-10-08 | — | citybiz | [Sunbit Appoints Three Vice Presidents to Expand Partnerships, Marketing and Financial Strategy](https://news.google.com/rss/articles/CBMizAFBVV95cUxPel9wM243bUxYbTFUMGdEWk1UOHN1c1c2X2gxc2tESWtpRW5VWkFIdGo4ek4xSV9kbWZUazFSRHdmbWlfcGx2WkZBejVNbjBwQkQtOGR6YXYwVjAxQ2tmbGV4YXJpNkE1X0FQbnJJcTRVZHpaUEdJNlpHRFRYOHZGM3RqaEtfcDBuSm1xdGlEM09yUHJ1VVFfVGhOY0lJbkdmRGhfUHVacldlUF9TZTJndXhReEdoeFNTanhSN2V5QzlNMHlqa21qVXRuRDk?oc=5) |
+| 2026-10-08 | — | Enidnews.com | [Sunbit Adds Three Senior Leaders from PayPal, LendingPoint and LendingClub \| Associated Press \| syndication news](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcmJPbkhlUnpwUmM5WG8wU2hYVDNjemZCcGFOQmNVWlJZbmpwbldxeC12VlVMYTZaRE96amRibG94eC1TM21zUEhGc2oxVHphMW9GNHUzVDVmMDB6RHdhU1ZHeFQwT1FtbS1wSHZKSlZ5ZWhQdnNtZFEzNEN4Wkl0YlpLaWV6VFAxOWNjMnlfdE5ESW1BbE56d2tYc3dfblV5TkhrYll2SzM2VGR2ek5vWFlTYWdPd0Exa0dvV2RnMTFXZEx6ekxfa0dCQk5lR1dWaG1GenUtQkU5MkpkaUpkWm1zVnd2YXZCVzZr?oc=5) |
 | 2026-10-02 | — | Pet Age | [Sunbit Launches Nationwide Rollout of World Elite Mastercard in all Hollywood Feed Stores](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnpxRGIxQ2ZIZkhUX1dkbmlKYzlzNnJldWNRWTk1a2p6RE52Y19CU096a2YzcVJod1Z2S2JZNFM4UTF0U2M5SjNHclhBZ1ZCclE2RTRDMWhEOTd2YXhaRmpTMGdSR1NaUllZdFdLOFEtVFVZRHlULTJLU1B2QnhENQ?oc=5) |
 | 2026-10-01 | — | Chain Store Age | [Fabletics debuts credit card for rewards members](https://news.google.com/rss/articles/CBMiekFVX3lxTE1lM1RwczF3eEtuV0RiYXg0eE9IWTNxMXg1YmQ4R3BLYnhDSXBrLUUzSDlNV0sybUxCUzZraGNSUlN2ZElLbDRMSDZSTzMyNHh5c0MzX01MVm1yNHN1SGRyZ2hfU3ljRE5jdTFJOWdwdHZaZmttOF9BbDJB?oc=5) |
 | 2026-10-01 | — | GlobeNewswire | [Fabletics Launches Fabletics Reserve Credit Card, Expanding](https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUl5a3o2NHk1RkhCaGVPU3p0ektWZmZCZzNzb1daUThxcGNiMWJQREYyNzFEMkMzdFRsNHBDLXRRUmRfaDJyZG1jaVNVS2E0dzVGcloxU2NQT0JFOUl1dUhWOGNKX2RfOWF4SmJYM3dGV2hGQVNINEdnMG5obEVvdkZETkJPZC0yZE5vX2pENmtWZ09NQ2pjMHdMOV81a0hkZkhmcDYydXUxTVZVMW9DbWlMVjVfYXpFaFpVY2VTbTV3ZG9XblNVVkVHaVZBRXNkRWVVY0lBXzEza0d2cTdoU0t0WXVuWk5uc1FPVDlSY0JRMWxyZUhONE1nWmUzbzBsXy15d2x0bjB5YTcxdWwwZmZMZktsRXdkSnRB?oc=5) |

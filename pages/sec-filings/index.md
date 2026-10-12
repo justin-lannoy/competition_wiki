@@ -1,14 +1,14 @@
 ---
 title: SEC Filings — Tracker Index
 type: sec-filing
-count: 431
-created: 2026-10-05
-updated: 2026-10-05
+count: 432
+created: 2026-10-12
+updated: 2026-10-12
 ---
 
 # SEC Filings — Tracker Index
 
-_Updated: October 5, 2026_  ·  **431** filings tracked across **11** public competitors.
+_Updated: October 12, 2026_  ·  **432** filings tracked across **11** public competitors.
 
 | Filer | Ticker | Competitor | Filings | Latest |
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@ _Updated: October 5, 2026_  ·  **431** filings tracked across **11** public com
 | [[katapult-holdings]] | KPLT | [[katapult]] | 53 | 2026-10-02 |
 | [[klarna-group]] | KLAR | [[klarna]] | 12 | 2026-08-18 |
 | [[prog-holdings]] | PRG | [[progressive-leasing]] | 32 | 2026-08-05 |
-| [[sezzle-inc]] | SEZL | [[sezzle]] | 59 | 2026-08-28 |
+| [[sezzle-inc]] | SEZL | [[sezzle]] | 60 | 2026-10-08 |
 | [[synchrony-financial]] | SYF | [[synchrony-financial]] | 59 | 2026-09-14 |
 | [[upbound-group]] | UPBD | [[acima]] | 32 | 2026-09-22 |
 | [[zip-co-limited]] | ZIP.AX | [[zip]] | 0 | — |
