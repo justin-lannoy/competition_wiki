@@ -2,25 +2,32 @@
 title: Progressive Leasing — Recent Coverage
 type: news
 competitor: [[progressive-leasing]]
-count: 155
-created: 2026-10-12
-updated: 2026-10-12
+count: 162
+created: 2026-10-19
+updated: 2026-10-19
 ---
 
 # Progressive Leasing — Recent Coverage
 
-_Updated: October 12, 2026_  ·  News & PR for [[progressive-leasing]]
+_Updated: October 19, 2026_  ·  News & PR for [[progressive-leasing]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-10-15 | — | Yahoo Finance | [PROG Holdings, Inc. (PRG) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMW96UWZSdjBOUUYxTW44amRnUk45U1JST3BRMW4tR1BRUjEyLUtuME9QXzJPcS1wNEs1NV9XbGhWY2NYTnMyN0s3S1RrNURnRWNobHBjREw1aXhPcHZtQWNUODFPekpkMmtoQ0ZOc2NSMHQydnV1b0ZqSmViVkJuc3JYZnUySjBUcEJxQjZTdw?oc=5) |
+| 2026-10-13 | — | Yahoo Finance | [How Jefferies’ Backing of Higher Guidance Amid Credit Concerns Will Impact PROG Holdings (PRG) Investors](https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1RNc1ZpTmJ1cGQ3c1dFckJGaC1xWFRjS05QMDZkRTNYTEMyQU9tZFNDVElQd0VnamdZMGIyRFVwRGNHX0hBbk5xUzlJVzRzbUlFMXJINlNCNUJQdFZtNjRjY3d4dFZqOG9EekFsdnJYRlYydzVjbmpPbUdGTjRfUERpcjRGdlJWVlEtM05BY2FzdVgzT1U5SGx6cEVFc1JfSGMzZ2F3?oc=5) |
+| 2026-10-13 | — | Simply Wall Street | [PROG Holdings (PRG) Could Be 43% Undervalued On Credit Quality Questions](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkhlYmJZZFN4eGEtd0dhbkJDWWxOZWJxQkx4VWZUc0JaYmgwUXNsNTFuZGNWWnNvOHIxaDJMbHBObHZlTldCNTVQZ2gwRXkzZlJ4SnZKRXZKZDNLTzRsX3FlUUVIRWVJYzhyeDQxci00cThIVmdmTWJyYzNqb2ZWanhVR0VPSXlzNktveEJSbkVSXy1HenFadFNWbTg5em9WV1JkeURoVEFzRFUyMkNiREtpenl1SkdXSXIta1BfNFlMeUYwcFB2ZWRMaXMwQlY5WGtDOUg2VkNCd9IB3wFBVV95cUxPeUJibkVma2hZSnlZYWRkXzNkdEdUQXRoaHR2MkpFWXpwUWZBZzlsUWZCVmxsdkJwVjI4SWQ1dHZKd1p6eE5nN1pkX0U3SjREcFNlTVF6Zm9tN3ZUNHFwcFh4UHpxSVBjX2M0M1JDTzMtdXBEZmF5ZWJyblRETXk4NzZvdVBmcG42THhVdnJFck1INVFVaGpzU29NeDhIWmhkZWVqWFo4NkE3YzBvTWhYWjdOblFQc05FX3FlYzNuUEFqOFZhaS04aXNhclJfUWdkUlRGVUxZUmU5aUZNUC1F?oc=5) |
 | 2026-10-11 | — | Yahoo Finance | [PROG Holdings Has Lost 30% in 3 Months: Jefferies Sees 65% Upside](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzdmWTNBU0t0RmVSX0NmSnlNbVpJNXpDMElQb1ViQ253ZV9GZUhRbFlzLWFrby1VaWxXZlFoRGxaV2lNVUN0UXNyUldBQjVyZjRtSy1jYlA2cVVDYXpsR245ZTNudEluZWJCNGZvX2w0X2ZzTFB2aFdqUE1tTEk3VUlkb29xOGlxYnF1UFBidmYtZw?oc=5) |
 | 2026-10-11 | — | Yahoo! Finance Canada | [PROG Holdings, Inc. (PRG) Options Chain - Yahoo Finance](https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkZoWlFWUnlnSGVGNkZqOFlMd3Z2Vmp2ck9XU2lUU2JWN3V3LUhyeGpCd1NBY2lMWEFzT1hNclFpQUxqN1VRZ1pyZUQzcDZaU3phMFFaLUNYX0ljQ19MSmppM2lqT212Nkk1WXhWUE41M2ZILTdEcm5XTGNRdVE2REd3OTJLTzUwc2pSNHdYTGQ?oc=5) |
+| 2026-10-11 | — | https://www.dars.gov.et/ | [PROG Holdings (PRG) Slips 1.36% to $30.48, Holding Mid-Range as Support Comes Into Focus - Daily Profile](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlBLZnNiSG00ODc4NzR1WGh5QllvLXNIUzd2Qms2a19GN19HbFNRa1FELU1Bbm5GZEd0MDBlN1lpdzc1N2xIQ3RudVpkMlZGM0U4ZzBhUUhaOUNmcjJQUnp4NzMyWktVNzlZX1l1NlNFMWdxVDJKUjVrRXEwQXhxVlJrdTlCNmZ3RkJERVRCNzlDQ0pUUG5tT3gtUFFTbGhPRk1wdmlVRXpRUXBfRVotZ0dmOEozd1lyaVhmN0JIcw?oc=5) |
+| 2026-10-10 | — | Yahoo! Finance Canada | [PROG Holdings, Inc. (PRG) Options Chain - Yahoo Finance](https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1ZRanlUWUdIbklBcWtvSTJMVnY5eXNFRlZlOGJqWkNCQVFHWm1aeGpDUnVFTGhGWmRMSE50d2ltZ28taTA1YkZSb2hZY1RIdVRUWWhlSXIxRHZOOEpKTnRKU1RwdlBFR0dGclNiRzljZDNUQldzU3NQUXJpVllXUUpsdEVqZjlxRTRiZ1VwMk4?oc=5) |
 | 2026-10-08 | — | Seeking Alpha | [PROG Holdings raised to Buy at Loop Capital (PRG:NYSE)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUxvaXVsSlc5a3lLUHZId0doTVgyVG14N2JUVU9LMnRxSUZCQzd1VnFXb0gyTUxoQ3NITzF1LTlfa2ZTaUstRENhbk5QcmQ1Vm1uNUloaGxxX29KdmdvLUZSNGxrUDRJT3U3cW9qblBOTllYTGR1RmVWbGpKZjBvT3ItVzg2aWd0?oc=5) |
+| 2026-10-08 | — | Yahoo Finance | [PROG Holdings, Inc. (PRG) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXc4RnVZMy1QS1NqRkFEY25nUk1lQkh1bjZWa3BHbHBOU25pbUVibDhqUFRuMF9yLURrTUdCeG5LYUNhVHBEOVBLeDVSalpkVHAtVUFSWlFKVnNKRjVyV0Yzbi1GaFhBSkxoNE9tWGR2ZEtRbVhqRXI2SzJZY1VDaEQwZWRBVjlGdGdZeDRtNA?oc=5) |
 | 2026-10-07 | — | Yahoo Finance | [PROG Holdings, Inc. to Release Third Quarter 2026 Financial Results on October 28, 2026](https://news.google.com/rss/articles/CBMinAFBVV95cUxONHRwTEpXWGlxYlkyczFkV1FleDZDSnpFRnR0aFZiLVo1N2VZMUlBVzc3WDhsMG9JN0V6Q1JXUWZWWW14TkRYQ0w0bU1WQktWNW45VUxZVmVhc2dpRG02LUFFNk5ZbzhmX0MzNEIyOVJtbDJxMTJZTzRFeEoxZ3RTMWRiU2hrc0FFMHFMRXNZM0ZhSWwwYlhrTnR4OGQ?oc=5) |
 | 2026-10-07 | — | Moomoo | [Press Release: PROG Holdings, Inc. to Release Third Quarter 2026 Financial Results on October 28, 2026](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUG5xOHZ4eEZ1WUhwYjBobXFNeGlic3dTZXQ0TmZrUDRPQ1NoVFZXLTV5TkF0Q0hndmd2YWtEampaeVl3b1pPVDdhdFd3RHFNTlQ0T0Uzbk56ZlhPQ3hGbVpFOGRqWERhWnBuMFFhWmlBSk1fRi0yZTN3Q1Y2eE0tN1A0TFFGUVNjdHF0c0s5aV9XRUlHV0J1WTFCTWZIX2l3NV9hNlctWGw?oc=5) |
 | 2026-10-07 | — | TradingView | [PROG Holdings falls after short report from Jehoshaphat Research](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWZlVTdPU3FSWlFLRUMzWjVmOW1UeDgtenpmX19DRVFMSUwwVU00TjJfY25hWjdCMC1WZ1N2UlZQVlZHZ1NranZFYnBHcnVCdVNaUU83TGtnM2wzRXQ3ZFdrWHg1T1dVVUY4SU9JS3dWN1kzVUJzODFrcmM0Ti1UeVlua3k5QjdITi1Cc2ZGcEdfSzlabVlCcl9iT1doRVhTWi1kcllZbENBdlNpNWVWTW9FeGk5UmJ4QVEwVWdGTGdsY1JhV1E?oc=5) |
+| 2026-10-07 | — | Business Wire | [PROG Holdings, Inc. to Release Third Quarter 2026 Financial Results on October 28, 2026](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWHdIbWhEMVhmV0Mxb3hUSWVKYkNZNHVLaUQxVjhGUVJyVjl0NXpwdFdlYmJHRExJRFpyR3h2X2t0QXR0c05xVDdyOFQwbFRYTks2WE5ZbFVfOTJmV1o1RFBoQzRaUTVxVGs3NkRrVV9hamtDUWFhLWh4cFJYYnRSbl9rdU05T3poYmJhZDhPTWhtMkxONU40T0JmWFFoQm1RWEpPRVVWOGtKY0ZmTW5EdHo4RFZBR0RJakNsUkRPSmdNeFN2NkNMaFdjNDlqdzNsdDc3ZnZEcU1vUQ?oc=5) |
 | 2026-10-01 | — | Yahoo Finance | [PROG Holdings, Inc. (PRG) Stock Forecasts](https://news.google.com/rss/articles/CBMijwFBVV95cUxQOE1sSnctRTdHT1NIWk5CTDlIV3NXUmlaZ3FUZHMwZE9aV1g5UWVLSEdzSkR6Sk42YU44RDRBbDBPT1MybndDbnFwNUlaMlV4UXpsdmlPR0Q0YUtrV3ZlMkpJazUxTXBxNUpvdVlwR2hJa1dGSEZKOWhxTFZkcjJmSWxWVDJuSG9zMmdXcmw3bw?oc=5) |
 | 2026-09-20 | — | Dealroom | [PROG Holdings acquires Purchasing Power (January 2026)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSzc0cVhpN2FObWEwa3NodE14dDdDUjRDQlhaai1idmMxYk1JY2NWVW5GaUN1N1d4RGVlSGowUzJDZkNCcnBqTGRIN1pzSml5NVBIQ1haWWZPY2xwd2dlUWl0cHhhcnhlY3U5NzFaWEctcHQwRkdsNGpHM1otemUwb1JGUk5LZlhoa3Vj?oc=5) |
 | 2026-09-10 | — | Yahoo Finance UK | [Breach Inlet Capital Issues Presentation Highlighting that PROG Holdings is a Misunderstood Transformation with Potential Catalysts](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGtQVGVDT3VDa3RLUkhkbnlBTXlldEptazdPRzJVMmJFbEhoNjJiaUpISzNNYUpSNVFNb1pDcHlYZ0Y5aFVBSzkyYndIR3E3Zmp1akthUnVBbEtIUnRJU1ltWnQ4dzhQUWQwaDJNVGp1V1llak1vcmpXSWRLWlNCeWtvYnl5aGtnLW5BbVNXdmY5dms?oc=5) |

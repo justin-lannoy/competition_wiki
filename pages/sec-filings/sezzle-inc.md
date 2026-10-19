@@ -5,13 +5,13 @@ competitor: [[sezzle]]
 parent: Sezzle Inc.
 ticker: SEZL
 count: 60
-created: 2026-10-12
-updated: 2026-10-12
+created: 2026-10-19
+updated: 2026-10-19
 ---
 
 # Sezzle Inc. — SEC Filings
 
-_Updated: October 12, 2026_  ·  Filer for [[sezzle]] (SEZL)
+_Updated: October 19, 2026_  ·  Filer for [[sezzle]] (SEZL)
 
 ## Financial trends
 

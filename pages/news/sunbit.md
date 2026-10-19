@@ -2,14 +2,14 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 31
-created: 2026-10-12
-updated: 2026-10-12
+count: 32
+created: 2026-10-19
+updated: 2026-10-19
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: October 12, 2026_  ·  News & PR for [[sunbit]]
+_Updated: October 19, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
@@ -21,6 +21,7 @@ _Updated: October 12, 2026_  ·  News & PR for [[sunbit]]
 | 2026-10-02 | — | Pet Age | [Sunbit Launches Nationwide Rollout of World Elite Mastercard in all Hollywood Feed Stores](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnpxRGIxQ2ZIZkhUX1dkbmlKYzlzNnJldWNRWTk1a2p6RE52Y19CU096a2YzcVJod1Z2S2JZNFM4UTF0U2M5SjNHclhBZ1ZCclE2RTRDMWhEOTd2YXhaRmpTMGdSR1NaUllZdFdLOFEtVFVZRHlULTJLU1B2QnhENQ?oc=5) |
 | 2026-10-01 | — | Chain Store Age | [Fabletics debuts credit card for rewards members](https://news.google.com/rss/articles/CBMiekFVX3lxTE1lM1RwczF3eEtuV0RiYXg0eE9IWTNxMXg1YmQ4R3BLYnhDSXBrLUUzSDlNV0sybUxCUzZraGNSUlN2ZElLbDRMSDZSTzMyNHh5c0MzX01MVm1yNHN1SGRyZ2hfU3ljRE5jdTFJOWdwdHZaZmttOF9BbDJB?oc=5) |
 | 2026-10-01 | — | GlobeNewswire | [Fabletics Launches Fabletics Reserve Credit Card, Expanding](https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUl5a3o2NHk1RkhCaGVPU3p0ektWZmZCZzNzb1daUThxcGNiMWJQREYyNzFEMkMzdFRsNHBDLXRRUmRfaDJyZG1jaVNVS2E0dzVGcloxU2NQT0JFOUl1dUhWOGNKX2RfOWF4SmJYM3dGV2hGQVNINEdnMG5obEVvdkZETkJPZC0yZE5vX2pENmtWZ09NQ2pjMHdMOV81a0hkZkhmcDYydXUxTVZVMW9DbWlMVjVfYXpFaFpVY2VTbTV3ZG9XblNVVkVHaVZBRXNkRWVVY0lBXzEza0d2cTdoU0t0WXVuWk5uc1FPVDlSY0JRMWxyZUhONE1nWmUzbzBsXy15d2x0bjB5YTcxdWwwZmZMZktsRXdkSnRB?oc=5) |
+| 2026-10-01 | — | EIN Presswire | [Hollywood Feed and Sunbit Launch National Rollout of World Elite Mastercard in all 175+ Hollywood Feed Stores and Online](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0dwX1YzaE1IekhkMDhzam03RXVLZE1wNmRtcGpSdEZ0TFlzWVNjN1Q0SGFDcFZURy12ZTg1U255bFFrd0kwbWpBWU9NNUF4cVhnSVUyNkoxWjY2c3pUYURXUmlrUVZXa0lpcnJEaHRrbUF5UFRMOWhHbVltXzE5QzFQS3dEb1hjWXdWZkltMzZtRkM2OHl2OVBYa3p5YlFPYU9JZ2ptRWJoYlFmWlBabWdMREtaNWF6MExUWldRNE5jSEhLMDlIWXZHUEhvOV9rUHlYRmNYeE91NnZCVFZuR205cmgyYXh0bi02YUhiX01rcEZ5WTVLN19R?oc=5) |
 | 2026-09-09 | — | DrBicuspid.com | [Hygienist shortage pushes practices to rework staffing models](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeGRFcHpiOUNMMmhKWDFpOWhPeUVEanktNEd3TjZBMjhXNFY4bmlOVVNvQzFERW13RWZXUmZia3VoYW8wdzRVelo4Umx5WVNvM1lYQVgtOXZMWEFxVHJ0aGhieklKY1kxX08zWFZxVmw0aUhZbnpUa0dWSEdoTHNaYXQxNTNFSHJDM0k4S294cjhWM3AwRlAtZXpvZjQ4M1VYbUxDbU9GS2dnY1k0alNZOGR6a2pCUGlLTkpTdmFMWXhQXzlNb0I3eFJNS21oM25nTXptbVZRZnVkekd1b3J0cTlVQjhDeldMMTBN?oc=5) |
 | 2026-09-02 | — | GetLatka | [Alianza Revenue 2025: $345.8M ARR](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZ21oVFd0cWxBa0ZtSnF3NEJfWEpPMTlyU2F3QTFkd2ZoMXpKMjZVWnR6cVhLSGVBOW5ZT3NtNGlvdmRqc1h2V0RPR2ZneG1za2J2bw?oc=5) |
 | 2026-08-27 | — | The National Law Review | [Hollywood Feed and Sunbit Introduce World Elite Mastercard Design](https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXBtNkJTajA1RWNmWkFKNFZKUzk3dUFXQnJEbmJwTjhJeThnemNDZVNtNVJPUGV2T0d3U0E2MVlQUnJJaFpLN1I1ckZ4ZUpRWmpvNGxKcFBGNjlpUmZFRjJWejYxUEF0ZzFLRDRBMXZGZTdmcEhUUTU3T2RXWXlfRHdGdGdlbG15UU9mUzBRaXZFck9wdG5iQzQySEpFVkZySXk0aDRsLXU3d3JjTG4wU2tGclQ?oc=5) |

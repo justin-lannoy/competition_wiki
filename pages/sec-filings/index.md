@@ -2,13 +2,13 @@
 title: SEC Filings — Tracker Index
 type: sec-filing
 count: 432
-created: 2026-10-12
-updated: 2026-10-12
+created: 2026-10-19
+updated: 2026-10-19
 ---
 
 # SEC Filings — Tracker Index
 
-_Updated: October 12, 2026_  ·  **432** filings tracked across **11** public competitors.
+_Updated: October 19, 2026_  ·  **432** filings tracked across **11** public competitors.
 
 | Filer | Ticker | Competitor | Filings | Latest |
 | --- | --- | --- | --- | --- |

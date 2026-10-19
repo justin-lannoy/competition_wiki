@@ -5,13 +5,13 @@ competitor: [[katapult]]
 parent: Katapult Holdings
 ticker: KPLT
 count: 53
-created: 2026-10-12
-updated: 2026-10-12
+created: 2026-10-19
+updated: 2026-10-19
 ---
 
 # Katapult Holdings — SEC Filings
 
-_Updated: October 12, 2026_  ·  Filer for [[katapult]] (KPLT)
+_Updated: October 19, 2026_  ·  Filer for [[katapult]] (KPLT)
 
 ## Financial trends
 
