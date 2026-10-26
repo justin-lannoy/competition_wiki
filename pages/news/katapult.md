@@ -2,21 +2,25 @@
 title: Katapult — Recent Coverage
 type: news
 competitor: [[katapult]]
-count: 159
-created: 2026-10-19
-updated: 2026-10-19
+count: 165
+created: 2026-10-26
+updated: 2026-10-26
 ---
 
 # Katapult — Recent Coverage
 
-_Updated: October 19, 2026_  ·  News & PR for [[katapult]]
+_Updated: October 26, 2026_  ·  News & PR for [[katapult]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
-| 2026-10-19 | — | Blooloop | [Katapult partners with DOF Robotics to create NEO Cappadocia](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBua2xXSHBGSVIxYmZUVWYxa0k2Vkl0REtoWjllS01QTkx0RkhqUVBvZnVrRlNrMUxMN2d1cVUyR0NKNGNndWFKcU80bjg1aEppRGpfcGs1X3B5OEE?oc=5) |
-| 2026-10-16 | — | ad-hoc-news.de | [Katapult registers 74 million resale shares: what it means for Katapult stock](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEZrMU1vM0FMdDNTNEROVFVOM3Z1STJtSG1wYUotS0gtd0M3X2JqSXg0QXlNb0NEekdtZEN4aGo4a1hxTkx1NjAwN0sxX05ZemhjRjc0OTBXajJfcWxseGJKZnlSVGpUXzlhdzdIU1Jpbm9pYVhVdXp2ZUdxa2liYTR5bExmZWJucmFCMjNkV0l6UmVmNEFnVUdIa0RTTGJqMHNzZ3VsUmZrN1BUTmtoc1BnckFPMnV0b1kzenJIeV9qZGY0VHhKdHB2Ri1yX00t?oc=5) |
+| 2026-10-25 | — | TradingView | [Katapult Holdings, Inc. Estimates – NASDAQ:KPLT](https://news.google.com/rss/articles/CBMieEFVX3lxTE1pdFhROE9MRlllWVdZcnpmTnpFNF8yNlk2UFlmeFI2TGtpc2tjSDFBd0VVRmhfUlpJcmRCdy1IOWRiMVBydGNnTWhNTEhlNnVhR0I0R2hFN3JQZWg4SmlJNURSRC1kUUhQZGJWVmhCUzEzMWtHcUliZQ?oc=5) |
+| 2026-10-20 | — | Traders Union | [Katapult Holdings, Inc. Stock Price Today \| KPLT Live Chart & News](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EbnFkT2dsdDRadEFiRWJ4cUphR0ZEWVNxdm1seVQzUlJFU2FuZ1NHUDdhaTUtOS1oeDkxcW9CZll5ZVRwX3FDQjZlN1V0MHFzN19tVVpGdFZMamUtdTVsVg?oc=5) |
+| 2026-10-20 | — | Traders Union | [Live Katapult Holdings, Inc. (KPLT) Technical Analysis](https://news.google.com/rss/articles/CBMib0FVX3lxTE16SHF3RHplTHljNktiUlh0cmE5OVpUX01LMG9YYTZIOC1kWXZ2dGxLSDJIcG9ZaFNHOFVZdE1TaEpVTC0yNUkwdDIzbmZOcHlFb0EwSm1TeWJSS2E3TkF4T0VVOUdkaGFFYTdodlJMVQ?oc=5) |
+| 2026-10-19 | — | blooloop | [Katapult partners with DOF Robotics to create Neo Cappadocia](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBua2xXSHBGSVIxYmZUVWYxa0k2Vkl0REtoWjllS01QTkx0RkhqUVBvZnVrRlNrMUxMN2d1cVUyR0NKNGNndWFKcU80bjg1aEppRGpfcGs1X3B5OEE?oc=5) |
+| 2026-10-17 | — | Investing.com Nigeria | [Form S-3/A Katapult Holdings Inc For: 17 October By Investing.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0ZhdTRoczZrdXZNaXptOFdQUDZuVDJPX2U0VFBpSXZkbEZqeVVTSkh1a3lncEh5VHlCcU1ySVNtaHdyakZ3b1otaWtUN2dQaU8zakk2QWdxd1hBdXhUcE9oVHJ4SkF2emJETXB1ZnRTNVdPRWt4WElVWmoxRFEzQ0t1SzVLT0RoUU5mU1p1c2tMVDZjWEdUM0pJekhZRnpUczZmdzNBZ0dOUQ?oc=5) |
+| 2026-10-16 | — | AD HOC NEWS | [Katapult registers 74 million resale shares: what it means for Katapult stock](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEZrMU1vM0FMdDNTNEROVFVOM3Z1STJtSG1wYUotS0gtd0M3X2JqSXg0QXlNb0NEekdtZEN4aGo4a1hxTkx1NjAwN0sxX05ZemhjRjc0OTBXajJfcWxseGJKZnlSVGpUXzlhdzdIU1Jpbm9pYVhVdXp2ZUdxa2liYTR5bExmZWJucmFCMjNkV0l6UmVmNEFnVUdIa0RTTGJqMHNzZ3VsUmZrN1BUTmtoc1BnckFPMnV0b1kzenJIeV9qZGY0VHhKdHB2Ri1yX00t?oc=5) |
 | 2026-10-07 | — | Investing.com Nigeria | [Form 4 Katapult Holdings Inc For: 6 October By Investing.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFdsWlhuOTNnQV8ybzVYSGJlN3JmQ3hpaTJHb1JBRWUwMnJlOGhvN0Q2algzWkVHUEJ2Q1NFd2t6V0pLQjB0X3F3My1HWUJBQ0QxZGY3THFwQjJnS1ZHYmF1WHo0VzZ5bXd0ZUJESVFUdGZrSzluSDlGUy04eWNEUHk1T1UxQldLM2luYzdHVXNKZG5QX2x1MjQwWUg5OHpBYkxDZnFR?oc=5) |
 | 2026-10-07 | — | ad-hoc-news.de | [Katapult Holdings stock fell 4.67 percent as resale filing landed](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazI1V1FkT2hKaW1oZGpqbU4yRkhTeWloUGxfNldnWVNpZHVsM05pVUZDdkZZRlNxSkF5d2ZxY0VGR1J2azZBNFpvTEdBTng2SFBuQVVQVzVpaXFURDlyMEpPRjViMlhLSmE3YUZ6cVlEZE5ndVlwUWxqTFp0UE44aXQ1Y0RKVmpHRllrX3kwa0pRbjk1cDlkZUppZ0Jya3hRUEduVXg4VHBaNHh5TXlaVFFqdXI1VU9vTnJGbWFhVkhQdw?oc=5) |
 | 2026-10-05 | — | AD HOC NEWS | [Katapult Holdings stock faces a November credit deadline](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2dYQy03LS1PWGZIbFNKNVF5R05jd0ZjRC1RMnM3SzFPWDg0d3dwN1luT3dRRnBHR2xfdGZlN0taeWV6TWdMOEg3ZVZKMVQwRlRUdFZySHZYNG9YLWFyS3lHWmxYQXlsT0ZualJLTUM3bU40VkRJeTJEQjNFbkVwUmU5T1l5RXpydkx4bDZTYzZCa2lYRm9rSHQ2RW5tczdJcWVwcjJwbW1ldDVITXJ3a0pqcmJRQ0dVRUZR?oc=5) |
@@ -31,6 +35,8 @@ _Updated: October 19, 2026_  ·  News & PR for [[katapult]]
 | 2026-09-15 | — | Bitget | [Katapult Files to Register 74 Million Shares for Resale](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aVDBiNDNJTjFKaXZJbXpPWkZRZzRPUTFPVjVhZkx4dnNXY3RXY3pybFZTYzduWUU1N0VtcUwzbFZCeFp1eHJjUE5ycUVLMmlXUE1KZ3NwUTM1ZGZBS1h4MC1fa9IBY0FVX3lxTE1aVDBiNDNJTjFKaXZJbXpPWkZRZzRPUTFPVjVhZkx4dnNXY3RXY3pybFZTYzduWUU1N0VtcUwzbFZCeFp1eHJjUE5ycUVLMmlXUE1KZ3NwUTM1ZGZBS1h4MC1faw?oc=5) |
 | 2026-09-15 | — | Yahoo Finance | [Katapult Files to Register 74 Million Shares for Resale](https://news.google.com/rss/articles/CBMioAFBVV95cUxQbThwNUpxMjhiUVI0QmVyOWVGRXdwaFFkRl9reU9RLXZnNG5xVVQ4UjQ2T1U5eHdoNy1YT1g2eC1JaUVGVlhDOXY1eFlCbDhfSmpWMll3TVRJX09Sb09LN2EzNkJ0QUM5WW9uWmJobHo0MV8zN0ZoSnl2TDRMUzU3ZjlyYkZTTFN2dks5WEt1TG52d0o3d29QTjJmV0dDS2JL?oc=5) |
 | 2026-09-15 | — | Blooloop | [Katapult \| designing for the invisible](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ObHhkSlExWEdkMnk0ajc4MUJFb3FTd3k4SzNqQjJ3SzdWbVplaWpMbjNMdzVYblFwTVM5S2haZ0pnYnJ4d2VwR250dks3aGU3MVQ5bXMzQldINUZpOWlKRE5ERjk4N1E?oc=5) |
+| 2026-09-11 | — | www.marketscreener.com | [Katapult Holdings, Inc. Reports Earnings Results for the Half Year Ended June 30, 2026](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGc1dGN2WXI5RWJmdHpsTDZvQ09EZzJiRFo2cVZqRmFleWRQOU84Qk1jM0lmQ1lSdi00aGdiXzFEZDVXM25ZdlVWQlZYWjA5WUlZckNPeGJtSGp6VDlvb3Ytb0dxRVlvMng3TzVuV1kwczBkNTE2Q3RJSVlKQXlmM2w4RkI2RHRFNEk4SkFkOHIwbTRGU09BWl9qbG0xQVotQWVtelVYWXJqUm9DZGN6X1FWbjlHTjhzbkJQYUpSUExQdUoxcXVvQ1FnSzIxRWJ0R3c?oc=5) |
+| 2026-09-09 | — | Red Book Lumber Data | [Katapult, The Aaron’s Company, and CCF Holdings Complete Business Combination](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEVrNkxJcnNYb0lucWJmSWVJdWR6Mld5WGg1RlF3SldDVFFNcEwyb1VoeFJMR3pBVElGMmYxVFlNZzAxYk9wanlUSHFvcXJ2REhNOW9Fd2FOTVZta3B4TVJVMV9DbUJpd2RVUTRWVHVyVXJGTUhNVFJnaFk2SFlaVTlkc1k1cGhhUE5fcUhlSnJKZXFRUjVERXJqazRDWmIyVXhJSWcwbHdySTlVTFJyR0s4SXdKZU1PTFBZbQ?oc=5) |
 | 2026-08-28 | — | TradingView | [Katapult Extends Revolving Credit Facility Draw Period to Sep. 30, 2026 With Huntington](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcVE2Wm8zbjhoRWhXb2NveHc5b2pZbDVIc05hRWE3dDY4Zm8wWDFybTB2VWk5bU5CVHM0VllWSGlMX1RRa2FzSXdnZW9RS2pFTVZRU2JvYnBTT2tQeXRaclktZWpYdzhLMUE0UUNfQU1fRm9LcjFBT0ltV1FrYUk0bGhudEFHX2dWMXQ5ZDBhVUpuZ01uVmM0M2JhMmZ2TnlMMUwxZzAzQUkwUWRNeF9PNWVIQWs1dDVrSkVvZ1hqdG1wZFpwdl9lT2Z5MjBHejg4YVdPamlYV3BYREJIUVoxMQ?oc=5) |
 | 2026-08-23 | — | vinanet.vn | [Katapult (KPLT) Earnings Snapshot: EPS Lands Above Forecast in the Current Update; Post-Earnings: The Stock Ends Down 1.55% at the Close - EBITDA Estimate Trend](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQemVyd2pGMzJpajBoU0tvaEpGVDNrN0hKcUxEVmt6MUV0RHJuem05MjJFYmJ5ZWd1YmZfNFBHM2d5RzRmbmlQSGU5OC1wR1VZWG1sNGhkbFdhQjUxdW9SVUtzZmhHdjNGYnFwYVFhd2xtOVBiaWxiMEtXZ3NZNGE3SFFqQnBFS2ZmZUhpUE9hLXJQWnN3a2VXMEpLNG5VcWJRVWxlUjAzZmhIZF9iaHY5NHkzSjZWaFVpRUx0ci1zLVZFQkdEb0tuVDB6TlFsX2EtWEMwWGhReWhQamhGbHVzd19nOTFNTzdJY2dFRUI1YmZMNXZKY3NuVVpZalpUOG8?oc=5) |
 | 2026-08-23 | — | securities.io | [Katapult Holdings, Inc. (KPLT) Stock Price, Chart, News & Analysis](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kTzZyT0YtME0tMDJ0XzF6VF9ibFlla2tFc09RYXVJdGx1ZmtYQWxiVXdKSHowRVVfSk9BZG55X3lIWTFYSkFWRlZKWUJPTDg?oc=5) |

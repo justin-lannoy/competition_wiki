@@ -2,19 +2,20 @@
 title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
-count: 15
-created: 2026-10-19
-updated: 2026-10-19
+count: 16
+created: 2026-10-26
+updated: 2026-10-26
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: October 19, 2026_  ·  News & PR for [[kafene]]
+_Updated: October 26, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-10-19 | — | www.gazetaexpress.com | [Unusual view from Paris goes viral, couple enjoys drink in cafe while streets on fire](https://news.google.com/rss/articles/CBMixgFBVV95cUxPMFhIVzZ2WFdaM0kzajh4emVXU3NsY0ZjRVdtTEdaM1VDZEhQbzlIVDZFRk9YV3k4cFlGdlZldXNJUDBYR2YzV0N2SDllSFJwWjltUU5pYi1VdjhZYUw2c0lPY2NWR2Z6dmVuNHlET25zRVZzMjJKb25ZamZkRWNVcWx3bGRvSVJCMFBta19raUtFTDZGWFdILWwtRkM3cS12enVUNGhaM2hYcnh5Z3hEcnFZT1F6OS1DRFU1YmlkeVlzTjR0RHc?oc=5) |
 | 2026-10-01 | — | Balkanweb.com | ["Today the land of eagles does not have a single fighter jet! They have left us to fend for ourselves"/ Ilir Xhemalaj: Everyone in the square, the war is fought here, not in cafes](https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzNyXy1hc1h3VnkxZUR2TFFfNTE5U2wwVTBxMXhteTlMUk53X2pxaHBndmtkcHhsN1ZrbVFhdXlBVzlGY3kwUVFBak9MdmF0a1J6cmp0REFjWmlRTWN6bTdzbmpMMXV2czF2UWREZUJ5Z1BqWWZuVzFNbW1SMFgzRFNTMWRpSW1mUWZMa0Ntb3VudjcwcHVtd1BvU2tOM2duRU1PNkhBZ0FiQ3ctRjJ4eU9HMnc5YkJkOU1NNzRDYTFTUWVOYTJ4RFJack82N0Q2SGtNQnpLQVc2UVBueTV1dm9ta1llaEI5NUstZjRnMmJsVmh3elpFTGstNnNiNnBtTUhfNw?oc=5) |
 | 2026-10-01 | — | Gazeta Sot | ['They have left us to fend for ourselves, but this place has a god!'/ Xhemalaj: Everyone in the square, this is where the war is fought, not in the cafe!](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelQ2bVoyT1k5MlE2S1FibDlJMmJJNnRYXzA3MTREQ2k1ZDhSWF96anQ0YS1YTktfYUF2UW9pMnA3Uk1vX19ic3ZEUFNqNk1IWUdERkliYk1Ed0ZDRm9OVDZXeFdKS281cXFReWFvaFNaUlFObHhBWlI3R0VSc3RzYXhqWFJnNU1FY2piWFdXLXhza3dCVHJFR2VzeGhoOUN4RFROZThwOXA0cE94ZHNnbUk5blpwMFNTVDdVak9rcWtOUGZBM1M5Y08zS3M4SmNRN3lLTy1ySWg?oc=5) |
 | 2026-09-28 | — | Balkanweb.com | ["EU and USA, help us remove this filthy government", Professor Lush Susaj calls on farmers and students: Unite, stand up for the country! Don't rot in cafes and sofas](https://news.google.com/rss/articles/CBMipwJBVV95cUxPVHhLQXN0ZFZDSWxGTVMtcmlyNGd4el9YSzY5YmtseXk0OUFxdW1DeTZPNDRYYW12dENsVUMweWpZcXpGR2tJU3dzejlqYVVPYkt4aXdoXzhpbUpSZHFyMjlGcGdpT2Zmd2k1YnZYX3oxamJlcThocDNZZVRKb2JrR1dVY000WDVqZjlVcmRDaGdKNGFoV1hqUzdoOEIteHZNTG9pVUtXMHAzZHlPZzZQamtQVUI1SklLOVRJck90aldXaDRYM2psX3VVTUVwZVFRcVNPSFE5YlYzUXFYc1F5ZWdTd0IxSDVCSDN4b1Q3aHNnaW1ObUNyTVJzeFRpYkZBYTEwR09WX3NxVmNxZ2gwMDN3UHZ6LW1NdkJiZ056dDd3VHcwY2FJ?oc=5) |

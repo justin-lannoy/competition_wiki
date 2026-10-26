@@ -2,21 +2,21 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 22
-created: 2026-10-19
-updated: 2026-10-19
+count: 23
+created: 2026-10-26
+updated: 2026-10-26
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: October 19, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: October 26, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-10-23 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
 | 2026-10-13 | — | Top Class Actions | [Debt collection lawsuit investigation: Comenity (Bread Financial), Capital One, Discover, Merrick Bank, First PREMIER Bank, Concora Credit, Continental Finance, Mission Lane, Fortiva, OneMain](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmJGQ3ZQcXZiVk5VTGhzV1AxZDlSVWZnbk1PdWJ6MFRWSTg4SVJVRHBERkNRckNnWGJrUVRLTkEwSGR2dFNLeXU4cW42ZDc2cWVueVhlWHlXUW1waWZCZlZFVDd0SDVNZElDY2NXUFNZYnMxaFpENFZWcC1TMzdvM2M1SXZWMnVCblpQaVNlcHRwd05uZnpVZjk4aTE3TXpIM0g0?oc=5) |
-| 2026-09-29 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
 | 2026-09-29 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
 | 2026-09-29 | low | NerdWallet | [What Is The Bank of Missouri, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGVhM0FwdDJibTBmSnl2MWN0YmIwdWhLQ2RSWGFERGItT3lBUTBNLVpaek53RndSb2Z2dkk1cG96TWlVbnU3YkdRSVhOWjFWMGFyZWJoZWRtTUhrdnEzUW1iYV9XdXZVeGdadjYtRzVZVVJVTlRIby01ZEFwU3c?oc=5) |
 | 2026-09-29 | — | citybiz | [Self Financial Names Jeff Giacomi Chief Credit Officer](https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXJNanAzQ05ENzA3TTBRb0ZGMGw3UXJkc3p2OXNrSlB0Ykx4QU5tcXBWV29TWkJsOEFJa2tLSF9OZFJnX0JGT05PRWNWS2w1QUZzaVpwN0I4czVjV21oblluWlJoUnJpVzZHbjdwV3hnN2tPaUtZaVpveUJnQjBuMFJNdkpDZUpva0pvblJEOFREcHJmeEhIeQ?oc=5) |
@@ -26,6 +26,7 @@ _Updated: October 19, 2026_  ·  News & PR for [[genesis-credit]]
 | 2026-09-14 | — | BadCredit.org | [Who Can Claim Up to $650 in Concora’s Robocall Settlement?](https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWh1aF9kYThJUkQ0SXNzOUNqSEg0UHJJWTNENVhKRWVPcklvWFZ0dXZXNHZMUkQ3ejEtVTZUZVVMTEh1dmNPNlh1aE0wRG82cm93RHgzYk9PZG15WmNjZjFMOUJCMmwydmRoYzZQNGZpTWFvQlNZdDkzT1c0WUlLcmNNRnJGUV9lcF9HLXNFd2vSAZYBQVVfeXFMTnhKNmJjOWRYT1BQOFJTb2RTNkxrR2F3Z1JsOUFBYzlpMkxCblhtd25ZZm5SdVhNemVVeFlQVklETVVTX1o1SGZXclVJeEtqQXQ1dDU0VmROSllDRURRRnRCNVVjZW9vUkFUN0JJVFVqcTlxOWdTbTVGTVdUMG42eDNRRWVGcDI1SXpsY2djdGo3Qm1OYTVn?oc=5) |
 | 2026-09-14 | — | BadCredit.org | [Who Can Claim Up to $650 in Concora’s Robocall Settlement?](https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWh1aF9kYThJUkQ0SXNzOUNqSEg0UHJJWTNENVhKRWVPcklvWFZ0dXZXNHZMUkQ3ejEtVTZUZVVMTEh1dmNPNlh1aE0wRG82cm93RHgzYk9PZG15WmNjZjFMOUJCMmwydmRoYzZQNGZpTWFvQlNZdDkzT1c0WUlLcmNNRnJGUV9lcF9HLXNFd2s?oc=5) |
 | 2026-09-11 | — | TCPAWorld | [MR. NUMBER 1 WINS AGAIN!: Concora Credit to Pay $9.375MM to Settle TCPA Wrong Number Class Action As Another Company Bows to Greenwald](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1ZtMjhQT0FDd2ZaSXpfdTN3NzdiNmVxMDlaNk9OTTZqRzkwVEFWUXhXWlFYT1JYdGcwWE5aeWZzZHdneVd2MGJlUkxGaE5yLXZjdkx2SjBpTk5MT0tWdWN4OHh5R3o3b1JZVkFsa193c2ZuSVdGU3VEanFBa0hTRWRaMzdkRFd6VlI4RUxmX0RMVHpfODlSTTJ5dndORmhjVlBiOTlLTWVud1dBOGgtOEk3V21ycWQxSUpsWmVSUFhqTzJadUwyVkl5V0Zxa3lwcUx4VTJJM2IxV0dudGdldVFZZExxLTBtQjBaSHZYX3B1NU1Zc2Uw0gH8AUFVX3lxTE5FVW4tVmZ1ZkYzU2pRSjZsWU1VN0lHS1N6dU1BZExySkpsQ3lOU3o2R0Jfamd1Z1B4VG1FeFd5aVl1MkExNGpSVUFqeENXMzFzeEwwZl9wSVdlVVhoaXFZamItUlI0R0xhN18tX2VLbV9NWndhV3hfSFJhdlJoQ0I0XzRYOVNGOUxrVGFQU1dPX0RXemdfTGZxOU5pcEpPa3c0dDhVRlRQMUNnZlJBUmZ5QzFXTXJnRXMyMGQ3Y3hTbHBKMXc3TTU2MkkxVEt6Vmk3clFzN1A0cGpIa21jOFp6SGFzV1hFbEs1ZXRjVUlwWUFaenlrOXkyQUhGeA?oc=5) |
+| 2026-09-10 | — | openclassactions.com | [Concora Credit Robocall Settlement — $250 to $650](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmt1ZUpJWkNFS29SRlM0Y29yaFM0bGVkaWZ5ajU2Z3lJUkMwSThzTVBDbmttbzR3UnFUdjN0RFZ0OWZfc0VKUFZ0X2hiS0ZVYVY2VmxxUERzbHE2WTRpTlRxMWpaOS0ydnpweE12MjIyamYzRWdPUWhNNnZVMWhnRmJKZkpnUW1iTlZyUHVzU0FKNVJudW05b05DZVAxTjhTLUNubE9EVzVRc29iQzMtdA?oc=5) |
 | 2026-09-09 | — | Claim Depot | [Concora Credit $9.38 Million TCPA Class Action Settlement](https://news.google.com/rss/articles/CBMibEFVX3lxTE04RnAtSU9mQmFvaWplcGM4MkM3ZTI1N3RSeDlYWU1RdTRJR3JybFpyb0gtclBqX0RTR1pjelBXWXNHVkpYZC1KeEVRMzVveW9Fd0dDMHdfQkZvNjVxR2RJaTVUOS1mZTktU3NqMg?oc=5) |
 | 2026-09-09 | — | PYMNTS.com | [Surprise Bills Test the Value of Subprime Credit](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRk1ZVWh0cHZEYUJkTlhFdlNUeV9BU2tfaVdLVFFVdWNuR1hJY0p0eUl0d1dfX3hoOUlCNF9ZUmh3bU1paklCdV9IODkwbDNNWHo5Qncyell3ZmZXQXVYWWlscXhYbHpKcWFUQ21HN2NnQnl4RXYyZG0tWW5qdVFiVmxaM2d5OWRXNjZOZVpnZXA1MXd0X3ZLc2ln?oc=5) |
 | 2026-08-29 | — | Law360 | [Concora Credit Flouted FCRA When Hiring, Applicant Says](https://news.google.com/rss/articles/CBMickFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDd9IBckFVX3lxTFBTNnAzRjdJaHVkU0w4TXRyM1Mya0lJMVdFWXBrZUlEZmF3WUVFT1d6VTdRcXRMbUQtb1pKNEF5aWxSTW9wajNPc3FlV3B5X3dENVlNTTNvSk1XOGVmT01WZ1FUdXY1VEpScF9hUlFTRVhDdw?oc=5) |

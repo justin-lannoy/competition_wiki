@@ -470,6 +470,16 @@
       "description": "FORM 8-K",
       "local_file": "2026-08-31_8-K_0001104659-26-103556.htm",
       "summary": ""
+    },
+    "0000840489-26-000097": {
+      "form": "8-K",
+      "filing_date": "2026-10-22",
+      "report_date": "2026-10-22",
+      "accession": "0000840489-26-000097",
+      "primary_doc": "fcfs-20261022.htm",
+      "description": "8-K",
+      "local_file": "2026-10-22_8-K_0000840489-26-000097.htm",
+      "summary": ""
     }
   },
   "financials": {
