@@ -3,21 +3,21 @@ title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
 count: 23
-created: 2026-10-26
-updated: 2026-10-26
+created: 2026-11-02
+updated: 2026-11-02
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: October 26, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: November 2, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
 | 2026-10-23 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
+| 2026-10-23 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
 | 2026-10-13 | — | Top Class Actions | [Debt collection lawsuit investigation: Comenity (Bread Financial), Capital One, Discover, Merrick Bank, First PREMIER Bank, Concora Credit, Continental Finance, Mission Lane, Fortiva, OneMain](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmJGQ3ZQcXZiVk5VTGhzV1AxZDlSVWZnbk1PdWJ6MFRWSTg4SVJVRHBERkNRckNnWGJrUVRLTkEwSGR2dFNLeXU4cW42ZDc2cWVueVhlWHlXUW1waWZCZlZFVDd0SDVNZElDY2NXUFNZYnMxaFpENFZWcC1TMzdvM2M1SXZWMnVCblpQaVNlcHRwd05uZnpVZjk4aTE3TXpIM0g0?oc=5) |
-| 2026-09-29 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
 | 2026-09-29 | low | NerdWallet | [What Is The Bank of Missouri, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGVhM0FwdDJibTBmSnl2MWN0YmIwdWhLQ2RSWGFERGItT3lBUTBNLVpaek53RndSb2Z2dkk1cG96TWlVbnU3YkdRSVhOWjFWMGFyZWJoZWRtTUhrdnEzUW1iYV9XdXZVeGdadjYtRzVZVVJVTlRIby01ZEFwU3c?oc=5) |
 | 2026-09-29 | — | citybiz | [Self Financial Names Jeff Giacomi Chief Credit Officer](https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXJNanAzQ05ENzA3TTBRb0ZGMGw3UXJkc3p2OXNrSlB0Ykx4QU5tcXBWV29TWkJsOEFJa2tLSF9OZFJnX0JGT05PRWNWS2w1QUZzaVpwN0I4czVjV21oblluWlJoUnJpVzZHbjdwV3hnN2tPaUtZaVpveUJnQjBuMFJNdkpDZUpva0pvblJEOFREcHJmeEhIeQ?oc=5) |
 | 2026-09-29 | — | Business Wire | [Self Financial Names Jeff Giacomi Chief Credit Officer](https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTk1a25WU0xHLXotc1pqWTFnNERMaHdINGV4UlE5MXFIOFNOYkU1REN0UmtNZVA0SmM0MkpKQ2dEN09CMnE5UHJhR2U1ZFhyYXF0Z05Oa29INW9IMm9XUWREQ3ppRWpoV1p0dW51amVWTTkwMExxbXBFNnBOOE80Zi1xcFRhOWc5RmlTdFdTdVo5aXluaHBGcFdZYTdLSi1NcUhlMk05bzRSQXJ2UDVuNg?oc=5) |

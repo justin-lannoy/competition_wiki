@@ -2,14 +2,14 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 34
-created: 2026-10-26
-updated: 2026-10-26
+count: 36
+created: 2026-11-02
+updated: 2026-11-02
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: October 26, 2026_  ·  News & PR for [[sunbit]]
+_Updated: November 2, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
@@ -17,6 +17,7 @@ _Updated: October 26, 2026_  ·  News & PR for [[sunbit]]
 | --- | --- | --- | --- |
 | 2026-10-20 | — | qz.com | [Sunbit CEO on entering the personal loan market at Money2020](https://news.google.com/rss/articles/CBMiekFVX3lxTE10Sk8yWnlWekc3c1pyWElpOGw2TFpTSDJEcVFtYVRqbnBWZGJYT0E0VmVILVNtN2dWTzc5a0xMaVBBek1mSjAwdzFqV09pMWQ4WVY4dGhvRzRXUjhSUjIxSGZ6bkFxTHdyYndfLWdScjY4NDNpSERfZ253?oc=5) |
 | 2026-10-20 | — | Yahoo Finance | [Sunbit CEO Arad Levertov at Money2020 USA Talks Entering Personal Loan Market](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajJBVmNfQWU3SGQ3aTVkdENVMTkwVEJaWW9FWHdwRGhncWlDSGNKQUswYWZNalcxMm95dklqYmJsUk4tbjhlTVNkb1FQVk9tcWtEbVRaTkJzTXBPZVpEbzJPZHJ0QWlubWVZc2lZTlpyZlpReXlYNXVzMXZ0YWN0TzhhVGhvUkZu?oc=5) |
+| 2026-10-20 | — | TradingView | [Money20/20 USA Underway with NYSE as Exchange Partner: NYSE Content Update](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUWJZakxsLXVabGU0cVNXa0cweW5kX2tocV9HWEVUSHFMcHVwOG5lNHNrTG5DSGlmVnNBN1lETGxIVlhnaDBsUFlSRUI5SXFMd1lRTXc4SUt0ZXlNMDRTU1dPX1RsTFN6ZFByU1dvX212RWd0LURSQVYyWnZQeEJNR2w4TVNEd1NqQlBIelV4eTNQbDBMSUUybU9FMlRpTGdYYWJaU3BzMF9QTjVJM2RlWEtYV1FsYi1YNmVOYUdnanA3SEFrbWIzZU9xSC02UXM?oc=5) |
 | 2026-10-08 | — | Yahoo Finance | [Sunbit Adds Three Senior Leaders from PayPal, LendingPoint and LendingClub](https://news.google.com/rss/articles/CBMingFBVV95cUxNU2p5WUpMcXh1WTl4WE5EYm1Hc0tPdTdhQkpZdUpVRFlYUXZLRVdZMHhsQXNxT3E3ZHl0ZDQzYzIzNzVNaV93LUttTzZCRDdvRF9wRks2eExhdU1VaE5ray1Ic3JkUGlNWlNLR2JyeTIxdmFDTUlHM2k4dUJkT0xxOHMwWUEwYzN4bXNJX2lNWVJ1UmtlYWNiUUp3bGhzZw?oc=5) |
 | 2026-10-08 | — | citybiz | [Sunbit Appoints Three Vice Presidents to Expand Partnerships, Marketing and Financial Strategy](https://news.google.com/rss/articles/CBMizAFBVV95cUxPel9wM243bUxYbTFUMGdEWk1UOHN1c1c2X2gxc2tESWtpRW5VWkFIdGo4ek4xSV9kbWZUazFSRHdmbWlfcGx2WkZBejVNbjBwQkQtOGR6YXYwVjAxQ2tmbGV4YXJpNkE1X0FQbnJJcTRVZHpaUEdJNlpHRFRYOHZGM3RqaEtfcDBuSm1xdGlEM09yUHJ1VVFfVGhOY0lJbkdmRGhfUHVacldlUF9TZTJndXhReEdoeFNTanhSN2V5QzlNMHlqa21qVXRuRDk?oc=5) |
 | 2026-10-08 | — | Enidnews.com | [Sunbit Adds Three Senior Leaders from PayPal, LendingPoint and LendingClub](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcmJPbkhlUnpwUmM5WG8wU2hYVDNjemZCcGFOQmNVWlJZbmpwbldxeC12VlVMYTZaRE96amRibG94eC1TM21zUEhGc2oxVHphMW9GNHUzVDVmMDB6RHdhU1ZHeFQwT1FtbS1wSHZKSlZ5ZWhQdnNtZFEzNEN4Wkl0YlpLaWV6VFAxOWNjMnlfdE5ESW1BbE56d2tYc3dfblV5TkhrYll2SzM2VGR2ek5vWFlTYWdPd0Exa0dvV2RnMTFXZEx6ekxfa0dCQk5lR1dWaG1GenUtQkU5MkpkaUpkWm1zVnd2YXZCVzZr?oc=5) |
@@ -24,6 +25,7 @@ _Updated: October 26, 2026_  ·  News & PR for [[sunbit]]
 | 2026-10-01 | — | Chain Store Age | [Fabletics debuts credit card for rewards members](https://news.google.com/rss/articles/CBMiekFVX3lxTE1lM1RwczF3eEtuV0RiYXg0eE9IWTNxMXg1YmQ4R3BLYnhDSXBrLUUzSDlNV0sybUxCUzZraGNSUlN2ZElLbDRMSDZSTzMyNHh5c0MzX01MVm1yNHN1SGRyZ2hfU3ljRE5jdTFJOWdwdHZaZmttOF9BbDJB?oc=5) |
 | 2026-10-01 | — | GlobeNewswire | [Fabletics Launches Fabletics Reserve Credit Card, Expanding](https://news.google.com/rss/articles/CBMimwJBVV95cUxQdUl5a3o2NHk1RkhCaGVPU3p0ektWZmZCZzNzb1daUThxcGNiMWJQREYyNzFEMkMzdFRsNHBDLXRRUmRfaDJyZG1jaVNVS2E0dzVGcloxU2NQT0JFOUl1dUhWOGNKX2RfOWF4SmJYM3dGV2hGQVNINEdnMG5obEVvdkZETkJPZC0yZE5vX2pENmtWZ09NQ2pjMHdMOV81a0hkZkhmcDYydXUxTVZVMW9DbWlMVjVfYXpFaFpVY2VTbTV3ZG9XblNVVkVHaVZBRXNkRWVVY0lBXzEza0d2cTdoU0t0WXVuWk5uc1FPVDlSY0JRMWxyZUhONE1nWmUzbzBsXy15d2x0bjB5YTcxdWwwZmZMZktsRXdkSnRB?oc=5) |
 | 2026-10-01 | — | EIN Presswire | [Hollywood Feed and Sunbit Launch National Rollout of World Elite Mastercard in all 175+ Hollywood Feed Stores and Online](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0dwX1YzaE1IekhkMDhzam03RXVLZE1wNmRtcGpSdEZ0TFlzWVNjN1Q0SGFDcFZURy12ZTg1U255bFFrd0kwbWpBWU9NNUF4cVhnSVUyNkoxWjY2c3pUYURXUmlrUVZXa0lpcnJEaHRrbUF5UFRMOWhHbVltXzE5QzFQS3dEb1hjWXdWZkltMzZtRkM2OHl2OVBYa3p5YlFPYU9JZ2ptRWJoYlFmWlBabWdMREtaNWF6MExUWldRNE5jSEhLMDlIWXZHUEhvOV9rUHlYRmNYeE91NnZCVFZuR205cmgyYXh0bi02YUhiX01rcEZ5WTVLN19R?oc=5) |
+| 2026-10-01 | — | The Manila Times | [Fabletics Launches Fabletics Reserve Credit Card, Expanding Value and Loyalty Perks to Its More than 2.7 Million Members](https://news.google.com/rss/articles/CBMinAJBVV95cUxOU09sd2wwaGp4SkFDVWV5YTB1NTRURDlyZHdpQXpPdlJMeGxBWmtHRFBmdDNiTGh2OWJJZDloRVFHMlZGdkFkY2xGb3EzQzhtOGF0RFBRRkF5MHZjOU5talFMczFCNlNIOUhwT1RqNVc0UUVsbzY2VXRzZWFEVEg0Sl9fRkQ3MlVRU1EwSGxMdEFWa1dQVk9kNjBKWl9NYWdTUW1qRlNFTFVOb2hKUmlkdC1YeHZaVHlhSlNuajVkdnZhQ0tnX2NtY2x0MVhBclRHUzJQckRHallOcHFENUpDS3pXZ3IzNUhIME1NcUZyOGJCU3o2RFpQSzNfTDljU1VPc0FkTFFWcF8zQ1VHenJYa1VmZ3djNDIwMkxketIBogJBVV95cUxNWTFmLXhBZEpkRG9LTEcwMXFwaDJyd3ZUNEZvUmpvLUVxR29QcUROSWhTVXU1NkdFZDMtZnpHRFZqbEhwRndkNFcwLUE4VS1NdmNJQ1NBR1E4QmMyZUV6eUtWb3ktOE5iaFh0ZTZ3S2s0R05zWjFGUTRETGNqeGRaczdUQzZEYmhjM0N3WU81di1jWENpRFU2YkhzOTNQNFUwQ0tIdHlyNGhzdmhlLXpUSGcyS2lVQ0dNT2djVklrTmZURDdIV1pTd2dpTUJXMkEzbmdwanBXY0xqOVdUaGtJUjg3Tm1ZVjlhTlVuU192N052dURxSEFIam51SjRvdkl1djJvWC02VW5SX2FsbTNJOGFIaDhCekNOM0U4NDczbHZVUQ?oc=5) |
 | 2026-09-09 | — | DrBicuspid.com | [Hygienist shortage pushes practices to rework staffing models](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeGRFcHpiOUNMMmhKWDFpOWhPeUVEanktNEd3TjZBMjhXNFY4bmlOVVNvQzFERW13RWZXUmZia3VoYW8wdzRVelo4Umx5WVNvM1lYQVgtOXZMWEFxVHJ0aGhieklKY1kxX08zWFZxVmw0aUhZbnpUa0dWSEdoTHNaYXQxNTNFSHJDM0k4S294cjhWM3AwRlAtZXpvZjQ4M1VYbUxDbU9GS2dnY1k0alNZOGR6a2pCUGlLTkpTdmFMWXhQXzlNb0I3eFJNS21oM25nTXptbVZRZnVkekd1b3J0cTlVQjhDeldMMTBN?oc=5) |
 | 2026-09-02 | — | GetLatka | [Alianza Revenue 2025: $345.8M ARR](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZ21oVFd0cWxBa0ZtSnF3NEJfWEpPMTlyU2F3QTFkd2ZoMXpKMjZVWnR6cVhLSGVBOW5ZT3NtNGlvdmRqc1h2V0RPR2ZneG1za2J2bw?oc=5) |
 | 2026-08-27 | — | The National Law Review | [Hollywood Feed and Sunbit Introduce World Elite Mastercard Design](https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXBtNkJTajA1RWNmWkFKNFZKUzk3dUFXQnJEbmJwTjhJeThnemNDZVNtNVJPUGV2T0d3U0E2MVlQUnJJaFpLN1I1ckZ4ZUpRWmpvNGxKcFBGNjlpUmZFRjJWejYxUEF0ZzFLRDRBMXZGZTdmcEhUUTU3T2RXWXlfRHdGdGdlbG15UU9mUzBRaXZFck9wdG5iQzQySEpFVkZySXk0aDRsLXU3d3JjTG4wU2tGclQ?oc=5) |

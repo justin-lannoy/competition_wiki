@@ -5,13 +5,13 @@ competitor: [[synchrony-financial]]
 parent: Synchrony Financial
 ticker: SYF
 count: 62
-created: 2026-10-26
-updated: 2026-10-26
+created: 2026-11-02
+updated: 2026-11-02
 ---
 
 # Synchrony Financial — SEC Filings
 
-_Updated: October 26, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
+_Updated: November 2, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 
 ## Financial trends
 

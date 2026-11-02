@@ -5,13 +5,13 @@ competitor: [[klarna]]
 parent: Klarna Group
 ticker: KLAR
 count: 12
-created: 2026-10-26
-updated: 2026-10-26
+created: 2026-11-02
+updated: 2026-11-02
 ---
 
 # Klarna Group — SEC Filings
 
-_Updated: October 26, 2026_  ·  Filer for [[klarna]] (KLAR)
+_Updated: November 2, 2026_  ·  Filer for [[klarna]] (KLAR)
 
 ## Filings
 

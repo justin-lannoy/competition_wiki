@@ -2,19 +2,20 @@
 title: HFD (Healthcare Finance Direct) — Recent Coverage
 type: news
 competitor: [[healthcare-finance-direct]]
-count: 13
-created: 2026-10-26
-updated: 2026-10-26
+count: 14
+created: 2026-11-02
+updated: 2026-11-02
 ---
 
 # HFD (Healthcare Finance Direct) — Recent Coverage
 
-_Updated: October 26, 2026_  ·  News & PR for [[healthcare-finance-direct]]
+_Updated: November 2, 2026_  ·  News & PR for [[healthcare-finance-direct]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-10-29 | — | TradingView | [Align Technology Q3 Earnings Call Highlights](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWNlVlFJMFZSV1c0a3hHNFNQNzR6YlI3MG9YdXVNUDNUMFNNbmlVdTNtb2FOTHlKa3JkQXRxSmJCaWR0N2psWW9obFJESG1GZ0l1Y1FlWFA1YkhqWUlWMk5jTnVkVjVIbHFLbnhzV2k5YVJNR2x0QkJzRHBzTE1hZm9UUmladWRWQUliNjZWZ2xDaXNWTS1CalRiSkRZd1pkRTFKeE9jWk0?oc=5) |
 | 2026-09-18 | — | TradingView | [Align Technology Sees Invisalign Growth Runway Despite Consumer Headwinds](https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2JRYmNza1RpN1UxMFVpWFY4T3V5emlySzMzU0NyZ291NXpBM2V2cVJLN3hiZTlhb2hXNmxwZDc3aFVfZGdsdzliOGZtSXkyLWVVMzVzc3hCNEY5b2FLNGhDWjFUZElmLWR5QnAyQWpZMHlkbko4dFVIeWVpUE9jTzBhdmJHcWYzQ0pTMDY4ZUpianc0R05rbFNMUk53Ty1PYnhfcndaRlZVN0Foek9LN2k2RnZmWnpRdVNJWEoyazA0d1hBQzcwRDR0Tkpqbkk?oc=5) |
 | 2026-09-10 | — | GetLatka | [Boulevard Revenue 2024: $71.4M Est. ARR, $11M Raised](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZXNsdGJEaW55Nl9POTNnNkdLaGQ1c3F6dTNZS2Zpd0ZndXQwY0ZCWWhfOVBTS1cxeDM3a1NzRG9YV2s4d0dLYThXZkNCMG04Qmc?oc=5) |
 | 2026-09-02 | — | GetLatka | [Agiloft Revenue 2024: $71.4M Est. ARR, $45M Raised](https://news.google.com/rss/articles/CBMiT0FVX3lxTE83cWRaTnJYV1N1RnNuMWlwZTBON25rd085UFVldWRBRTRyVDR4bjR3aElZclVRSkV2Z2hEMzYwRWxlX0cwZ3NwOU9heU41R3c?oc=5) |
