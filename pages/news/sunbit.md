@@ -2,19 +2,21 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 36
-created: 2026-11-02
-updated: 2026-11-02
+count: 38
+created: 2026-11-09
+updated: 2026-11-09
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: November 2, 2026_  ·  News & PR for [[sunbit]]
+_Updated: November 9, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-09 | — | 深潮TechFlow | [In Finland's harsh winter, they keep warm by mining Bitcoin.](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReTJOQ3hGZ3NORDloa1c3UWg1cURXdkxMTDZRdWpMa2dyRTdqYUF0RkF4enpOMjZXaXNJQTVWNi1pam5QelFtaWVnRlN2TlVLNlh4Vkh6R1E0LXZ3?oc=5) |
+| 2026-11-08 | — | Cryptonews.net | [These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)](https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Q0FieHFUbWkzOG9XZm9KNGZBMzAtazVpam9laEJMNGc1bkRjZWxxMERMV0VEVFJYeHY0SWN5UGFlakN3OHJ0T2loQUktN09iN1F2SEFJaw?oc=5) |
 | 2026-10-20 | — | qz.com | [Sunbit CEO on entering the personal loan market at Money2020](https://news.google.com/rss/articles/CBMiekFVX3lxTE10Sk8yWnlWekc3c1pyWElpOGw2TFpTSDJEcVFtYVRqbnBWZGJYT0E0VmVILVNtN2dWTzc5a0xMaVBBek1mSjAwdzFqV09pMWQ4WVY4dGhvRzRXUjhSUjIxSGZ6bkFxTHdyYndfLWdScjY4NDNpSERfZ253?oc=5) |
 | 2026-10-20 | — | Yahoo Finance | [Sunbit CEO Arad Levertov at Money2020 USA Talks Entering Personal Loan Market](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajJBVmNfQWU3SGQ3aTVkdENVMTkwVEJaWW9FWHdwRGhncWlDSGNKQUswYWZNalcxMm95dklqYmJsUk4tbjhlTVNkb1FQVk9tcWtEbVRaTkJzTXBPZVpEbzJPZHJ0QWlubWVZc2lZTlpyZlpReXlYNXVzMXZ0YWN0TzhhVGhvUkZu?oc=5) |
 | 2026-10-20 | — | TradingView | [Money20/20 USA Underway with NYSE as Exchange Partner: NYSE Content Update](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUWJZakxsLXVabGU0cVNXa0cweW5kX2tocV9HWEVUSHFMcHVwOG5lNHNrTG5DSGlmVnNBN1lETGxIVlhnaDBsUFlSRUI5SXFMd1lRTXc4SUt0ZXlNMDRTU1dPX1RsTFN6ZFByU1dvX212RWd0LURSQVYyWnZQeEJNR2w4TVNEd1NqQlBIelV4eTNQbDBMSUUybU9FMlRpTGdYYWJaU3BzMF9QTjVJM2RlWEtYV1FsYi1YNmVOYUdnanA3SEFrbWIzZU9xSC02UXM?oc=5) |

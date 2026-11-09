@@ -2,23 +2,26 @@
 title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
-count: 16
-created: 2026-11-02
-updated: 2026-11-02
+count: 19
+created: 2026-11-09
+updated: 2026-11-09
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: November 2, 2026_  ·  News & PR for [[kafene]]
+_Updated: November 9, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
 | 2026-10-19 | — | Gazeta Express | [Unusual view from Paris goes viral, couple enjoys drink in cafe while streets on fire](https://news.google.com/rss/articles/CBMixgFBVV95cUxPMFhIVzZ2WFdaM0kzajh4emVXU3NsY0ZjRVdtTEdaM1VDZEhQbzlIVDZFRk9YV3k4cFlGdlZldXNJUDBYR2YzV0N2SDllSFJwWjltUU5pYi1VdjhZYUw2c0lPY2NWR2Z6dmVuNHlET25zRVZzMjJKb25ZamZkRWNVcWx3bGRvSVJCMFBta19raUtFTDZGWFdILWwtRkM3cS12enVUNGhaM2hYcnh5Z3hEcnFZT1F6OS1DRFU1YmlkeVlzTjR0RHc?oc=5) |
+| 2026-10-19 | — | Gazeta Sot | [Tensions in Tirana/ Police enter bars and cafes to escort citizens, but end up leaving empty-handed](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONllPMTBHNDlNakpuUEpNVC1HQlBNT0hfeUZnRjBBOXFXZEhQMEd2a2NVc2dmYWlxQXJLTW16YURaNUVBa3JKWjZYbXBUVHppQW5IaVNMS2F6X2hBTTZ3SXZWYnJCQXE1eDlqUEhZbXVxT3JnY3pvaWMwT05QUHZMNGFEcjBKQVQ3UGdDdlJQbjluNzV1c3JLSWlzOThBYzhhQURTLS14dGJqWnJtSjRkVFE3SVhSX0JnbVJacDFNY0JNMGlTU2dteHA5NUxWNEdVRjYtQXRLSDdkTVI3?oc=5) |
+| 2026-10-11 | — | Tracxn | [List of Investments by Hudson Cove Capital Management (Oct, 2026)](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdjBwY01UaFdhUGNCekpzc2U0RTB6SVE1MGFldlNHNEZRUU11T3Rmc0JScFp5N2gyVF9weW5hUHR2ald3Mm1qdXFTU2JXV21qWnVEMUE5bVZ2QWxSSXg4Q2pRRUNtRHNXQy01R0VPOUQtZm04c0pZRFpETVoyTXBKY0dmRzBkNzVYTENaV2VSMU43SFJ6TlBaLUl3T3BNNDU3aEFYSWxNamRMeldOLWRjYVBmSkFDdHFjRDdTWVd2UHlqTGhGNV9SLXA1TGRJYWc?oc=5) |
 | 2026-10-01 | — | Balkanweb.com | ["Today the land of eagles does not have a single fighter jet! They have left us to fend for ourselves"/ Ilir Xhemalaj: Everyone in the square, the war is fought here, not in cafes](https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzNyXy1hc1h3VnkxZUR2TFFfNTE5U2wwVTBxMXhteTlMUk53X2pxaHBndmtkcHhsN1ZrbVFhdXlBVzlGY3kwUVFBak9MdmF0a1J6cmp0REFjWmlRTWN6bTdzbmpMMXV2czF2UWREZUJ5Z1BqWWZuVzFNbW1SMFgzRFNTMWRpSW1mUWZMa0Ntb3VudjcwcHVtd1BvU2tOM2duRU1PNkhBZ0FiQ3ctRjJ4eU9HMnc5YkJkOU1NNzRDYTFTUWVOYTJ4RFJack82N0Q2SGtNQnpLQVc2UVBueTV1dm9ta1llaEI5NUstZjRnMmJsVmh3elpFTGstNnNiNnBtTUhfNw?oc=5) |
 | 2026-10-01 | — | Gazeta Sot | ['They have left us to fend for ourselves, but this place has a god!'/ Xhemalaj: Everyone in the square, this is where the war is fought, not in the cafe!](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelQ2bVoyT1k5MlE2S1FibDlJMmJJNnRYXzA3MTREQ2k1ZDhSWF96anQ0YS1YTktfYUF2UW9pMnA3Uk1vX19ic3ZEUFNqNk1IWUdERkliYk1Ed0ZDRm9OVDZXeFdKS281cXFReWFvaFNaUlFObHhBWlI3R0VSc3RzYXhqWFJnNU1FY2piWFdXLXhza3dCVHJFR2VzeGhoOUN4RFROZThwOXA0cE94ZHNnbUk5blpwMFNTVDdVak9rcWtOUGZBM1M5Y08zS3M4SmNRN3lLTy1ySWg?oc=5) |
 | 2026-09-28 | — | Balkanweb.com | ["EU and USA, help us remove this filthy government", Professor Lush Susaj calls on farmers and students: Unite, stand up for the country! Don't rot in cafes and sofas](https://news.google.com/rss/articles/CBMipwJBVV95cUxPVHhLQXN0ZFZDSWxGTVMtcmlyNGd4el9YSzY5YmtseXk0OUFxdW1DeTZPNDRYYW12dENsVUMweWpZcXpGR2tJU3dzejlqYVVPYkt4aXdoXzhpbUpSZHFyMjlGcGdpT2Zmd2k1YnZYX3oxamJlcThocDNZZVRKb2JrR1dVY000WDVqZjlVcmRDaGdKNGFoV1hqUzdoOEIteHZNTG9pVUtXMHAzZHlPZzZQamtQVUI1SklLOVRJck90aldXaDRYM2psX3VVTUVwZVFRcVNPSFE5YlYzUXFYc1F5ZWdTd0IxSDVCSDN4b1Q3aHNnaW1ObUNyTVJzeFRpYkZBYTEwR09WX3NxVmNxZ2gwMDN3UHZ6LW1NdkJiZ056dDd3VHcwY2FJ?oc=5) |
+| 2026-09-28 | — | Balkanweb.com | ["EU and USA, help us remove this filthy government", Professor Lush Susaj calls on farmers and students: Unite, stand up for the country! Don't rot in cafes and sofas](https://news.google.com/rss/articles/CBMitAJBVV95cUxOaHQ3NEYtdURNVmtmNnIwSWFIYVBONG9GTTBSN3NKS3Q5bWNRdUNfWU0tMUpiZnk3Ym1oeWticTJZa2dGd2x5RXNHTWZoVzBNN3VRbkNNeFJRZUVZVURZVmd0bXgxOGM2UWxwd0pHZFNLSnN4N1J2NkpJV01mcE13RnJMSzRRQld5U0dUYmJhY0tCYUtlRVFXM3oxbFpHTGlKalBWdXh2bi1KdjJpWUNzMlo1eFRrTWNtQ0JjNUZ3eGpUNTVUd0liQ3VtVlRkUU9HSVhGRDJHckJrNjV5aTNCdEhETFRoSjc1Y3BJdDdDTFpNMW5hcUFwM3dfdXpQY2pSSFk0YjhibVdTQktzMkFMU2RHb053R3RQMG9zTEFTM1Y1WDVuWGxlNzBWV3dBeVNaSU9QMw?oc=5) |
 | 2026-09-17 | — | Balkanweb.com | [It happens in the US! She refused to throw away her coffee, the student is expelled from school](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU9xTnhwX1VsYUprY3AweS1qMkZpTFItTzdMNThaM0ZIOHI0dmdnY1J5N1ExbG96eUFGVWVzcEFYRFhJZUx5Z2VZc2pDTFo2T04xelV6T3luazlHVE1aUklXbjBxZ2tYQWFzVnpXVlFKTkVCSlVzVzFYNjF5aExod3dnMWtQNHBmdzA3d0o1MjI0dXRpcFBsQ3Q1OE1XZHBpWEtveGhoNlhtTUYx?oc=5) |
 | 2026-09-13 | — | eKathimerini.com | [‘There is no village life without the “kafeneio”’](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkM4bGlhYXY4eHdaT19ySmdnUVdSdU9BUkR6RmFxTFdOclBTemlHeF93dmd4bkczRVUxS1Q3Z1JabGhWRDJlWkk0NkJSMmxHSGZWZzU0X1BnUk41dkhMMHlEOWk2TmlucDM5MFNJbGhjZ2Z0dy1mRVpWaHdqeFNqZkdVcHZ0NExmbDE1ZlYtc1JHNk1zX1hiNXhZbl9NcnhmMENNY1hfWHN4RXBrc0E?oc=5) |
 | 2026-09-09 | — | cna.al | [Are you drinking coffee at the wrong time? Here's when you should consume it for the most effect](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRTA5RUEwRFFlQUNhbXVtRDBVWF9JczF5eTZjZTJPX0tSMF9VUVFOeUszVnMyYUctUEx5elFrbVVFb205eVNGQi15OFp0ZXVUdEJuY2JOX0V0b3huQzNIVXNMRE1QZ200R29FaFRHY3pGZ1prbXl0Q1BsdGtKb3pBeVRWMnpjUWlNdGtjNXMzR3gwZEs3THBJOUE4V1NiT0x4Z3JmZVNrVngwV2hjaHpfOXNkYkZTQQ?oc=5) |

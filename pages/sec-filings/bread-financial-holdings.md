@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[bread-financial]]
 parent: Bread Financial Holdings
 ticker: BFH
-count: 80
-created: 2026-11-02
-updated: 2026-11-02
+count: 81
+created: 2026-11-09
+updated: 2026-11-09
 ---
 
 # Bread Financial Holdings — SEC Filings
 
-_Updated: November 2, 2026_  ·  Filer for [[bread-financial]] (BFH)
+_Updated: November 9, 2026_  ·  Filer for [[bread-financial]] (BFH)
 
 ## Financial trends
 
@@ -37,6 +37,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-11-03 | 2026-11-02 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000119312526444703/d163000d8k.htm) | [file](../../sec-filings/bread-financial-holdings/2026-11-03_8-K_0001193125-26-444703.htm) |
 | 8-K | 2026-10-28 | 2026-10-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000099/bfh-20261027.htm) | [file](../../sec-filings/bread-financial-holdings/2026-10-28_8-K_0001101215-26-000099.htm) |
 | 8-K | 2026-10-27 | 2026-10-27 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000095/bfh-20261027.htm) | [file](../../sec-filings/bread-financial-holdings/2026-10-27_8-K_0001101215-26-000095.htm) |
 | 10-Q | 2026-10-27 | 2026-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1101215/000110121526000092/bfh-20260930.htm) | [file](../../sec-filings/bread-financial-holdings/2026-10-27_10-Q_0001101215-26-000092.htm) |
