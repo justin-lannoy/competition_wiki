@@ -2,19 +2,20 @@
 title: Katapult — Recent Coverage
 type: news
 competitor: [[katapult]]
-count: 182
-created: 2026-11-09
-updated: 2026-11-09
+count: 183
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Katapult — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[katapult]]
+_Updated: November 16, 2026_  ·  News & PR for [[katapult]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-12 | — | ir.katapultholdings.com · PR | [Katapult Holdings Reports Third Quarter 2026 Results](https://ir.katapultholdings.com/news-events/news/news-details/2026/Katapult-Holdings-Reports-Third-Quarter-2026-Results/default.aspx) |
 | 2026-11-07 | — | Moomoo | [Earnings Preview: Katapult to Report Financial Results Pre-market on November 12](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRk5hbW5jMUM5cTVaRUp5QktDM01IVl9jSEJHN1ZBX05VWE1YaUFuZnFOcWVEXzhOZlhUaGRyUjRZbG9QdXNXQ1JYME1wemtwZUNSVC1NelQwbUtNUEZhb2t6cTNoUXY3OHZCOTlfckdKYmZMTEozNGY0eG9FS3VBQ3R2Z0lMaFdpWmlDdjFGMVBPRTlLbklBN1BYXzBDajNEUERMdjhwZEZZNDR3bktjZw?oc=5) |
 | 2026-11-02 | — | Yahoo! Finance Canada | [Katapult Holdings, Inc. (KPLT) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNkxvNm9ENnZvTm9KRXphRHp0NE5JX1ZZbndEa1l4b2JwWGtqR2pFQTRPUFBCQ2o0a211S0wxS3ZZTG1vdjlRbEdXOGgxbTc2SGc?oc=5) |
 | 2026-11-02 | — | Simply Wall St | [Katapult (KPLT) Stock Looks Pricey Against Its Current Earnings](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRy1VUHYyenZXZS1JY3Z0ODZjNFB3eDQ4V0lBR1h4c09DdUpDNldpQnJoNlYzY0lOaTFyU19ZZGNEamVIcjVhMk0wekN5VVB4TTZtZnR1OGlwNlZiYmpkU2ZabmVaLTNuVUg2U2JXY0o4cUxxbVpYR0hERWNwdzdLLXdyTFlYY1B1QVFHR0FEWTZIeHFURW9waHZqTXR4bVdZMzNOUjdCRU9sSXE0ZUEtTlc4TlRKOTRDRWEzTGZod05zY3RfQzg3dnhDSFNGRFktMUFlX3VpWW5uNDZJWDF3OEM4bWl1LWt0SEHSAeoBQVVfeXFMT0ctVVB2Mnp2V2UtSWN2dDg2YzRQd3g0OFdJQUdYeHNPQ3VKQzZXaUJyaDZWM2NJTmkxclNfWWRjRGplSHI1YTJNMHpDeVVQeE02bWZ0dThpcDZWYmJqZFNmWm5lWi0zblVINlNiV2NKOHFMcW1aWEdIREVjcHc3Sy13ckxZWGNQdUFRR0dBRFk2SHhxVEVvcGh2ak10eG1XWTMzTlI3QkVPbElxNGVBLU5XOE5USjk0Q0VhM0xmaHdOc2N0X0M4N3Z4Q0hTRkRZLTFBZV91aVlubjQ2SVgxdzhDOG1pdS1rdEhB?oc=5) |

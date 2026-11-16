@@ -3,13 +3,13 @@ title: Affirm Holdings — Recent Coverage
 type: news
 competitor: [[affirm]]
 count: 367
-created: 2026-11-09
-updated: 2026-11-09
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Affirm Holdings — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[affirm]]
+_Updated: November 16, 2026_  ·  News & PR for [[affirm]]
 
 ## Coverage
 

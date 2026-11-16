@@ -3,13 +3,13 @@ title: Sezzle — Recent Coverage
 type: news
 competitor: [[sezzle]]
 count: 296
-created: 2026-11-09
-updated: 2026-11-09
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Sezzle — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[sezzle]]
+_Updated: November 16, 2026_  ·  News & PR for [[sezzle]]
 
 ## Coverage
 

@@ -4,14 +4,14 @@ type: sec-filing
 competitor: [[synchrony-financial]]
 parent: Synchrony Financial
 ticker: SYF
-count: 62
-created: 2026-11-09
-updated: 2026-11-09
+count: 63
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Synchrony Financial — SEC Filings
 
-_Updated: November 9, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
+_Updated: November 16, 2026_  ·  Filer for [[synchrony-financial]] (SYF)
 
 ## Financial trends
 
@@ -37,6 +37,7 @@ _Quarterly, from SEC XBRL company facts._
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 8-K | 2026-11-10 | 2026-11-10 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000045/syf-20261110.htm) | [file](../../sec-filings/synchrony-financial/2026-11-10_8-K_0001601712-26-000045.htm) |
 | 10-Q | 2026-10-22 | 2026-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000043/syf-20260930.htm) | [file](../../sec-filings/synchrony-financial/2026-10-22_10-Q_0001601712-26-000043.htm) |
 | 8-K | 2026-10-20 | 2026-10-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000041/syf-20261020.htm) | [file](../../sec-filings/synchrony-financial/2026-10-20_8-K_0001601712-26-000041.htm) |
 | 8-K | 2026-10-20 | 2026-10-20 | [EDGAR](https://www.sec.gov/Archives/edgar/data/1601712/000160171226000040/syf-20261020.htm) | [file](../../sec-filings/synchrony-financial/2026-10-20_8-K_0001601712-26-000040.htm) |

@@ -2,14 +2,14 @@
 title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
-count: 19
-created: 2026-11-09
-updated: 2026-11-09
+count: 21
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[kafene]]
+_Updated: November 16, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 
@@ -17,6 +17,8 @@ _Updated: November 9, 2026_  ·  News & PR for [[kafene]]
 | --- | --- | --- | --- |
 | 2026-10-19 | — | Gazeta Express | [Unusual view from Paris goes viral, couple enjoys drink in cafe while streets on fire](https://news.google.com/rss/articles/CBMixgFBVV95cUxPMFhIVzZ2WFdaM0kzajh4emVXU3NsY0ZjRVdtTEdaM1VDZEhQbzlIVDZFRk9YV3k4cFlGdlZldXNJUDBYR2YzV0N2SDllSFJwWjltUU5pYi1VdjhZYUw2c0lPY2NWR2Z6dmVuNHlET25zRVZzMjJKb25ZamZkRWNVcWx3bGRvSVJCMFBta19raUtFTDZGWFdILWwtRkM3cS12enVUNGhaM2hYcnh5Z3hEcnFZT1F6OS1DRFU1YmlkeVlzTjR0RHc?oc=5) |
 | 2026-10-19 | — | Gazeta Sot | [Tensions in Tirana/ Police enter bars and cafes to escort citizens, but end up leaving empty-handed](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONllPMTBHNDlNakpuUEpNVC1HQlBNT0hfeUZnRjBBOXFXZEhQMEd2a2NVc2dmYWlxQXJLTW16YURaNUVBa3JKWjZYbXBUVHppQW5IaVNMS2F6X2hBTTZ3SXZWYnJCQXE1eDlqUEhZbXVxT3JnY3pvaWMwT05QUHZMNGFEcjBKQVQ3UGdDdlJQbjluNzV1c3JLSWlzOThBYzhhQURTLS14dGJqWnJtSjRkVFE3SVhSX0JnbVJacDFNY0JNMGlTU2dteHA5NUxWNEdVRjYtQXRLSDdkTVI3?oc=5) |
+| 2026-10-19 | — | KOHA JONË | [From Stefan Çapaliku to Fatos Tarifa, 735 educators appeal to Rama: Students are our leaders in the square](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWpmaTBnN3cybm9HeWFGMmFNTjYyVm1oa0pjaFJLd2dLMjRRdUk4VG5ieFQwQzJXekNyLUZ0VTZFbmFPZkx4RUFPV2tyRHAxNUJVbXVoWlI4QVdhYzdFSWZKbHJEM3dtWEs3ZFlFNHYwSVJySnViQXVtRzZZNFE0SDMtUUtsTHVUeVJmTkd0dTNpSkhsdGo2WVN6WER2UHZERzIwd2hJQmU1QmlZUWl4RUs5RDNxOHdZSjlnVXRjMnFDMW5tdnlJZEUxd0E?oc=5) |
+| 2026-10-19 | — | Reporteri.net | [Pamja e pazakontë nga Parisi bëhet virale, çifti shijon pijen në kafene, ndërsa rrugët në flakë](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWW05RkFMX0x3YXg1WW1oeHVsQU9UejMzd2F5SHVNbzFpMUQ0ak01OW9iTjBTRmFhdmpxWkZ3NkttM0ZZVW1heGlPaXNncXRGQXhSb3NtTHRibHh4OVZXUUU3WFVyR0dUaUFqODJyRkdCSHFBUUN0dGtiaE9Ia0NZbUp5VE15TTUwSl9qanhDZEVUcGkxdjlKNnBDbmwyUDZCTmlkVUlvbEVkUlBaeHNydXFWcWVIRHhwNlhjVnp0QU02T1lDNGtITE13?oc=5) |
 | 2026-10-11 | — | Tracxn | [List of Investments by Hudson Cove Capital Management (Oct, 2026)](https://news.google.com/rss/articles/CBMizwFBVV95cUxPdjBwY01UaFdhUGNCekpzc2U0RTB6SVE1MGFldlNHNEZRUU11T3Rmc0JScFp5N2gyVF9weW5hUHR2ald3Mm1qdXFTU2JXV21qWnVEMUE5bVZ2QWxSSXg4Q2pRRUNtRHNXQy01R0VPOUQtZm04c0pZRFpETVoyTXBKY0dmRzBkNzVYTENaV2VSMU43SFJ6TlBaLUl3T3BNNDU3aEFYSWxNamRMeldOLWRjYVBmSkFDdHFjRDdTWVd2UHlqTGhGNV9SLXA1TGRJYWc?oc=5) |
 | 2026-10-01 | — | Balkanweb.com | ["Today the land of eagles does not have a single fighter jet! They have left us to fend for ourselves"/ Ilir Xhemalaj: Everyone in the square, the war is fought here, not in cafes](https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzNyXy1hc1h3VnkxZUR2TFFfNTE5U2wwVTBxMXhteTlMUk53X2pxaHBndmtkcHhsN1ZrbVFhdXlBVzlGY3kwUVFBak9MdmF0a1J6cmp0REFjWmlRTWN6bTdzbmpMMXV2czF2UWREZUJ5Z1BqWWZuVzFNbW1SMFgzRFNTMWRpSW1mUWZMa0Ntb3VudjcwcHVtd1BvU2tOM2duRU1PNkhBZ0FiQ3ctRjJ4eU9HMnc5YkJkOU1NNzRDYTFTUWVOYTJ4RFJack82N0Q2SGtNQnpLQVc2UVBueTV1dm9ta1llaEI5NUstZjRnMmJsVmh3elpFTGstNnNiNnBtTUhfNw?oc=5) |
 | 2026-10-01 | — | Gazeta Sot | ['They have left us to fend for ourselves, but this place has a god!'/ Xhemalaj: Everyone in the square, this is where the war is fought, not in the cafe!](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelQ2bVoyT1k5MlE2S1FibDlJMmJJNnRYXzA3MTREQ2k1ZDhSWF96anQ0YS1YTktfYUF2UW9pMnA3Uk1vX19ic3ZEUFNqNk1IWUdERkliYk1Ed0ZDRm9OVDZXeFdKS281cXFReWFvaFNaUlFObHhBWlI3R0VSc3RzYXhqWFJnNU1FY2piWFdXLXhza3dCVHJFR2VzeGhoOUN4RFROZThwOXA0cE94ZHNnbUk5blpwMFNTVDdVak9rcWtOUGZBM1M5Y08zS3M4SmNRN3lLTy1ySWg?oc=5) |

@@ -2,20 +2,22 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 38
-created: 2026-11-09
-updated: 2026-11-09
+count: 40
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[sunbit]]
+_Updated: November 16, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-11 | — | USA Today | [Liberty Chrysler Dodge Jeep Ram Makes Vehicle Maintenance More Accessible with Service Now, Pay Over Time Financing](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcUNKYjZVT01wZ0d1dFBMTmx2dUF2NENiR2ZmWkZ2c1dGR1VyRW9JWUJlWVkzbjFiU0R4RExCaElXMlVqa1YyOUVBazRNWlE3cENEU0R6MXlxX2VXY1h6eGd5NV9FUXVtVzJsUV9hRm16TS1ONUhuYUJranozY2JjVmhnZy1jYUVNOFc4RmkwMjBzUTZPN3JqY1p1X2FhanNtZFQ0U1Zvd1VRZ0laNEdfTnJvVjNEYlg3dGdVbTVwNUE1b2xuZnJpNVhrRS00M3FROGxCT3F4bWZpcklzOWUwSFpRTVpFUU10WGZxYVhDOXlLNlNTa1h3OWZ3?oc=5) |
 | 2026-11-09 | — | 深潮TechFlow | [In Finland's harsh winter, they keep warm by mining Bitcoin.](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReTJOQ3hGZ3NORDloa1c3UWg1cURXdkxMTDZRdWpMa2dyRTdqYUF0RkF4enpOMjZXaXNJQTVWNi1pam5QelFtaWVnRlN2TlVLNlh4Vkh6R1E0LXZ3?oc=5) |
+| 2026-11-09 | — | TOKENPOST | [SunBit Says 30 Bitcoin Mining Heating Systems Are Operating](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZQzFTdVZVV1hLR0RpVkw1X0tjcnduT0x0ckE2ZFRRd2NLYUotYUNuOHhGamplN1pYamVreUs5d2JkVjI0aVdkVS1yc2t1RXk4UHJEcURBVUg?oc=5) |
 | 2026-11-08 | — | Cryptonews.net | [These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)](https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Q0FieHFUbWkzOG9XZm9KNGZBMzAtazVpam9laEJMNGc1bkRjZWxxMERMV0VEVFJYeHY0SWN5UGFlakN3OHJ0T2loQUktN09iN1F2SEFJaw?oc=5) |
 | 2026-10-20 | — | qz.com | [Sunbit CEO on entering the personal loan market at Money2020](https://news.google.com/rss/articles/CBMiekFVX3lxTE10Sk8yWnlWekc3c1pyWElpOGw2TFpTSDJEcVFtYVRqbnBWZGJYT0E0VmVILVNtN2dWTzc5a0xMaVBBek1mSjAwdzFqV09pMWQ4WVY4dGhvRzRXUjhSUjIxSGZ6bkFxTHdyYndfLWdScjY4NDNpSERfZ253?oc=5) |
 | 2026-10-20 | — | Yahoo Finance | [Sunbit CEO Arad Levertov at Money2020 USA Talks Entering Personal Loan Market](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajJBVmNfQWU3SGQ3aTVkdENVMTkwVEJaWW9FWHdwRGhncWlDSGNKQUswYWZNalcxMm95dklqYmJsUk4tbjhlTVNkb1FQVk9tcWtEbVRaTkJzTXBPZVpEbzJPZHJ0QWlubWVZc2lZTlpyZlpReXlYNXVzMXZ0YWN0TzhhVGhvUkZu?oc=5) |

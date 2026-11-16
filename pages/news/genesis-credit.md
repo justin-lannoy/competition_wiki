@@ -2,21 +2,23 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 24
-created: 2026-11-09
-updated: 2026-11-09
+count: 26
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: November 16, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-13 | — | Traders Union | [Notting Hill Genesis credit rating cut to BBB+ as leverage pressures persist](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDV5TkxKQmpDMzN4RjZMMFVkbDNhTUFsbVVxSkgwQWJRT3MtWEVQbHZfMEY2QWlzVkI1Z0pFM0NZeE1BQ1ZBaTZtVVZ6U09fZlhJaVRpWkQ2WUgzQ2dYcXBwMzJINTZsZXhuTXBpYmExTDJjNzJsbTkzRmRzaWNuT093TzVNaFIxRm5LWG1qUENvOXB2TUhoNVNKOE5yczg?oc=5) |
 | 2026-10-23 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
 | 2026-10-23 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
+| 2026-10-23 | — | Hindustan Times | [Credit Card and Personal Loan Usage in India: What Recent Trends Show \| Hindustan Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEVWNW1fUjdWOG9PeGRxOWRfYnNTUk5BaEpjT2s5X1FTOWdUMV9YbUY5eTcwN0lob01qRVpkSjNyTnByTHdCY1JLSzNLOWpUSThzZ2hUd0Z1WVNEU1k3MzEybjgxN2xJZUJnOEY1TFJsb1l1Y3lMQUtRUVhCSG1yN0ZzWXVsSDB3SWF1TWNpcWwwSHY2QWw4el9TalJKNUFkdWdkYVFTT1lvX2tMM284S1FuTk9aMk5sSGhjQ0Qza3IxODJOS0U40gHMAUFVX3lxTFA0X3RVNWVlaGpLQ2ZQdWFhT1ROV3NTYWpKQ1hjMkswSlU4eTY5MjBMZm1Ba20tWUJBRGlZTmNSX1hfTUpwaXotbENZLUxwaTlNdF92ak5VVVYxUG5yUGpqbzBRNk1HWndVS2tVYmVWRUxITWlVMTZHZFRMVkFNQWRSRnI4Ui1ORVNLVW1ZeXlveHFTNGxuSlJ3LXZWVlFQMVNxUGtpZjlDbVoySkMyWWx1OUlZTDB1dS1HM0tEck8wMWVZMmxVZzNZRjFCZA?oc=5) |
 | 2026-10-14 | — | The Real Deal | [Sapir snags $105M loan for 261 Madison Ave, nixes resi conversion plans](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWU3S0xVem1ycldCaG5oQnZrYlR5WW1PQUIxTERPd2tBTXduVlF0OUh0RHNiaG5jU01wcEJCUEswTVJiVFRObWxSQ3hLR1d2S2hnMDhPckRVYzNxZk80WEpKWFY0NG9ON2V2YjAxd1l4eFNwMVNjdmNDaUZ6Q1JrN0NEOVdjdlJoa3BQUmVGTQ?oc=5) |
 | 2026-10-13 | — | Top Class Actions | [Debt collection lawsuit investigation: Comenity (Bread Financial), Capital One, Discover, Merrick Bank, First PREMIER Bank, Concora Credit, Continental Finance, Mission Lane, Fortiva, OneMain](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmJGQ3ZQcXZiVk5VTGhzV1AxZDlSVWZnbk1PdWJ6MFRWSTg4SVJVRHBERkNRckNnWGJrUVRLTkEwSGR2dFNLeXU4cW42ZDc2cWVueVhlWHlXUW1waWZCZlZFVDd0SDVNZElDY2NXUFNZYnMxaFpENFZWcC1TMzdvM2M1SXZWMnVCblpQaVNlcHRwd05uZnpVZjk4aTE3TXpIM0g0?oc=5) |
 | 2026-09-29 | low | NerdWallet | [What Is The Bank of Missouri, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKdGVhM0FwdDJibTBmSnl2MWN0YmIwdWhLQ2RSWGFERGItT3lBUTBNLVpaek53RndSb2Z2dkk1cG96TWlVbnU3YkdRSVhOWjFWMGFyZWJoZWRtTUhrdnEzUW1iYV9XdXZVeGdadjYtRzVZVVJVTlRIby01ZEFwU3c?oc=5) |

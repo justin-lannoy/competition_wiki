@@ -2,19 +2,21 @@
 title: Afterpay — Recent Coverage
 type: news
 competitor: [[afterpay]]
-count: 293
-created: 2026-11-09
-updated: 2026-11-09
+count: 295
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Afterpay — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[afterpay]]
+_Updated: November 16, 2026_  ·  News & PR for [[afterpay]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-12 | — | investors.block.xyz · PR | [Square Expands its Agentic Platform with Squaremates and Powerful New AI Tools](https://investors.block.xyz/investor-news/news-details/2026/Square-Expands-its-Agentic-Platform-with-Squaremates-and-Powerful-New-AI-Tools/default.aspx) |
+| 2026-11-11 | — | investors.block.xyz · PR | [My Salon Suite Partners with Square to Power Health and Beauty Entrepreneurs Across Its 400-Location Network](https://investors.block.xyz/investor-news/news-details/2026/My-Salon-Suite-Partners-with-Square-to-Power-Health-and-Beauty-Entrepreneurs-Across-Its-400-Location-Network/default.aspx) |
 | 2026-11-09 | — | Campaign Brief | [Afterpay champions time well spent in new global brand platform ‘It’s About Time’](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWNtdzMzOF9ZdFlrekJ3Skl1ODFkMDJ6ZnJZYXNBTHZ3aEtVdmdva0d4a2lrTzV3aG1sa2JZYjVHMDAwazRHck9CTUVtRmR3Ymg2TVB2WWE5OUk1Y2xpcU55UmliLVZBR1lIZEFOTlNHTnM3QzhvXzlTT1RuT1FwcUc1b3htUjE4RjBjRy01alhxQVdidEVFaV9oelNiQ2VLdVJOeExNa1g?oc=5) |
 | 2026-11-09 | — | AdNews | [Afterpay ‘It’s About Time’ brand platform](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSm51UmN5T25RZE93eWJMUnBLTmdOWUFscUlVQVVvNGtWQ1pfY0VmRklkZGFwOXIzS3daTnNFdGxCRkN1QkcwNVMyN1NlRjY1dkRSTGNCdVdpbmFibFhFZTg0aWp6aFIzc2ZwMkhwNzY5LUZOcGQybjl6VXJ5dVZuMg?oc=5) |
 | 2026-11-09 | — | investors.block.xyz · PR | [Pay by Bandana with NAHMIAS and Cash App](https://investors.block.xyz/investor-news/news-details/2026/Pay-by-Bandana-with-NAHMIAS-and-Cash-App/default.aspx) |

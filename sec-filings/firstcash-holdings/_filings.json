@@ -510,6 +510,16 @@
       "description": "10-Q",
       "local_file": "2026-10-26_10-Q_0000840489-26-000099.htm",
       "summary": ""
+    },
+    "0000840489-26-000105": {
+      "form": "8-K",
+      "filing_date": "2026-11-16",
+      "report_date": "2026-11-16",
+      "accession": "0000840489-26-000105",
+      "primary_doc": "fcfs-20261116.htm",
+      "description": "8-K",
+      "local_file": "2026-11-16_8-K_0000840489-26-000105.htm",
+      "summary": ""
     }
   },
   "financials": {

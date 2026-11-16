@@ -5,13 +5,13 @@ competitor: [[afterpay]]
 parent: Block, Inc.
 ticker: XYZ
 count: 32
-created: 2026-11-09
-updated: 2026-11-09
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Block, Inc. — SEC Filings
 
-_Updated: November 9, 2026_  ·  Filer for [[afterpay]] (XYZ)
+_Updated: November 16, 2026_  ·  Filer for [[afterpay]] (XYZ)
 
 ## Financial trends
 

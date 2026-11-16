@@ -3,13 +3,13 @@ title: Zip — Recent Coverage
 type: news
 competitor: [[zip]]
 count: 213
-created: 2026-11-09
-updated: 2026-11-09
+created: 2026-11-16
+updated: 2026-11-16
 ---
 
 # Zip — Recent Coverage
 
-_Updated: November 9, 2026_  ·  News & PR for [[zip]]
+_Updated: November 16, 2026_  ·  News & PR for [[zip]]
 
 ## Coverage
 
