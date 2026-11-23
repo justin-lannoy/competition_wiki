@@ -2,19 +2,20 @@
 title: Koalafi — Recent Coverage
 type: news
 competitor: [[koalafi]]
-count: 8
-created: 2026-11-16
-updated: 2026-11-16
+count: 9
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # Koalafi — Recent Coverage
 
-_Updated: November 16, 2026_  ·  News & PR for [[koalafi]]
+_Updated: November 23, 2026_  ·  News & PR for [[koalafi]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-10-25 | — | yespress.io | [Koalafi - Lease-to-own at checkout](https://news.google.com/rss/articles/CBMiQEFVX3lxTE1mOUtkRU92QUQ4elF1bXV3WkNxR3gzS0Jwc2FmVmRhQWk2ZElhWmdtX0xieGFUdG10S1B1UDNrY3g?oc=5) |
 | 2026-09-10 | — | PR Newswire | [Koalafi's enhanced app makes it easier for customers to manage their leases and shop with merchants in one place](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVTE4el9LZmZKb1NYRklCOWw1WVJXRlBVQUFCOUxmcVYtSGdFdDJNZ2xFczhZai1vdjMwYW1LazZESlZ5N1pzc3NJUDhuelpaVXVDQ3JkODFlYTBxamlrM2dmMnIwZzhlblhEN08wNGhEN1BtYUM2c25TTkI3UUp3M21qWFZBUEthLW5hdDNJZWtTUjF6bGMyNHNUalBId1VwUmRBN1FnazhDLWN1ZjNOZWdJZjFwc0kyYVBDS1dCU3ZQdVlXTmdxeURnVkdfeGZoajBRRzZtUXdXNjBzT1ZhSUZ0RW1YZmhQc3ZpQlE5VEx5UEZ3UG1KOVQ1Zw?oc=5) |
 | 2026-08-24 | — | Furniture Today | [Financing beyond the checkout: Integration throughout the shopping journey drives traffic, conversion, tickets](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmZnQUFZbGVuOWd2UHdQdWxNYnRlb3F6RlBwM1Zlc0ROYVVhTFBnZmtPY1FlOVIxQ1owWHFXLVBNYTkzSmpiTFJEWnhKMEVZd1l5dmo3Q1hwNHVVZkdqN3VrVkJfTTBmTTB0Z2Q0eUhZbWtzdDhFams1UkNjVnM5dGlqSEJMUXJNVnpiU2JOSHJRLVY1Rm9NdTdsOTFFM1NxVnAyektKUVQxLWlUbE03QUxMdnAtUWtWWGFKbDBZcERfLVo3VFNHWjFqbldOTGpSTVVraGV6RGg1a0kySEFNYg?oc=5) |
 | 2026-08-10 | — | Furniture Today | [40 Under 40: Scott Patrick, Koalafi](https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0w5TmlORTNaTTdBN21Xb3pkWERReUZReTJXMXJkVk9tMGdTS3hUUzZzMG5QcjFjSHNIR2ZNM1pTbWZOQVI3Z0dhMWVIWVl1VFVFU3RreG5MTDVFS0lhb0xMdGdleFlQSTZTbkxiV3J4TU9GcGVEQS1YYTczOWp6N0FsZU5FOFlueXc?oc=5) |

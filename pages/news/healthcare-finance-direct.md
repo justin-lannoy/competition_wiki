@@ -2,19 +2,21 @@
 title: HFD (Healthcare Finance Direct) — Recent Coverage
 type: news
 competitor: [[healthcare-finance-direct]]
-count: 14
-created: 2026-11-16
-updated: 2026-11-16
+count: 16
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # HFD (Healthcare Finance Direct) — Recent Coverage
 
-_Updated: November 16, 2026_  ·  News & PR for [[healthcare-finance-direct]]
+_Updated: November 23, 2026_  ·  News & PR for [[healthcare-finance-direct]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-18 | — | Simply Wall St | [Apptly Health Technologies (CNSX:APPT) - Stock Analysis](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0l3LVFVeEplMndFbGZvSFA1bHpxdjNpRktLX3lCaHpiV2stbjdSNjhJdi1XMVBONnhyWnZnZUFyUHdVeTk3Mm1VeGhUOEdacU1qNFRnQ2gzTTB2Q0lpVzFWR050bWFGSV9HTVZXWGI3Z2VxS2hfNTRqYVl0WFdWUzNWUjFRMjI2V2syeDlR?oc=5) |
+| 2026-11-17 | — | Yahoo Finance | [Should You Continue to Hold ALGN Stock in Your Portfolio?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGZCeHhUdU5VVnpiSi1NYzNldVBMRml1UnFyVHZXVUJFU2RuNURqdi1SZG84eUZkdnBPLVZfR3dvVU1odjlzS2drOVg5eFkyRUtkSkpzTnVJaU55OEp2VFdPMUNmYUJfVGhBeGU1VEVpaHN4SzRFUllqNnp5VFZ2SkhIUk1ZVWJPQVJ4TnY2dFJHVmprekViZUp6bU9Qa1FT?oc=5) |
 | 2026-10-28 | — | TradingView | [Align Technology Q3 Earnings Call Highlights](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWNlVlFJMFZSV1c0a3hHNFNQNzR6YlI3MG9YdXVNUDNUMFNNbmlVdTNtb2FOTHlKa3JkQXRxSmJCaWR0N2psWW9obFJESG1GZ0l1Y1FlWFA1YkhqWUlWMk5jTnVkVjVIbHFLbnhzV2k5YVJNR2x0QkJzRHBzTE1hZm9UUmladWRWQUliNjZWZ2xDaXNWTS1CalRiSkRZd1pkRTFKeE9jWk0?oc=5) |
 | 2026-09-18 | — | TradingView | [Align Technology Sees Invisalign Growth Runway Despite Consumer Headwinds](https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2JRYmNza1RpN1UxMFVpWFY4T3V5emlySzMzU0NyZ291NXpBM2V2cVJLN3hiZTlhb2hXNmxwZDc3aFVfZGdsdzliOGZtSXkyLWVVMzVzc3hCNEY5b2FLNGhDWjFUZElmLWR5QnAyQWpZMHlkbko4dFVIeWVpUE9jTzBhdmJHcWYzQ0pTMDY4ZUpianc0R05rbFNMUk53Ty1PYnhfcndaRlZVN0Foek9LN2k2RnZmWnpRdVNJWEoyazA0d1hBQzcwRDR0Tkpqbkk?oc=5) |
 | 2026-09-10 | — | GetLatka | [Boulevard Revenue 2024: $71.4M Est. ARR, $11M Raised](https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZXNsdGJEaW55Nl9POTNnNkdLaGQ1c3F6dTNZS2Zpd0ZndXQwY0ZCWWhfOVBTS1cxeDM3a1NzRG9YV2s4d0dLYThXZkNCMG04Qmc?oc=5) |

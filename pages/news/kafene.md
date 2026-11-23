@@ -3,13 +3,13 @@ title: Kafene — Recent Coverage
 type: news
 competitor: [[kafene]]
 count: 21
-created: 2026-11-16
-updated: 2026-11-16
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # Kafene — Recent Coverage
 
-_Updated: November 16, 2026_  ·  News & PR for [[kafene]]
+_Updated: November 23, 2026_  ·  News & PR for [[kafene]]
 
 ## Coverage
 

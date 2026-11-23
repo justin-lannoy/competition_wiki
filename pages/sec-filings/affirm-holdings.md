@@ -5,13 +5,13 @@ competitor: [[affirm]]
 parent: Affirm Holdings
 ticker: AFRM
 count: 35
-created: 2026-11-16
-updated: 2026-11-16
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # Affirm Holdings — SEC Filings
 
-_Updated: November 16, 2026_  ·  Filer for [[affirm]] (AFRM)
+_Updated: November 23, 2026_  ·  Filer for [[affirm]] (AFRM)
 
 ## Financial trends
 

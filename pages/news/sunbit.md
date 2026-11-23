@@ -2,20 +2,27 @@
 title: Sunbit — Recent Coverage
 type: news
 competitor: [[sunbit]]
-count: 40
-created: 2026-11-16
-updated: 2026-11-16
+count: 47
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # Sunbit — Recent Coverage
 
-_Updated: November 16, 2026_  ·  News & PR for [[sunbit]]
+_Updated: November 23, 2026_  ·  News & PR for [[sunbit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-19 | — | Morningstar | [360 Payments Adds Sunbit Financing Across More Than 5,000 Independent Auto Repair Shops](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPamxnQy1odkNGQktfaGQ3aElQYXNHcjBzQzlOWjFFcjktXzFuNXZCSnJXVGZmVEpRb1E2UTJlUkVtaU90RXlaXzRPOHNWYXJkVnRTQzNtcXJ6RnowSF9RdUt6U0dHZ0tSa1haQTVIcGlJMU90SEg0UTlmblVPSkRFTFB2cUtNaHQ5Y3N3WFZrNEViWjZqZGNjZlpuVlRTV2Y1MEt6VDFvZHVjd216cHVFS3dZM1p4RXRQdDdQT0xOODFvcWJRZE9hZUpmdHRuc2RnVnFUaGUwM3JpNlNnOTVjZmZ3?oc=5) |
+| 2026-11-19 | — | Traction News | [360 Payments Adds Sunbit Financing Across More Than 5,000 Independent Auto Repair Shops](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjNUMV8wTVVPS1dmWWtJUXBmemE4N0pyakRVcWczLUllOExfNHBEakpLZHQwN1FKTUMzbnFrZ250YVZVbHgtZ05HYXdQc3NMeG9wa2ZzWWVYRS04U2loOTEydFRxcGVac053ZVJzaGhxUHBqRlI1YkRvOHJJVVlMNlV4dDRRdXpma1VZM1JvRktJa00?oc=5) |
+| 2026-11-19 | — | qz.com | [Sunbit CEO Arad Levertov expects over $440 million in sales for fiscal 2026](https://news.google.com/rss/articles/CBMieEFVX3lxTE04eW9aMHpMRW5yZERjUmhLWTdqMkduSHB1S19ZRUM5Sm5iTlNlc0tXckdiUXEweFVUMTY4T29mWDdsdVU0SDVHamZNY3pTVzRGZ2pUanI3ZFBzc2JSZ2ZVMldibVJGWEltc3NaMmVjd1NmZHJLTWFYQQ?oc=5) |
+| 2026-11-18 | — | TradingView | [Sunbit to Enter Personal Loans in 2027 Along Its Growth Journey: NYSE Content Update](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEpNTHhibldHN0JVSGtJb2xOTFBaSnBWVUJnWURSdXF2LS1QRmtERnM4dmRtU3AtRDdXWHBIOXhZdW5wMG1Ib1JwT3VzcVFUcXhZX285TVlSMU42NENLd0NnTkNwWTZ4TDVxeHRuWjIyblQ4bUE4QWswSVQxRWlSQWF3cEEtLXNvUTVYeTJYQUppamR5MGJXM2xTRGgtWWVXaGVELVVtOGxhWnd5eU1yVnFGNVA5UzJnV3pqR3BiNmxFVjJLMmJqbU1BaHVUbjlJYXVVQ0hDektYVWh4?oc=5) |
+| 2026-11-18 | — | TMCnet | [Sunbit to Enter Personal Loans in 2027 Along Its Growth Journey: NYSE Content Update](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQci14bmdkS2NHdTdKaWxiNHZkV1hsMjN0VGd2dnZzQWFzNFVWLTNLUk90OVNLSXAyOTJWZ0NuaGJVSVBodm9HTGtUQUtDa0h6cTNia2lSQ2FLX0lGOHdMYjVZSXRqZ2ZVaGhVQ2N6OWkySGRKQWt2V1dhQ1lRdEhOczBvRGNlckdLY3R3SmFmbG1uX21UYmRfZUR6LVdwcDVYU05tckVBTDZyZw?oc=5) |
+| 2026-11-18 | — | 01net | [Sunbit Leverages Proprietary AI to Maintain 90% Approvals of Applicants With No Fees](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFIwYjZBUnpld0xScmZYZDhodjZYamJ6Zld0eC1nUWtTWVJEWDJraG9US3J1bjIxVThhd0RsallrVG5lZGIyMGFiTXktdklXM2FySGd0U0xQTElnR3F0YWZOUkRmUXZuaTN5c05vSlQ4TVM4ZWRRbHpvMnN2aXdmTzNzN2djSHhLeklGNXVLcjVjcXp5MGxpQ25rT1Z0bnZhUDdfeEZKbHA?oc=5) |
 | 2026-11-11 | — | USA Today | [Liberty Chrysler Dodge Jeep Ram Makes Vehicle Maintenance More Accessible with Service Now, Pay Over Time Financing](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcUNKYjZVT01wZ0d1dFBMTmx2dUF2NENiR2ZmWkZ2c1dGR1VyRW9JWUJlWVkzbjFiU0R4RExCaElXMlVqa1YyOUVBazRNWlE3cENEU0R6MXlxX2VXY1h6eGd5NV9FUXVtVzJsUV9hRm16TS1ONUhuYUJranozY2JjVmhnZy1jYUVNOFc4RmkwMjBzUTZPN3JqY1p1X2FhanNtZFQ0U1Zvd1VRZ0laNEdfTnJvVjNEYlg3dGdVbTVwNUE1b2xuZnJpNVhrRS00M3FROGxCT3F4bWZpcklzOWUwSFpRTVpFUU10WGZxYVhDOXlLNlNTa1h3OWZ3?oc=5) |
+| 2026-11-10 | — | ForkLog | [Finnish home switches from district heating to bitcoin miner](https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmRlRFNzbS05VGtsckpnMHg5Q3BPY1JPa3I0azJNYTBIYVluWUJxXzBORlFPUVZiMFp0WUpVdVc2ODhzZkxrWDNUUGExUXM2b1JxakhvTXF0bkVaRzhtMDQtVnR3R0JvTVYyX1Z1Q1BqVnM3UEwtbUxPbGlLdFVmaE9nS0lyUHlIc3lLdQ?oc=5) |
 | 2026-11-09 | — | 深潮TechFlow | [In Finland's harsh winter, they keep warm by mining Bitcoin.](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ReTJOQ3hGZ3NORDloa1c3UWg1cURXdkxMTDZRdWpMa2dyRTdqYUF0RkF4enpOMjZXaXNJQTVWNi1pam5QelFtaWVnRlN2TlVLNlh4Vkh6R1E0LXZ3?oc=5) |
 | 2026-11-09 | — | TOKENPOST | [SunBit Says 30 Bitcoin Mining Heating Systems Are Operating](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZQzFTdVZVV1hLR0RpVkw1X0tjcnduT0x0ckE2ZFRRd2NLYUotYUNuOHhGamplN1pYamVreUs5d2JkVjI0aVdkVS1yc2t1RXk4UHJEcURBVUg?oc=5) |
 | 2026-11-08 | — | Cryptonews.net | [These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)](https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Q0FieHFUbWkzOG9XZm9KNGZBMzAtazVpam9laEJMNGc1bkRjZWxxMERMV0VEVFJYeHY0SWN5UGFlakN3OHJ0T2loQUktN09iN1F2SEFJaw?oc=5) |

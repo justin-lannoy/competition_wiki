@@ -2,19 +2,20 @@
 title: Scratchpay — Recent Coverage
 type: news
 competitor: [[scratchpay]]
-count: 4
-created: 2026-11-16
-updated: 2026-11-16
+count: 5
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # Scratchpay — Recent Coverage
 
-_Updated: November 16, 2026_  ·  News & PR for [[scratchpay]]
+_Updated: November 23, 2026_  ·  News & PR for [[scratchpay]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-09-27 | — | yespress.io | [Caleb Morse - President & Co-Founder, Scratch Financial](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBR1k4QmNtcDhhOVFnNEE0SldmdEEtZ2pQeFhlVXNnYXJRNUhPMXhhXzZjS2NrMVFVT0ZNdlJSY005bDVESHc?oc=5) |
 | 2026-09-10 | — | GetLatka | [Scratchpay Revenue 2023: $12.3M Est. ARR](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qbzZ1T2lHbGdtcklMZUlYc3hmbHZ0UlZ1OTBQLVlQY3NhMWJhU01LbzFPWTctWVVmVTJmaEZEcTFiVWptTGQ0NUxPR1hTa29ZUG9ncnFNYng?oc=5) |
 | 2026-05-27 | low | openPR.com | [Healthcare Finance Solutions Market Rewriting Long Term Growth Story \| PayZen, Walnut, Scratchpay](https://news.google.com/rss/articles/CBMinwFBVV95cUxOenRoZzhuUjlzRWR6TFdfSENTT1hDTkRQWU9JUExnWmpycjcyclA5YjNUcklaRnRSeENmRXpYQnN2TGVDazRYcV9ZY1RFT0NqeEZBdVBfVmpxc251SE80c3oycEdmQnA3amFxVWUwbkVIVXBaZDZGbGk0b1J5NHJWTW81VnFRM1NDSGYtQjBHWG9WOUIxMC11TDlJYzFYWWc?oc=5) |
 | 2026-05-13 | medium | Yahoo Finance Singapore | [Scratch Financial, Inc. announces purchase facility with Victory Park Capital to expand technology platform that offers financing options for veterinary care](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWdOWFFwS09GY3RXWEdJaG9TRThOajhSanZ3bDdUQWx4WGZ6cE1CT0FyV1UycVBqc0pTaVlRdHQxVTBfNHcxQ3FwV3ZFVURFYlpkQnlnaGpuMHFnb2hZcUVQU1FYMUd3QnZMX3pQWHBVdGQ0eTZDSDk3U0w3THRZOWxrWlY3MnJwYzQ4dDd3WDlRbmc?oc=5) |

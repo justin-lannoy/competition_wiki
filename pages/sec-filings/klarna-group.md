@@ -4,19 +4,21 @@ type: sec-filing
 competitor: [[klarna]]
 parent: Klarna Group
 ticker: KLAR
-count: 13
-created: 2026-11-16
-updated: 2026-11-16
+count: 15
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # Klarna Group — SEC Filings
 
-_Updated: November 16, 2026_  ·  Filer for [[klarna]] (KLAR)
+_Updated: November 23, 2026_  ·  Filer for [[klarna]] (KLAR)
 
 ## Filings
 
 | Form | Filed | Period | Document | Local |
 | --- | --- | --- | --- | --- |
+| 6-K | 2026-11-17 | 2026-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/2003292/000162828026074554/form6-kxklarnagroupplcxq3f.htm) | [file](../../sec-filings/klarna-group/2026-11-17_6-K_0001628280-26-074554.htm) |
+| 6-K | 2026-11-17 | 2026-09-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/2003292/000162828026074361/form6-kxklarnagroupplcxq3n.htm) | [file](../../sec-filings/klarna-group/2026-11-17_6-K_0001628280-26-074361.htm) |
 | 6-K | 2026-11-12 | 2026-11-12 | [EDGAR](https://www.sec.gov/Archives/edgar/data/2003292/000162828026073169/form6-kxklarnagroupplccfoa.htm) | [file](../../sec-filings/klarna-group/2026-11-12_6-K_0001628280-26-073169.htm) |
 | 6-K | 2026-08-18 | 2026-06-30 | [EDGAR](https://www.sec.gov/Archives/edgar/data/2003292/000162828026057573/form6-kxklarnagroupplcxh126.htm) | [file](../../sec-filings/klarna-group/2026-08-18_6-K_0001628280-26-057573.htm) |
 | 6-K | 2026-07-28 | 2026-07-28 | [EDGAR](https://www.sec.gov/Archives/edgar/data/2003292/000162828026049939/form6-kxklarnagroupplcappl.htm) | [file](../../sec-filings/klarna-group/2026-07-28_6-K_0001628280-26-049939.htm) |

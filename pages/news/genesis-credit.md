@@ -2,19 +2,23 @@
 title: Genesis Credit — Recent Coverage
 type: news
 competitor: [[genesis-credit]]
-count: 26
-created: 2026-11-16
-updated: 2026-11-16
+count: 30
+created: 2026-11-23
+updated: 2026-11-23
 ---
 
 # Genesis Credit — Recent Coverage
 
-_Updated: November 16, 2026_  ·  News & PR for [[genesis-credit]]
+_Updated: November 23, 2026_  ·  News & PR for [[genesis-credit]]
 
 ## Coverage
 
 | Date | Signal | Source | Headline |
 | --- | --- | --- | --- |
+| 2026-11-23 | — | Payments Dive | [Travel brands aren’t the only ones that benefit from non-prime credit card partnerships](https://news.google.com/rss/articles/CBMitwFBVV95cUxPR28wX3VqXzlNVnhuYWJyZXdDbElvR3BOVnlhMUhKUjNKMW5WY1dNZnBRdVUxR2gxODBnYV9SdVlqQ3doaEV4aGQ1Q1h0Qkk2Zm8waEpuY1NITnI4SnQyNjBiUzRNaGlzdHZaYzN5VDNNSk1TNmNrQzlIZnJ0SFVtZElOZXpILWszbGJFMWEzVjNqZnRsUnF3LVctLVEyUXBvdUlxVEFjS2I5Y3k2V3JNRUZqX2o2U3c?oc=5) |
+| 2026-11-23 | — | Claim Depot | [Genesis Credit Management class action alleges data breach exposed customer data](https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzJzbm9LOW8wZXN0YlNZTWFXRmU1U3BtamJOVEUyaWU3ZHJ0Mi1nWlBuSXVacE9jNFlNcEpQckZTQ1RPd0RmWFRTYmZWU3NUZTRNMmgzNVB4ZTU5RXFwcnRQQWp1VkxZc2lVNG9iU1V2eXh3aWF0RXJMMzJXeHk3REZqTy1YcnZ0d1I5ZkpuU1lsRkEwbEpfc1g3SmZFU1dmbm1yTUlWQVM2MU9pYmlEVzZrSFhJUWlYQVE?oc=5) |
+| 2026-11-19 | — | The Wise Marketer | [Concora Credit on What Non-Prime Co-Brand Cardholders Want](https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3g4eGlHM183UHFlenlTWWhWWlI5UTJ6ZDdnekstaklQOGhFa0JuOHZsZUVlME9tN212UHRNQjJYMF8zOS1ydTAwZFE5eDh6bVVCdllwaHMwbW95ajBrYVFXLW56MmxzWlMxd1Vlb1RqR2FZcThwNGpLYWhmVTl2NHZhS1luWmhT?oc=5) |
+| 2026-11-17 | — | NerdWallet | [5 Things to Know About the Concora Credit Mastercard](https://news.google.com/rss/articles/CBMic0FVX3lxTE9fSzAyY3YtWDd0cEhlNGVQVUEyRHVfeGcxRFA1XzRJTm56ZWlVX2NyRGRDOGNfdWIyUEZYSXdWVEVfNzd3WUVJT3BvV1d3T3lmcjJxMXdXLXpjeXZURnRWWVB5NGQtWkhPdVZwM3g5X2JYN1U?oc=5) |
 | 2026-11-13 | — | Traders Union | [Notting Hill Genesis credit rating cut to BBB+ as leverage pressures persist](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDV5TkxKQmpDMzN4RjZMMFVkbDNhTUFsbVVxSkgwQWJRT3MtWEVQbHZfMEY2QWlzVkI1Z0pFM0NZeE1BQ1ZBaTZtVVZ6U09fZlhJaVRpWkQ2WUgzQ2dYcXBwMzJINTZsZXhuTXBpYmExTDJjNzJsbTkzRmRzaWNuT093TzVNaFIxRm5LWG1qUENvOXB2TUhoNVNKOE5yczg?oc=5) |
 | 2026-10-23 | low | NerdWallet | [What Is Concora Credit, and Are Its Credit Cards Right for You?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk51SDB1S3YyeXVrUUxPN3FWWURVbHY2MjdNOWxxa09ZTGV0RkhBc19wQUg1LXdVa2VTeUlSU2ZVc2ZFdDJXQVFqNmR4MDVPZU4zaEt5VW1mSnZyMXpyTnJvaDhDUjJuaTRaWTFyVnVOeXI3RW9kV1ZTWDZ5VFpNOGJybGlFUVdISkdvOXVWOFRpLVZ2UkhGRy1YbVZBTENYQjIzaE1B?oc=5) |
 | 2026-10-23 | low | NerdWallet | [5 Things to Know About the Indigo Credit Card](https://news.google.com/rss/articles/CBMifEFVX3lxTE5KcE1nemxRV2dzUkcwRXR2Nlk1cko2aE5ROTFta1RWcTR6am5na3g5S0Z6RnJrd3Z3ay1qNzhEeVRHNlp5MTREYnZxeGwyS3BmWnNqZVVvT3A3Z0M2blc4QzE5bG94NVhDN2lvZWtOWkMzUVV6eFBxWXJpNTc?oc=5) |
